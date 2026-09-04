@@ -1,0 +1,30 @@
+# Add or remove RSS feeds here. All of these are free, public, no API key needed.
+# Tip: search "<sitename> rss feed" to find more. Most news sites have one even if not linked on the homepage.
+
+western_feeds:
+  - name: TechCrunch
+    url: https://techcrunch.com/feed/
+  - name: The Verge
+    url: https://www.theverge.com/rss/index.xml
+  - name: VentureBeat
+    url: https://venturebeat.com/feed/
+  - name: Product Hunt
+    url: https://www.producthunt.com/feed
+  - name: Hacker News (front page)
+    url: https://hnrss.org/frontpage
+
+indian_feeds:
+  - name: Entrackr
+    url: https://entrackr.com/feed
+  - name: Inc42
+    url: https://inc42.com/feed/
+  - name: YourStory
+    url: https://yourstory.com/feed
+  - name: Economic Times Tech
+    url: https://economictimes.indiatimes.com/tech/rssfeeds/13357270.cms
+  - name: Business Standard Tech
+    url: https://www.business-standard.com/rss/technology-108.rss
+
+# You can add subreddit feeds free too, e.g.:
+#   - name: r/startups
+#     url: https://www.reddit.com/r/startups/.rss
