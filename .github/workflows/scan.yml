@@ -44,7 +44,6 @@ jobs:
           git add research/
           git diff --cached --quiet && echo "No changes to commit." && exit 0
           git commit -m "Research update: $(date -u +'%Y-%m-%d %H:%M UTC')"
-          # Remote may have moved (another run pushed in the meantime) -- pull-rebase and retry once.
           for i in 1 2 3; do
             if git push; then
               exit 0
