@@ -146,7 +146,7 @@ def run():
             research = extract_research(article)
             if research:
                 kept_entries.append({"article": article, "research": research})
-        time.sleep(1)  # be gentle on free-tier rate limits
+        time.sleep(4)  # ~15 calls/min max -- stays under Gemini free tier's ~10-15 RPM ceiling
 
     print(f"{len(kept_entries)} articles passed the filter and were researched.")
 
