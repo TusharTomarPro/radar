@@ -1,0 +1,42 @@
+name: Research Radar Scan
+
+on:
+  schedule:
+    # Runs every 3 hours. Edit the cron to change frequency.
+    # Format: minute hour day month weekday (all UTC)
+    - cron: "0 */3 * * *"
+  workflow_dispatch: {}   # lets you also trigger it manually from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run research pipeline
+        env:
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          CEREBRAS_API_KEY: ${{ secrets.CEREBRAS_API_KEY }}
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+        run: python src/pipeline.py
+
+      - name: Commit and push results
+        run: |
+          git config user.name "research-radar-bot"
+          git config user.email "actions@github.com"
+          git add research/
+          git diff --cached --quiet || git commit -m "Research update: $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git push
