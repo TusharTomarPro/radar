@@ -42,7 +42,7 @@ def _log_call(provider, model, tier, ok, note=""):
 # ---------- Individual provider callers ----------
 # Each function takes a prompt string, returns text, or raises an Exception on failure.
 
-def call_groq(prompt, model="llama-3.1-8b-instant"):
+def call_groq(prompt, model="openai/gpt-oss-20b"):
     key = os.environ.get("GROQ_API_KEY")
     if not key:
         raise RuntimeError("no GROQ_API_KEY set")
@@ -79,7 +79,7 @@ def call_gemini(prompt, model="gemini-2.0-flash"):
     return data["candidates"][0]["content"]["parts"][0]["text"]
 
 
-def call_cerebras(prompt, model="llama3.1-8b"):
+def call_cerebras(prompt, model="gpt-oss-120b"):
     key = os.environ.get("CEREBRAS_API_KEY")
     if not key:
         raise RuntimeError("no CEREBRAS_API_KEY set")
@@ -99,7 +99,7 @@ def call_cerebras(prompt, model="llama3.1-8b"):
     return resp.json()["choices"][0]["message"]["content"]
 
 
-def call_openrouter(prompt, model="meta-llama/llama-3.1-8b-instruct:free"):
+def call_openrouter(prompt, model="openrouter/free"):
     key = os.environ.get("OPENROUTER_API_KEY")
     if not key:
         raise RuntimeError("no OPENROUTER_API_KEY set")
@@ -122,16 +122,17 @@ def call_openrouter(prompt, model="meta-llama/llama-3.1-8b-instruct:free"):
 # Edit these lists freely -- add/remove providers, reorder them, swap models.
 
 FILTER_TIER = [
-    ("groq", call_groq, "llama-3.1-8b-instant"),
-    ("cerebras", call_cerebras, "llama3.1-8b"),
+    ("groq", call_groq, "openai/gpt-oss-20b"),
     ("gemini", call_gemini, "gemini-2.0-flash"),
-    ("openrouter", call_openrouter, "meta-llama/llama-3.1-8b-instruct:free"),
+    ("openrouter", call_openrouter, "openrouter/free"),
+    ("cerebras", call_cerebras, "gpt-oss-120b"),  # free tier here has been unstable lately, kept as last resort
 ]
 
 EXTRACT_TIER = [
     ("gemini", call_gemini, "gemini-2.0-flash"),
-    ("groq", call_groq, "llama-3.1-70b-versatile"),
-    ("openrouter", call_openrouter, "meta-llama/llama-3.1-8b-instruct:free"),
+    ("groq", call_groq, "openai/gpt-oss-120b"),
+    ("openrouter", call_openrouter, "openrouter/free"),
+    ("cerebras", call_cerebras, "gpt-oss-120b"),
 ]
 
 
