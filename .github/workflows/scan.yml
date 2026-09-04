@@ -7,6 +7,10 @@ on:
     - cron: "0 */3 * * *"
   workflow_dispatch: {}   # lets you also trigger it manually from the Actions tab
 
+concurrency:
+  group: research-radar-scan
+  cancel-in-progress: false   # let a running scan finish rather than killing it mid-write
+
 permissions:
   contents: write
 
@@ -38,5 +42,15 @@ jobs:
           git config user.name "research-radar-bot"
           git config user.email "actions@github.com"
           git add research/
-          git diff --cached --quiet || git commit -m "Research update: $(date -u +'%Y-%m-%d %H:%M UTC')"
-          git push
+          git diff --cached --quiet && echo "No changes to commit." && exit 0
+          git commit -m "Research update: $(date -u +'%Y-%m-%d %H:%M UTC')"
+          # Remote may have moved (another run pushed in the meantime) -- pull-rebase and retry once.
+          for i in 1 2 3; do
+            if git push; then
+              exit 0
+            fi
+            echo "Push rejected, pulling latest and retrying ($i)..."
+            git pull --rebase origin main
+          done
+          echo "Push failed after retries."
+          exit 1
