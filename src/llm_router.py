@@ -62,7 +62,7 @@ def call_groq(prompt, model="llama-3.1-8b-instant"):
     return resp.json()["choices"][0]["message"]["content"]
 
 
-def call_gemini(prompt, model="gemini-1.5-flash"):
+def call_gemini(prompt, model="gemini-2.0-flash"):
     key = os.environ.get("GEMINI_API_KEY")
     if not key:
         raise RuntimeError("no GEMINI_API_KEY set")
@@ -124,12 +124,12 @@ def call_openrouter(prompt, model="meta-llama/llama-3.1-8b-instruct:free"):
 FILTER_TIER = [
     ("groq", call_groq, "llama-3.1-8b-instant"),
     ("cerebras", call_cerebras, "llama3.1-8b"),
-    ("gemini", call_gemini, "gemini-1.5-flash"),
+    ("gemini", call_gemini, "gemini-2.0-flash"),
     ("openrouter", call_openrouter, "meta-llama/llama-3.1-8b-instruct:free"),
 ]
 
 EXTRACT_TIER = [
-    ("gemini", call_gemini, "gemini-1.5-flash"),
+    ("gemini", call_gemini, "gemini-2.0-flash"),
     ("groq", call_groq, "llama-3.1-70b-versatile"),
     ("openrouter", call_openrouter, "meta-llama/llama-3.1-8b-instruct:free"),
 ]
