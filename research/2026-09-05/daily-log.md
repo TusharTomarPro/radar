@@ -1519,3 +1519,93 @@
 - India fit note: This depends on widespread UPI adoption and merchant demand for higher transaction success rates, both of which already exist in India, making it a strong fit.
 - Badge guess: orange
 
+## Clucky
+- Source article: [Clucky’s new alarm app wakes you up with a crowing rooster](https://techcrunch.com/2026/09/05/cluckys-new-alarm-app-wakes-you-up-with-a-crowing-rooster/) (TechCrunch)
+- Category: sleep-tech
+- What it does: Clucky offers a mobile alarm app that wakes users with a crowing rooster sound and requires them to complete a short mission to turn the alarm off.
+- Likely revenue model: The app likely follows a freemium model, offering a free version with ads and charging for premium features or ad‑free experience via in‑app purchases.
+- India equivalent: none found
+- India fit note: The rooster sound may not resonate with many urban Indian users who are accustomed to different alarm tones, and the gamified turn‑off mission assumes consistent smartphone usage and reliable internet connectivity, which can vary across India.
+- Badge guess: black
+
+## Oura
+- Source article: [Oura is going public, but these smart ring companies are coming for its crown](https://techcrunch.com/2026/09/05/oura-is-going-public-but-these-smart-ring-companies-are-coming-for-its-crown/) (TechCrunch)
+- Category: wellness-wearables
+- What it does: The Oura Ring is a biometric smart ring that continuously tracks sleep, activity, heart rate, temperature and provides a readiness score to help users optimise health and performance.
+- Likely revenue model: Revenue comes from one‑time hardware sales of the ring plus optional monthly or annual subscription fees for premium analytics and personalized insights.
+- India equivalent: none found
+- India fit note: The product relies on high disposable income, a cultural acceptance of wearing a ring 24/7, and robust mobile data connectivity for real‑time syncing—factors that are less prevalent in India, especially outside major metros.
+- Badge guess: black
+
+## AMD
+- Source article: [The "$60 Gaming PC" – AMD BC-250 (2025)](https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/) (Hacker News (front page))
+- Category: budget-gaming
+- What it does: Provides a $60 desktop PC built around the AMD BC-250 chipset that can run modern games at modest settings, targeting ultra‑low‑cost gamers.
+- Likely revenue model: Sells the hardware at a razor‑thin margin, likely subsidized by partnerships with game streaming services, ads, or bundled software licenses.
+- India equivalent: iBall
+- India fit note: The model assumes reliable electricity and affordable high‑speed broadband for streaming, both of which can be inconsistent in many Indian regions, limiting the PC's practical gaming experience.
+- Badge guess: orange
+
+## Terpstra
+- Source article: [Terpstra Keyboard](http://terpstrakeyboard.com/) (Hacker News (front page))
+- Category: ergonomic-keyboard
+- What it does: Designs and sells a split, columnar‑stagger mechanical keyboard optimized for efficient, low‑strain typing. The layout reduces finger travel and promotes a more natural hand posture.
+- Likely revenue model: Direct‑to‑consumer sales of the hardware (often via pre‑order or limited‑run batches) with optional accessories like keycaps and cables.
+- India equivalent: none found
+- India fit note: The product targets a niche of typing‑enthusiasts and professionals willing to pay a premium for ergonomics; such awareness and willingness to spend on specialized keyboards is limited in India, and the supply chain for custom keycaps and low‑volume manufacturing is less developed.
+- Badge guess: black
+
+## Roku
+- Source article: [Your Roku TV offers AI slop for free (if you're into that sort of thing)](https://www.engadget.com/2245485/roku-tv-channel-ai-slop-free-fairground/) (Engadget)
+- Category: ai-content
+- What it does: Roku offers a free channel that lets AI creators publish and stream AI‑generated video content directly on Roku TVs.
+- Likely revenue model: Roku likely monetises the platform through advertising, data licensing and by driving hardware sales and premium subscription upgrades.
+- India equivalent: none found
+- India fit note: The model assumes widespread ownership of Roku devices and high broadband penetration, both of which are limited in India, and it also relies on a market comfortable with AI‑generated video content, which is still nascent locally.
+- Badge guess: black
+
+## Ottocast
+- Source article: [How does Ottocast CarPlay work and how much does it cost?](https://www.engadget.com/2247790/ottocast-carplay-price-what-cost-how-adapter-works/) (Engadget)
+- Category: auto-infotainment
+- What it does: Ottocast sells a plug‑in dongle that converts a wired‑only Apple CarPlay head unit into a wireless CarPlay experience, activating as soon as the car is turned on.
+- Likely revenue model: Revenue comes from direct sales of the hardware dongle (often priced per unit) possibly supplemented by accessories or premium firmware updates.
+- India equivalent: none found
+- India fit note: Wireless CarPlay adoption in India is limited by the low penetration of CarPlay‑compatible vehicles and a strong preference for Android Auto; the technology also assumes reliable Bluetooth and Wi‑Fi connectivity inside the car, which many older Indian cars lack.
+- Badge guess: black
+
+## Razer
+- Source article: [Razer launches a cheaper version of Clio, its head cushion wireless speaker](https://www.engadget.com/2251693/razer-clio-x-head-cushion-with-a-wireless-speaker/) (Engadget)
+- Category: gaming-audio
+- What it does: Razer Clio X is a headrest cushion that integrates a wireless speaker, allowing users to enjoy audio directly from their computer chair. It connects via Bluetooth and is aimed at gamers and streamers seeking immersive sound.
+- Likely revenue model: Direct hardware sales through online and retail channels, often bundled with premium pricing and occasional promotional bundles.
+- India equivalent: Zebronics
+- India fit note: The product relies on a strong gaming PC culture and the prevalence of ergonomic chairs, which are growing but still niche in India; price sensitivity may limit mass adoption.
+- Badge guess: orange
+
+## Acer
+- Source article: [Acer Project DualPlay Mini concept hands-on: Flipping from powerful handheld to powerful tiny laptop](https://www.engadget.com/2251692/acer-project-dualplay-mini-concept-hands-on-ifa-2026/) (Engadget)
+- Category: handheld-gaming
+- What it does: A concept 2-in-1 device that functions as a powerful handheld gaming PC and can flip into a tiny laptop with a built‑in keyboard.
+- Likely revenue model: Revenue would come from selling the hardware at a premium price, possibly bundled with pre‑installed games or subscription services.
+- India equivalent: none found
+- India fit note: The product relies on high‑end PC components, strong battery life, and a market willing to pay premium prices for niche gaming hardware—factors that are limited in India where price sensitivity and limited distribution for such devices are challenges.
+- Badge guess: black
+
+## HyperVault
+- Source article: [TCS HyperVault To Invest ₹70,000 Cr To Set Up AI Data Centre in Hyderabad](https://inc42.com/buzz/tcs-hypervault-to-invest-%e2%82%b970000-cr-to-set-up-ai-data-centre-in-hyderabad/) (Inc42)
+- Category: ai-infrastructure
+- What it does: HyperVault, a TCS subsidiary, is building a large-scale AI data centre in Hyderabad to provide high‑performance compute, storage and AI services for enterprises.
+- Likely revenue model: It will monetize by charging enterprises on a usage‑based or subscription basis for AI compute, storage, and related platform services.
+- India equivalent: CtrlS
+- India fit note: The model relies on robust power supply, low‑latency fiber connectivity and a skilled AI talent pool, which are concentrated in tier‑1 cities like Hyderabad but less mature in many other Indian regions.
+- Badge guess: orange
+
+## TCS HyperVault
+- Source article: [TCS’s HyperVault to build 1GW AI data centre in Telangana's Hyderabad: Inside  ₹70,000 crore ‘historic’ project](https://www.livemint.com/companies/tcss-hypervault-to-build-1gw-ai-data-centre-in-telanganas-hyderabad-inside-70-000-crore-historic-project-11788610018101.html) (LiveMint Companies)
+- Category: ai-infrastructure
+- What it does: TCS is building a 1 GW AI‑focused data centre in Hyderabad called HyperVault, offering high‑performance compute, storage and networking for generative AI workloads.
+- Likely revenue model: Charges customers on a pay‑as‑you‑go or subscription basis for AI compute, storage, and related managed services.
+- India equivalent: CtrlS Data Centers
+- India fit note: The model relies on abundant, reliable power and high‑speed fiber, which are still uneven across many Indian regions; Hyderabad’s strong IT ecosystem mitigates this, but scaling nationwide may face grid stability and talent constraints.
+- Badge guess: orange
+

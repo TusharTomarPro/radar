@@ -171,3 +171,13 @@
 | AI Literacy Platform | edtech | orange | 2026-09-05 | Upskill (by upGrad) |
 | Anthropic | ai-infrastructure | black | 2026-09-05 | none found |
 | Razorpay | fintech | orange | 2026-09-05 | PhonePe |
+| Clucky | sleep-tech | black | 2026-09-05 | none found |
+| Oura | wellness-wearables | black | 2026-09-05 | none found |
+| AMD | budget-gaming | orange | 2026-09-05 | iBall |
+| Terpstra | ergonomic-keyboard | black | 2026-09-05 | none found |
+| Roku | ai-content | black | 2026-09-05 | none found |
+| Ottocast | auto-infotainment | black | 2026-09-05 | none found |
+| Razer | gaming-audio | orange | 2026-09-05 | Zebronics |
+| Acer | handheld-gaming | black | 2026-09-05 | none found |
+| HyperVault | ai-infrastructure | orange | 2026-09-05 | CtrlS |
+| TCS HyperVault | ai-infrastructure | orange | 2026-09-05 | CtrlS Data Centers |
