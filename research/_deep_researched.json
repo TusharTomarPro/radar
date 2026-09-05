@@ -1,0 +1,98 @@
+{
+  "xdof::2026-09-05": {
+    "company": "XDOF",
+    "category": "robotics-data",
+    "revised_badge": "orange",
+    "competitor_status": "surviving",
+    "risk_score": 6,
+    "risk_reasoning": "Search evidence lists several active players (Bossa Nova Robotics, 1X Technologies, Robust.AI, Zhichi Technologies) competing in the robotics training data market, indicating a crowded space. While XDOF has strong backing and a large open-source dataset, entering a market with multiple surviving competitors raises execution risk. The presence of established rivals pushes the risk to a moderate\u2011high level (6/10)."
+  },
+  "tweet-app::2026-09-05": {
+    "company": "Tweet.app",
+    "category": "microblogging",
+    "revised_badge": "black",
+    "competitor_status": "dead",
+    "risk_score": 3,
+    "risk_reasoning": "Search results show Koo, the only notable India\u2011focused Twitter clone, shut down in 2024 after funding and partnership setbacks. With no surviving direct competitor, the market gap appears to be an execution issue rather than a structural barrier, lowering entry risk. However, the broader micro\u2011blogging space remains competitive globally, so caution is still warranted."
+  },
+  "google-gemini-spark::2026-09-05": {
+    "company": "Google Gemini Spark",
+    "category": "ai-assistant",
+    "revised_badge": "orange",
+    "competitor_status": "surviving",
+    "risk_score": 8,
+    "risk_reasoning": "Search results list active competitors\u2014Lindy, Anthropic\u2019s Claude, and BetterClaw\u2014offering broader integrations and more flexible agent building tools. Gemini Spark is currently limited to Google Workspace and a few partners, putting it at a disadvantage in a crowded, fast\u2011moving market. The presence of thriving rivals makes the venture high\u2011risk."
+  },
+  "tesla::2026-09-05": {
+    "company": "Tesla",
+    "category": "autonomous-taxi",
+    "revised_badge": "orange",
+    "competitor_status": "surviving",
+    "risk_score": 8,
+    "risk_reasoning": "Ola Electric is surviving but struggling\u2014losing market share and reducing its store footprint\u2014while Tesla itself abandoned India manufacturing plans in 2026 after failed negotiations with the Indian government. This signals deep structural friction in the Indian EV/autonomous market (regulatory, infrastructure, and political barriers). An autonomous-taxi startup faces not only an entrenched incumbent (Ola) but also a hostile regulatory environment that even Tesla couldn't crack, making this a high-risk venture."
+  },
+  "menuai::2026-09-05": {
+    "company": "MenuAI",
+    "category": "restaurant-tech",
+    "revised_badge": "orange",
+    "competitor_status": "dead",
+    "risk_score": 7,
+    "risk_reasoning": "A MenuAI startup already existed in India and failed, indicating the concept has been tested and encountered execution barriers. The failure was attributed to internal cofounder disagreements and lack of enterprise trust, suggesting market readiness challenges rather than a flawed product concept. Additionally, India's current startup climate shows more closures (259) than launches (125) in 2025, with 28,000 startups shutting down in the past two years, creating a high-risk environment for new entrants."
+  },
+  "tesla-cybercab::2026-09-05": {
+    "company": "Tesla Cybercab",
+    "category": "robo-taxi",
+    "revised_badge": "black",
+    "competitor_status": "dead",
+    "risk_score": 8,
+    "risk_reasoning": "The claimed competitor (Ola Autonomous) effectively died when Ola shut down in 2026, and Tesla's own Cybercab effort is struggling globally \u2014 suggesting the robo-taxi thesis is hard, not just locally. India's regulatory environment, chaotic traffic, and low willingness-to-pay for premium autonomous rides make this a structural uphill battle, not a 'competitor just beat you to it' situation. The founder should be cautious: no competitor exists partly because the market isn't ready yet."
+  },
+  "openai::2026-09-05": {
+    "company": "OpenAI",
+    "category": "gen-ai",
+    "revised_badge": "orange",
+    "competitor_status": "surviving",
+    "risk_score": 8,
+    "risk_reasoning": "Search evidence lists Anthropic, Google Gemini, Microsoft Copilot, xAI Grok and Perplexity as active, well\u2011funded rivals to OpenAI in 2026, all of which are globally available and thus present in India. Their strong valuations, revenue run\u2011rates and continued product roll\u2011outs indicate they are surviving and thriving, making the market highly competitive and raising the risk for a new India\u2011localized OpenAI offering."
+  },
+  "apple::2026-09-05": {
+    "company": "Apple",
+    "category": "consumer-tech",
+    "revised_badge": "orange",
+    "competitor_status": "surviving",
+    "risk_score": 9,
+    "risk_reasoning": "The search evidence clearly shows Apple already has strong, thriving competitors in India across all relevant categories \u2014 Samsung (22% global share), Xiaomi (#1 by volume in India), OPPO, Google, and Microsoft \u2014 meaning a founder attempting to build an 'India-localized Apple' would be entering one of the most crowded and capital-intensive consumer-tech markets in the world. Additionally, Apple itself is actively expanding in India (growing from #3 to #2-3 by volume, with 2.2B active devices), so the target incumbent is itself moving aggressively into the market. The Indian startup graveyard data (28,000+ failures in two years) highlights how brutal this environment is for new entrants trying to compete against entrenched global giants with vastly superior scale, supply chains, and brand trust."
+  },
+  "omarchy::2026-09-05": {
+    "company": "Omarchy",
+    "category": "agent-os",
+    "revised_badge": "orange",
+    "competitor_status": "surviving",
+    "risk_score": 8,
+    "risk_reasoning": "Haptik is alive and well as a Reliance Jio subsidiary since 2019, operating in the enterprise conversational/agentic AI space with $12.2M+ in prior funding and deep enterprise distribution through Jio. Building an India-localized agent-os against a Jio-backed incumbent with 12+ years of head start, established brand, and existing enterprise relationships is extremely high risk. The Omarchy search yielded no actual evidence the startup itself shut down (the results were about unrelated failed Indian startups like Dunzo, RoomsTonite, and O'Be Cocktails), suggesting the original claim of an India-localized Omarchy competitor in this space was poorly sourced \u2014 but the Haptik overlap alone is sufficient to mark this crowded."
+  },
+  "inline::2026-09-05": {
+    "company": "Inline",
+    "category": "ai-collaboration",
+    "revised_badge": "orange",
+    "competitor_status": "surviving",
+    "risk_score": 8,
+    "risk_reasoning": "The search shows Zoho Workplace is operational, well\u2011funded, and actively promoting its platform as a secure, India\u2011focused solution, indicating a strong, surviving competitor in the AI\u2011collaboration space. This presence raises the barrier to entry for a new entrant like Inline, especially given the high failure rate of Indian startups and the resource depth of Zoho. Consequently, the risk of competition and market saturation is high."
+  },
+  "chalked::2026-09-05": {
+    "company": "Chalked",
+    "category": "ai-assistant",
+    "revised_badge": "orange",
+    "competitor_status": "pivoted",
+    "risk_score": 7,
+    "risk_reasoning": "Peppertype.ai did exist as a real competitor in AI writing but has since pivoted to food tech after acquiring AI writing issues (unsustainable burn, high churn, major clients like Disney+Hotstar/Flipkart left after 2024 rebrand), indicating the AI writing vertical was challenging. Critically, Chalked itself failed in India in 2023 during the funding winter\u2014not because Peppertype outcompeted them, but due to their own poor business model and lack of funding. The fact that a local India player (Chalked) failed under favorable competitive conditions (Peppertype was already struggling) suggests structural execution risks in this market beyond just competition."
+  },
+  "clockwork::2026-09-05": {
+    "company": "Clockwork",
+    "category": "ai-agent",
+    "revised_badge": "black",
+    "competitor_status": "no-real-competitor-found",
+    "risk_score": 4,
+    "risk_reasoning": "Search evidence found no relevant AI-agent competitors for Clockwork in India; the competitors returned (Tezign, Vimeo, OpusClip, Accenture, Deloitte) are design/video tools or consulting firms, not AI agents. The failed startup data (Log9 Materials, GenWise, etc.) identified general Indian startup closures but none connected to AI agents, suggesting the gap is structural rather than temporal. Risk is moderate because the absence of competitors could indicate genuine market gaps or simply that Indian enterprises aren't ready for AI agent adoption yet."
+  }
+}
