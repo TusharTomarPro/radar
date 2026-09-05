@@ -33,6 +33,16 @@ def slugify(name):
     return s.strip("-")[:60] or "unnamed"
 
 
+def sanitize_cell(text, max_len=200):
+    """Strip characters that would break a markdown table row: literal pipes and newlines."""
+    if not text:
+        return ""
+    text = str(text).replace("|", "/").replace("\n", " ").replace("\r", " ").strip()
+    if len(text) > max_len:
+        text = text[:max_len - 1].rstrip() + "…"
+    return text
+
+
 def filter_article(article):
     prompt = f"""You are screening news articles for a startup-idea research tracker focused on spotting new consumer product or business-model innovations that could be adapted for the Indian market.
 
@@ -163,7 +173,10 @@ def update_watchlist(entries):
     rows = []
     for e in entries:
         r = e["research"]
-        rows.append(f"| {r['company_name']} | {r['category']} | {r['badge_guess']} | {TODAY} | {r['india_equivalent_exists']} |")
+        rows.append(
+            f"| {sanitize_cell(r['company_name'], 60)} | {sanitize_cell(r['category'], 40)} | "
+            f"{sanitize_cell(r['badge_guess'], 20)} | {TODAY} | {sanitize_cell(r['india_equivalent_exists'], 100)} |"
+        )
     with open(watchlist_path, "w") as f:
         f.write(existing.rstrip() + "\n" + "\n".join(rows) + "\n")
 
