@@ -1,0 +1,495 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Research Radar — Case Files</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Special+Elite&family=IBM+Plex+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --paper-bg: #DCD3BE;
+    --card-bg: #F3EEE0;
+    --card-bg-hover: #EDE6D2;
+    --ink: #2B241C;
+    --ink-soft: #59503F;
+    --stamp-orange: #B5482F;
+    --stamp-orange-bg: #EFDCD4;
+    --stamp-black: #1C1A17;
+    --stamp-black-bg: #DAD5C8;
+    --stamp-neutral: #6B6355;
+    --stamp-neutral-bg: #E4DFCF;
+    --thread: #5C6B4C;
+    --brass: #8C6B18;
+    --rule: #B9AF97;
+  }
+
+  * { box-sizing: border-box; }
+
+  body {
+    margin: 0;
+    background: var(--paper-bg);
+    background-image:
+      radial-gradient(circle at 1px 1px, rgba(43,36,28,0.06) 1px, transparent 0);
+    background-size: 22px 22px;
+    color: var(--ink);
+    font-family: 'IBM Plex Sans', sans-serif;
+    line-height: 1.5;
+    min-height: 100vh;
+  }
+
+  .wrap { max-width: 880px; margin: 0 auto; padding: 32px 20px 80px; }
+
+  header.masthead {
+    border-bottom: 3px double var(--thread);
+    padding-bottom: 18px;
+    margin-bottom: 22px;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    flex-wrap: wrap;
+    gap: 12px;
+  }
+
+  h1 {
+    font-family: 'Special Elite', monospace;
+    font-size: 30px;
+    margin: 0;
+    letter-spacing: 0.5px;
+    color: var(--ink);
+  }
+
+  .subtitle {
+    font-size: 13px;
+    color: var(--ink-soft);
+    margin-top: 4px;
+    max-width: 46ch;
+  }
+
+  .refresh-btn {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 12px;
+    background: var(--card-bg);
+    border: 1px solid var(--thread);
+    color: var(--ink);
+    padding: 7px 12px;
+    cursor: pointer;
+    border-radius: 3px;
+  }
+  .refresh-btn:hover { background: var(--card-bg-hover); }
+  .refresh-btn:disabled { opacity: 0.5; cursor: default; }
+
+  .stats-row {
+    display: flex;
+    gap: 28px;
+    margin-bottom: 24px;
+    flex-wrap: wrap;
+  }
+  .stat {
+    display: flex;
+    flex-direction: column;
+  }
+  .stat .num {
+    font-family: 'Special Elite', monospace;
+    font-size: 28px;
+    line-height: 1;
+  }
+  .stat .label {
+    font-size: 11.5px;
+    color: var(--ink-soft);
+    margin-top: 4px;
+  }
+  .stat.orange .num { color: var(--stamp-orange); }
+  .stat.black .num { color: var(--stamp-black); }
+
+  .controls {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 20px;
+    flex-wrap: wrap;
+    align-items: center;
+  }
+
+  .search-input {
+    flex: 1;
+    min-width: 180px;
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-size: 14px;
+    padding: 9px 12px;
+    border: 1px solid var(--rule);
+    border-radius: 3px;
+    background: var(--card-bg);
+    color: var(--ink);
+  }
+  .search-input::placeholder { color: var(--ink-soft); }
+
+  .filter-btn {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 12px;
+    padding: 8px 12px;
+    border: 1px solid var(--rule);
+    background: transparent;
+    color: var(--ink-soft);
+    cursor: pointer;
+    border-radius: 3px;
+    white-space: nowrap;
+  }
+  .filter-btn.active {
+    background: var(--ink);
+    color: var(--card-bg);
+    border-color: var(--ink);
+  }
+
+  #status-line {
+    font-size: 12.5px;
+    color: var(--ink-soft);
+    margin-bottom: 18px;
+    font-family: 'IBM Plex Mono', monospace;
+  }
+
+  .case-file {
+    background: var(--card-bg);
+    border: 1px solid var(--rule);
+    border-left: 4px solid var(--thread);
+    border-radius: 2px;
+    margin-bottom: 10px;
+    overflow: hidden;
+  }
+  .case-file.badge-orange { border-left-color: var(--stamp-orange); }
+  .case-file.badge-black { border-left-color: var(--stamp-black); }
+
+  .case-row {
+    display: flex;
+    align-items: center;
+    gap: 14px;
+    padding: 14px 16px;
+    cursor: pointer;
+  }
+  .case-row:hover { background: var(--card-bg-hover); }
+
+  .case-main { flex: 1; min-width: 0; }
+  .case-name {
+    font-weight: 600;
+    font-size: 15px;
+    margin: 0 0 3px;
+    color: var(--ink);
+  }
+  .case-meta {
+    font-size: 12px;
+    color: var(--ink-soft);
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+  }
+  .case-meta .india-eq {
+    font-style: italic;
+  }
+
+  .stamp {
+    font-family: 'Special Elite', monospace;
+    font-size: 11px;
+    letter-spacing: 0.5px;
+    padding: 5px 9px;
+    border-radius: 2px;
+    white-space: nowrap;
+    transform: rotate(-2deg);
+    border: 1.5px solid currentColor;
+  }
+  .stamp.orange { color: var(--stamp-orange); background: var(--stamp-orange-bg); }
+  .stamp.black { color: var(--stamp-black); background: var(--stamp-black-bg); }
+  .stamp.neutral { color: var(--stamp-neutral); background: var(--stamp-neutral-bg); }
+
+  .expand-arrow {
+    font-family: 'IBM Plex Mono', monospace;
+    color: var(--ink-soft);
+    font-size: 13px;
+    transition: transform 0.15s ease;
+    flex-shrink: 0;
+  }
+  .case-file.open .expand-arrow { transform: rotate(90deg); }
+
+  .case-detail {
+    display: none;
+    padding: 4px 20px 22px 20px;
+    border-top: 1px dashed var(--rule);
+  }
+  .case-file.open .case-detail { display: block; }
+
+  .detail-loading {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 12.5px;
+    color: var(--ink-soft);
+    padding: 16px 0;
+  }
+
+  .detail-section h3 {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 0.8px;
+    color: var(--brass);
+    margin: 18px 0 8px;
+    border-bottom: 1px solid var(--rule);
+    padding-bottom: 4px;
+  }
+  .detail-section h3:first-child { margin-top: 12px; }
+
+  .detail-body { font-size: 14px; color: var(--ink); }
+  .detail-body p { margin: 6px 0; }
+  .detail-body strong { color: var(--ink); }
+  .detail-body a { color: var(--brass); }
+  .detail-body ul { margin: 6px 0; padding-left: 20px; }
+
+  .source-link {
+    font-size: 12px;
+    color: var(--ink-soft);
+    margin-top: 12px;
+    display: inline-block;
+  }
+
+  .empty-state {
+    text-align: center;
+    padding: 60px 20px;
+    color: var(--ink-soft);
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 13px;
+  }
+
+  footer {
+    margin-top: 40px;
+    padding-top: 16px;
+    border-top: 1px solid var(--rule);
+    font-size: 11.5px;
+    color: var(--ink-soft);
+    font-family: 'IBM Plex Mono', monospace;
+  }
+  footer a { color: var(--ink-soft); }
+
+  @media (max-width: 520px) {
+    h1 { font-size: 24px; }
+    .case-row { flex-wrap: wrap; }
+    .stats-row { gap: 18px; }
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <header class="masthead">
+    <div>
+      <h1>Research Radar</h1>
+      <div class="subtitle">Western innovations tracked for India-market fit. Auto-scanned every few hours.</div>
+    </div>
+    <button class="refresh-btn" id="refreshBtn" onclick="loadWatchlist(true)">↻ refresh</button>
+  </header>
+
+  <div class="stats-row" id="statsRow"></div>
+
+  <div class="controls">
+    <input class="search-input" id="searchInput" type="text" placeholder="Search by company or category…" oninput="renderList()">
+    <button class="filter-btn active" data-filter="all" onclick="setFilter('all')">All</button>
+    <button class="filter-btn" data-filter="orange" onclick="setFilter('orange')">Orange</button>
+    <button class="filter-btn" data-filter="black" onclick="setFilter('black')">Black</button>
+  </div>
+
+  <div id="statusLine"></div>
+  <div id="caseList"></div>
+
+  <footer>
+    Data pulled live from <a href="https://github.com/TusharTomarPro/radar" target="_blank">github.com/TusharTomarPro/radar</a>.
+    Badges are a first-pass AI guess — verify before acting on any of it.
+  </footer>
+
+</div>
+
+<script>
+  // ---- Configuration: change these if you fork or rename the repo ----
+  const OWNER = "TusharTomarPro";
+  const REPO = "radar";
+  const BRANCH = "main";
+  const RAW_BASE = `https://raw.githubusercontent.com/${OWNER}/${REPO}/${BRANCH}/`;
+  const API_BASE = `https://api.github.com/repos/${OWNER}/${REPO}`;
+
+  let allRows = [];
+  let currentFilter = "all";
+  const detailCache = {};
+
+  function slugify(name) {
+    let s = name.trim().toLowerCase().replace(/[^a-z0-9]+/g, "-");
+    s = s.replace(/^-+|-+$/g, "").slice(0, 60);
+    return s || "unnamed";
+  }
+
+  function parseWatchlist(md) {
+    const lines = md.split("\n").map(l => l.trim()).filter(l => l.startsWith("|"));
+    if (lines.length < 2) return [];
+    // skip header row and the |---|---| separator row
+    const dataLines = lines.slice(2);
+    const rows = [];
+    for (const line of dataLines) {
+      const cells = line.split("|").map(c => c.trim()).filter((_, i, arr) => i > 0 && i < arr.length - 1);
+      if (cells.length < 5) continue;
+      const [company, category, badge, firstSeen, indiaEq] = cells;
+      if (!company) continue;
+      rows.push({
+        company, category,
+        badge: (badge || "").toLowerCase(),
+        firstSeen,
+        indiaEq,
+        slug: slugify(company)
+      });
+    }
+    return rows.reverse(); // most recently added first
+  }
+
+  function stampClass(badge) {
+    if (badge === "orange") return "orange";
+    if (badge === "black") return "black";
+    return "neutral";
+  }
+
+  function renderStats() {
+    const total = allRows.length;
+    const orange = allRows.filter(r => r.badge === "orange").length;
+    const black = allRows.filter(r => r.badge === "black").length;
+    document.getElementById("statsRow").innerHTML = `
+      <div class="stat"><div class="num">${total}</div><div class="label">tracked</div></div>
+      <div class="stat orange"><div class="num">${orange}</div><div class="label">orange — competitor exists</div></div>
+      <div class="stat black"><div class="num">${black}</div><div class="label">black — no competitor found</div></div>
+    `;
+  }
+
+  function setFilter(f) {
+    currentFilter = f;
+    document.querySelectorAll(".filter-btn").forEach(b => b.classList.toggle("active", b.dataset.filter === f));
+    renderList();
+  }
+
+  function renderList() {
+    const q = document.getElementById("searchInput").value.trim().toLowerCase();
+    let rows = allRows;
+    if (currentFilter !== "all") rows = rows.filter(r => r.badge === currentFilter);
+    if (q) rows = rows.filter(r =>
+      r.company.toLowerCase().includes(q) || (r.category || "").toLowerCase().includes(q)
+    );
+
+    const list = document.getElementById("caseList");
+    if (rows.length === 0) {
+      list.innerHTML = `<div class="empty-state">No case files match. Try a different search or filter.</div>`;
+      return;
+    }
+
+    list.innerHTML = rows.map((r, i) => `
+      <div class="case-file badge-${stampClass(r.badge)}" id="case-${i}">
+        <div class="case-row" onclick="toggleCase(${i}, ${JSON.stringify(r).replace(/"/g, '&quot;')})">
+          <div class="case-main">
+            <p class="case-name">${escapeHtml(r.company)}</p>
+            <div class="case-meta">
+              <span>${escapeHtml(r.category || "—")}</span>
+              <span>first seen ${escapeHtml(r.firstSeen || "—")}</span>
+              ${r.indiaEq && r.indiaEq.toLowerCase() !== "none found" ? `<span class="india-eq">vs ${escapeHtml(r.indiaEq)}</span>` : ""}
+            </div>
+          </div>
+          <span class="stamp ${stampClass(r.badge)}">${escapeHtml(r.badge || "unclassified")}</span>
+          <span class="expand-arrow">▶</span>
+        </div>
+        <div class="case-detail" id="detail-${i}"></div>
+      </div>
+    `).join("");
+  }
+
+  function escapeHtml(s) {
+    return (s || "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+  }
+
+  // very small markdown-to-html renderer, just enough for our own generated files
+  function mdToHtml(md) {
+    if (!md) return "";
+    let html = escapeHtml(md);
+    html = html.replace(/^### (.*)$/gm, "<h4>$1</h4>");
+    html = html.replace(/^## (.*)$/gm, "<h3>$1</h3>");
+    html = html.replace(/^# (.*)$/gm, "<h2>$1</h2>");
+    html = html.replace(/\*\*(.+?)\*\*/g, "<strong>$1</strong>");
+    html = html.replace(/\[(.+?)\]\((.+?)\)/g, '<a href="$2" target="_blank">$1</a>');
+    html = html.replace(/^---$/gm, "<hr>");
+    html = html.split(/\n\n+/).map(block => {
+      if (block.match(/^<h[234]>|^<hr>/)) return block;
+      return `<p>${block.replace(/\n/g, "<br>")}</p>`;
+    }).join("\n");
+    return html;
+  }
+
+  async function toggleCase(i, row) {
+    const el = document.getElementById(`case-${i}`);
+    const wasOpen = el.classList.contains("open");
+    el.classList.toggle("open", !wasOpen);
+    if (wasOpen) return;
+
+    const detailEl = document.getElementById(`detail-${i}`);
+    const cacheKey = `${row.slug}::${row.firstSeen}`;
+    if (detailCache[cacheKey]) {
+      detailEl.innerHTML = detailCache[cacheKey];
+      return;
+    }
+    detailEl.innerHTML = `<div class="detail-loading">pulling case file from repo…</div>`;
+
+    try {
+      const researchUrl = `${RAW_BASE}research/companies/${row.slug}/${row.firstSeen}-research.md`;
+      const notesUrl = `${RAW_BASE}research/companies/${row.slug}/your-notes.md`;
+
+      const [researchResp, notesResp] = await Promise.all([
+        fetch(researchUrl), fetch(notesUrl)
+      ]);
+
+      let html = "";
+      if (researchResp.ok) {
+        const researchMd = await researchResp.text();
+        html += `<div class="detail-section"><h3>Research</h3><div class="detail-body">${mdToHtml(researchMd)}</div></div>`;
+      } else {
+        html += `<div class="detail-section"><div class="detail-body"><p>Couldn't load research file (it may still be committing).</p></div></div>`;
+      }
+      if (notesResp.ok) {
+        const notesMd = await notesResp.text();
+        const trimmed = notesMd.trim();
+        const hasRealNotes = trimmed.split("\n").filter(l => l.trim() && !l.startsWith("#") && !l.includes("empty")).length > 0;
+        if (hasRealNotes) {
+          html += `<div class="detail-section"><h3>Your notes</h3><div class="detail-body">${mdToHtml(notesMd)}</div></div>`;
+        }
+      }
+
+      detailCache[cacheKey] = html;
+      detailEl.innerHTML = html;
+    } catch (e) {
+      detailEl.innerHTML = `<div class="detail-loading">Error loading case file: ${escapeHtml(e.message)}</div>`;
+    }
+  }
+
+  async function loadWatchlist(manual) {
+    const btn = document.getElementById("refreshBtn");
+    const status = document.getElementById("statusLine");
+    btn.disabled = true;
+    btn.textContent = "↻ loading…";
+    status.textContent = "Fetching watchlist.md from repo…";
+
+    try {
+      const resp = await fetch(`${RAW_BASE}research/watchlist.md?t=${Date.now()}`);
+      if (!resp.ok) throw new Error(`HTTP ${resp.status} — does research/watchlist.md exist yet?`);
+      const md = await resp.text();
+      allRows = parseWatchlist(md);
+      renderStats();
+      renderList();
+      status.textContent = `Loaded ${allRows.length} entries · last refreshed ${new Date().toLocaleTimeString()}`;
+    } catch (e) {
+      document.getElementById("caseList").innerHTML =
+        `<div class="empty-state">Couldn't load data: ${escapeHtml(e.message)}</div>`;
+      status.textContent = "";
+    } finally {
+      btn.disabled = false;
+      btn.textContent = "↻ refresh";
+    }
+  }
+
+  loadWatchlist(false);
+</script>
+</body>
+</html>
