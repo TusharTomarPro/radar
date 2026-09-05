@@ -8,6 +8,7 @@ import os
 import json
 import yaml
 import feedparser
+import requests
 
 BASE_DIR = os.path.join(os.path.dirname(__file__), "..")
 FEEDS_PATH = os.path.join(BASE_DIR, "config", "feeds.yaml")
@@ -37,7 +38,13 @@ def fetch_new_articles():
 
     for feed in all_feeds:
         try:
-            parsed = feedparser.parse(feed["url"])
+            resp = requests.get(
+                feed["url"],
+                timeout=15,  # hard cap so one slow/hanging feed can't block the whole run
+                headers={"User-Agent": "Mozilla/5.0 (research-radar bot)"},
+            )
+            resp.raise_for_status()
+            parsed = feedparser.parse(resp.content)
         except Exception as e:
             print(f"[warn] could not fetch {feed['name']}: {e}")
             continue
