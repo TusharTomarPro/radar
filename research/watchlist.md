@@ -70,3 +70,42 @@
 | Shein | fast-fashion | orange | 2026-09-05 | Myntra |
 | Retold | storytelling | black | 2026-09-05 | none found |
 | PagerDuty AI | ai-ops | black | 2026-09-05 | none found |
+| Fairphone | ethical-tech | black | 2026-09-05 | none found |
+| Xbox Game Pass | game-streaming | orange | 2026-09-05 | JioGames |
+| Google SHARE Program (with PG&E and Rewiring America) | energy-tech | orange | 2026-09-05 | Tata Power and Sunrun-style aggregators like Amp Energy India (virtual power plant pilots) |
+| none - conceptual framework | healthcare-ai | black | 2026-09-05 | none found |
+| Eos Energy Storage | energy-storage | black | 2026-09-05 | none found |
+| Kansas Department of Labor | govtech | black | 2026-09-05 | none found |
+| Delta Air Lines | ai-assistant | orange | 2026-09-05 | IndiGo (interGlobe Aviation) |
+| Casio | luxury-watches | orange | 2026-09-05 | Titan |
+| Tesla Cybercab | robotaxi | orange | 2026-09-05 | Ola Krutrim / Tata Autonome |
+| Litter-Robot | pet-tech | black | 2026-09-05 | none found |
+| Tesla | robotaxi | orange | 2026-09-05 | Ola Autonomous |
+| Flock | surveillance-tech | black | 2026-09-05 | none found |
+| OpenAI | ai-foundation-model | orange | 2026-09-05 | Sarvam AI |
+| Lenovo | fanless-laptop | black | 2026-09-05 | none found |
+| Nvidia RTX Spark | ai-hardware | black | 2026-09-05 | none found |
+| Toto | health-tech | black | 2026-09-05 | none found |
+| Biometric Dating Apps (industry trend) | dating-tech | orange | 2026-09-05 | TrulyMadly |
+| Dyson | smart-toothbrush | black | 2026-09-05 | none found |
+| RugOne | rugged-smartphone | black | 2026-09-05 | None found |
+| Tesla | robotaxi | orange | 2026-09-05 | Ola (Ola Autonomous) |
+| Ugreen | smart-home | black | 2026-09-05 | none found |
+| Stryker | surgical-AR | black | 2026-09-05 | none found |
+| Ultrahuman | wearables | black | 2026-09-05 | none found |
+| Ollie | ai-assistant | black | 2026-09-05 | None found |
+| Pangram | ai-detection | black | 2026-09-05 | none found |
+| Pangram | content-verification | black | 2026-09-05 | none found |
+| AIR | ai-governance | black | 2026-09-05 | none found |
+| Crusoe | ai-infrastructure | orange | 2026-09-05 | E2E Networks |
+| GC AI | legal-tech | black | 2026-09-05 | none found |
+| Lyte | physical-ai | black | 2026-09-05 | none found |
+| Félix | remittance | black | 2026-09-05 | none found |
+| Instinct | ai-assistant | black | 2026-09-05 | none found |
+| Carrefour | retail | orange | 2026-09-05 | Reliance Retail |
+| UltraVolt | wire-cable | orange | 2026-09-05 | Polycab |
+| Arcil | debt-collection | black | 2026-09-05 | none found |
+| Reliance Bombay Creamery | dairy-food | orange | 2026-09-05 | Amul and Kwality Wall's |
+| Uber | last-mile logistics | orange | 2026-09-05 | Dunzo, Swiggy Genie, Borzo |
+| Netflix | streaming | orange | 2026-09-05 | Disney+ Hotstar |
+| Atomberg | energy-efficient appliances | orange | 2026-09-05 | Crompton Greaves (Energy Conservation series), Havells (Ampero range) |
