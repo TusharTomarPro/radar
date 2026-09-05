@@ -239,6 +239,17 @@
   .detail-body strong { color: var(--ink); }
   .detail-body a { color: var(--brass); }
   .detail-body ul { margin: 6px 0; padding-left: 20px; }
+  .detail-body h2, .detail-body h3, .detail-body h4 {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 12px;
+    text-transform: uppercase;
+    letter-spacing: 0.6px;
+    color: var(--brass);
+    margin: 16px 0 6px;
+    border-bottom: 1px solid var(--rule);
+    padding-bottom: 3px;
+  }
+  .detail-body hr { border: none; border-top: 1px dashed var(--rule); margin: 14px 0; }
 
   .source-link {
     font-size: 12px;
@@ -246,6 +257,68 @@
     margin-top: 12px;
     display: inline-block;
   }
+
+  .tabs {
+    display: flex;
+    gap: 6px;
+    margin-bottom: 18px;
+  }
+  .tab-btn {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 12.5px;
+    padding: 9px 16px;
+    border: 1px solid var(--thread);
+    background: transparent;
+    color: var(--ink-soft);
+    cursor: pointer;
+    border-radius: 3px 3px 0 0;
+    border-bottom: none;
+  }
+  .tab-btn.active {
+    background: var(--card-bg);
+    color: var(--ink);
+    font-weight: 600;
+  }
+
+  .risk-chip {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 11px;
+    padding: 3px 8px;
+    border-radius: 10px;
+    white-space: nowrap;
+    font-weight: 600;
+  }
+  .risk-low { background: #DCE3CE; color: #435530; }
+  .risk-mid { background: #EFE0B8; color: #6B5518; }
+  .risk-high { background: var(--stamp-orange-bg); color: var(--stamp-orange); }
+
+  .rank-row {
+    display: flex;
+    align-items: flex-start;
+    gap: 14px;
+    background: var(--card-bg);
+    border: 1px solid var(--rule);
+    border-radius: 2px;
+    padding: 12px 16px;
+    margin-bottom: 8px;
+  }
+  .rank-num {
+    font-family: 'Special Elite', monospace;
+    font-size: 18px;
+    color: var(--ink-soft);
+    min-width: 28px;
+  }
+  .rank-main { flex: 1; min-width: 0; }
+  .rank-name-row {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 4px;
+    flex-wrap: wrap;
+  }
+  .rank-name { font-weight: 600; font-size: 14.5px; }
+  .rank-meta { font-size: 12px; color: var(--ink-soft); margin-bottom: 5px; }
+  .rank-reasoning { font-size: 13px; color: var(--ink); }
 
   .empty-state {
     text-align: center;
@@ -285,15 +358,26 @@
 
   <div class="stats-row" id="statsRow"></div>
 
-  <div class="controls">
-    <input class="search-input" id="searchInput" type="text" placeholder="Search by company or category…" oninput="renderList()">
-    <button class="filter-btn active" data-filter="all" onclick="setFilter('all')">All</button>
-    <button class="filter-btn" data-filter="orange" onclick="setFilter('orange')">Orange</button>
-    <button class="filter-btn" data-filter="black" onclick="setFilter('black')">Black</button>
+  <div class="tabs">
+    <button class="tab-btn active" data-tab="cases" onclick="setTab('cases')">Case Files</button>
+    <button class="tab-btn" data-tab="ranked" onclick="setTab('ranked')">Top Ideas (ranked)</button>
   </div>
 
-  <div id="statusLine"></div>
-  <div id="caseList"></div>
+  <div id="casesView">
+    <div class="controls">
+      <input class="search-input" id="searchInput" type="text" placeholder="Search by company or category…" oninput="renderList()">
+      <button class="filter-btn active" data-filter="all" onclick="setFilter('all')">All</button>
+      <button class="filter-btn" data-filter="orange" onclick="setFilter('orange')">Orange</button>
+      <button class="filter-btn" data-filter="black" onclick="setFilter('black')">Black</button>
+    </div>
+    <div id="statusLine"></div>
+    <div id="caseList"></div>
+  </div>
+
+  <div id="rankedView" style="display:none;">
+    <div id="rankedStatusLine" class="stats-row" style="margin-bottom:12px;"></div>
+    <div id="rankedList"></div>
+  </div>
 
   <footer>
     Data pulled live from <a href="https://github.com/TusharTomarPro/radar" target="_blank">github.com/TusharTomarPro/radar</a>.
@@ -486,6 +570,79 @@
     } finally {
       btn.disabled = false;
       btn.textContent = "↻ refresh";
+    }
+  }
+
+  function setTab(tab) {
+    document.querySelectorAll(".tab-btn").forEach(b => b.classList.toggle("active", b.dataset.tab === tab));
+    document.getElementById("casesView").style.display = tab === "cases" ? "" : "none";
+    document.getElementById("rankedView").style.display = tab === "ranked" ? "" : "none";
+    if (tab === "ranked" && !window._rankedLoaded) {
+      loadTopIdeas();
+    }
+  }
+
+  function riskClass(score) {
+    const n = parseInt(score, 10);
+    if (n <= 3) return "risk-low";
+    if (n <= 6) return "risk-mid";
+    return "risk-high";
+  }
+
+  function parseTopIdeas(md) {
+    const lines = md.split("\n").map(l => l.trim()).filter(l => l.startsWith("|"));
+    if (lines.length < 3) return [];
+    const dataLines = lines.slice(2);
+    const rows = [];
+    for (const line of dataLines) {
+      const cells = line.split("|").map(c => c.trim()).filter((_, i, arr) => i > 0 && i < arr.length - 1);
+      if (cells.length < 7) continue;
+      const [rank, company, category, revisedBadge, competitorStatus, riskScore, reasoning] = cells;
+      rows.push({ rank, company, category, revisedBadge, competitorStatus, riskScore: riskScore.replace(/\/10/, ""), reasoning });
+    }
+    return rows;
+  }
+
+  async function loadTopIdeas() {
+    const listEl = document.getElementById("rankedList");
+    const statusEl = document.getElementById("rankedStatusLine");
+    listEl.innerHTML = `<div class="empty-state">Loading ranked list…</div>`;
+    try {
+      const resp = await fetch(`${RAW_BASE}research/top-ideas.md?t=${Date.now()}`);
+      if (!resp.ok) throw new Error(`HTTP ${resp.status} — deep research may not have run yet`);
+      const md = await resp.text();
+      const rows = parseTopIdeas(md);
+      window._rankedLoaded = true;
+
+      if (rows.length === 0) {
+        listEl.innerHTML = `<div class="empty-state">No deep-research results yet. This list fills in as the daily deep-research pass works through the watchlist.</div>`;
+        statusEl.innerHTML = "";
+        return;
+      }
+
+      const low = rows.filter(r => parseInt(r.riskScore) <= 3).length;
+      statusEl.innerHTML = `
+        <div class="stat"><div class="num">${rows.length}</div><div class="label">deep-researched</div></div>
+        <div class="stat"><div class="num" style="color:#435530">${low}</div><div class="label">low risk (score ≤3)</div></div>
+      `;
+
+      listEl.innerHTML = rows.map(r => `
+        <div class="rank-row">
+          <div class="rank-num">${escapeHtml(r.rank)}</div>
+          <div class="rank-main">
+            <div class="rank-name-row">
+              <span class="rank-name">${escapeHtml(r.company)}</span>
+              <span class="risk-chip ${riskClass(r.riskScore)}">risk ${escapeHtml(r.riskScore)}/10</span>
+              <span class="stamp ${stampClass(r.revisedBadge.toLowerCase())}">${escapeHtml(r.revisedBadge)}</span>
+            </div>
+            <div class="rank-meta">${escapeHtml(r.category)} · competitor: ${escapeHtml(r.competitorStatus)}</div>
+            <div class="rank-reasoning">${escapeHtml(r.reasoning)}</div>
+          </div>
+        </div>
+      `).join("");
+    } catch (e) {
+      listEl.innerHTML = `<div class="empty-state">Couldn't load top-ideas.md: ${escapeHtml(e.message)}</div>`;
+      statusEl.innerHTML = "";
     }
   }
 
