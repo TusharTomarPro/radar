@@ -26,7 +26,7 @@ western_feeds:
 
 indian_feeds:
   - name: Entrackr
-    url: https://entrackr.com/feed
+    url: https://entrackr.com/rss
   - name: Inc42
     url: https://inc42.com/feed/
   - name: YourStory
