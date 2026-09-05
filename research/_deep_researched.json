@@ -244,5 +244,135 @@
     "capital_intensity": "medium \u2013 the product combines hardware (wearable) with AI software; manufacturing and supply\u2011chain costs are significant but not as capital\u2011heavy as a full\u2011scale logistics operation.",
     "risk_score": 6,
     "risk_reasoning": "The presence of identified competitors (Nfinite, 3Dctrl, Grip) reduces the uniqueness advantage, pushing the badge to orange. Regulatory exposure is moderate due to privacy and consent requirements for recording conversations in India. Capital needs are medium because hardware production adds cost, but the AI component can be scaled software\u2011first. These factors together place the venture at a moderate\u2011high risk level (6/10)."
+  },
+  "causal::2026-09-05": {
+    "company": "Causal",
+    "category": "planning software",
+    "revised_badge": "orange",
+    "competitor_status": "surviving",
+    "regulatory_flag": "moderate",
+    "capital_intensity": "low",
+    "risk_score": 7,
+    "risk_reasoning": "Search evidence shows Causal has multiple established global competitors (Qlik, Cube, Board, Anaplan, Pigment, Datarails) that are actively surviving and serving the FP&A market, meaning an India-localized version would face entrenched incumbents rather than an open field. While the software model itself is low capital intensity and bootstrappable, the regulatory flag is moderate due to India's data localization requirements under the DPDP Act 2023 and RBI guidelines on financial data storage, which add compliance friction for a financial planning tool handling sensitive business data. The combination of surviving global competitors, moderate regulatory overhead, and the need to differentiate against well-funded incumbents makes this a moderately high-risk localization play."
+  },
+  "tabbit-ai::2026-09-05": {
+    "company": "Tabbit AI",
+    "category": "ai-browser",
+    "revised_badge": "black",
+    "competitor_status": "no-real-competitor-found",
+    "regulatory_flag": "moderate",
+    "capital_intensity": "low",
+    "risk_score": 4,
+    "risk_reasoning": "Search evidence shows no direct competitor to Tabbit AI in the AI-browser category, with the named competitors (Sarvam AI, Krutrim, Neysa) operating in sovereign AI infrastructure rather than browser-based AI tools. The regulatory risk is moderate due to India's data localization requirements under the DPDP Act 2023 and potential IT Rules 2021 compliance for AI platforms handling user data. Capital intensity is low since this is a software-margin, asset-light model that can be bootstrapped, though the search results showing many Indian AI startups failing due to capital crunch suggests execution risk remains high."
+  },
+  "nex::2026-09-05": {
+    "company": "Nex",
+    "category": "ai-agent",
+    "revised_badge": "orange",
+    "competitor_status": "surviving",
+    "regulatory_flag": "moderate",
+    "capital_intensity": "low",
+    "risk_score": 6,
+    "risk_reasoning": "Search evidence shows Nex India has established competitors including UST, Deloitte, and Datamatics, plus alternatives like Capital Numbers, Trigma, and TechWize, so this is not a no-competitor situation. The automated marketing content generation space is crowded with both large IT services firms and smaller agencies, making differentiation difficult. While the model is likely software-margin and asset-light (low capital intensity), the regulatory environment for AI-generated content in India is evolving with data localization requirements under the DPDP Act 2023 and potential content liability concerns, adding moderate regulatory risk. The combination of surviving competitors and regulatory uncertainty makes this a medium-risk opportunity."
+  },
+  "dial::2026-09-05": {
+    "company": "Dial",
+    "category": "ai-telephony",
+    "revised_badge": "black",
+    "competitor_status": "no-real-competitor-found",
+    "regulatory_flag": "moderate: AI-telephony in India faces TRAI regulations on spam/robocalls (Trai Act 2000, Consumer Protection rules), potential data localization under DPDP Act 2023, and IT Act Section 66D penalties for fraudulent AI-generated calls\u2014all of which could require compliance infrastructure and limit outreach-scale strategies.",
+    "capital_intensity": "low-to-medium: AI-telephony is primarily software with cloud infrastructure costs, making it relatively asset-light, but achieving India-scale will require significant spending on AI model inference (per-minute costs add up), telecom partnerships, and compliance\u2014moderate capital runway needed before unit economics work.",
+    "risk_score": 6,
+    "risk_reasoning": "The black badge reflects genuine absence of direct AI-telephony competitors in India, which is both opportunity and warning sign\u2014either the market doesn't exist yet or previous attempts failed silently. The moderate regulatory flag (TRAI spam rules, DPDP compliance) adds friction that isn't present in less-regulated markets. Combined with the temporal shelf life note (the competitive window may close as AI costs drop and tech giants expand), this scores a 6: promising but requires fast execution before the window shuts."
+  },
+  "articos::2026-09-05": {
+    "company": "Articos",
+    "category": "product-launch",
+    "revised_badge": "orange",
+    "competitor_status": "surviving",
+    "regulatory_flag": "moderate",
+    "capital_intensity": "low",
+    "risk_score": 6,
+    "risk_reasoning": "Search evidence shows Articos has active competitors including Databox, Dovetail, Betafi, and Kraftful, so the 'no competitor found' guess is wrong. The India startup failure data (28,000+ shutdowns in 2024-2025) signals a harsh funding environment, but Articos is a software-margin, asset-light model that can bootstrap. Moderate regulatory risk comes from India's data localization requirements under the DPDP Act 2023 if Articos processes user research data from Indian users, requiring local data handling compliance."
+  },
+  "touchy::2026-09-05": {
+    "company": "Touchy",
+    "category": "ai-assistant",
+    "revised_badge": "black",
+    "competitor_status": "no-real-competitor-found",
+    "regulatory_flag": "moderate - AI assistants must comply with India's emerging AI governance frameworks (DPIAI guidelines), IT Act Section 43A liability for data breaches, and potential upcoming obligations under the Digital India Act; no sector-specific licensing required but cross-border data flow restrictions apply.",
+    "capital_intensity": "low - software-margin, asset-light model that can reach profitability on modest capital since it avoids the heavy discounting, real estate, or fleet subsidies that plague inventory-based or gig-economy startups.",
+    "risk_score": 5,
+    "risk_reasoning": "The search evidence confirms no direct AI assistant competitors for Touchy in India, which validates the black badge, but the broader context shows over 11,000 Indian startups shut down in 2025 alone due to funding and model issues, indicating market headwinds even for unfilled niches. Moderate regulatory risk exists around data handling and emerging AI rules, though this is manageable for an asset-light software play. The primary risk is timing\u2014a lack of competitors can signal an unproven market rather than a blue ocean."
+  },
+  "roundos::2026-09-05": {
+    "company": "RoundOS",
+    "category": "data-room",
+    "revised_badge": "orange",
+    "competitor_status": "surviving",
+    "regulatory_flag": "moderate",
+    "capital_intensity": "low",
+    "risk_score": 6,
+    "risk_reasoning": "Search evidence confirms multiple surviving competitors in the India data-room/document-sharing space (Digify, SmartRoom, Paperflite, Papermark, SendNow), so this is not an open field. The regulatory flag is moderate due to India's data localization requirements under the DPDP Act 2023 and sector-specific rules for financial/legal document handling, which add compliance overhead. Capital intensity is low since this is a software-margin, asset-light model, but the crowded market and lack of clear differentiation raise the risk score to 6."
+  },
+  "roadie::2026-09-05": {
+    "company": "Roadie",
+    "category": "audio-utility",
+    "revised_badge": "black",
+    "competitor_status": "no-real-competitor-found",
+    "regulatory_flag": "none",
+    "capital_intensity": "low",
+    "risk_score": 3,
+    "risk_reasoning": "Search evidence found no direct competitor for Roadie in India\u2014the results were noise (MTV Roadies reality show contestants and unrelated failed startups like Autto.in and RoomsTonite). The audio-utility category is asset-light and software-margin, making it bootstrappable rather than VC-subsidized. No specific Indian regulatory walls (FDI, RBI, gig labor, data localization) appear to apply to this model, keeping risk low despite the unproven market."
+  },
+  "nravic::2026-09-05": {
+    "company": "Nravic",
+    "category": "icon-service",
+    "revised_badge": "black",
+    "competitor_status": "no-real-competitor-found",
+    "regulatory_flag": "moderate",
+    "capital_intensity": "low",
+    "risk_score": 6,
+    "risk_reasoning": "No direct competitor surfaced in search, which could indicate either a genuinely uncontested niche or, more likely, a market that hasn't validated demand yet. The broader icon/AI-service space in India is attracting attention from defense-tech and AI players (e.g., iDEX-backed startups, deeptech firms like Log9 that recently failed), suggesting competitive entry is plausible. The category 'icon-service' is unclear and may lack a regulatory moat, while moderate flags around data handling and AI-generated content could apply. Low capital intensity is a positive, but absence of competitors combined with a vague value proposition raises demand-validation risk."
+  },
+  "urban-company::2026-09-05": {
+    "company": "Urban Company",
+    "category": "home services",
+    "revised_badge": "orange",
+    "competitor_status": "surviving",
+    "regulatory_flag": "moderate - subject to India's Contract Labour (Regulation and Abolition) Act, 1970 and emerging gig\u2011worker legislation, plus standard data\u2011localisation requirements under the IT Act",
+    "capital_intensity": "medium - the model is asset\u2011light but requires substantial marketing spend and ongoing quality\u2011control investments to acquire and retain gig workers",
+    "risk_score": 7,
+    "risk_reasoning": "Urban Company is a well\u2011funded, operational incumbent, making market entry difficult. Regulatory exposure is moderate due to labor\u2011law compliance for gig workers, which could tighten. Capital needs are not negligible because of high customer\u2011acquisition costs, pushing the overall risk to a high\u2011mid range."
+  },
+  "flipkart-minutes::2026-09-05": {
+    "company": "Flipkart Minutes",
+    "category": "quick-commerce",
+    "revised_badge": "orange",
+    "competitor_status": "surviving",
+    "regulatory_flag": "moderate",
+    "capital_intensity": "high",
+    "risk_score": 8,
+    "risk_reasoning": "Flipkart Minutes is entering a market already dominated by well-funded, established players like Blinkit (profitable as of March 2026) and Swiggy Instamart, which have spent years building supply chains and dark-store networks. The search evidence shows Flipkart Minutes is already struggling with profitability and expansion pauses, indicating a late-mover disadvantage in a capital-intensive, cash-burn model. Regulatory risk is moderate due to India's FDI restrictions on inventory-based multi-brand e-commerce, which constrain how Flipkart can structure its dark stores and inventory ownership, adding friction to an already difficult unit-economics challenge."
+  },
+  "whatsapp-pay::2026-09-05": {
+    "company": "WhatsApp Pay",
+    "category": "upi-payments",
+    "revised_badge": "orange",
+    "competitor_status": "surviving",
+    "regulatory_flag": "moderate",
+    "capital_intensity": "medium",
+    "risk_score": 5,
+    "risk_reasoning": "PhonePe is actively funded and operating in India, and Google Pay continues to serve Indian users despite its US shutdown, indicating strong surviving competitors in the UPI payments space. Launching a new WhatsApp Pay localized version will require obtaining an RBI Payment Aggregator license and complying with data-localization rules, which impose moderate regulatory hurdles. While the UPI ecosystem can be built with a relatively modest capital outlay, competing against deep\u2011pocketed incumbents and navigating compliance adds material risk, leading to a moderate\u2011high risk score."
+  },
+  "ultrahuman::2026-09-05": {
+    "company": "Ultrahuman",
+    "category": "healthtech",
+    "revised_badge": "orange",
+    "competitor_status": "surviving",
+    "regulatory_flag": "moderate",
+    "capital_intensity": "high",
+    "risk_score": 8,
+    "risk_reasoning": "Search evidence shows Ultrahuman is an active, well-funded player with 580 employees and growing hiring, while Oura has directly entered the Indian market with Ring 4, confirming a real, surviving competitor. The hardware-plus-continuous-glucose-monitoring model is capital-intensive, requiring manufacturing, inventory, and deep metabolic health integration that is not bootstrappable. Regulatory exposure is moderate due to health data localization requirements under India's DPDP Act and potential medical device licensing under CDSCO rules for wearable health claims, adding compliance burden on top of an already expensive competitive fight."
   }
 }
