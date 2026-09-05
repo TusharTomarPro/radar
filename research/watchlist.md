@@ -109,3 +109,65 @@
 | Uber | last-mile logistics | orange | 2026-09-05 | Dunzo, Swiggy Genie, Borzo |
 | Netflix | streaming | orange | 2026-09-05 | Disney+ Hotstar |
 | Atomberg | energy-efficient appliances | orange | 2026-09-05 | Crompton Greaves (Energy Conservation series), Havells (Ampero range) |
+| Userlens | ai-agent | orange | 2026-09-05 | MoEngage |
+| IBM Bob | enterprise-ai | orange | 2026-09-05 | Haptik |
+| Apple | consumer-hardware | orange | 2026-09-05 | Samsung |
+| Apple | foldable-phone | black | 2026-09-05 | none found |
+| Geneva Watch Days | watch-events | black | 2026-09-05 | none found |
+| Remote Work as a Worm | indie-game | orange | 2026-09-05 | Nodding Heads Games |
+| Slice | fintech | orange | 2026-09-05 | OneCard |
+| Comet | D2C footwear | orange | 2026-09-05 | Gully Labs |
+| Flipkart Minutes | quick-commerce | orange | 2026-09-05 | Blinkit |
+| Rentomojo | furniture-rental | orange | 2026-09-05 | Furlenco |
+| Leanwatts | power-electronics | orange | 2026-09-05 | Dynolt Technologies |
+| Ultrahuman | health-wearables | orange | 2026-09-05 | Ultrahuman |
+| Slice | digital-banking | orange | 2026-09-05 | Jupiter |
+| Cradlewise | consumer-tech | orange | 2026-09-05 | Masilo |
+| YoLearn.ai | edtech | orange | 2026-09-05 | SiglQ.AI |
+| Makr Microsystems | semiconductor metrology | black | 2026-09-05 | none found |
+| Plum | D2C beauty | orange | 2026-09-05 | Mamaearth |
+| Rilo | marketing-tech | black | 2026-09-05 | none found |
+| Creedom | creator-tech | orange | 2026-09-05 | Influish |
+| Flipkart | microdrama | orange | 2026-09-05 | Kuku TV |
+| Comet | D2C footwear | orange | 2026-09-05 | Gully Labs |
+| DocPharma | healthtech supply-chain | orange | 2026-09-05 | Plazza |
+| Mokobara | D2C travel-gear | orange | 2026-09-05 | Mokobara |
+| JioHotstar | streaming | orange | 2026-09-05 | JioHotstar |
+| Zostel | premium-hospitality | orange | 2026-09-05 | OYO Townhouse |
+| Oppex AI | ai-agent | black | 2026-09-05 | none found |
+| Aeron Systems | deeptech | black | 2026-09-05 | none found |
+| Ultrahuman | health-tech wearables | orange | 2026-09-05 | Noise, boAt (smart ring/wearables); HealthifyMe and Sugar.fit (metabolic health tracking) |
+| Minimac Systems | industrial-circularity | orange | 2026-09-05 | ReVivo's LubeLoop |
+| Unacademy | edtech | orange | 2026-09-05 | Unacademy itself is an Indian company; UpGrad is also Indian, so the merged entity is India-based. |
+| Alteon | deep-tech aerospace | orange | 2026-09-05 | Airbound |
+| Niyo | travel-fintech | orange | 2026-09-05 | BookMyForex |
+| Entrackr | media-analytics | orange | 2026-09-05 | Inc42 |
+| Yuma Energy | battery-swapping | orange | 2026-09-05 | Battery Smart (Sun Mobility and Gogoro India are also direct competitors) |
+| InsuranceDekho (merged with RenewBuy) | insurtech | orange | 2026-09-05 | Policybazaar |
+| Kepler Aerospace | spacetech | orange | 2026-09-05 | Digantara |
+| Zenergize | deeptech, clean-energy | orange | 2026-09-05 | Exicom |
+| EquityList | fintech | orange | 2026-09-05 | Qapita |
+| Meragi | wedding-services | orange | 2026-09-05 | WedMeGood |
+| Groww AMC | asset-management | orange | 2026-09-05 | Zerodha (through its Rainmatter venture) |
+| Dixon Technologies | electronics-manufacturing | orange | 2026-09-05 | Dixon Technologies |
+| IIT Guwahati | ai-hardware | black | 2026-09-05 | none found |
+| OpenAI GPT-6 Astra | ai-model | orange | 2026-09-05 | Sarvam AI |
+| Hugging Face | ai-infrastructure | black | 2026-09-05 | none found |
+| Bodhan AI | AI education | black | 2026-09-05 | none found |
+| Nvidia RTX Spark | ai-hardware | black | 2026-09-05 | none found |
+| Nvidia PAIR | ai-infrastructure | black | 2026-09-05 | none found |
+| WhatsApp | messaging-fintech | orange | 2026-09-05 | Paytm and PhonePe already offer in-app bill payments. |
+| Perplexity | ai-infrastructure | orange | 2026-09-05 | Sarvam AI |
+| WhatsApp (Meta) | payments | orange | 2026-09-05 | PhonePe, Paytm, Google Pay |
+| Uber-Wayve Robotaxi | autonomous-mobility | black | 2026-09-05 | none found |
+| EY | ai-forecasting | orange | 2026-09-05 | Fractal Analytics |
+| Samsung Galaxy Watch series | consumer-electronics | orange | 2026-09-05 | Fire-Boltt |
+| Mozilla Firefox | browser-tech | black | 2026-09-05 | none found |
+| JioPC | cloud-computing | orange | 2026-09-05 | JioPC |
+| Google Android | mobile-ai | black | 2026-09-05 | none found |
+| Apple | consumer-electronics | black | 2026-09-05 | none found |
+| Sonos | audio-tech | black | 2026-09-05 | none found |
+| SpaceX | energy-manufacturing | black | 2026-09-05 | none found |
+| AI Literacy Platform | edtech | orange | 2026-09-05 | Upskill (by upGrad) |
+| Anthropic | ai-infrastructure | black | 2026-09-05 | none found |
+| Razorpay | fintech | orange | 2026-09-05 | PhonePe |
