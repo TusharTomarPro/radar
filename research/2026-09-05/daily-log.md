@@ -1609,3 +1609,12 @@
 - India fit note: The model relies on abundant, reliable power and high‑speed fiber, which are still uneven across many Indian regions; Hyderabad’s strong IT ecosystem mitigates this, but scaling nationwide may face grid stability and talent constraints.
 - Badge guess: orange
 
+## Learn Programming with OCaml (LPO)
+- Source article: [Learn Programming with OCaml](https://usr.lmf.cnrs.fr/lpo/) (Hacker News (front page))
+- Category: edtech
+- What it does: Offers free online tutorials, exercises and a sandbox to teach the OCaml functional programming language.
+- Likely revenue model: Funded by academic grants and institutional support, no direct monetization.
+- India equivalent: Coding Ninjas
+- India fit note: OCaml has low adoption in India, so demand may be limited, but the platform only needs basic internet access which is widely available.
+- Badge guess: orange
+

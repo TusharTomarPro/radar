@@ -181,3 +181,4 @@
 | Acer | handheld-gaming | black | 2026-09-05 | none found |
 | HyperVault | ai-infrastructure | orange | 2026-09-05 | CtrlS |
 | TCS HyperVault | ai-infrastructure | orange | 2026-09-05 | CtrlS Data Centers |
+| Learn Programming with OCaml (LPO) | edtech | orange | 2026-09-05 | Coding Ninjas |
