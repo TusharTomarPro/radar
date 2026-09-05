@@ -41,7 +41,7 @@ def fetch_new_articles():
             resp = requests.get(
                 feed["url"],
                 timeout=15,  # hard cap so one slow/hanging feed can't block the whole run
-                headers={"User-Agent": "Mozilla/5.0 (research-radar bot)"},
+                                headers={"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"},
             )
             resp.raise_for_status()
             parsed = feedparser.parse(resp.content)
