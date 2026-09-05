@@ -94,5 +94,155 @@
     "competitor_status": "no-real-competitor-found",
     "risk_score": 4,
     "risk_reasoning": "Search evidence found no relevant AI-agent competitors for Clockwork in India; the competitors returned (Tezign, Vimeo, OpusClip, Accenture, Deloitte) are design/video tools or consulting firms, not AI agents. The failed startup data (Log9 Materials, GenWise, etc.) identified general Indian startup closures but none connected to AI agents, suggesting the gap is structural rather than temporal. Risk is moderate because the absence of competitors could indicate genuine market gaps or simply that Indian enterprises aren't ready for AI agent adoption yet."
+  },
+  "roland::2026-09-05": {
+    "company": "Roland",
+    "category": "ai-music",
+    "revised_badge": "orange",
+    "competitor_status": "surviving",
+    "regulatory_flag": "none",
+    "capital_intensity": "high",
+    "risk_score": 6,
+    "risk_reasoning": "Roland faces established, well\u2011funded competitors (Yamaha, Casio, Kawai) that dominate the Indian market, making entry difficult. The business would require significant capital for hardware inventory, distribution, and possibly licensing of AI models, driving a high capital intensity. Regulatory exposure is minimal for music hardware/software, but the combination of strong incumbents and heavy upfront costs raises the overall risk to a moderate level."
+  },
+  "offline-js-playground::2026-09-05": {
+    "company": "Offline JS Playground",
+    "category": "dev-tools",
+    "revised_badge": "orange",
+    "competitor_status": "surviving",
+    "regulatory_flag": "none",
+    "capital_intensity": "low",
+    "risk_score": 4,
+    "risk_reasoning": "LiveCodes, a global offline JavaScript playground, is actively serving users and offers full offline PWA support, meaning a direct competitor already exists. The product is pure software with no data\u2011intensive or financial services components, so Indian regulations (FDI, RBI, data\u2011localisation, etc.) pose essentially no barrier. Development and hosting costs are modest, making the model bootstrappable. The presence of an established competitor raises market risk, but the low capital and regulatory exposure keep the overall risk moderate (score 4)."
+  },
+  "snitch::2026-09-05": {
+    "company": "Snitch",
+    "category": "hr-tech",
+    "revised_badge": "black",
+    "competitor_status": "dead",
+    "regulatory_flag": "moderate \u2013 Indian data\u2011localisation rules (e.g., Personal Data Protection Bill provisions) and labor\u2011law compliance requirements affect employee\u2011data SaaS platforms.",
+    "capital_intensity": "low \u2013 the model is software\u2011only, asset\u2011light and can reach profitability with modest VC funding.",
+    "risk_score": 3,
+    "risk_reasoning": "With Freshteam exiting the market, there is currently no direct competitor cited, giving Snitch a clear entry opportunity (black badge). The primary risk comes from moderate regulatory exposure around data localisation and labor\u2011law compliance, but the SaaS nature keeps capital needs low, resulting in an overall low\u2011to\u2011moderate risk profile."
+  },
+  "weathernext::2026-09-05": {
+    "company": "WeatherNext",
+    "category": "weather-ai",
+    "revised_badge": "orange",
+    "competitor_status": "surviving",
+    "regulatory_flag": "none",
+    "capital_intensity": "low",
+    "risk_score": 4,
+    "risk_reasoning": "Skymet Weather Services is an active, funded competitor, indicating a non\u2011zero market barrier, but weather forecasting is a data\u2011light, software\u2011only service with no specific Indian licensing or data\u2011localization hurdles. The business can be built asset\u2011light, keeping capital needs low, so overall risk is moderate rather than high."
+  },
+  "twelvelabs::2026-09-05": {
+    "company": "TwelveLabs",
+    "category": "video-compliance",
+    "revised_badge": "orange",
+    "competitor_status": "surviving",
+    "regulatory_flag": "moderate \u2013 subject to India\u2019s Personal Data Protection Bill (draft) and data\u2011localisation rules for \u201ccritical personal data\u201d that could affect video\u2011surveillance/compliance services",
+    "capital_intensity": "low \u2013 the product is a cloud\u2011based API (software\u2011only), requiring minimal physical assets or inventory",
+    "risk_score": 5,
+    "risk_reasoning": "The market already has several active players (Nodeflux, Conviva, BriefCam, etc.), reducing the upside of a new entrant. Regulatory exposure is moderate due to emerging data\u2011privacy legislation, but the SaaS model is asset\u2011light, keeping capital needs low. Combined, these factors place the venture at a medium risk level."
+  },
+  "myaicademy::2026-09-05": {
+    "company": "myAIcademy",
+    "category": "ai-education",
+    "revised_badge": "orange",
+    "competitor_status": "surviving",
+    "regulatory_flag": "moderate",
+    "capital_intensity": "low",
+    "risk_score": 5,
+    "risk_reasoning": "Search results list several active Indian AI\u2011education platforms (Learn.xyz, GoIT LMS, Wilco, Creatium, etc.), confirming a competitive landscape. The model faces moderate regulatory risk due to data\u2011localisation requirements under the IT Act and the pending Personal Data Protection Bill, but no sector\u2011specific licensing hurdles. Capital needs are low because the product is software\u2011only and can leverage generative AI for content, making it bootstrappable. These factors combine to a mid\u2011range risk score."
+  },
+  "sidebranch::2026-09-05": {
+    "company": "Sidebranch",
+    "category": "dev-tools",
+    "revised_badge": "black",
+    "competitor_status": "no-real-competitor-found",
+    "regulatory_flag": "none",
+    "capital_intensity": "low",
+    "risk_score": 3,
+    "risk_reasoning": "The search results do not identify any genuine dev\u2011tools rivals for Sidebranch, suggesting a clear market gap. Dev\u2011tools SaaS face minimal regulatory hurdles in India, and the model is asset\u2011light, requiring modest capital. Together these factors keep the overall risk low, though some uncertainty remains around market adoption and execution."
+  },
+  "trackmcp::2026-09-05": {
+    "company": "TrackMCP",
+    "category": "gaming-analytics",
+    "revised_badge": "orange",
+    "competitor_status": "surviving",
+    "regulatory_flag": "moderate \u2013 must comply with India\u2019s Personal Data Protection Bill (PDPB) data\u2011localisation and consent requirements for user\u2011level gaming data",
+    "capital_intensity": "low \u2013 SaaS analytics can be built asset\u2011light and reach profitability with modest cloud spend",
+    "risk_score": 5,
+    "risk_reasoning": "The search evidence shows active competitors (Digma, Skybridge, Latitude), so the market is not empty. Regulatory exposure is limited to data\u2011privacy compliance, which is manageable. Capital needs are low for a software\u2011only model, reducing burn risk. Combined, these factors place the venture at a moderate risk level."
+  },
+  "cmmnts::2026-09-05": {
+    "company": "cmmnts",
+    "category": "comment-platform",
+    "revised_badge": "black",
+    "competitor_status": "no-real-competitor-found",
+    "regulatory_flag": "moderate",
+    "capital_intensity": "low",
+    "risk_score": 3,
+    "risk_reasoning": "The web searches returned no evidence of a surviving comment\u2011platform competitor in India, leaving the market untapped. The main regulatory constraints are the IT (Intermediary Guidelines and Digital Media Ethics Code) Rules, which impose moderate compliance costs for content moderation and grievance handling. Combined with the low capital requirement for a software\u2011as\u2011a\u2011service model, the overall risk is relatively low, though demand uncertainty remains a key factor."
+  },
+  "google-gemini::2026-09-05": {
+    "company": "Google Gemini",
+    "category": "ai-agent",
+    "revised_badge": "orange",
+    "competitor_status": "surviving",
+    "regulatory_flag": "moderate \u2013 India\u2019s Personal Data Protection Bill (2023) mandates local storage of critical personal data and the draft AI Regulation imposes compliance obligations for high\u2011risk AI systems.",
+    "capital_intensity": "high \u2013 Localizing Gemini requires substantial compute infrastructure, large\u2011scale data acquisition, and engineering talent, making it a capital\u2011heavy effort.",
+    "risk_score": 7,
+    "risk_reasoning": "The market already has strong, surviving alternatives (Claude, ChatGPT, Sintra AI), reducing differentiation. Indian data\u2011localization and emerging AI regulations add moderate compliance risk. Moreover, the high capital outlay for compute and data makes the venture capital\u2011intensive, pushing the overall risk to a 7/10."
+  },
+  "grove::2026-09-05": {
+    "company": "Grove",
+    "category": "developer-tools",
+    "revised_badge": "black",
+    "competitor_status": "no-real-competitor-found",
+    "regulatory_flag": "moderate \u2013 India\u2019s data\u2011localisation requirements under the Draft Personal Data Protection Bill (and related rules for cross\u2011border data transfer) could impose compliance costs.",
+    "capital_intensity": "low \u2013 a developer\u2011tools SaaS product is asset\u2011light and can be built and scaled with modest engineering spend, without the heavy inventory or logistics costs seen in consumer\u2011goods models.",
+    "risk_score": 3,
+    "risk_reasoning": "The search evidence shows no direct Indian competitor for a developer\u2011tools offering, keeping competitive risk low. Regulatory exposure is only moderate due to data\u2011localisation rules, which are manageable for a SaaS product. Capital needs are low, allowing a bootstrap or modest VC runway, resulting in an overall low\u2011to\u2011moderate risk profile."
+  },
+  "tidy::2026-09-05": {
+    "company": "Tidy",
+    "category": "ai-grammar",
+    "revised_badge": "orange",
+    "competitor_status": "surviving",
+    "regulatory_flag": "none",
+    "capital_intensity": "low",
+    "risk_score": 4,
+    "risk_reasoning": "Search results list several Indian firms (Clean India Group, Lianlian, Book a Tiger, SOLID Surface Care, Mclean Technologies) and SaaS alternatives (Hire with Near, Upshift, Bruntwork, Quickbase, SAP Business ByDesign, monday.com) that directly compete with a Tidy-like offering, confirming a competitive market. The AI\u2011grammar SaaS model is asset\u2011light and faces minimal regulatory hurdles in India, keeping capital needs low. With clear competition but low regulatory and capital risk, the overall risk is moderate (score 4)."
+  },
+  "world-labs::2026-09-05": {
+    "company": "World Labs",
+    "category": "AI video generation",
+    "revised_badge": "orange",
+    "competitor_status": "surviving",
+    "regulatory_flag": "moderate \u2013 India\u2019s Personal Data Protection Bill (PDPB) and the IT Act\u2019s provisions on deep\u2011fake/AI\u2011generated content impose data\u2011localisation and misuse\u2011prevention obligations.",
+    "capital_intensity": "medium \u2013 The model is software\u2011centric but requires substantial GPU compute and talent, leading to a notable cash burn that can be mitigated with cloud credits or strategic partnerships.",
+    "risk_score": 5,
+    "risk_reasoning": "World Labs faces strong, well\u2011funded competitors (Meta, NVIDIA, Google) that can out\u2011spend and out\u2011innovate, raising competitive risk. Regulatory exposure is moderate due to emerging AI\u2011content rules and data\u2011localisation requirements, but not a blocker. Capital needs are medium because compute costs are high yet the business remains asset\u2011light, yielding a balanced overall risk profile."
+  },
+  "thaw::2026-09-05": {
+    "company": "Thaw",
+    "category": "productivity",
+    "revised_badge": "black",
+    "competitor_status": "no-real-competitor-found",
+    "regulatory_flag": "none",
+    "capital_intensity": "low",
+    "risk_score": 3,
+    "risk_reasoning": "The search evidence shows no existing competitor, suggesting a clear market gap, and the SaaS productivity model faces minimal regulatory hurdles in India. Capital needs are modest because the product is software\u2011only and asset\u2011light, reducing burn risk. The remaining uncertainty stems from market adoption and execution risk, placing the overall risk at a low\u2011moderate level."
+  },
+  "omi::2026-09-05": {
+    "company": "Omi",
+    "category": "ai-assistant",
+    "revised_badge": "orange",
+    "competitor_status": "unclear",
+    "regulatory_flag": "moderate \u2013 audio recording and personal data processing fall under India\u2019s Personal Data Protection Bill (draft) and the IT Act\u2019s privacy provisions, requiring explicit user consent and data localisation.",
+    "capital_intensity": "medium \u2013 the product combines hardware (wearable) with AI software; manufacturing and supply\u2011chain costs are significant but not as capital\u2011heavy as a full\u2011scale logistics operation.",
+    "risk_score": 6,
+    "risk_reasoning": "The presence of identified competitors (Nfinite, 3Dctrl, Grip) reduces the uniqueness advantage, pushing the badge to orange. Regulatory exposure is moderate due to privacy and consent requirements for recording conversations in India. Capital needs are medium because hardware production adds cost, but the AI component can be scaled software\u2011first. These factors together place the venture at a moderate\u2011high risk level (6/10)."
   }
 }
