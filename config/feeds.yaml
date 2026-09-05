@@ -1,5 +1,4 @@
-# Add or remove RSS feeds here. All of these are free, public, no API key needed.
-# Tip: search "<sitename> rss feed" to find more. Most news sites have one even if not linked on the homepage.
+# search "<sitename> rss feed" to find more. Most news sites have one even if not linked on the homepage.
 
 western_feeds:
   - name: TechCrunch
@@ -12,6 +11,18 @@ western_feeds:
     url: https://www.producthunt.com/feed
   - name: Hacker News (front page)
     url: https://hnrss.org/frontpage
+  - name: Ars Technica
+    url: https://feeds.arstechnica.com/arstechnica/index
+  - name: Fast Company
+    url: https://www.fastcompany.com/technology/rss
+  - name: Wired
+    url: https://www.wired.com/feed/rss
+  - name: Engadget
+    url: https://www.engadget.com/rss.xml
+  - name: TechCrunch Startups
+    url: https://techcrunch.com/category/startups/feed/
+  - name: Crunchbase News
+    url: https://news.crunchbase.com/feed/
 
 indian_feeds:
   - name: Entrackr
@@ -24,7 +35,17 @@ indian_feeds:
     url: https://economictimes.indiatimes.com/tech/rssfeeds/13357270.cms
   - name: Business Standard Tech
     url: https://www.business-standard.com/rss/technology-108.rss
+  - name: Moneycontrol Business
+    url: https://www.moneycontrol.com/rss/business.xml
+  - name: LiveMint Companies
+    url: https://www.livemint.com/rss/companies
+  - name: The Ken (public feed)
+    url: https://the-ken.com/feed/
+  - name: Financial Express Industry
+    url: https://www.financialexpress.com/industry/feed/
 
-# You can add subreddit feeds free too, e.g.:
+# add subreddit feeds free too, e.g.:
 #   - name: r/startups
 #     url: https://www.reddit.com/r/startups/.rss
+#   - name: r/india
+#     url: https://www.reddit.com/r/india/.rss
