@@ -592,3 +592,21 @@
 - India fit note: Shein's model depends on ultra‑fast, low‑cost cross‑border logistics and a supply chain centered in China; in India, higher import duties, slower last‑mile delivery, and different consumer size preferences could limit replication.
 - Badge guess: orange
 
+## Retold
+- Source article: [Retold](https://www.producthunt.com/products/retold) (Product Hunt)
+- Category: storytelling
+- What it does: Retold turns recorded family voice messages into hand‑drawn animated story films, creating personalized visual narratives from audio.
+- Likely revenue model: Charges a per‑video fee (or subscription tier) for each custom animated story produced.
+- India equivalent: none found
+- India fit note: The service relies on families regularly recording voice stories and being willing to pay for bespoke hand‑drawn animation, which may be limited in India due to cost sensitivity and lower awareness of such niche personalized media.
+- Badge guess: black
+
+## PagerDuty AI
+- Source article: [AI handles incidents, engineers lose touch with their systems](https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems) (Hacker News (front page))
+- Category: ai-ops
+- What it does: Uses large language model‑driven automation to detect, diagnose and resolve production incidents without human intervention, surfacing root‑cause insights to engineers.
+- Likely revenue model: Subscription SaaS pricing based on number of monitored services or incidents per month.
+- India equivalent: none found
+- India fit note: Relies on mature cloud observability stacks and a culture of automated incident response that is still emerging in many Indian enterprises.
+- Badge guess: black
+

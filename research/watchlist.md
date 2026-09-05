@@ -68,3 +68,5 @@
 | Queuebrick | movie-social | black | 2026-09-05 | none found |
 | Pushin | devops | black | 2026-09-05 | none found |
 | Shein | fast-fashion | orange | 2026-09-05 | Myntra |
+| Retold | storytelling | black | 2026-09-05 | none found |
+| PagerDuty AI | ai-ops | black | 2026-09-05 | none found |
