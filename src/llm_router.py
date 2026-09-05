@@ -20,12 +20,11 @@ just swap the provider list below.
 import os
 import time
 import json
+import re
 import requests
 
 CALL_LOG_PATH = os.path.join(os.path.dirname(__file__), "..", "research", "_call_log.jsonl")
 
-
-import re
 
 def _scrub_secrets(text):
     """Defense in depth: strip anything that looks like a key=... or apikey=... query param
@@ -88,7 +87,7 @@ def _get_gemini_model():
 
     key = os.environ.get("GEMINI_API_KEY")
     if not key:
-        return "gemini-2.0-flash"  # will fail downstream with a clear "no key" error anyway
+        return "gemini-2.0-flash"
 
     try:
         resp = requests.get(
@@ -98,7 +97,6 @@ def _get_gemini_model():
         if resp.status_code >= 400:
             raise RuntimeError(f"gemini model list HTTP {resp.status_code}")
         models = resp.json().get("models", [])
-        # Prefer models with "flash" in the name that support generateContent, not "flash-lite" or "-tts"/"-image"
         candidates = [
             m["name"].replace("models/", "")
             for m in models
@@ -109,7 +107,6 @@ def _get_gemini_model():
             and "image" not in m.get("name", "").lower()
         ]
         if candidates:
-            # Sort so newest-looking version string comes first (crude but works: e.g. gemini-3-flash > gemini-2.0-flash)
             candidates.sort(reverse=True)
             _gemini_model_cache["name"] = candidates[0]
             return candidates[0]
@@ -134,29 +131,25 @@ def call_gemini(prompt, model=None):
             timeout=30,
         )
     except requests.exceptions.RequestException as e:
-        # Never let the raw exception (which embeds the URL, and therefore the key) get logged
         raise RuntimeError(f"gemini request failed (network-level, model={model})")
 
     if resp.status_code == 429:
         raise RuntimeError("gemini rate limited")
     if resp.status_code == 404:
-        # Model may have just been renamed again -- clear cache so the next call re-discovers it
         _gemini_model_cache["name"] = None
         raise RuntimeError(f"gemini 404 for model '{model}' -- cache cleared, will rediscover next call")
     if resp.status_code >= 400:
-        # Build our own error message from status code only -- never call resp.raise_for_status()
-        # here, since its exception text includes the full request URL (and therefore the key).
         raise RuntimeError(f"gemini HTTP {resp.status_code} for model '{model}'")
     data = resp.json()
     return data["candidates"][0]["content"]["parts"][0]["text"]
 
 
-def call_cerebras(prompt, model="gpt-oss-120b"):
-    key = os.environ.get("CEREBRAS_API_KEY")
+def call_mistral(prompt, model="mistral-small-latest"):
+    key = os.environ.get("MISTRAL_API_KEY")
     if not key:
-        raise RuntimeError("no CEREBRAS_API_KEY set")
+        raise RuntimeError("no MISTRAL_API_KEY set")
     resp = requests.post(
-        "https://api.cerebras.ai/v1/chat/completions",
+        "https://api.mistral.ai/v1/chat/completions",
         headers={"Authorization": f"Bearer {key}", "Content-Type": "application/json"},
         json={
             "model": model,
@@ -166,8 +159,30 @@ def call_cerebras(prompt, model="gpt-oss-120b"):
         timeout=30,
     )
     if resp.status_code == 429:
-        raise RuntimeError("cerebras rate limited")
-    resp.raise_for_status()
+        raise RuntimeError("mistral rate limited")
+    if resp.status_code >= 400:
+        raise RuntimeError(f"mistral HTTP {resp.status_code}")
+    return resp.json()["choices"][0]["message"]["content"]
+
+
+def call_nvidia(prompt, model="deepseek-ai/deepseek-v4-pro-0813"):
+    key = os.environ.get("NVIDIA_API_KEY")
+    if not key:
+        raise RuntimeError("no NVIDIA_API_KEY set")
+    resp = requests.post(
+        "https://integrate.api.nvidia.com/v1/chat/completions",
+        headers={"Authorization": f"Bearer {key}", "Content-Type": "application/json"},
+        json={
+            "model": model,
+            "messages": [{"role": "user", "content": prompt}],
+            "temperature": 0.3,
+        },
+        timeout=30,
+    )
+    if resp.status_code == 429:
+        raise RuntimeError("nvidia rate limited")
+    if resp.status_code >= 400:
+        raise RuntimeError(f"nvidia HTTP {resp.status_code}")
     return resp.json()["choices"][0]["message"]["content"]
 
 
@@ -195,16 +210,18 @@ def call_openrouter(prompt, model="openrouter/free"):
 
 FILTER_TIER = [
     ("groq", call_groq, "openai/gpt-oss-20b"),
-    ("gemini", call_gemini, None),  # None = auto-discover current model, see _get_gemini_model()
+    ("mistral", call_mistral, "mistral-small-latest"),
+    ("nvidia", call_nvidia, "deepseek-ai/deepseek-v4-pro-0813"),
+    ("gemini", call_gemini, None),
     ("openrouter", call_openrouter, "openrouter/free"),
-    ("cerebras", call_cerebras, "gpt-oss-120b"),  # free tier here has been unstable lately, kept as last resort
 ]
 
 EXTRACT_TIER = [
     ("gemini", call_gemini, None),
+    ("mistral", call_mistral, "mistral-small-latest"),
     ("groq", call_groq, "openai/gpt-oss-120b"),
+    ("nvidia", call_nvidia, "deepseek-ai/deepseek-v4-pro-0813"),
     ("openrouter", call_openrouter, "openrouter/free"),
-    ("cerebras", call_cerebras, "gpt-oss-120b"),
 ]
 
 
