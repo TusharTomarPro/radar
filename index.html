@@ -596,9 +596,13 @@
     const rows = [];
     for (const line of dataLines) {
       const cells = line.split("|").map(c => c.trim()).filter((_, i, arr) => i > 0 && i < arr.length - 1);
-      if (cells.length < 7) continue;
-      const [rank, company, category, revisedBadge, competitorStatus, riskScore, reasoning] = cells;
-      rows.push({ rank, company, category, revisedBadge, competitorStatus, riskScore: riskScore.replace(/\/10/, ""), reasoning });
+      if (cells.length < 9) continue;
+      const [rank, company, category, revisedBadge, competitorStatus, regulatoryFlag, capitalIntensity, riskScore, reasoning] = cells;
+      rows.push({
+        rank, company, category, revisedBadge, competitorStatus,
+        regulatoryFlag, capitalIntensity,
+        riskScore: riskScore.replace(/\/10/, ""), reasoning
+      });
     }
     return rows;
   }
@@ -635,7 +639,10 @@
               <span class="risk-chip ${riskClass(r.riskScore)}">risk ${escapeHtml(r.riskScore)}/10</span>
               <span class="stamp ${stampClass(r.revisedBadge.toLowerCase())}">${escapeHtml(r.revisedBadge)}</span>
             </div>
-            <div class="rank-meta">${escapeHtml(r.category)} · competitor: ${escapeHtml(r.competitorStatus)}</div>
+            <div class="rank-meta">
+              ${escapeHtml(r.category)} · competitor: ${escapeHtml(r.competitorStatus)}
+              · regulatory: ${escapeHtml(r.regulatoryFlag)} · capital: ${escapeHtml(r.capitalIntensity)}
+            </div>
             <div class="rank-reasoning">${escapeHtml(r.reasoning)}</div>
           </div>
         </div>
