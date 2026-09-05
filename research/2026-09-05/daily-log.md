@@ -1618,3 +1618,21 @@
 - India fit note: OCaml has low adoption in India, so demand may be limited, but the platform only needs basic internet access which is widely available.
 - Badge guess: orange
 
+## Earth Garden
+- Source article: [Explore the globe in field recordings](https://www.theverge.com/tech/990873/earth-garden-globe-field-recordings) (The Verge)
+- Category: audio-discovery
+- What it does: Earth Garden offers an interactive globe where users can stream real‑world field recordings from locations worldwide, used for relaxation, focus, or creative inspiration. The platform curates ambient sounds like forests, city streets, and oceans for on‑demand listening.
+- Likely revenue model: A freemium model with a subscription tier that unlocks unlimited listening, higher‑quality audio, and exclusive recordings, plus possible licensing of its sound library to creators and brands.
+- India equivalent: none found
+- India fit note: Success in India would rely on high‑speed internet access and a cultural appetite for ambient soundscapes, which are growing but still niche; licensing global recordings may also face regional rights challenges.
+- Badge guess: black
+
+## Isar Aerospace
+- Source article: [Private German rocket makes history, reaches orbit from European soil](https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket) (Hacker News (front page))
+- Category: smallsat launch
+- What it does: Develops and operates the Spectrum rocket, a small‑satellite launch vehicle that can reach orbit from European launch sites. It offers dedicated, on‑demand access to low‑Earth orbit for commercial payloads.
+- Likely revenue model: Charges customers per kilogram of payload delivered to orbit, plus ancillary services such as integration, insurance, and mission planning.
+- India equivalent: Skyroot Aerospace
+- India fit note: India has emerging private launch firms and a growing small‑sat market, but the ecosystem for commercial launch sites, regulatory approvals, and supply‑chain maturity is still developing, which could limit rapid scaling compared to Europe.
+- Badge guess: orange
+

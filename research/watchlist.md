@@ -182,3 +182,5 @@
 | HyperVault | ai-infrastructure | orange | 2026-09-05 | CtrlS |
 | TCS HyperVault | ai-infrastructure | orange | 2026-09-05 | CtrlS Data Centers |
 | Learn Programming with OCaml (LPO) | edtech | orange | 2026-09-05 | Coding Ninjas |
+| Earth Garden | audio-discovery | black | 2026-09-05 | none found |
+| Isar Aerospace | smallsat launch | orange | 2026-09-05 | Skyroot Aerospace |
