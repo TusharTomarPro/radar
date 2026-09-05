@@ -258,6 +258,19 @@
     display: inline-block;
   }
 
+  .edit-notes-btn {
+    display: inline-block;
+    margin-top: 16px;
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 12.5px;
+    padding: 8px 14px;
+    background: var(--thread);
+    color: var(--card-bg);
+    text-decoration: none;
+    border-radius: 3px;
+  }
+  .edit-notes-btn:hover { background: #4A5740; }
+
   .tabs {
     display: flex;
     gap: 6px;
@@ -540,6 +553,9 @@
           html += `<div class="detail-section"><h3>Your notes</h3><div class="detail-body">${mdToHtml(notesMd)}</div></div>`;
         }
       }
+
+      const editNotesUrl = `https://github.com/${OWNER}/${REPO}/edit/${BRANCH}/research/companies/${row.slug}/your-notes.md`;
+      html += `<a class="edit-notes-btn" href="${editNotesUrl}" target="_blank">✎ Add your notes on this one</a>`;
 
       detailCache[cacheKey] = html;
       detailEl.innerHTML = html;
