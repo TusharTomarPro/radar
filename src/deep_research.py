@@ -33,6 +33,17 @@ TOP_IDEAS_PATH = os.path.join(RESEARCH_DIR, "top-ideas.md")
 MAX_PER_RUN = 15  # keeps us well under Tavily's 1,000/month free credits (2 searches per company)
 
 
+def sanitize_cell(text, max_len=200):
+    """Strip characters that would break a markdown table row: literal pipes and newlines.
+    Also caps length so one verbose field doesn't blow up the whole row."""
+    if not text:
+        return ""
+    text = str(text).replace("|", "/").replace("\n", " ").replace("\r", " ").strip()
+    if len(text) > max_len:
+        text = text[:max_len - 1].rstrip() + "…"
+    return text
+
+
 def slugify(name):
     s = re.sub(r"[^a-zA-Z0-9]+", "-", name.strip().lower())
     return s.strip("-")[:60] or "unnamed"
@@ -181,9 +192,11 @@ def rebuild_top_ideas(all_scored):
     ]
     for i, r in enumerate(all_scored, 1):
         lines.append(
-            f"| {i} | {r['company']} | {r['category']} | {r['revised_badge']} | "
-            f"{r['competitor_status']} | {r.get('regulatory_flag', 'unknown')} | "
-            f"{r.get('capital_intensity', 'unknown')} | {r['risk_score']}/10 | {r['risk_reasoning'][:150]} |"
+            f"| {i} | {sanitize_cell(r['company'], 60)} | {sanitize_cell(r['category'], 40)} | "
+            f"{sanitize_cell(r['revised_badge'], 20)} | {sanitize_cell(r['competitor_status'], 40)} | "
+            f"{sanitize_cell(r.get('regulatory_flag', 'unknown'), 120)} | "
+            f"{sanitize_cell(r.get('capital_intensity', 'unknown'), 120)} | "
+            f"{r['risk_score']}/10 | {sanitize_cell(r['risk_reasoning'], 150)} |"
         )
     with open(TOP_IDEAS_PATH, "w") as f:
         f.write("\n".join(lines) + "\n")
