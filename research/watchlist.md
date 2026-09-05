@@ -55,3 +55,16 @@
 | Anthropic | generative-ai | black | 2026-09-05 | none found |
 | Anthropic | AI-agent | black | 2026-09-05 | none found |
 | Flipkart | social-commerce | orange | 2026-09-05 | Meesho, Instagram (Meta) |
+| Reflexio | ai-agent | orange | 2026-09-05 | Haptik |
+| Experiential Labs | ai-infrastructure | black | 2026-09-05 | none found |
+| Hyperprobe | ai-devops | black | 2026-09-05 | none found |
+| BrickForgerAI | generative-ai | black | 2026-09-05 | none found |
+| GitWarren | ai-code-review | black | 2026-09-05 | none found |
+| at8pm | journaling | black | 2026-09-05 | none found |
+| Ponytail | low-code | black | 2026-09-05 | none found |
+| dif.sh | dev-tools | black | 2026-09-05 | none found |
+| CommuteBar | productivity | black | 2026-09-05 | none found |
+| PostBox | design-tools | black | 2026-09-05 | none found |
+| Queuebrick | movie-social | black | 2026-09-05 | none found |
+| Pushin | devops | black | 2026-09-05 | none found |
+| Shein | fast-fashion | orange | 2026-09-05 | Myntra |

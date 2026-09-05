@@ -671,3 +671,60 @@
 {"ts": "2026-09-05 06:15:32", "provider": "groq", "model": "openai/gpt-oss-20b", "tier": "filter", "ok": false, "note": "groq rate limited"}
 {"ts": "2026-09-05 06:15:32", "provider": "gemini", "model": null, "tier": "filter", "ok": false, "note": "gemini rate limited"}
 {"ts": "2026-09-05 06:15:35", "provider": "openrouter", "model": "openrouter/free", "tier": "filter", "ok": true, "note": ""}
+{"ts": "2026-09-05 08:15:38", "provider": "groq", "model": "openai/gpt-oss-20b", "tier": "filter", "ok": true, "note": ""}
+{"ts": "2026-09-05 08:15:38", "provider": "gemini", "model": null, "tier": "extract", "ok": false, "note": "gemini rate limited"}
+{"ts": "2026-09-05 08:15:38", "provider": "mistral", "model": "mistral-small-latest", "tier": "extract", "ok": false, "note": "no MISTRAL_API_KEY set"}
+{"ts": "2026-09-05 08:15:39", "provider": "groq", "model": "openai/gpt-oss-120b", "tier": "extract", "ok": true, "note": ""}
+{"ts": "2026-09-05 08:15:44", "provider": "groq", "model": "openai/gpt-oss-20b", "tier": "filter", "ok": true, "note": ""}
+{"ts": "2026-09-05 08:15:44", "provider": "gemini", "model": null, "tier": "extract", "ok": false, "note": "gemini rate limited"}
+{"ts": "2026-09-05 08:15:44", "provider": "mistral", "model": "mistral-small-latest", "tier": "extract", "ok": false, "note": "no MISTRAL_API_KEY set"}
+{"ts": "2026-09-05 08:15:45", "provider": "groq", "model": "openai/gpt-oss-120b", "tier": "extract", "ok": true, "note": ""}
+{"ts": "2026-09-05 08:15:49", "provider": "groq", "model": "openai/gpt-oss-20b", "tier": "filter", "ok": true, "note": ""}
+{"ts": "2026-09-05 08:15:49", "provider": "gemini", "model": null, "tier": "extract", "ok": false, "note": "gemini rate limited"}
+{"ts": "2026-09-05 08:15:49", "provider": "mistral", "model": "mistral-small-latest", "tier": "extract", "ok": false, "note": "no MISTRAL_API_KEY set"}
+{"ts": "2026-09-05 08:15:51", "provider": "groq", "model": "openai/gpt-oss-120b", "tier": "extract", "ok": true, "note": ""}
+{"ts": "2026-09-05 08:15:55", "provider": "groq", "model": "openai/gpt-oss-20b", "tier": "filter", "ok": true, "note": ""}
+{"ts": "2026-09-05 08:15:55", "provider": "gemini", "model": null, "tier": "extract", "ok": false, "note": "gemini rate limited"}
+{"ts": "2026-09-05 08:15:55", "provider": "mistral", "model": "mistral-small-latest", "tier": "extract", "ok": false, "note": "no MISTRAL_API_KEY set"}
+{"ts": "2026-09-05 08:15:56", "provider": "groq", "model": "openai/gpt-oss-120b", "tier": "extract", "ok": true, "note": ""}
+{"ts": "2026-09-05 08:16:00", "provider": "groq", "model": "openai/gpt-oss-20b", "tier": "filter", "ok": true, "note": ""}
+{"ts": "2026-09-05 08:16:00", "provider": "gemini", "model": null, "tier": "extract", "ok": false, "note": "gemini rate limited"}
+{"ts": "2026-09-05 08:16:00", "provider": "mistral", "model": "mistral-small-latest", "tier": "extract", "ok": false, "note": "no MISTRAL_API_KEY set"}
+{"ts": "2026-09-05 08:16:02", "provider": "groq", "model": "openai/gpt-oss-120b", "tier": "extract", "ok": true, "note": ""}
+{"ts": "2026-09-05 08:16:06", "provider": "groq", "model": "openai/gpt-oss-20b", "tier": "filter", "ok": true, "note": ""}
+{"ts": "2026-09-05 08:16:06", "provider": "gemini", "model": null, "tier": "extract", "ok": false, "note": "gemini rate limited"}
+{"ts": "2026-09-05 08:16:06", "provider": "mistral", "model": "mistral-small-latest", "tier": "extract", "ok": false, "note": "no MISTRAL_API_KEY set"}
+{"ts": "2026-09-05 08:16:07", "provider": "groq", "model": "openai/gpt-oss-120b", "tier": "extract", "ok": true, "note": ""}
+{"ts": "2026-09-05 08:16:12", "provider": "groq", "model": "openai/gpt-oss-20b", "tier": "filter", "ok": true, "note": ""}
+{"ts": "2026-09-05 08:16:12", "provider": "gemini", "model": null, "tier": "extract", "ok": false, "note": "gemini rate limited"}
+{"ts": "2026-09-05 08:16:12", "provider": "mistral", "model": "mistral-small-latest", "tier": "extract", "ok": false, "note": "no MISTRAL_API_KEY set"}
+{"ts": "2026-09-05 08:16:13", "provider": "groq", "model": "openai/gpt-oss-120b", "tier": "extract", "ok": true, "note": ""}
+{"ts": "2026-09-05 08:16:18", "provider": "groq", "model": "openai/gpt-oss-20b", "tier": "filter", "ok": true, "note": ""}
+{"ts": "2026-09-05 08:16:18", "provider": "gemini", "model": null, "tier": "extract", "ok": false, "note": "gemini rate limited"}
+{"ts": "2026-09-05 08:16:18", "provider": "mistral", "model": "mistral-small-latest", "tier": "extract", "ok": false, "note": "no MISTRAL_API_KEY set"}
+{"ts": "2026-09-05 08:16:19", "provider": "groq", "model": "openai/gpt-oss-120b", "tier": "extract", "ok": true, "note": ""}
+{"ts": "2026-09-05 08:16:23", "provider": "groq", "model": "openai/gpt-oss-20b", "tier": "filter", "ok": true, "note": ""}
+{"ts": "2026-09-05 08:16:23", "provider": "gemini", "model": null, "tier": "extract", "ok": false, "note": "gemini rate limited"}
+{"ts": "2026-09-05 08:16:23", "provider": "mistral", "model": "mistral-small-latest", "tier": "extract", "ok": false, "note": "no MISTRAL_API_KEY set"}
+{"ts": "2026-09-05 08:16:24", "provider": "groq", "model": "openai/gpt-oss-120b", "tier": "extract", "ok": true, "note": ""}
+{"ts": "2026-09-05 08:16:28", "provider": "groq", "model": "openai/gpt-oss-20b", "tier": "filter", "ok": true, "note": ""}
+{"ts": "2026-09-05 08:16:29", "provider": "gemini", "model": null, "tier": "extract", "ok": false, "note": "gemini rate limited"}
+{"ts": "2026-09-05 08:16:29", "provider": "mistral", "model": "mistral-small-latest", "tier": "extract", "ok": false, "note": "no MISTRAL_API_KEY set"}
+{"ts": "2026-09-05 08:16:30", "provider": "groq", "model": "openai/gpt-oss-120b", "tier": "extract", "ok": true, "note": ""}
+{"ts": "2026-09-05 08:16:34", "provider": "groq", "model": "openai/gpt-oss-20b", "tier": "filter", "ok": true, "note": ""}
+{"ts": "2026-09-05 08:16:34", "provider": "gemini", "model": null, "tier": "extract", "ok": false, "note": "gemini rate limited"}
+{"ts": "2026-09-05 08:16:34", "provider": "mistral", "model": "mistral-small-latest", "tier": "extract", "ok": false, "note": "no MISTRAL_API_KEY set"}
+{"ts": "2026-09-05 08:16:35", "provider": "groq", "model": "openai/gpt-oss-120b", "tier": "extract", "ok": true, "note": ""}
+{"ts": "2026-09-05 08:16:39", "provider": "groq", "model": "openai/gpt-oss-20b", "tier": "filter", "ok": true, "note": ""}
+{"ts": "2026-09-05 08:16:40", "provider": "gemini", "model": null, "tier": "extract", "ok": false, "note": "gemini rate limited"}
+{"ts": "2026-09-05 08:16:40", "provider": "mistral", "model": "mistral-small-latest", "tier": "extract", "ok": false, "note": "no MISTRAL_API_KEY set"}
+{"ts": "2026-09-05 08:16:41", "provider": "groq", "model": "openai/gpt-oss-120b", "tier": "extract", "ok": true, "note": ""}
+{"ts": "2026-09-05 08:16:45", "provider": "groq", "model": "openai/gpt-oss-20b", "tier": "filter", "ok": true, "note": ""}
+{"ts": "2026-09-05 08:16:49", "provider": "groq", "model": "openai/gpt-oss-20b", "tier": "filter", "ok": true, "note": ""}
+{"ts": "2026-09-05 08:16:54", "provider": "groq", "model": "openai/gpt-oss-20b", "tier": "filter", "ok": true, "note": ""}
+{"ts": "2026-09-05 08:16:58", "provider": "groq", "model": "openai/gpt-oss-20b", "tier": "filter", "ok": true, "note": ""}
+{"ts": "2026-09-05 08:17:03", "provider": "groq", "model": "openai/gpt-oss-20b", "tier": "filter", "ok": true, "note": ""}
+{"ts": "2026-09-05 08:17:03", "provider": "gemini", "model": null, "tier": "extract", "ok": false, "note": "gemini rate limited"}
+{"ts": "2026-09-05 08:17:03", "provider": "mistral", "model": "mistral-small-latest", "tier": "extract", "ok": false, "note": "no MISTRAL_API_KEY set"}
+{"ts": "2026-09-05 08:17:04", "provider": "groq", "model": "openai/gpt-oss-120b", "tier": "extract", "ok": true, "note": ""}
+{"ts": "2026-09-05 08:17:08", "provider": "groq", "model": "openai/gpt-oss-20b", "tier": "filter", "ok": true, "note": ""}

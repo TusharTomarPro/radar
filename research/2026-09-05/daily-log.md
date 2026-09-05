@@ -475,3 +475,120 @@
 - India fit note: Short-form video content has strong traction in India, but integrating microdramas specifically for shopping discovery requires mature influencer ecosystems and seamless purchase infrastructure that may not be uniformly available across tier-2 and tier-3 cities.
 - Badge guess: orange
 
+## Reflexio
+- Source article: [Reflexio](https://www.producthunt.com/products/reflexio-2) (Product Hunt)
+- Category: ai-agent
+- What it does: Reflexio provides a platform that captures user behavior to continuously train and improve AI agents, enabling them to become more accurate and personalized over time.
+- Likely revenue model: Subscription‑based SaaS with tiered pricing plus usage‑based API fees for enterprises that deploy the trained agents.
+- India equivalent: Haptik
+- India fit note: Success relies on large volumes of user interaction data and a culture of frequent digital engagement; while India has high mobile usage, data‑privacy concerns and fragmented data collection can limit the speed of behavioral learning.
+- Badge guess: orange
+
+## Experiential Labs
+- Source article: [Experiential Labs](https://www.producthunt.com/products/experiential-labs) (Product Hunt)
+- Category: ai-infrastructure
+- What it does: Provides an open‑source gateway that routes AI traffic, captures usage data, and continuously fine‑tunes the underlying model to improve performance.
+- Likely revenue model: Charges enterprises a subscription or usage‑based fee for premium gateway features, model‑training pipelines, and support, while keeping the core software free.
+- India equivalent: none found
+- India fit note: Success relies on high‑volume, consistent API traffic and robust data‑privacy frameworks; Indian firms may lack the same scale of enterprise AI traffic and may be wary of sharing data with open‑source gateways, limiting immediate adoption.
+- Badge guess: black
+
+## Hyperprobe
+- Source article: [Hyperprobe](https://www.producthunt.com/products/hyperprobe) (Product Hunt)
+- Category: ai-devops
+- What it does: Hyperprobe provides AI agents that can analyze live production environments and debug issues without requiring a new deployment.
+- Likely revenue model: Subscription‑based SaaS pricing, often tiered by number of agents, monitored services, or usage volume.
+- India equivalent: none found
+- India fit note: The product relies on advanced AI‑driven observability and a culture of continuous deployment; while large Indian enterprises have mature DevOps pipelines, widespread adoption of AI agents for live debugging may be limited by skill gaps and data privacy concerns.
+- Badge guess: black
+
+## BrickForgerAI
+- Source article: [BrickForgerAI](https://www.producthunt.com/products/brickforgerai) (Product Hunt)
+- Category: generative-ai
+- What it does: Transforms any text prompt into a printable LEGO brick set design that users can physically build.
+- Likely revenue model: Charges users per generated design or offers a subscription for unlimited prompt-to-brick conversions.
+- India equivalent: none found
+- India fit note: The concept relies on widespread access to LEGO bricks and a hobbyist culture that may be limited in many Indian regions, and shipping physical parts could be a logistical hurdle.
+- Badge guess: black
+
+## GitWarren
+- Source article: [GitWarren](https://www.producthunt.com/products/gitwarren) (Product Hunt)
+- Category: ai-code-review
+- What it does: GitWarren uses AI-powered coding agents to automatically review code changes and provide feedback before developers commit them.
+- Likely revenue model: Subscription SaaS with tiered plans for individuals and teams.
+- India equivalent: none found
+- India fit note: The product assumes mature Git workflows and CI integration, which exist in many Indian tech firms, but adoption may be limited by the need for high‑quality AI models and developer trust in automated code reviews.
+- Badge guess: black
+
+## at8pm
+- Source article: [at8pm](https://www.producthunt.com/products/at8pm) (Product Hunt)
+- Category: journaling
+- What it does: A private digital journal that encourages users to write honest, daily reflections and track their thoughts over time.
+- Likely revenue model: Freemium model with a paid subscription for premium features such as unlimited entries, advanced analytics, and custom themes.
+- India equivalent: none found
+- India fit note: The product relies on a habit of regular personal reflection, which may be less culturally ingrained in India, and users may be wary of storing intimate thoughts on a digital platform without strong data‑privacy assurances.
+- Badge guess: black
+
+## Ponytail
+- Source article: [Ponytail](https://www.producthunt.com/products/ponytail) (Product Hunt)
+- Category: low-code
+- What it does: Ponytail is a developer‑focused tool that surfaces existing code snippets, libraries or components so you can solve problems without writing new code from scratch.
+- Likely revenue model: It likely charges teams a monthly SaaS subscription for access to its code‑reuse engine and premium integrations.
+- India equivalent: none found
+- India fit note: The product relies on fast, reliable internet and a developer culture that prioritises code reuse; while Indian dev teams have the skills, limited awareness of such niche tools could slow adoption.
+- Badge guess: black
+
+## dif.sh
+- Source article: [dif.sh](https://www.producthunt.com/products/dif-sh) (Product Hunt)
+- Category: dev-tools
+- What it does: Provides a markdown‑based interface for defining feature flags that an AI coding agent automatically implements in your codebase.
+- Likely revenue model: Subscription‑based SaaS with tiered plans for individual developers and teams, possibly offering a free tier with limited flags.
+- India equivalent: none found
+- India fit note: The product relies on widespread use of AI coding assistants and a culture of managing feature toggles via markdown, which are still emerging practices in many Indian development teams and may require more mature CI/CD adoption.
+- Badge guess: black
+
+## CommuteBar
+- Source article: [CommuteBar](https://www.producthunt.com/products/commutebar) (Product Hunt)
+- Category: productivity
+- What it does: Shows live commute times for your selected routes directly in the desktop menu bar, updating automatically throughout the day.
+- Likely revenue model: Probably a freemium model with a paid subscription for premium features like multiple routes, ad‑free experience, and deeper integrations.
+- India equivalent: none found
+- India fit note: The product assumes users spend significant time on desktop computers and rely on real‑time traffic data, which is less common in India where mobile apps dominate commuting and traffic data coverage can be spotty in many cities.
+- Badge guess: black
+
+## PostBox
+- Source article: [PostBox](https://www.producthunt.com/products/postbox) (Product Hunt)
+- Category: design-tools
+- What it does: PostBox enables designers to stage and publish their design files directly from a Mac, simplifying the process of sharing mockups and final assets. It integrates with popular design apps to streamline the hand‑off to developers or clients.
+- Likely revenue model: A subscription‑based SaaS model with monthly or annual plans, possibly offering a free tier with limited uploads.
+- India equivalent: none found
+- India fit note: The product assumes widespread Mac usage among designers and reliable high‑speed internet for uploading large design files—both of which are less common in India where Windows and Android dominate. Adoption may also require a culture of frequent design publishing that is still emerging in Indian agencies.
+- Badge guess: black
+
+## Queuebrick
+- Source article: [Queuebrick](https://www.producthunt.com/products/queuebrick) (Product Hunt)
+- Category: movie-social
+- What it does: Queuebrick is a platform that lets users log, rate, review, and share movies they watch, functioning as an alternative to Letterboxd.
+- Likely revenue model: A freemium model with paid premium features (e.g., advanced analytics, ad‑free experience) plus affiliate commissions from ticket or streaming referrals.
+- India equivalent: none found
+- India fit note: Success depends on a culture of actively tracking and sharing movie-watching habits, which is less common in India, and on integration with local streaming and ticketing services that may be fragmented.
+- Badge guess: black
+
+## Pushin
+- Source article: [Git hosting that never leaves Europe](https://pushin.eu) (Hacker News (front page))
+- Category: devops
+- What it does: Pushin offers Git repository hosting with all data stored exclusively within European data centers to meet GDPR and data‑sovereignty requirements.
+- Likely revenue model: Subscription SaaS plans charged per user or per private repository tier.
+- India equivalent: none found
+- India fit note: Indian firms are less focused on strict EU data residency, but the service could still appeal to companies needing local data storage for compliance; the required infrastructure (European data centers) is already available, so the main barrier is market awareness.
+- Badge guess: black
+
+## Shein
+- Source article: [Shein seeks fast-fashion deals to spur growth](https://economictimes.indiatimes.com/tech/technology/shein-seeks-fast-fashion-deals-to-spur-growth/articleshow/133791209.cms) (Economic Times Tech)
+- Category: fast-fashion
+- What it does: Shein is an online retailer that designs, sources, and sells low‑priced, trend‑driven apparel and accessories directly to consumers worldwide.
+- Likely revenue model: It makes money by selling its own inventory at high volume margins and by charging marketplace fees to third‑party sellers on its platform.
+- India equivalent: Myntra
+- India fit note: Shein's model depends on ultra‑fast, low‑cost cross‑border logistics and a supply chain centered in China; in India, higher import duties, slower last‑mile delivery, and different consumer size preferences could limit replication.
+- Badge guess: orange
+
