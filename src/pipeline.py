@@ -49,7 +49,13 @@ def filter_article(article):
 Article title: {article['title']}
 Article summary: {article['summary']}
 
-Answer with ONLY one word: YES if this describes a new product, app, business model, or consumer service innovation worth researching further. NO if it's generic news, opinion, funding-round-only-with-no-new-idea, politics, or unrelated.
+Answer with ONLY one word: YES if this describes a genuinely new product, app, or business model worth researching as a potential India-adaptation opportunity.
+
+Answer NO for any of these, even if a big company is mentioned:
+- Routine news about a major company (Tesla, Apple, OpenAI, Google, Meta, Microsoft, etc.) that isn't about a genuinely new business model -- earnings, executive/personnel changes, lawsuits, regulatory investigations, product events/keynotes, generic model releases, stock moves, layoffs
+- Funding rounds with no new idea described (just "X raised $Y")
+- Opinion pieces, listicles, deal/discount roundups, awards, conference announcements
+- Politics, general macro/economic news unrelated to a specific product
 """
     try:
         text, provider = call_llm(prompt, tier="filter")
