@@ -40,6 +40,7 @@ jobs:
         run: |
           cd src
           python deep_research.py
+          python generate_report.py
 
       - name: Commit and push results
         run: |
