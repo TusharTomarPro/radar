@@ -119,6 +119,39 @@ def write_company_file(entry):
             f.write(f"# Notes on {r['company_name']}\n\nAdd your daily 18:00-19:00 thoughts here, dated.\n\n")
 
 
+TRACKED_COMPANIES_PATH = os.path.join(RESEARCH_DIR, "_tracked_companies.json")
+
+
+def normalize_company_name(name):
+    return re.sub(r"[^a-z0-9]+", "", name.strip().lower())
+
+
+def load_tracked_companies():
+    if os.path.exists(TRACKED_COMPANIES_PATH):
+        with open(TRACKED_COMPANIES_PATH) as f:
+            return set(json.load(f))
+    # First run after this feature was added -- bootstrap from the existing watchlist
+    # so already-tracked companies aren't treated as new again.
+    tracked = set()
+    watchlist_path = os.path.join(RESEARCH_DIR, "watchlist.md")
+    if os.path.exists(watchlist_path):
+        with open(watchlist_path) as f:
+            for line in f:
+                line = line.strip()
+                if not line.startswith("|") or "Company" in line or set(line) <= set("|-"):
+                    continue
+                cells = [c.strip() for c in line.split("|")[1:-1]]
+                if cells and cells[0]:
+                    tracked.add(normalize_company_name(cells[0]))
+    return tracked
+
+
+def save_tracked_companies(tracked):
+    os.makedirs(RESEARCH_DIR, exist_ok=True)
+    with open(TRACKED_COMPANIES_PATH, "w") as f:
+        json.dump(sorted(tracked), f, indent=2)
+
+
 def update_watchlist(entries):
     watchlist_path = os.path.join(RESEARCH_DIR, "watchlist.md")
     existing = ""
@@ -135,6 +168,20 @@ def update_watchlist(entries):
         f.write(existing.rstrip() + "\n" + "\n".join(rows) + "\n")
 
 
+def dedupe_by_company(entries):
+    tracked = load_tracked_companies()
+    kept = []
+    for e in entries:
+        norm = normalize_company_name(e["research"]["company_name"])
+        if norm in tracked:
+            print(f"  [dedup] skipping '{e['research']['company_name']}' -- already tracked")
+            continue
+        tracked.add(norm)
+        kept.append(e)
+    save_tracked_companies(tracked)
+    return kept
+
+
 def run():
     print(f"[{TODAY}] Fetching new articles...")
     articles = fetch_new_articles()
@@ -149,6 +196,9 @@ def run():
         time.sleep(4)  # ~15 calls/min max -- stays under Gemini free tier's ~10-15 RPM ceiling
 
     print(f"{len(kept_entries)} articles passed the filter and were researched.")
+
+    kept_entries = dedupe_by_company(kept_entries)
+    print(f"{len(kept_entries)} are genuinely new companies after dedup.")
 
     if kept_entries:
         write_daily_log(kept_entries)
