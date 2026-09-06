@@ -43,17 +43,40 @@ def sanitize_cell(text, max_len=200):
     return text
 
 
+MEGACORP_BLOCKLIST = [
+    "apple", "tesla", "google", "alphabet", "meta platforms", "microsoft",
+    "amazon", "openai", "nvidia", "netflix", "samsung", "sony", "toyota",
+    "spacex", "boeing", "airbus", "walmart", "disney", "intel", "ibm",
+    "oracle", "salesforce", "adobe", "uber technologies", "anthropic",
+    "reliance jio", "reliance industries", "tata group", "adani",
+]
+
+
+def is_megacorp_article(article):
+    """Fast, free, pre-LLM check: if the article's main subject is one of the world's
+    largest/most capital-heavy companies, skip it before spending any API call.
+    A solo founder or small team cannot bootstrap a competitor to these at scale --
+    the whole point of this tracker is bootstrappable, service/small-product ideas."""
+    text = (article["title"] + " " + article["summary"]).lower()
+    for name in MEGACORP_BLOCKLIST:
+        if name in text:
+            return True
+    return False
+
+
 def filter_article(article):
-    prompt = f"""You are screening news articles for a startup-idea research tracker focused on spotting new consumer product or business-model innovations that could be adapted for the Indian market.
+    prompt = f"""You are screening news articles for a bootstrap-scale startup-idea tracker. The founder using this can only self-fund a SERVICE-based or SMALL PRODUCT-based business -- something one person or a tiny team could realistically build and run for months before ever needing outside investment. NOT capital-intensive plays like hardware manufacturing, vehicle fleets, chip fabrication, massive R&D labs, or anything requiring hundreds of millions in infrastructure.
 
 Article title: {article['title']}
 Article summary: {article['summary']}
 
-Answer with ONLY one word: YES if this describes a genuinely new product, app, or business model worth researching as a potential India-adaptation opportunity.
+Answer with ONLY one word: YES if this describes a genuinely new, small-scale, bootstrappable product, app, or business model worth researching as a potential India-adaptation opportunity.
 
-Answer NO for any of these, even if a big company is mentioned:
-- Routine news about a major company (Tesla, Apple, OpenAI, Google, Meta, Microsoft, etc.) that isn't about a genuinely new business model -- earnings, executive/personnel changes, lawsuits, regulatory investigations, product events/keynotes, generic model releases, stock moves, layoffs
+Answer NO for any of these, even if it sounds interesting:
+- Anything from or centrally about a massive, capital-heavy company (the kind that needs billions in funding or manufacturing infrastructure) -- even a "new feature" or "new initiative" from such a company is NO unless it's a small independent spinout a solo founder could realistically clone at tiny scale
+- Routine corporate news -- earnings, executive/personnel changes, lawsuits, regulatory investigations, product keynote events, stock moves, layoffs
 - Funding rounds with no new idea described (just "X raised $Y")
+- Ideas that inherently require heavy manufacturing, vehicle/delivery fleets, aerospace-grade engineering, chip fabrication, or billion-dollar infrastructure to even attempt
 - Opinion pieces, listicles, deal/discount roundups, awards, conference announcements
 - Politics, general macro/economic news unrelated to a specific product
 """
@@ -208,6 +231,8 @@ def run():
 
     kept_entries = []
     for article in articles:
+        if is_megacorp_article(article):
+            continue  # free, instant reject -- no API call spent
         if filter_article(article):
             research = extract_research(article)
             if research:
