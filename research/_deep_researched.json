@@ -15,22 +15,6 @@
     "risk_score": 3,
     "risk_reasoning": "Search results show Koo, the only notable India\u2011focused Twitter clone, shut down in 2024 after funding and partnership setbacks. With no surviving direct competitor, the market gap appears to be an execution issue rather than a structural barrier, lowering entry risk. However, the broader micro\u2011blogging space remains competitive globally, so caution is still warranted."
   },
-  "google-gemini-spark::2026-09-05": {
-    "company": "Google Gemini Spark",
-    "category": "ai-assistant",
-    "revised_badge": "orange",
-    "competitor_status": "surviving",
-    "risk_score": 8,
-    "risk_reasoning": "Search results list active competitors\u2014Lindy, Anthropic\u2019s Claude, and BetterClaw\u2014offering broader integrations and more flexible agent building tools. Gemini Spark is currently limited to Google Workspace and a few partners, putting it at a disadvantage in a crowded, fast\u2011moving market. The presence of thriving rivals makes the venture high\u2011risk."
-  },
-  "tesla::2026-09-05": {
-    "company": "Tesla",
-    "category": "autonomous-taxi",
-    "revised_badge": "orange",
-    "competitor_status": "surviving",
-    "risk_score": 8,
-    "risk_reasoning": "Ola Electric is surviving but struggling\u2014losing market share and reducing its store footprint\u2014while Tesla itself abandoned India manufacturing plans in 2026 after failed negotiations with the Indian government. This signals deep structural friction in the Indian EV/autonomous market (regulatory, infrastructure, and political barriers). An autonomous-taxi startup faces not only an entrenched incumbent (Ola) but also a hostile regulatory environment that even Tesla couldn't crack, making this a high-risk venture."
-  },
   "menuai::2026-09-05": {
     "company": "MenuAI",
     "category": "restaurant-tech",
@@ -38,30 +22,6 @@
     "competitor_status": "dead",
     "risk_score": 7,
     "risk_reasoning": "A MenuAI startup already existed in India and failed, indicating the concept has been tested and encountered execution barriers. The failure was attributed to internal cofounder disagreements and lack of enterprise trust, suggesting market readiness challenges rather than a flawed product concept. Additionally, India's current startup climate shows more closures (259) than launches (125) in 2025, with 28,000 startups shutting down in the past two years, creating a high-risk environment for new entrants."
-  },
-  "tesla-cybercab::2026-09-05": {
-    "company": "Tesla Cybercab",
-    "category": "robo-taxi",
-    "revised_badge": "black",
-    "competitor_status": "dead",
-    "risk_score": 8,
-    "risk_reasoning": "The claimed competitor (Ola Autonomous) effectively died when Ola shut down in 2026, and Tesla's own Cybercab effort is struggling globally \u2014 suggesting the robo-taxi thesis is hard, not just locally. India's regulatory environment, chaotic traffic, and low willingness-to-pay for premium autonomous rides make this a structural uphill battle, not a 'competitor just beat you to it' situation. The founder should be cautious: no competitor exists partly because the market isn't ready yet."
-  },
-  "openai::2026-09-05": {
-    "company": "OpenAI",
-    "category": "gen-ai",
-    "revised_badge": "orange",
-    "competitor_status": "surviving",
-    "risk_score": 8,
-    "risk_reasoning": "Search evidence lists Anthropic, Google Gemini, Microsoft Copilot, xAI Grok and Perplexity as active, well\u2011funded rivals to OpenAI in 2026, all of which are globally available and thus present in India. Their strong valuations, revenue run\u2011rates and continued product roll\u2011outs indicate they are surviving and thriving, making the market highly competitive and raising the risk for a new India\u2011localized OpenAI offering."
-  },
-  "apple::2026-09-05": {
-    "company": "Apple",
-    "category": "consumer-tech",
-    "revised_badge": "orange",
-    "competitor_status": "surviving",
-    "risk_score": 9,
-    "risk_reasoning": "The search evidence clearly shows Apple already has strong, thriving competitors in India across all relevant categories \u2014 Samsung (22% global share), Xiaomi (#1 by volume in India), OPPO, Google, and Microsoft \u2014 meaning a founder attempting to build an 'India-localized Apple' would be entering one of the most crowded and capital-intensive consumer-tech markets in the world. Additionally, Apple itself is actively expanding in India (growing from #3 to #2-3 by volume, with 2.2B active devices), so the target incumbent is itself moving aggressively into the market. The Indian startup graveyard data (28,000+ failures in two years) highlights how brutal this environment is for new entrants trying to compete against entrenched global giants with vastly superior scale, supply chains, and brand trust."
   },
   "omarchy::2026-09-05": {
     "company": "Omarchy",
@@ -184,16 +144,6 @@
     "capital_intensity": "low",
     "risk_score": 3,
     "risk_reasoning": "The web searches returned no evidence of a surviving comment\u2011platform competitor in India, leaving the market untapped. The main regulatory constraints are the IT (Intermediary Guidelines and Digital Media Ethics Code) Rules, which impose moderate compliance costs for content moderation and grievance handling. Combined with the low capital requirement for a software\u2011as\u2011a\u2011service model, the overall risk is relatively low, though demand uncertainty remains a key factor."
-  },
-  "google-gemini::2026-09-05": {
-    "company": "Google Gemini",
-    "category": "ai-agent",
-    "revised_badge": "orange",
-    "competitor_status": "surviving",
-    "regulatory_flag": "moderate \u2013 India\u2019s Personal Data Protection Bill (2023) mandates local storage of critical personal data and the draft AI Regulation imposes compliance obligations for high\u2011risk AI systems.",
-    "capital_intensity": "high \u2013 Localizing Gemini requires substantial compute infrastructure, large\u2011scale data acquisition, and engineering talent, making it a capital\u2011heavy effort.",
-    "risk_score": 7,
-    "risk_reasoning": "The market already has strong, surviving alternatives (Claude, ChatGPT, Sintra AI), reducing differentiation. Indian data\u2011localization and emerging AI regulations add moderate compliance risk. Moreover, the high capital outlay for compute and data makes the venture capital\u2011intensive, pushing the overall risk to a 7/10."
   },
   "grove::2026-09-05": {
     "company": "Grove",

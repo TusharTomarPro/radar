@@ -4,17 +4,10 @@
 |---|---|---|---|---|
 | XDOF | robotics-data | black | 2026-09-05 | none found |
 | Tweet.app | microblogging | orange | 2026-09-05 | Koo |
-| Google Gemini Spark | ai-assistant | black | 2026-09-05 | none found |
-| Tesla | robotaxi | black | 2026-09-05 | none found |
 | MenuAI | restaurant-tech | black | 2026-09-05 | none found |
-| Tesla | autonomous-taxi | orange | 2026-09-05 | Ola |
-| Tesla Cybercab | robo-taxi | orange | 2026-09-05 | Ola Autonomous |
 | Roland | ai-music | black | 2026-09-05 | none found |
-| OpenAI | generative-ai | black | 2026-09-05 | none found |
-| Apple | consumer-tech | black | 2026-09-05 | none found |
 | Omarchy | agent-os | orange | 2026-09-05 | Haptik |
 | Inline | ai-collaboration | orange | 2026-09-05 | Zoho Workplace |
-| OpenAI | gen-ai | black | 2026-09-05 | none found |
 | Chalked | ai-assistant | orange | 2026-09-05 | Peppertype.ai |
 | Clockwork | ai-agent | black | 2026-09-05 | none found |
 | Offline JS Playground | dev-tools | black | 2026-09-05 | none found |
@@ -25,7 +18,6 @@
 | Sidebranch | dev-tools | black | 2026-09-05 | none found |
 | TrackMCP | gaming-analytics | black | 2026-09-05 | none found |
 | cmmnts | comment-platform | orange | 2026-09-05 | CommentBox |
-| Google Gemini | ai-agent | black | 2026-09-05 | none found |
 | Grove | developer-tools | black | 2026-09-05 | none found |
 | Tidy | ai-grammar | black | 2026-09-05 | none found |
 | World Labs | AI video generation | black | 2026-09-05 | none found |
@@ -48,12 +40,8 @@
 | Ultrahuman | healthtech | black | 2026-09-05 | none found |
 | Furlenco | furniture-rental | orange | 2026-09-05 | Rentomojo |
 | Apollyon Dynamics | defense-tech | black | 2026-09-05 | none found |
-| Google Cloud | ai-agent | black | 2026-09-05 | none found |
 | WhatsApp (Meta) | messaging-payments | orange | 2026-09-05 | Paytm, PhonePe, and Bharat Bill Payment System (BBPS) partners |
 | Business Nextgen Finance | nbfc-lending | orange | 2026-09-05 | Kinara Capital, Svatantra Microfin, or MAS Financial Services |
-| Tesla Cybercab | robotaxi | black | 2026-09-05 | none found |
-| Anthropic | generative-ai | black | 2026-09-05 | none found |
-| Anthropic | AI-agent | black | 2026-09-05 | none found |
 | Flipkart | social-commerce | orange | 2026-09-05 | Meesho, Instagram (Meta) |
 | Reflexio | ai-agent | orange | 2026-09-05 | Haptik |
 | Experiential Labs | ai-infrastructure | black | 2026-09-05 | none found |
@@ -72,24 +60,18 @@
 | PagerDuty AI | ai-ops | black | 2026-09-05 | none found |
 | Fairphone | ethical-tech | black | 2026-09-05 | none found |
 | Xbox Game Pass | game-streaming | orange | 2026-09-05 | JioGames |
-| Google SHARE Program (with PG&E and Rewiring America) | energy-tech | orange | 2026-09-05 | Tata Power and Sunrun-style aggregators like Amp Energy India (virtual power plant pilots) |
 | none - conceptual framework | healthcare-ai | black | 2026-09-05 | none found |
 | Eos Energy Storage | energy-storage | black | 2026-09-05 | none found |
 | Kansas Department of Labor | govtech | black | 2026-09-05 | none found |
 | Delta Air Lines | ai-assistant | orange | 2026-09-05 | IndiGo (interGlobe Aviation) |
 | Casio | luxury-watches | orange | 2026-09-05 | Titan |
-| Tesla Cybercab | robotaxi | orange | 2026-09-05 | Ola Krutrim / Tata Autonome |
 | Litter-Robot | pet-tech | black | 2026-09-05 | none found |
-| Tesla | robotaxi | orange | 2026-09-05 | Ola Autonomous |
 | Flock | surveillance-tech | black | 2026-09-05 | none found |
-| OpenAI | ai-foundation-model | orange | 2026-09-05 | Sarvam AI |
 | Lenovo | fanless-laptop | black | 2026-09-05 | none found |
-| Nvidia RTX Spark | ai-hardware | black | 2026-09-05 | none found |
 | Toto | health-tech | black | 2026-09-05 | none found |
 | Biometric Dating Apps (industry trend) | dating-tech | orange | 2026-09-05 | TrulyMadly |
 | Dyson | smart-toothbrush | black | 2026-09-05 | none found |
 | RugOne | rugged-smartphone | black | 2026-09-05 | None found |
-| Tesla | robotaxi | orange | 2026-09-05 | Ola (Ola Autonomous) |
 | Ugreen | smart-home | black | 2026-09-05 | none found |
 | Stryker | surgical-AR | black | 2026-09-05 | none found |
 | Ultrahuman | wearables | black | 2026-09-05 | none found |
@@ -107,12 +89,8 @@
 | Arcil | debt-collection | black | 2026-09-05 | none found |
 | Reliance Bombay Creamery | dairy-food | orange | 2026-09-05 | Amul and Kwality Wall's |
 | Uber | last-mile logistics | orange | 2026-09-05 | Dunzo, Swiggy Genie, Borzo |
-| Netflix | streaming | orange | 2026-09-05 | Disney+ Hotstar |
 | Atomberg | energy-efficient appliances | orange | 2026-09-05 | Crompton Greaves (Energy Conservation series), Havells (Ampero range) |
 | Userlens | ai-agent | orange | 2026-09-05 | MoEngage |
-| IBM Bob | enterprise-ai | orange | 2026-09-05 | Haptik |
-| Apple | consumer-hardware | orange | 2026-09-05 | Samsung |
-| Apple | foldable-phone | black | 2026-09-05 | none found |
 | Geneva Watch Days | watch-events | black | 2026-09-05 | none found |
 | Remote Work as a Worm | indie-game | orange | 2026-09-05 | Nodding Heads Games |
 | Slice | fintech | orange | 2026-09-05 | OneCard |
@@ -151,25 +129,17 @@
 | Groww AMC | asset-management | orange | 2026-09-05 | Zerodha (through its Rainmatter venture) |
 | Dixon Technologies | electronics-manufacturing | orange | 2026-09-05 | Dixon Technologies |
 | IIT Guwahati | ai-hardware | black | 2026-09-05 | none found |
-| OpenAI GPT-6 Astra | ai-model | orange | 2026-09-05 | Sarvam AI |
 | Hugging Face | ai-infrastructure | black | 2026-09-05 | none found |
 | Bodhan AI | AI education | black | 2026-09-05 | none found |
-| Nvidia RTX Spark | ai-hardware | black | 2026-09-05 | none found |
-| Nvidia PAIR | ai-infrastructure | black | 2026-09-05 | none found |
 | WhatsApp | messaging-fintech | orange | 2026-09-05 | Paytm and PhonePe already offer in-app bill payments. |
 | Perplexity | ai-infrastructure | orange | 2026-09-05 | Sarvam AI |
 | WhatsApp (Meta) | payments | orange | 2026-09-05 | PhonePe, Paytm, Google Pay |
 | Uber-Wayve Robotaxi | autonomous-mobility | black | 2026-09-05 | none found |
 | EY | ai-forecasting | orange | 2026-09-05 | Fractal Analytics |
-| Samsung Galaxy Watch series | consumer-electronics | orange | 2026-09-05 | Fire-Boltt |
 | Mozilla Firefox | browser-tech | black | 2026-09-05 | none found |
 | JioPC | cloud-computing | orange | 2026-09-05 | JioPC |
-| Google Android | mobile-ai | black | 2026-09-05 | none found |
-| Apple | consumer-electronics | black | 2026-09-05 | none found |
 | Sonos | audio-tech | black | 2026-09-05 | none found |
-| SpaceX | energy-manufacturing | black | 2026-09-05 | none found |
 | AI Literacy Platform | edtech | orange | 2026-09-05 | Upskill (by upGrad) |
-| Anthropic | ai-infrastructure | black | 2026-09-05 | none found |
 | Razorpay | fintech | orange | 2026-09-05 | PhonePe |
 | Clucky | sleep-tech | black | 2026-09-05 | none found |
 | Oura | wellness-wearables | black | 2026-09-05 | none found |
