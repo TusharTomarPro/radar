@@ -158,3 +158,70 @@
 | Cloud in a Bottle | self-hosting | black | 2026-09-06 | none found |
 | OKF Agent Memory | ai-agent | black | 2026-09-06 | none found |
 | Reader | news-aggregator | black | 2026-09-06 | none found |
+| AI Toolbox | ai-productivity | black | 2026-09-06 | none found |
+| Speakeasy | ai-agent | black | 2026-09-06 | none found |
+| fal | ai-video | black | 2026-09-06 | none found |
+| Notify.domains | domain-monitoring | orange | 2026-09-06 | BigRock |
+| Tadata | ai-assistant | black | 2026-09-06 | none found |
+| IdeaPz | idea-platform | black | 2026-09-06 | none found |
+| HalfWork | dev-tools | orange | 2026-09-06 | Kissflow |
+| AgentWatch | ai-monitoring | black | 2026-09-06 | none found |
+| PlanMoon | ai-search | orange | 2026-09-06 | Justdial |
+| TestimonialBot | testimonial-automation | black | 2026-09-06 | none found |
+| LaunchMetrics | launch-analytics | orange | 2026-09-06 | Zoho Analytics |
+| LiveFaceSwap | ai-face-swap | orange | 2026-09-06 | Moj |
+| IndieNeed | launch-platform | black | 2026-09-06 | none found |
+| unknown | saas | black | 2026-09-06 | none found |
+| Zarek | launch-automation | black | 2026-09-06 | none found |
+| Shibui Finance | fintech | orange | 2026-09-06 | Tickertape |
+| SoftRankings | founder-platform | black | 2026-09-06 | none found |
+| clienthunter.ai | intent-leadgen | orange | 2026-09-06 | LeadSquared |
+| Unnamed Marketplace | marketplace | orange | 2026-09-06 | Urban Company |
+| letsflw | ai-writing | black | 2026-09-06 | none found |
+| Trial Tracker | subscription-management | orange | 2026-09-06 | Walnut |
+| TermsGuard | legal-tech | black | 2026-09-06 | none found |
+| Pickle | ai-browser | black | 2026-09-06 | none found |
+| Genie 007 | voice-assistant | orange | 2026-09-06 | Vernacular.ai |
+| Velor Platforms | support-ai | orange | 2026-09-06 | Zoho Desk |
+| Xolora | marketing-analytics | orange | 2026-09-06 | Zoho Analytics |
+| RankHit | seo-tool | black | 2026-09-06 | none found |
+| Apollodorus Video | video-editing | black | 2026-09-06 | none found |
+| Grimdall | AI-security | black | 2026-09-06 | none found |
+| DataHealth | data-quality | black | 2026-09-06 | none found |
+| RevPages | seo-tool | orange | 2026-09-06 | Ubersuggest |
+| Unnamed Golf App | golf-tech | black | 2026-09-06 | none found |
+| Hyzo | workflow | orange | 2026-09-06 | Kissflow |
+| Comp AI CRM | ai-crm | orange | 2026-09-06 | Zoho CRM |
+| Forgex Systems | engineering-as-a-service | orange | 2026-09-06 | Turing.com |
+| Rectiva | design-tool | black | 2026-09-06 | none found |
+| JobHunting AI | career-tech | orange | 2026-09-06 | Skillate |
+| TruthScore | fact-checking | orange | 2026-09-06 | Factly |
+| NAEOS | ai-devtools | black | 2026-09-06 | none found |
+| FacelessFlow | ai-video | orange | 2026-09-06 | InVideo |
+| Lovable | ai-seo | black | 2026-09-06 | none found |
+| QuietCost | revops | black | 2026-09-06 | none found |
+| CancelKit | retention-tech | orange | 2026-09-06 | CleverTap |
+| Practical Systems Bundle | productivity-tools | black | 2026-09-06 | none found |
+| Brightbean | ai-agent | orange | 2026-09-06 | AutomationEdge |
+| Serpspur | seo-tool | orange | 2026-09-06 | RankWatch |
+| ColdCraft | sales-automation | orange | 2026-09-06 | LeadSquared |
+| DukoTools | web-tools | black | 2026-09-06 | none found |
+| TinyPDF | pdf-tools | black | 2026-09-06 | none found |
+| rdooley.dev | dev-tools | black | 2026-09-06 | none found |
+| AFOP | freelance-education | black | 2026-09-06 | none found |
+| OSCam Provider | satellite-tech | black | 2026-09-06 | none found |
+| Agenmatic | growth-hacking | black | 2026-09-06 | none found |
+| NetworkHQ | lead-gen | orange | 2026-09-06 | LeadSquared |
+| StateGuard | dev-tools | orange | 2026-09-06 | AppDynamics |
+| FitForge | fitness-tech | orange | 2026-09-06 | Fittr |
+| ProductFinder AI | ai-recommendation | orange | 2026-09-06 | Unbxd |
+| Laranja | devops | black | 2026-09-06 | none found |
+| Postmint | saas | black | 2026-09-06 | none found |
+| HustleAI | ai-agent | black | 2026-09-06 | none found |
+| Pistly | sales-automation | orange | 2026-09-06 | LeadSquared |
+| GossipStack | community-sdk | orange | 2026-09-06 | Applozic |
+| Qalqlet | fintech | orange | 2026-09-06 | ClearTax |
+| BotAnalytics | analytics | black | 2026-09-06 | none found |
+| Overmind | productivity | orange | 2026-09-06 | Zoho Projects |
+| Featly | dev-tools | black | 2026-09-06 | none found |
+| Zeelab | pharma e-commerce | orange | 2026-09-06 | PharmEasy |
