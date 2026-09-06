@@ -235,3 +235,6 @@
 | Opalite Health | health-tech | orange | 2026-09-06 | Practo |
 | Kadō | habit-tracker | black | 2026-09-06 | none found |
 | Nitter | privacy-social | black | 2026-09-06 | none found |
+| Mador | ui-library | black | 2026-09-06 | none found |
+| Anubis | wasm-compute | black | 2026-09-06 | none found |
+| VODForge | video-download | black | 2026-09-06 | none found |

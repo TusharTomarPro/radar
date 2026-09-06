@@ -727,3 +727,30 @@
 - India fit note: Relies on users accessing Twitter via a third‑party proxy and on stable API access, which may be limited in India due to occasional API blocks and lower awareness of privacy‑focused tools.
 - Badge guess: black
 
+## Mador
+- Source article: [Show HN: Mador – Make any DOM reactive with a tiny 80-line Proxy state tuple](https://github.com/marsbos/mador) (Hacker News (front page))
+- Category: ui-library
+- What it does: Mador is a lightweight JavaScript library that makes any DOM element reactive using an 80‑line Proxy‑based state tuple, enabling developers to build reactive interfaces without a full framework.
+- Likely revenue model: It is an open‑source project likely monetized through sponsorships, donations, or paid consulting/services around the library.
+- India equivalent: none found
+- India fit note: The library depends only on standard web technologies and developer willingness to adopt a new tool, both of which are readily available in India, so there are no major behavioral or infrastructure barriers.
+- Badge guess: black
+
+## Anubis
+- Source article: [It took a year to ship WebAssembly in Anubis](https://anubis.techaro.lol/blog/2026/anubis-wasm/) (Hacker News (front page))
+- Category: wasm-compute
+- What it does: Anubis is a cloud platform that lets developers deploy and run WebAssembly modules as serverless functions, offering fast start‑up and language‑agnostic compute. It abstracts away the underlying infrastructure so users can focus on code written in any language that compiles to Wasm.
+- Likely revenue model: Usage‑based billing where customers pay for the compute time, memory, and request volume of their Wasm functions.
+- India equivalent: none found
+- India fit note: Success depends on widespread developer familiarity with WebAssembly and the availability of low‑latency edge nodes, both of which are still emerging in India. Limited edge infrastructure and slower adoption of Wasm‑centric tooling could hinder immediate traction.
+- Badge guess: black
+
+## VODForge
+- Source article: [Show HN: VODForge – a free local desktop UI for YouTube video/playlist downloads](https://getvodforge.com/) (Hacker News (front page))
+- Category: video-download
+- What it does: VODForge is a free desktop GUI that lets users download YouTube videos and playlists in high quality, automatically adjusting ffmpeg settings and organizing files by channel or playlist.
+- Likely revenue model: Probably a freemium model with optional paid premium features or donations, since the core product is offered for free.
+- India equivalent: none found
+- India fit note: The tool relies on stable broadband and user willingness to download copyrighted content, which may be limited in India due to lower average internet speeds for 4K and legal concerns around YouTube downloading.
+- Badge guess: black
+
