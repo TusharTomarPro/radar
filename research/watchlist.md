@@ -184,3 +184,7 @@
 | Learn Programming with OCaml (LPO) | edtech | orange | 2026-09-05 | Coding Ninjas |
 | Earth Garden | audio-discovery | black | 2026-09-05 | none found |
 | Isar Aerospace | smallsat launch | orange | 2026-09-05 | Skyroot Aerospace |
+| Gateside | travel-tech | black | 2026-09-06 | none found |
+| Cloud in a Bottle | self-hosting | black | 2026-09-06 | none found |
+| OKF Agent Memory | ai-agent | black | 2026-09-06 | none found |
+| Reader | news-aggregator | black | 2026-09-06 | none found |
