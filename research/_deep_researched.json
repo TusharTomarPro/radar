@@ -324,5 +324,155 @@
     "capital_intensity": "high",
     "risk_score": 8,
     "risk_reasoning": "Search evidence shows Ultrahuman is an active, well-funded player with 580 employees and growing hiring, while Oura has directly entered the Indian market with Ring 4, confirming a real, surviving competitor. The hardware-plus-continuous-glucose-monitoring model is capital-intensive, requiring manufacturing, inventory, and deep metabolic health integration that is not bootstrappable. Regulatory exposure is moderate due to health data localization requirements under India's DPDP Act and potential medical device licensing under CDSCO rules for wearable health claims, adding compliance burden on top of an already expensive competitive fight."
+  },
+  "onset::2026-09-05": {
+    "company": "Onset",
+    "category": "developer-tools",
+    "revised_badge": "black",
+    "competitor_status": "no-real-competitor-found",
+    "regulatory_flag": "none",
+    "capital_intensity": "low",
+    "risk_score": 2,
+    "risk_reasoning": "The search evidence shows no direct competitor in the Indian web\u2011design/software\u2011development space, suggesting a clear market entry window. Regulatory exposure is minimal for pure service offerings, and the business model is asset\u2011light, requiring little upfront capital. These factors combine to make the venture relatively low\u2011risk, though future entrants could erode the advantage."
+  },
+  "openclaw::2026-09-05": {
+    "company": "OpenClaw",
+    "category": "ai-agent",
+    "revised_badge": "orange",
+    "competitor_status": "pivoted",
+    "regulatory_flag": "moderate \u2013 compliance needed with RBI Payment Aggregator guidelines and data\u2011localisation mandates under the RBI\u2019s \u201cData Localization\u201d circular and the IT Act",
+    "capital_intensity": "low \u2013 the model is software\u2011only and asset\u2011light, relying on API integrations rather than heavy physical infrastructure",
+    "risk_score": 5,
+    "risk_reasoning": "Krutrim\u2019s AI assistant has already been shut down, so direct competition is weak, but the market still faces moderate regulatory friction around payments and data localisation. The business is capital\u2011light, which lowers execution risk, yielding a mid\u2011range risk rating."
+  },
+  "furlenco::2026-09-05": {
+    "company": "Furlenco",
+    "category": "furniture-rental",
+    "revised_badge": "orange",
+    "competitor_status": "surviving",
+    "regulatory_flag": "moderate \u2013 the model involves inventory\u2011based logistics and gig\u2011worker delivery, invoking labour law (e.g., The Contract Labour (Regulation and Abolition) Act) and consumer\u2011protection rules, but no sector\u2011specific licensing.",
+    "capital_intensity": "high \u2013 scaling requires large upfront purchase of furniture, warehousing space, and a delivery fleet, leading to heavy cash burn before unit economics improve.",
+    "risk_score": 7,
+    "risk_reasoning": "Rentomojo is an active, well\u2011funded competitor, confirming a crowded market. While regulatory hurdles are not prohibitive, labour and consumer\u2011protection compliance add moderate risk. The business is capital\u2011intensive, demanding significant upfront investment, which together push the overall risk to a high\u2011medium level."
+  },
+  "apollyon-dynamics::2026-09-05": {
+    "company": "Apollyon Dynamics",
+    "category": "defense-tech",
+    "revised_badge": "orange",
+    "competitor_status": "surviving",
+    "regulatory_flag": "high \u2013 Indian drone/defence sector requires DGCA UAS certification, Ministry of Defence clearance and adherence to the 2022 Defence Production Policy (100% FDI with government approval).",
+    "capital_intensity": "high \u2013 manufacturing modular UAVs and obtaining defence certifications demands substantial upfront R&D, tooling, and production capital.",
+    "risk_score": 8,
+    "risk_reasoning": "Apollyon Dynamics faces strong, well\u2011funded rivals such as Anduril, Skydio and Newspace Research, making market entry tough. The defence\u2011drone space is subject to stringent DGCA and MoD regulations, raising compliance costs. Additionally, hardware\u2011heavy UAV production is capital\u2011intensive, increasing burn rate and runway pressure, leading to a high overall risk."
+  },
+  "whatsapp-meta::2026-09-05": {
+    "company": "WhatsApp (Meta)",
+    "category": "messaging-payments",
+    "revised_badge": "orange",
+    "competitor_status": "surviving",
+    "regulatory_flag": "moderate \u2013 WhatsApp would need RBI approval as a payment aggregator or partner with a bank, and must comply with data\u2011localisation mandates under the RBI/IT Act and UPI guidelines.",
+    "capital_intensity": "low \u2013 the model is primarily software\u2011centric and asset\u2011light; the main costs are compliance, integration and partnership development rather than heavy physical assets.",
+    "risk_score": 5,
+    "risk_reasoning": "Paytm, PhonePe and BBPS are active, so the market is competitive (orange badge). Regulatory hurdles exist but are manageable with proper licensing and data\u2011localisation, giving a moderate risk rating. Capital needs are modest, keeping overall risk at a mid\u2011range level."
+  },
+  "business-nextgen-finance::2026-09-05": {
+    "company": "Business Nextgen Finance",
+    "category": "nbfc-lending",
+    "revised_badge": "orange",
+    "competitor_status": "surviving",
+    "regulatory_flag": "moderate - RBI NBFC licensing under the RBI Act, 1934 (including capital adequacy, KYC, and prudential norms) and FDI approval requirements",
+    "capital_intensity": "medium - lending requires a sizable loan fund and regulatory capital buffers, but a fintech\u2011driven, asset\u2011light model can keep cash burn moderate",
+    "risk_score": 6,
+    "risk_reasoning": "Established NBFC players like Kinara Capital and MAS Financial Services already dominate the market, making competitive entry harder. The business must obtain RBI NBFC licence and meet strict capital adequacy norms, adding moderate regulatory friction. While the model can be asset\u2011light, funding the loan book still demands appreciable capital, raising the overall risk to a mid\u2011range level."
+  },
+  "flipkart::2026-09-05": {
+    "company": "Flipkart",
+    "category": "social-commerce",
+    "revised_badge": "orange",
+    "competitor_status": "surviving",
+    "regulatory_flag": "moderate \u2013 subject to India\u2019s FDI\u2011in\u2011e\u2011commerce rules (the 2020 Marketplace Model guidelines) and data\u2011localisation requirements under the Personal Data Protection framework",
+    "capital_intensity": "high \u2013 Flipkart\u2019s model relies on massive logistics networks, dark\u2011stores, discount\u2011driven customer acquisition and heavy marketing spend, requiring sustained VC\u2011backed cash burn",
+    "risk_score": 7,
+    "risk_reasoning": "The market has strong, active competitors (Meesho, Instagram) making entry tougher. While regulatory hurdles are manageable (moderate), they add compliance cost. Flipkart\u2019s capital\u2011intensive logistics and discount strategy increase cash\u2011burn risk, pushing the overall risk to a high\u2011moderate level."
+  },
+  "reflexio::2026-09-05": {
+    "company": "Reflexio",
+    "category": "ai-agent",
+    "revised_badge": "orange",
+    "competitor_status": "surviving",
+    "regulatory_flag": "moderate \u2013 India\u2019s draft Personal Data Protection Bill (and related data\u2011localisation provisions under the IT Act) imposes obligations on conversational\u2011AI platforms handling personal data.",
+    "capital_intensity": "low \u2013 an AI\u2011agent SaaS can be built asset\u2011light and reach profitability with modest cloud spend and a small engineering team.",
+    "risk_score": 5,
+    "risk_reasoning": "Haptik, a well\u2011funded, acquired player, already dominates the Indian conversational\u2011AI market, creating a clear competitive headwind. Regulatory exposure is moderate due to upcoming data\u2011localisation rules, but the business model is low\u2011capital and can be bootstrapped. The combination yields a mid\u2011range risk, suggesting careful differentiation is needed before pursuing an India\u2011localised version."
+  },
+  "experiential-labs::2026-09-05": {
+    "company": "Experiential Labs",
+    "category": "ai-infrastructure",
+    "revised_badge": "orange",
+    "competitor_status": "surviving",
+    "regulatory_flag": "moderate",
+    "capital_intensity": "low",
+    "risk_score": 6,
+    "risk_reasoning": "The search evidence shows that competitors like Helicone AI, Hugging Face, and Mycelis do exist and are surviving, changing the badge to orange. While AI infrastructure is typically asset-light and low capital intensity, the crowded market combined with India's high startup failure rate (over 11,000 shutdowns in 2025) and moderate data localization regulations under the DPDP Act elevates the risk score."
+  },
+  "hyperprobe::2026-09-05": {
+    "company": "Hyperprobe",
+    "category": "ai-devops",
+    "revised_badge": "orange",
+    "competitor_status": "surviving",
+    "regulatory_flag": "moderate \u2013 must comply with India\u2019s data\u2011localisation and emerging Personal Data Protection Bill requirements for log and telemetry data, plus IT Act security standards.",
+    "capital_intensity": "low \u2013 the model is software\u2011only, asset\u2011light and can reach profitability with modest cloud spend and a small engineering team.",
+    "risk_score": 5,
+    "risk_reasoning": "The market already has several established players (Coastal, IBM Lab Services, Airbrake, etc.), so differentiation will be hard (orange badge). Regulatory compliance is a moderate hurdle due to data\u2011localisation rules, but there are no sector\u2011specific licensing barriers. Capital needs are low, keeping burn modest. Combined, these factors give a mid\u2011range risk rating."
+  },
+  "brickforgerai::2026-09-05": {
+    "company": "BrickForgerAI",
+    "category": "generative-ai",
+    "revised_badge": "black",
+    "competitor_status": "no-real-competitor-found",
+    "regulatory_flag": "none",
+    "capital_intensity": "low",
+    "risk_score": 3,
+    "risk_reasoning": "Search evidence shows no genuine AI competitor and the only listed rivals are conventional brick manufacturers, indicating a clear niche. The model is software\u2011centric, requiring modest cloud compute, so capital needs are low. Indian regulations do not presently target generative\u2011AI design tools, keeping compliance risk minimal. Together these factors give a relatively low risk profile."
+  },
+  "gitwarren::2026-09-05": {
+    "company": "GitWarren",
+    "category": "ai-code-review",
+    "revised_badge": "black",
+    "competitor_status": "no-real-competitor-found",
+    "regulatory_flag": "none",
+    "capital_intensity": "low",
+    "risk_score": 2,
+    "risk_reasoning": "Search evidence shows no genuine Indian rivals for AI code review, and the model faces minimal regulatory hurdles and requires little capital as a pure\u2011software service. However, the fact that GitWarren itself reportedly shut down indicates execution risk, keeping the overall risk modest but not negligible."
+  },
+  "at8pm::2026-09-05": {
+    "company": "at8pm",
+    "category": "journaling",
+    "revised_badge": "black",
+    "competitor_status": "no-real-competitor-found",
+    "regulatory_flag": "moderate \u2013 India\u2019s Personal Data Protection Bill (and related data\u2011localisation rules for personal data) requires user data to be stored on servers in India, adding compliance overhead.",
+    "capital_intensity": "low \u2013 the model is software\u2011only, asset\u2011light and can be built and scaled with modest cloud and development spend.",
+    "risk_score": 3,
+    "risk_reasoning": "The lack of a direct Indian journaling competitor is a positive signal, but the startup must comply with emerging data\u2011localisation and privacy regulations, which adds moderate regulatory risk. Capital needs are low, so the overall risk remains modest, yielding a score of 3 out of 10."
+  },
+  "ponytail::2026-09-05": {
+    "company": "Ponytail",
+    "category": "low-code",
+    "revised_badge": "black",
+    "competitor_status": "no-real-competitor-found",
+    "regulatory_flag": "moderate \u2013 the Personal Data Protection Bill (proposed) and existing data\u2011localisation requirements for SaaS could impose compliance overhead.",
+    "capital_intensity": "low \u2013 a low\u2011code SaaS is software\u2011only, asset\u2011light, and can scale with modest cloud spend and a small engineering team.",
+    "risk_score": 3,
+    "risk_reasoning": "The search evidence shows no true low\u2011code competitor in India, so market entry looks promising. Regulatory exposure is limited to data\u2011privacy/localisation, which is manageable. Capital needs are low, making the venture bootstrappable and less dependent on large VC rounds, resulting in a relatively low overall risk."
+  },
+  "dif-sh::2026-09-05": {
+    "company": "dif.sh",
+    "category": "dev-tools",
+    "revised_badge": "black",
+    "competitor_status": "no-real-competitor-found",
+    "regulatory_flag": "none",
+    "capital_intensity": "low",
+    "risk_score": 2,
+    "risk_reasoning": "Search results list logistics firms (Aramex, DHL, etc.) as competitors, which are unrelated to a dev\u2011tools product, indicating no real market rivalry. Dev\u2011tools face minimal regulatory hurdles in India, and the business model is software\u2011centric with low capital needs, making it bootstrappable. The combination of no competitor, low regulatory exposure, and low capital intensity yields a low overall risk."
   }
 }

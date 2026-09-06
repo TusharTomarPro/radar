@@ -1,11 +1,59 @@
 # Top 20 Shortlist
-_Generated 2026-09-06 06:29 UTC -- auto-updated after every deep-research pass._
+_Generated 2026-09-06 06:37 UTC -- auto-updated after every deep-research pass._
 
-Ranked by risk score (lower = more promising) out of 34 companies deep-researched so far, 146 tracked total.
+Ranked by risk score (lower = more promising) out of 49 companies deep-researched so far, 146 tracked total.
 
 ---
 
-## 1. Tweet.app -- LOW RISK (3/10)
+## 1. Onset -- LOW RISK (2/10)
+
+**Category:** developer-tools  
+**Badge:** black  
+**Competitor status:** no-real-competitor-found  
+**Regulatory:** none  
+**Capital intensity:** low  
+
+**AI reasoning:** The search evidence shows no direct competitor in the Indian web‑design/software‑development space, suggesting a clear market entry window. Regulatory exposure is minimal for pure service offerings, and the business model is asset‑light, requiring little upfront capital. These factors combine to make the venture relatively low‑risk, though future entrants could erode the advantage.
+
+**Your notes:** _(none added yet -- click through from the dashboard to add your take)_
+
+[Full research file](companies/onset/2026-09-05-research.md) -- [Add notes](companies/onset/your-notes.md)
+
+---
+
+## 2. GitWarren -- LOW RISK (2/10)
+
+**Category:** ai-code-review  
+**Badge:** black  
+**Competitor status:** no-real-competitor-found  
+**Regulatory:** none  
+**Capital intensity:** low  
+
+**AI reasoning:** Search evidence shows no genuine Indian rivals for AI code review, and the model faces minimal regulatory hurdles and requires little capital as a pure‑software service. However, the fact that GitWarren itself reportedly shut down indicates execution risk, keeping the overall risk modest but not negligible.
+
+**Your notes:** _(none added yet -- click through from the dashboard to add your take)_
+
+[Full research file](companies/gitwarren/2026-09-05-research.md) -- [Add notes](companies/gitwarren/your-notes.md)
+
+---
+
+## 3. dif.sh -- LOW RISK (2/10)
+
+**Category:** dev-tools  
+**Badge:** black  
+**Competitor status:** no-real-competitor-found  
+**Regulatory:** none  
+**Capital intensity:** low  
+
+**AI reasoning:** Search results list logistics firms (Aramex, DHL, etc.) as competitors, which are unrelated to a dev‑tools product, indicating no real market rivalry. Dev‑tools face minimal regulatory hurdles in India, and the business model is software‑centric with low capital needs, making it bootstrappable. The combination of no competitor, low regulatory exposure, and low capital intensity yields a low overall risk.
+
+**Your notes:** _(none added yet -- click through from the dashboard to add your take)_
+
+[Full research file](companies/dif-sh/2026-09-05-research.md) -- [Add notes](companies/dif-sh/your-notes.md)
+
+---
+
+## 4. Tweet.app -- LOW RISK (3/10)
 
 **Category:** microblogging  
 **Badge:** black  
@@ -21,7 +69,7 @@ Ranked by risk score (lower = more promising) out of 34 companies deep-researche
 
 ---
 
-## 2. Snitch -- LOW RISK (3/10)
+## 5. Snitch -- LOW RISK (3/10)
 
 **Category:** hr-tech  
 **Badge:** black  
@@ -37,7 +85,7 @@ Ranked by risk score (lower = more promising) out of 34 companies deep-researche
 
 ---
 
-## 3. Sidebranch -- LOW RISK (3/10)
+## 6. Sidebranch -- LOW RISK (3/10)
 
 **Category:** dev-tools  
 **Badge:** black  
@@ -53,7 +101,7 @@ Ranked by risk score (lower = more promising) out of 34 companies deep-researche
 
 ---
 
-## 4. cmmnts -- LOW RISK (3/10)
+## 7. cmmnts -- LOW RISK (3/10)
 
 **Category:** comment-platform  
 **Badge:** black  
@@ -69,7 +117,7 @@ Ranked by risk score (lower = more promising) out of 34 companies deep-researche
 
 ---
 
-## 5. Grove -- LOW RISK (3/10)
+## 8. Grove -- LOW RISK (3/10)
 
 **Category:** developer-tools  
 **Badge:** black  
@@ -85,7 +133,7 @@ Ranked by risk score (lower = more promising) out of 34 companies deep-researche
 
 ---
 
-## 6. Thaw -- LOW RISK (3/10)
+## 9. Thaw -- LOW RISK (3/10)
 
 **Category:** productivity  
 **Badge:** black  
@@ -101,7 +149,7 @@ Ranked by risk score (lower = more promising) out of 34 companies deep-researche
 
 ---
 
-## 7. Roadie -- LOW RISK (3/10)
+## 10. Roadie -- LOW RISK (3/10)
 
 **Category:** audio-utility  
 **Badge:** black  
@@ -117,7 +165,55 @@ Ranked by risk score (lower = more promising) out of 34 companies deep-researche
 
 ---
 
-## 8. Clockwork -- MODERATE RISK (4/10)
+## 11. BrickForgerAI -- LOW RISK (3/10)
+
+**Category:** generative-ai  
+**Badge:** black  
+**Competitor status:** no-real-competitor-found  
+**Regulatory:** none  
+**Capital intensity:** low  
+
+**AI reasoning:** Search evidence shows no genuine AI competitor and the only listed rivals are conventional brick manufacturers, indicating a clear niche. The model is software‑centric, requiring modest cloud compute, so capital needs are low. Indian regulations do not presently target generative‑AI design tools, keeping compliance risk minimal. Together these factors give a relatively low risk profile.
+
+**Your notes:** _(none added yet -- click through from the dashboard to add your take)_
+
+[Full research file](companies/brickforgerai/2026-09-05-research.md) -- [Add notes](companies/brickforgerai/your-notes.md)
+
+---
+
+## 12. at8pm -- LOW RISK (3/10)
+
+**Category:** journaling  
+**Badge:** black  
+**Competitor status:** no-real-competitor-found  
+**Regulatory:** moderate – India’s Personal Data Protection Bill (and related data‑localisation rules for personal data) requires user data to be stored on servers in India, adding compliance overhead.  
+**Capital intensity:** low – the model is software‑only, asset‑light and can be built and scaled with modest cloud and development spend.  
+
+**AI reasoning:** The lack of a direct Indian journaling competitor is a positive signal, but the startup must comply with emerging data‑localisation and privacy regulations, which adds moderate regulatory risk. Capital needs are low, so the overall risk remains modest, yielding a score of 3 out of 10.
+
+**Your notes:** _(none added yet -- click through from the dashboard to add your take)_
+
+[Full research file](companies/at8pm/2026-09-05-research.md) -- [Add notes](companies/at8pm/your-notes.md)
+
+---
+
+## 13. Ponytail -- LOW RISK (3/10)
+
+**Category:** low-code  
+**Badge:** black  
+**Competitor status:** no-real-competitor-found  
+**Regulatory:** moderate – the Personal Data Protection Bill (proposed) and existing data‑localisation requirements for SaaS could impose compliance overhead.  
+**Capital intensity:** low – a low‑code SaaS is software‑only, asset‑light, and can scale with modest cloud spend and a small engineering team.  
+
+**AI reasoning:** The search evidence shows no true low‑code competitor in India, so market entry looks promising. Regulatory exposure is limited to data‑privacy/localisation, which is manageable. Capital needs are low, making the venture bootstrappable and less dependent on large VC rounds, resulting in a relatively low overall risk.
+
+**Your notes:** _(none added yet -- click through from the dashboard to add your take)_
+
+[Full research file](companies/ponytail/2026-09-05-research.md) -- [Add notes](companies/ponytail/your-notes.md)
+
+---
+
+## 14. Clockwork -- MODERATE RISK (4/10)
 
 **Category:** ai-agent  
 **Badge:** black  
@@ -133,7 +229,7 @@ Ranked by risk score (lower = more promising) out of 34 companies deep-researche
 
 ---
 
-## 9. Offline JS Playground -- MODERATE RISK (4/10)
+## 15. Offline JS Playground -- MODERATE RISK (4/10)
 
 **Category:** dev-tools  
 **Badge:** orange  
@@ -149,7 +245,7 @@ Ranked by risk score (lower = more promising) out of 34 companies deep-researche
 
 ---
 
-## 10. WeatherNext -- MODERATE RISK (4/10)
+## 16. WeatherNext -- MODERATE RISK (4/10)
 
 **Category:** weather-ai  
 **Badge:** orange  
@@ -165,7 +261,7 @@ Ranked by risk score (lower = more promising) out of 34 companies deep-researche
 
 ---
 
-## 11. Tidy -- MODERATE RISK (4/10)
+## 17. Tidy -- MODERATE RISK (4/10)
 
 **Category:** ai-grammar  
 **Badge:** orange  
@@ -181,7 +277,7 @@ Ranked by risk score (lower = more promising) out of 34 companies deep-researche
 
 ---
 
-## 12. Tabbit AI -- MODERATE RISK (4/10)
+## 18. Tabbit AI -- MODERATE RISK (4/10)
 
 **Category:** ai-browser  
 **Badge:** black  
@@ -197,7 +293,7 @@ Ranked by risk score (lower = more promising) out of 34 companies deep-researche
 
 ---
 
-## 13. TwelveLabs -- MODERATE RISK (5/10)
+## 19. TwelveLabs -- MODERATE RISK (5/10)
 
 **Category:** video-compliance  
 **Badge:** orange  
@@ -213,7 +309,7 @@ Ranked by risk score (lower = more promising) out of 34 companies deep-researche
 
 ---
 
-## 14. myAIcademy -- MODERATE RISK (5/10)
+## 20. myAIcademy -- MODERATE RISK (5/10)
 
 **Category:** ai-education  
 **Badge:** orange  
@@ -226,101 +322,5 @@ Ranked by risk score (lower = more promising) out of 34 companies deep-researche
 **Your notes:** _(none added yet -- click through from the dashboard to add your take)_
 
 [Full research file](companies/myaicademy/2026-09-05-research.md) -- [Add notes](companies/myaicademy/your-notes.md)
-
----
-
-## 15. TrackMCP -- MODERATE RISK (5/10)
-
-**Category:** gaming-analytics  
-**Badge:** orange  
-**Competitor status:** surviving  
-**Regulatory:** moderate – must comply with India’s Personal Data Protection Bill (PDPB) data‑localisation and consent requirements for user‑level gaming data  
-**Capital intensity:** low – SaaS analytics can be built asset‑light and reach profitability with modest cloud spend  
-
-**AI reasoning:** The search evidence shows active competitors (Digma, Skybridge, Latitude), so the market is not empty. Regulatory exposure is limited to data‑privacy compliance, which is manageable. Capital needs are low for a software‑only model, reducing burn risk. Combined, these factors place the venture at a moderate risk level.
-
-**Your notes:** _(none added yet -- click through from the dashboard to add your take)_
-
-[Full research file](companies/trackmcp/2026-09-05-research.md) -- [Add notes](companies/trackmcp/your-notes.md)
-
----
-
-## 16. World Labs -- MODERATE RISK (5/10)
-
-**Category:** AI video generation  
-**Badge:** orange  
-**Competitor status:** surviving  
-**Regulatory:** moderate – India’s Personal Data Protection Bill (PDPB) and the IT Act’s provisions on deep‑fake/AI‑generated content impose data‑localisation and misuse‑prevention obligations.  
-**Capital intensity:** medium – The model is software‑centric but requires substantial GPU compute and talent, leading to a notable cash burn that can be mitigated with cloud credits or strategic partnerships.  
-
-**AI reasoning:** World Labs faces strong, well‑funded competitors (Meta, NVIDIA, Google) that can out‑spend and out‑innovate, raising competitive risk. Regulatory exposure is moderate due to emerging AI‑content rules and data‑localisation requirements, but not a blocker. Capital needs are medium because compute costs are high yet the business remains asset‑light, yielding a balanced overall risk profile.
-
-**Your notes:** _(none added yet -- click through from the dashboard to add your take)_
-
-[Full research file](companies/world-labs/2026-09-05-research.md) -- [Add notes](companies/world-labs/your-notes.md)
-
----
-
-## 17. Touchy -- MODERATE RISK (5/10)
-
-**Category:** ai-assistant  
-**Badge:** black  
-**Competitor status:** no-real-competitor-found  
-**Regulatory:** moderate - AI assistants must comply with India's emerging AI governance frameworks (DPIAI guidelines), IT Act Section 43A liability for data breaches, and potential upcoming obligations under the Digital India Act; no sector-specific licensing required but cross-border data flow restrictions apply.  
-**Capital intensity:** low - software-margin, asset-light model that can reach profitability on modest capital since it avoids the heavy discounting, real estate, or fleet subsidies that plague inventory-based or gig-economy startups.  
-
-**AI reasoning:** The search evidence confirms no direct AI assistant competitors for Touchy in India, which validates the black badge, but the broader context shows over 11,000 Indian startups shut down in 2025 alone due to funding and model issues, indicating market headwinds even for unfilled niches. Moderate regulatory risk exists around data handling and emerging AI rules, though this is manageable for an asset-light software play. The primary risk is timing—a lack of competitors can signal an unproven market rather than a blue ocean.
-
-**Your notes:** _(none added yet -- click through from the dashboard to add your take)_
-
-[Full research file](companies/touchy/2026-09-05-research.md) -- [Add notes](companies/touchy/your-notes.md)
-
----
-
-## 18. WhatsApp Pay -- MODERATE RISK (5/10)
-
-**Category:** upi-payments  
-**Badge:** orange  
-**Competitor status:** surviving  
-**Regulatory:** moderate  
-**Capital intensity:** medium  
-
-**AI reasoning:** PhonePe is actively funded and operating in India, and Google Pay continues to serve Indian users despite its US shutdown, indicating strong surviving competitors in the UPI payments space. Launching a new WhatsApp Pay localized version will require obtaining an RBI Payment Aggregator license and complying with data-localization rules, which impose moderate regulatory hurdles. While the UPI ecosystem can be built with a relatively modest capital outlay, competing against deep‑pocketed incumbents and navigating compliance adds material risk, leading to a moderate‑high risk score.
-
-**Your notes:** _(none added yet -- click through from the dashboard to add your take)_
-
-[Full research file](companies/whatsapp-pay/2026-09-05-research.md) -- [Add notes](companies/whatsapp-pay/your-notes.md)
-
----
-
-## 19. XDOF -- MODERATE RISK (6/10)
-
-**Category:** robotics-data  
-**Badge:** orange  
-**Competitor status:** surviving  
-**Regulatory:** unknown  
-**Capital intensity:** unknown  
-
-**AI reasoning:** Search evidence lists several active players (Bossa Nova Robotics, 1X Technologies, Robust.AI, Zhichi Technologies) competing in the robotics training data market, indicating a crowded space. While XDOF has strong backing and a large open-source dataset, entering a market with multiple surviving competitors raises execution risk. The presence of established rivals pushes the risk to a moderate‑high level (6/10).
-
-**Your notes:** _(none added yet -- click through from the dashboard to add your take)_
-
-[Full research file](companies/xdof/2026-09-05-research.md) -- [Add notes](companies/xdof/your-notes.md)
-
----
-
-## 20. Roland -- MODERATE RISK (6/10)
-
-**Category:** ai-music  
-**Badge:** orange  
-**Competitor status:** surviving  
-**Regulatory:** none  
-**Capital intensity:** high  
-
-**AI reasoning:** Roland faces established, well‑funded competitors (Yamaha, Casio, Kawai) that dominate the Indian market, making entry difficult. The business would require significant capital for hardware inventory, distribution, and possibly licensing of AI models, driving a high capital intensity. Regulatory exposure is minimal for music hardware/software, but the combination of strong incumbents and heavy upfront costs raises the overall risk to a moderate level.
-
-**Your notes:** _(none added yet -- click through from the dashboard to add your take)_
-
-[Full research file](companies/roland/2026-09-05-research.md) -- [Add notes](companies/roland/your-notes.md)
 
 ---
