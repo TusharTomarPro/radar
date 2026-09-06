@@ -231,3 +231,6 @@
 | astra | ai-game | black | 2026-09-06 | none found |
 | NotifyMe | productivity | black | 2026-09-06 | none found |
 | Alfred | home-security | black | 2026-09-06 | none found |
+| Nix Web | dev-tools | black | 2026-09-06 | none found |
+| Opalite Health | health-tech | orange | 2026-09-06 | Practo |
+| Kadō | habit-tracker | black | 2026-09-06 | none found |

@@ -691,3 +691,30 @@
 - India fit note: Requires reliable home Wi‑Fi and a spare smartphone, which many Indian households have, but data costs and limited broadband penetration may hinder widespread adoption.
 - Badge guess: black
 
+## Nix Web
+- Source article: [Any Nix package, live in the browser](https://fzakaria.com/2026/09/04/any-nix-package-live-in-your-browser) (Hacker News (front page))
+- Category: dev-tools
+- What it does: Provides a web interface that compiles and runs any Nix package in the browser using WebAssembly, eliminating the need for local Nix installation.
+- Likely revenue model: Offers a freemium SaaS model with paid tiers for private builds, higher compute limits, and enterprise support.
+- India equivalent: none found
+- India fit note: The service relies on high‑speed internet and a developer community familiar with Nix, both of which are limited in India, making adoption slower.
+- Badge guess: black
+
+## Opalite Health
+- Source article: [Opalite Health (YC W26) Is Hiring – Founding GTM](https://www.ycombinator.com/companies/opalite-health/jobs/bNedVAD-founding-gtm) (Hacker News (front page))
+- Category: health-tech
+- What it does: Opalite Health builds a digital platform that connects patients with clinicians for remote consultations, health monitoring, and personalized care plans. It leverages AI to triage symptoms and streamline the care workflow.
+- Likely revenue model: They likely charge healthcare providers a subscription fee per clinician or per active patient for access to the platform and its AI tools.
+- India equivalent: Practo
+- India fit note: The model relies on widespread broadband access and a cultural shift toward virtual doctor visits, which are growing in India but still face trust and regulatory hurdles, especially around data privacy and telemedicine licensing.
+- Badge guess: orange
+
+## Kadō
+- Source article: [Show HN: Kadō – open-source habit tracker, with non-binary habit score, for iOS](https://github.com/scastiel/kado) (Hacker News (front page))
+- Category: habit-tracker
+- What it does: Kadō is an open‑source iOS app that lets users track habits using a non‑binary scoring system to reflect nuanced progress.
+- Likely revenue model: It is likely free with revenue coming from optional donations, GitHub Sponsors, or future premium add‑ons.
+- India equivalent: none found
+- India fit note: The app relies on a sizable iOS user base and a culture of personal productivity apps, both of which are less prevalent in India where Android dominates and habit‑tracking adoption is lower.
+- Badge guess: black
+
