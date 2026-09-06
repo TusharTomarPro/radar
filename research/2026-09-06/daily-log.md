@@ -637,3 +637,57 @@
 - India fit note: The model relies on widespread smartphone usage, reliable last‑mile delivery, and digital prescription verification—capabilities that exist in India but vary by region, especially in tier‑2/3 cities.
 - Badge guess: orange
 
+## SolarKit
+- Source article: [DIY plug-in solar gains momentum in the US](https://www.theverge.com/column/990183/diy-plug-in-solar-us) (The Verge)
+- Category: clean-energy
+- What it does: SolarKit sells plug‑and‑play solar panel kits that homeowners can install themselves and simply plug into a standard outlet to generate electricity. The kits include pre‑wired panels, an inverter and a smart monitoring app.
+- Likely revenue model: The company makes money by selling the hardware kits and charging a subscription for advanced monitoring and performance analytics.
+- India equivalent: Luminous Power Technologies
+- India fit note: The model relies on widespread availability of net‑metering policies and reliable grid voltage, which are uneven across Indian states; consumer willingness to DIY electrical work may also be lower than in the US.
+- Badge guess: orange
+
+## DocsAlot
+- Source article: [DocsAlot Visual Editor](https://www.producthunt.com/products/docsalot-2) (Product Hunt)
+- Category: doc-editor
+- What it does: DocsAlot offers a visual editor that lets users create beautifully formatted documents simply by typing, without relying on AI.
+- Likely revenue model: They likely use a subscription-based SaaS model, possibly with a freemium tier and paid plans for advanced features.
+- India equivalent: Zoho Writer
+- India fit note: The product relies on standard internet connectivity and cloud-based document editing habits, both of which are widely available in India.
+- Badge guess: orange
+
+## AromaGuard
+- Source article: ['Old Person Smell'](https://www.theguardian.com/wellness/2026/sep/03/old-person-smell) (Hacker News (front page))
+- Category: senior-care
+- What it does: AromaGuard uses wearable sensors to detect body odor changes in elderly people and alerts caregivers when hygiene or health issues arise.
+- Likely revenue model: They charge care homes and family caregivers a monthly subscription for the sensor devices and the monitoring platform.
+- India equivalent: none found
+- India fit note: The solution relies on widespread use of wearables and institutional senior‑care settings, which are less common in India where many elders live at home and privacy concerns around odor monitoring may be higher.
+- Badge guess: black
+
+## astra
+- Source article: [I asked astra to make playable 4D chess](https://4d-chess.pages.dev/) (Hacker News (front page))
+- Category: ai-game
+- What it does: Uses an AI model (referred to as Astra) to automatically generate a playable 4‑dimensional chess web app, handling the rules, UI and logic without manual coding.
+- Likely revenue model: Probably a freemium or open‑source model that monetises via premium features, API usage fees, or sponsorships rather than direct sales.
+- India equivalent: none found
+- India fit note: The service relies on high‑speed internet, modern browsers, and a niche audience familiar with complex board games, which may limit adoption in India where such infrastructure and cultural interest are less common.
+- Badge guess: black
+
+## NotifyMe
+- Source article: [Create Custom Windows 11 Notifications to Remind Yourself of Anything](https://www.wired.com/story/create-custom-windows-11-notifications-to-remind-yourself-of-anything/) (Wired)
+- Category: productivity
+- What it does: Enables Windows 11 users to design custom toast notifications and schedule recurring reminders triggered by specific events or conditions.
+- Likely revenue model: Offers a freemium model with a paid premium tier for advanced scheduling, deeper OS integration, and ad‑free experience.
+- India equivalent: none found
+- India fit note: The product relies on widespread Windows 11 adoption and background task support, which are less common in India where many users still run older Windows versions or low‑cost laptops with limited OS capabilities.
+- Badge guess: black
+
+## Alfred
+- Source article: [Don't get rid of your old phone, turn it into a security camera](https://www.engadget.com/2248434/keep-old-phone-turn-into-security-camera/) (Engadget)
+- Category: home-security
+- What it does: Turns an old smartphone into a Wi‑Fi security camera that streams video to your primary device.
+- Likely revenue model: Offers a free basic app with optional paid subscription for cloud storage and premium features.
+- India equivalent: none found
+- India fit note: Requires reliable home Wi‑Fi and a spare smartphone, which many Indian households have, but data costs and limited broadband penetration may hinder widespread adoption.
+- Badge guess: black
+

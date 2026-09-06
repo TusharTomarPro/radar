@@ -225,3 +225,9 @@
 | Overmind | productivity | orange | 2026-09-06 | Zoho Projects |
 | Featly | dev-tools | black | 2026-09-06 | none found |
 | Zeelab | pharma e-commerce | orange | 2026-09-06 | PharmEasy |
+| SolarKit | clean-energy | orange | 2026-09-06 | Luminous Power Technologies |
+| DocsAlot | doc-editor | orange | 2026-09-06 | Zoho Writer |
+| AromaGuard | senior-care | black | 2026-09-06 | none found |
+| astra | ai-game | black | 2026-09-06 | none found |
+| NotifyMe | productivity | black | 2026-09-06 | none found |
+| Alfred | home-security | black | 2026-09-06 | none found |
