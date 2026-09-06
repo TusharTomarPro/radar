@@ -1,4 +1,5 @@
-# search "<sitename> rss feed" to find more. Most news sites have one even if not linked on the homepage.
+# Add or remove RSS feeds here. All of these are free, public, no API key needed.
+# Tip: search "<sitename> rss feed" to find more. Most news sites have one even if not linked on the homepage.
 
 western_feeds:
   - name: TechCrunch
@@ -23,6 +24,10 @@ western_feeds:
     url: https://techcrunch.com/category/startups/feed/
   - name: Crunchbase News
     url: https://news.crunchbase.com/feed/
+  - name: BetaList (pre-launch startups)
+    url: https://betalist.com/posts.rss
+  - name: Indie Hackers (unofficial feed)
+    url: https://feed.indiehackers.world/posts.rss
 
 indian_feeds:
   - name: Entrackr
@@ -44,7 +49,7 @@ indian_feeds:
   - name: Financial Express Industry
     url: https://www.financialexpress.com/industry/feed/
 
-# add subreddit feeds free too, e.g.:
+# You can add subreddit feeds free too, e.g.:
 #   - name: r/startups
 #     url: https://www.reddit.com/r/startups/.rss
 #   - name: r/india
