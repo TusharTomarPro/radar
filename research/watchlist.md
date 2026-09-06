@@ -234,3 +234,4 @@
 | Nix Web | dev-tools | black | 2026-09-06 | none found |
 | Opalite Health | health-tech | orange | 2026-09-06 | Practo |
 | Kadō | habit-tracker | black | 2026-09-06 | none found |
+| Nitter | privacy-social | black | 2026-09-06 | none found |

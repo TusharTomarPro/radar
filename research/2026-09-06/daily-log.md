@@ -718,3 +718,12 @@
 - India fit note: The app relies on a sizable iOS user base and a culture of personal productivity apps, both of which are less prevalent in India where Android dominates and habit‑tracking adoption is lower.
 - Badge guess: black
 
+## Nitter
+- Source article: [Following legal advice, the Nitter project will continue](https://github.com/zedeus/nitter) (Hacker News (front page))
+- Category: privacy-social
+- What it does: Provides a lightweight, ad‑free, no‑JavaScript front‑end for viewing Twitter/X content.
+- Likely revenue model: Operates as an open‑source project funded by donations and sponsorships.
+- India equivalent: none found
+- India fit note: Relies on users accessing Twitter via a third‑party proxy and on stable API access, which may be limited in India due to occasional API blocks and lower awareness of privacy‑focused tools.
+- Badge guess: black
+
