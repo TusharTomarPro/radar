@@ -239,3 +239,19 @@
 | Anubis | wasm-compute | black | 2026-09-06 | none found |
 | VODForge | video-download | black | 2026-09-06 | none found |
 | MathKernel | math-api | black | 2026-09-07 | none found |
+| Remind | meeting-assistant | black | 2026-09-07 | none found |
+| Databox | ai-analytics | orange | 2026-09-07 | Zoho Analytics |
+| Airuncode | dev-tools | black | 2026-09-07 | none found |
+| Clipnote | ai-productivity | black | 2026-09-07 | none found |
+| Antalpha | crypto-ai | black | 2026-09-07 | none found |
+| Bloop | media-tools | black | 2026-09-07 | none found |
+| Assist | productivity | black | 2026-09-07 | none found |
+| Sciptly | teleprompter | black | 2026-09-07 | none found |
+| Coldtea.ai | ai-dev | black | 2026-09-07 | none found |
+| Tucky | ai-assistant | black | 2026-09-07 | none found |
+| gkoreli | bot-detection | black | 2026-09-07 | none found |
+| Engrim | ai-cli | black | 2026-09-07 | none found |
+| GET Together | social-network | black | 2026-09-07 | none found |
+| The Math Conservatory | edtech | orange | 2026-09-07 | Toppr |
+| none | ai-tools | black | 2026-09-07 | none found |
+| SniffAI | health-tech | black | 2026-09-07 | none found |
