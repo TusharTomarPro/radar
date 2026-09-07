@@ -214,3 +214,21 @@
 - India fit note: India already has a growing market for protein and energy bars, but consumer acceptance of pulse‑centric formulations may require education; supply chain and distribution infrastructure are in place.
 - Badge guess: orange
 
+## Parcelscope
+- Source article: [Watch Los Angeles get built, one building at a time (1880–2026)](https://lax-skyline.parcelscope.net/) (Hacker News (front page))
+- Category: proptech
+- What it does: Provides an interactive, time‑lapse map of Los Angeles building permits and construction activity from 1880 to the present. Users can explore when and where each building was erected.
+- Likely revenue model: Sells data subscriptions or API access to developers, architects, city planners and real‑estate investors.
+- India equivalent: Propstack
+- India fit note: India lacks a unified, digitised historical building‑permit database and consistent GIS layers, so replicating the same depth of timeline data would be challenging.
+- Badge guess: orange
+
+## CrumbBot
+- Source article: [Catching Crumbs from the Table (2000)](https://www.nature.com/articles/35014679) (Hacker News (front page))
+- Category: home-robotics
+- What it does: A tabletop robot that uses computer vision to detect and pick up food crumbs and small debris from surfaces. It autonomously navigates a table and vacuums or sweeps the mess.
+- Likely revenue model: Sell the robot as a hardware product with optional subscription for software updates and maintenance services to restaurants, cafés, and hospitals.
+- India equivalent: none found
+- India fit note: The concept relies on high labor costs and a cultural shift toward automation for low‑value cleaning tasks, which is less compelling in India where cheap manual labor is abundant. It also assumes standardized table designs and consistent lighting for reliable vision, which may vary widely across Indian eateries.
+- Badge guess: black
+

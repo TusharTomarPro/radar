@@ -262,3 +262,5 @@
 | Temple | neurotech-wearable | black | 2026-09-07 | none found |
 | Navana.ai | voice-ai | orange | 2026-09-07 | Vernacular.ai |
 | Bengaluru Bioinnovation Centre | food-tech | orange | 2026-09-07 | The Whole Truth |
+| Parcelscope | proptech | orange | 2026-09-07 | Propstack |
+| CrumbBot | home-robotics | black | 2026-09-07 | none found |
