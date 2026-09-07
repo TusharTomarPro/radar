@@ -255,3 +255,10 @@
 | The Math Conservatory | edtech | orange | 2026-09-07 | Toppr |
 | none | ai-tools | black | 2026-09-07 | none found |
 | SniffAI | health-tech | black | 2026-09-07 | none found |
+| SplashFree Technologies | bathroom-tech | orange | 2026-09-07 | Jaquar |
+| Xteink | e-reader | black | 2026-09-07 | none found |
+| OpenbaarVervoerBelgie | public-transport | orange | 2026-09-07 | Chalo |
+| Voicebox | voice-feedback | black | 2026-09-07 | none found |
+| Temple | neurotech-wearable | black | 2026-09-07 | none found |
+| Navana.ai | voice-ai | orange | 2026-09-07 | Vernacular.ai |
+| Bengaluru Bioinnovation Centre | food-tech | orange | 2026-09-07 | The Whole Truth |

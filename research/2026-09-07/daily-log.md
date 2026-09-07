@@ -151,3 +151,66 @@
 - India fit note: The model relies on a supply of specially trained dogs, regulatory clearance for animal‑based diagnostics, and a network for breath‑sample collection and AI processing, which are not yet widespread in India.
 - Badge guess: black
 
+## SplashFree Technologies
+- Source article: [Splash-free urinals (2025)](https://academic.oup.com/pnasnexus/article/4/4/pgaf087/8098745?login=false) (Hacker News (front page))
+- Category: bathroom-tech
+- What it does: Develops and sells urinals that use an air‑curtain or anti‑splash coating to eliminate splash, improving hygiene and reducing cleaning costs.
+- Likely revenue model: Sells the hardware directly to commercial property owners and facilities managers, with optional installation, maintenance, and upgrade contracts.
+- India equivalent: Jaquar
+- India fit note: Adoption depends on the willingness of Indian facility managers to replace existing fixtures and on reliable water pressure for air‑curtain systems; cultural acceptance of sensor‑based or high‑tech toilets is growing but varies across regions.
+- Badge guess: orange
+
+## Xteink
+- Source article: [Tiny $70 Xteink X3 e-reader](https://www.theatlantic.com/technology/2026/09/xteink-e-reader-best-technology-years/688539/) (Hacker News (front page))
+- Category: e-reader
+- What it does: The Xteink X3 is a ultra‑thin, $70 e‑ink tablet that lets users read books, PDFs and web content with weeks of battery life.
+- Likely revenue model: Revenue is primarily generated from direct hardware sales, possibly supplemented by a cut on ebook purchases or a subscription service.
+- India equivalent: none found
+- India fit note: India’s reading market is dominated by smartphones and low‑cost feature phones, and there is limited awareness of dedicated e‑readers; plus, the local ebook ecosystem and regional language support are still nascent, which could hinder adoption.
+- Badge guess: black
+
+## OpenbaarVervoerBelgie
+- Source article: [Live map of public transport in Belgium](https://openbaarvervoerbelgie.be/) (Hacker News (front page))
+- Category: public-transport
+- What it does: Provides a live, interactive map showing real‑time locations of buses, trams, and trains across Belgium.
+- Likely revenue model: Monetises through advertising, premium API access for developers, and data licensing to third‑party services.
+- India equivalent: Chalo
+- India fit note: India has fragmented real‑time data standards and many transit agencies do not publish live feeds, so replicating a nationwide live map is challenging, though major metros are improving.
+- Badge guess: orange
+
+## Voicebox
+- Source article: [Whispering Complaints Into Your Phone May Be the Future of Customer Feedback](https://www.wired.com/story/whispering-complaints-into-your-phone-may-be-the-future-of-customer-feedback/) (Wired)
+- Category: voice-feedback
+- What it does: Voicebox lets customers record a short voice note on their phone to submit feedback instead of filling out surveys or waiting on calls. The recordings are then delivered to businesses for analysis and action.
+- Likely revenue model: B2B SaaS subscription, possibly tiered by number of feedback minutes or seats, with optional analytics add‑ons.
+- India equivalent: none found
+- India fit note: Success depends on widespread smartphone usage, affordable mobile data, and user comfort speaking into a phone; while India has high mobile penetration, data costs and multilingual voice processing could slow adoption.
+- Badge guess: black
+
+## Temple
+- Source article: [Deepinder Goyal’s Temple Takes First Step Towards Validating Its Wearable](https://inc42.com/buzz/deepinder-goyals-temple-takes-first-step-towards-validating-its-wearable/) (Inc42)
+- Category: neurotech-wearable
+- What it does: Temple offers a wearable device that captures brain activity and provides a proprietary "brain flow" metric to assess mental states such as focus, stress, and fatigue. The data is processed through AI algorithms and presented to users via a mobile app.
+- Likely revenue model: Revenue likely comes from selling the hardware device plus a recurring subscription for advanced analytics, personalized insights, and B2B licensing to enterprises or health providers.
+- India equivalent: none found
+- India fit note: Success in India would require widespread consumer awareness of brain‑health monitoring and robust data‑privacy safeguards, as well as reliable internet connectivity for real‑time analytics—factors that are still emerging in the Indian market.
+- Badge guess: black
+
+## Navana.ai
+- Source article: [Navana.ai Raises ₹40 Cr To Scale Voice AI Platform](https://inc42.com/buzz/navana-ai-raises-%e2%82%b940-cr-to-scale-voice-ai-platform/) (Inc42)
+- Category: voice-ai
+- What it does: Navana.ai offers a platform that lets enterprises build, deploy, and manage voice‑based conversational agents across multiple languages and channels.
+- Likely revenue model: It likely charges a SaaS subscription plus usage‑based fees for API calls or per‑minute voice processing.
+- India equivalent: Vernacular.ai
+- India fit note: India already has widespread smartphone penetration and telecom infrastructure, but success depends on high‑quality multilingual speech data and user comfort with voice assistants, which are still maturing in many regional markets.
+- Badge guess: orange
+
+## Bengaluru Bioinnovation Centre
+- Source article: [Bengaluru Bioinnovation Centre turns Kalaburagi pulses into energy bars](https://yourstory.com/2026/09/kalaburagi-pulses-energy-bars-karnataka-bioeconomy) (YourStory)
+- Category: food-tech
+- What it does: Develops and commercialises pulse‑based energy bars using pulses grown in Kalaburagi as part of Karnataka’s bio‑economy mission.
+- Likely revenue model: Sells packaged energy bars directly to consumers through retail and online channels, possibly licensing the formulation to larger food manufacturers.
+- India equivalent: The Whole Truth
+- India fit note: India already has a growing market for protein and energy bars, but consumer acceptance of pulse‑centric formulations may require education; supply chain and distribution infrastructure are in place.
+- Badge guess: orange
+
