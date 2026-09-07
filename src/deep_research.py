@@ -30,7 +30,7 @@ WATCHLIST_PATH = os.path.join(RESEARCH_DIR, "watchlist.md")
 DEEP_SEEN_PATH = os.path.join(RESEARCH_DIR, "_deep_researched.json")
 TOP_IDEAS_PATH = os.path.join(RESEARCH_DIR, "top-ideas.md")
 
-MAX_PER_RUN = 15  # keeps us well under Tavily's 1,000/month free credits (2 searches per company)
+MAX_PER_RUN = 10  # 3 searches/company now (added real-numbers search) -- 10*3=30/day keeps same pace as before
 
 
 def sanitize_cell(text, max_len=200):
@@ -129,11 +129,25 @@ def deep_research_one(row):
     except Exception as e:
         answer2, snippets2 = "", []
 
+    time.sleep(1)
+
+    # Search 3: real traction numbers on the Western company -- revenue, valuation, users.
+    # This is what the original plan called for and was never actually implemented --
+    # a revenue MODEL guess isn't the same as knowing what they're actually making.
+    q3 = f"{company} revenue OR valuation OR monthly active users 2026"
+    try:
+        answer3, snippets3 = tavily_search(q3)
+    except Exception as e:
+        answer3, snippets3 = "", []
+
     evidence = f"""Search 1 ("{q1}") answer: {answer1}
 Search 1 snippets: {' | '.join(snippets1)}
 
 Search 2 ("{q2}") answer: {answer2}
-Search 2 snippets: {' | '.join(snippets2)}"""
+Search 2 snippets: {' | '.join(snippets2)}
+
+Search 3 ("{q3}") answer: {answer3}
+Search 3 snippets: {' | '.join(snippets3)}"""
 
     prompt = f"""You are doing real due diligence on a startup idea for a founder deciding whether to build an India-localized version.
 
@@ -153,6 +167,8 @@ Based on this evidence (not your prior assumptions), return ONLY valid JSON with
   "shelf_life_note": "ONLY if revised_badge is black: is the lack of a competitor structural (regulation, culture, infra -- unlikely to change soon) or temporal (a cost/behavior curve that's shifting, meaning a window is opening)? One sentence. If revised_badge is orange, put 'n/a'.",
   "regulatory_flag": "none, moderate, or high -- does this business model hit real Indian regulatory walls? Consider: FDI rules in multi-brand retail/inventory-based ecommerce, RBI rules on lending/payments/NBFC licensing, labor law for gig workers, data localization requirements, sector-specific licensing (healthcare, education, insurance, drone/aviation). Give the specific law or rule if you know one, not just a vague risk label.",
   "capital_intensity": "low, medium, or high -- is this a VC-subsidized cash-burn model (heavy discounting, dark-store real estate, delivery fleet subsidies -- needs years of runway before unit economics work) or a bootstrappable model (software-margin, asset-light, can reach profitability on modest capital)? One sentence of reasoning.",
+  "known_numbers": "any concrete revenue, valuation, funding raised, user count, or pricing figures the search evidence actually turned up for {company}. Cite real numbers with rough dates if found (e.g. '$12M ARR as of 2025, ~50K paying users'). If nothing concrete was found, say 'no public numbers found' -- do not invent figures.",
+  "india_cost_estimate": "a concrete estimate in INR of what it would take to build and run a scaled-down India version for the first 6-12 months (e.g. cloud/API costs, a small team of 2-4, no paid marketing yet). Give an actual rupee range (e.g. '₹8-15 lakh for an MVP + small team' or '₹2-4 Cr needed before break-even due to delivery fleet subsidies'), not just a vague label. Base this on capital_intensity and any real cost signals from the search evidence.",
   "risk_score": 1-10 as an integer. 1 = low risk / most promising, 10 = high risk / avoid. Weigh competitor status, regulatory_flag, and capital_intensity together -- a black badge with high regulatory risk and high capital intensity is a bad combination even with no competitor.
   "risk_reasoning": "2-3 sentences explaining the score, referencing what the search evidence actually showed and any regulatory/capital factors"
 }}"""
@@ -178,6 +194,8 @@ def append_to_company_file(row, result):
         f.write(f"**Shelf-life note:** {result['shelf_life_note']}\n\n")
         f.write(f"**Regulatory flag:** {result.get('regulatory_flag', 'unknown')}\n\n")
         f.write(f"**Capital intensity:** {result.get('capital_intensity', 'unknown')}\n\n")
+        f.write(f"**Known numbers (real, search-sourced):** {result.get('known_numbers', 'unknown')}\n\n")
+        f.write(f"**India cost estimate:** {result.get('india_cost_estimate', 'unknown')}\n\n")
         f.write(f"**Risk score:** {result['risk_score']}/10\n\n")
         f.write(f"**Reasoning:** {result['risk_reasoning']}\n\n")
 
@@ -223,6 +241,8 @@ def run():
             "competitor_status": result["competitor_status"],
             "regulatory_flag": result.get("regulatory_flag", "unknown"),
             "capital_intensity": result.get("capital_intensity", "unknown"),
+            "known_numbers": result.get("known_numbers", "unknown"),
+            "india_cost_estimate": result.get("india_cost_estimate", "unknown"),
             "risk_score": result["risk_score"],
             "risk_reasoning": result["risk_reasoning"],
         }
