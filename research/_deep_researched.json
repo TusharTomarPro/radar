@@ -474,5 +474,155 @@
     "capital_intensity": "low",
     "risk_score": 2,
     "risk_reasoning": "Search results list logistics firms (Aramex, DHL, etc.) as competitors, which are unrelated to a dev\u2011tools product, indicating no real market rivalry. Dev\u2011tools face minimal regulatory hurdles in India, and the business model is software\u2011centric with low capital needs, making it bootstrappable. The combination of no competitor, low regulatory exposure, and low capital intensity yields a low overall risk."
+  },
+  "commutebar::2026-09-05": {
+    "company": "CommuteBar",
+    "category": "productivity",
+    "revised_badge": "orange",
+    "competitor_status": "surviving",
+    "regulatory_flag": "moderate - must comply with India\u2019s Personal Data Protection Bill (data localisation for location\u2011based personal data) and may need licences to use official traffic data feeds",
+    "capital_intensity": "low - primarily software and API integrations, no heavy asset or inventory requirements",
+    "risk_score": 5,
+    "risk_reasoning": "The market already has several active players (Topview Motion Studio, Flighty, Wayther), so differentiation is harder (orange badge). Regulatory exposure is moderate due to data\u2011localisation and traffic\u2011data licensing, but not a blocker. The business is asset\u2011light, keeping capital needs low, which offsets some competitive pressure, landing the overall risk at a mid\u2011range score."
+  },
+  "postbox::2026-09-05": {
+    "company": "PostBox",
+    "category": "design-tools",
+    "revised_badge": "black",
+    "competitor_status": "no-real-competitor-found",
+    "regulatory_flag": "none",
+    "capital_intensity": "low",
+    "risk_score": 2,
+    "risk_reasoning": "Search results show no Indian design\u2011tool competitor; the only PostBox references are unrelated (lifestyle accessories, hyperlocal delivery) and one failed delivery venture, indicating no direct market threat. Regulatory exposure is minimal for a SaaS design platform, and the business is asset\u2011light, requiring modest capital. Combined, these factors suggest a low\u2011risk, promising opportunity."
+  },
+  "queuebrick::2026-09-05": {
+    "company": "Queuebrick",
+    "category": "movie-social",
+    "revised_badge": "black",
+    "competitor_status": "no-real-competitor-found",
+    "regulatory_flag": "moderate \u2013 must comply with India\u2019s IT (Intermediary Guidelines and Digital Media Ethics Code) Rules 2021, the Copyright Act 1957 for movie content, and emerging data\u2011localisation requirements under the Personal Data Protection Bill.",
+    "capital_intensity": "low \u2013 the product is software\u2011only and can be built asset\u2011light; the main costs are licensing/content deals and modest marketing spend.",
+    "risk_score": 5,
+    "risk_reasoning": "Search evidence shows Queuebrick itself folded in 2024, indicating weak market traction despite no direct competitors. Regulatory compliance adds moderate risk, but the business model is capital\u2011light, keeping the overall risk moderate rather than extreme."
+  },
+  "pushin::2026-09-05": {
+    "company": "Pushin",
+    "category": "devops",
+    "revised_badge": "black",
+    "competitor_status": "no-real-competitor-found",
+    "regulatory_flag": "none",
+    "capital_intensity": "low",
+    "risk_score": 2,
+    "risk_reasoning": "Search evidence shows no direct Indian competitor for Pushin, and the devops SaaS space faces minimal regulatory hurdles in India. The business model is asset\u2011light and can be bootstrapped, keeping capital needs low. Combined, these factors make the venture relatively low\u2011risk, though market adoption timing remains the main uncertainty."
+  },
+  "shein::2026-09-05": {
+    "company": "Shein",
+    "category": "fast-fashion",
+    "revised_badge": "orange",
+    "competitor_status": "surviving",
+    "regulatory_flag": "moderate \u2013 the business must comply with India\u2019s FDI policy for multi\u2011brand retail (up to 100% FDI allowed but 30% of inventory value must be locally sourced) and GST/consumer\u2011protection regulations.",
+    "capital_intensity": "high \u2013 the fast\u2011fashion model relies on large upfront inventory purchases, deep discounting, and extensive logistics/distribution networks, requiring substantial VC\u2011backed cash burn before unit economics improve.",
+    "risk_score": 7,
+    "risk_reasoning": "Myntra, a well\u2011funded and surviving Indian fashion e\u2011commerce platform, directly competes with any Shein\u2011style entrant, limiting market share upside. The venture also faces moderate regulatory friction due to FDI and local\u2011sourcing rules, and its inventory\u2011heavy, discount\u2011driven model is capital intensive, demanding significant runway. These factors together push the overall risk to a high\u2011medium level."
+  },
+  "retold::2026-09-05": {
+    "company": "Retold",
+    "category": "storytelling",
+    "revised_badge": "black",
+    "competitor_status": "unclear",
+    "regulatory_flag": "moderate \u2013 subject to India\u2019s Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Rules, 2021, which impose content\u2011moderation and data\u2011localisation obligations on digital media platforms.",
+    "capital_intensity": "low \u2013 the model is software\u2011centric and asset\u2011light, requiring mainly development and marketing spend rather than heavy physical infrastructure.",
+    "risk_score": 4,
+    "risk_reasoning": "The search evidence does not identify a direct Indian competitor, suggesting a market gap, but the regulatory environment for digital media in India is moderate due to content\u2011moderation rules. Capital needs are modest, keeping the overall risk moderate (score 4)."
+  },
+  "pagerduty-ai::2026-09-05": {
+    "company": "PagerDuty AI",
+    "category": "ai-ops",
+    "revised_badge": "orange",
+    "competitor_status": "surviving",
+    "regulatory_flag": "moderate \u2013 Indian data protection (DPDP Act 2023) mandates local storage of certain personal data and foreign SaaS providers must comply with FDI rules for software services.",
+    "capital_intensity": "low \u2013 the model is asset\u2011light SaaS with AI features; primary costs are cloud compute and talent, not heavy physical assets.",
+    "risk_score": 4,
+    "risk_reasoning": "PagerDuty AI faces established, well\u2011funded rivals (Opsgenie, xMatters, FireHydrant) that are already operating in India, reducing market\u2011entry advantage. Regulatory exposure is moderate due to data\u2011localization requirements, but not a blocker for a cloud\u2011native SaaS. Capital needs are low, making the venture financially feasible, but competitive pressure pushes the overall risk to a mid\u2011range score."
+  },
+  "fairphone::2026-09-05": {
+    "company": "Fairphone",
+    "category": "ethical-tech",
+    "revised_badge": "black",
+    "competitor_status": "no-real-competitor-found",
+    "regulatory_flag": "moderate",
+    "capital_intensity": "high",
+    "risk_score": 8,
+    "risk_reasoning": "Search evidence shows no direct Fairphone-like competitor in India, but also reveals a failed similar startup (Log9 Materials) and a broader pattern of Indian hardware/deeptech startups shutting down due to funding and traction issues. The smartphone market is dominated by Samsung and other Android OEMs offering better specs at lower prices, making a premium ethical phone a hard sell. Hardware manufacturing, supply chain for ethical sourcing, and inventory management make this capital-intensive, and India's import duties and local manufacturing requirements add regulatory friction."
+  },
+  "xbox-game-pass::2026-09-05": {
+    "company": "Xbox Game Pass",
+    "category": "game-streaming",
+    "revised_badge": "orange",
+    "competitor_status": "surviving",
+    "regulatory_flag": "moderate",
+    "capital_intensity": "medium",
+    "risk_score": 6,
+    "risk_reasoning": "JioGames appears to be an active, acquired player in India's gaming space, indicating a real competitive threat. The service must navigate India's digital media regulations (IT (Intermediary Guidelines) Rules 2021) and FDI limits for content platforms, which adds moderate compliance risk. While Microsoft can leverage existing Azure infrastructure, content licensing and local marketing still require significant but manageable capital, placing overall risk at a moderate level."
+  },
+  "none-conceptual-framework::2026-09-05": {
+    "company": "none - conceptual framework",
+    "category": "healthcare-ai",
+    "revised_badge": "black",
+    "competitor_status": "no-real-competitor-found",
+    "regulatory_flag": "high \u2013 must comply with the Clinical Trials and Medical Devices (Regulation) Act 2023, the Telemedicine Practice Guidelines, and the Personal Data Protection Bill (data\u2011localisation and consent requirements).",
+    "capital_intensity": "medium \u2013 the model is software\u2011centric but requires costly clinical validation, regulatory approvals, and partnerships with hospitals, which demand moderate upfront capital.",
+    "risk_score": 7,
+    "risk_reasoning": "While no direct competitor currently exists (black badge), the venture faces high regulatory hurdles in the Indian healthcare sector and must navigate strict medical\u2011device and data\u2011privacy laws. Capital needs are moderate but still significant for validation and compliance, pushing the overall risk to a 7 out of 10."
+  },
+  "eos-energy-storage::2026-09-05": {
+    "company": "Eos Energy Storage",
+    "category": "energy-storage",
+    "revised_badge": "orange",
+    "competitor_status": "surviving",
+    "regulatory_flag": "moderate \u2013 requires compliance with Central Electricity Authority (CEA) regulations for grid\u2011scale battery storage and hazardous\u2011waste handling under the Environment (Protection) Act, plus standard FDI rules (up to 100% under automatic route) for renewable\u2011energy assets",
+    "capital_intensity": "high \u2013 zinc\u2011based battery systems need large upfront plant investment, cell\u2011manufacturing tooling, and project\u2011scale deployment capital before revenue can be realized",
+    "risk_score": 7,
+    "risk_reasoning": "Eos faces direct competition from Indian\u2011based Sthyr Energy and the global e\u2011Zinc, limiting differentiation. The business is capital\u2011intensive, demanding multi\u2011hundred\u2011million rupee investments for manufacturing and field installations. While regulatory hurdles are moderate, they add time and cost to market entry. Combined, these factors place the venture in a relatively high\u2011risk bracket."
+  },
+  "kansas-department-of-labor::2026-09-05": {
+    "company": "Kansas Department of Labor",
+    "category": "govtech",
+    "revised_badge": "black",
+    "competitor_status": "no-real-competitor-found",
+    "regulatory_flag": "high \u2013 Indian labor law compliance platforms must navigate the Shops and Establishments Act, the Employees' Provident Funds Act, the Unorganized Workers Social Security Act, and data\u2011localisation mandates under the Personal Data Protection Bill; offering unemployment or workers\u2011compensation services would likely require government licensing or partnership.",
+    "capital_intensity": "medium \u2013 the core product is software\u2011centric and asset\u2011light, but significant capital is needed for legal compliance, integration with multiple state labor departments, and building trust with employers and regulators.",
+    "risk_score": 7,
+    "risk_reasoning": "While the search evidence shows no direct private competitor, the business faces high regulatory hurdles in India\u2019s tightly controlled labor\u2011law space, which could stall product rollout or require costly partnerships. Capital needs are moderate but non\u2011trivial, and the structural regulatory barrier makes the venture riskier, pushing the overall risk score toward the higher end of the scale."
+  },
+  "delta-air-lines::2026-09-05": {
+    "company": "Delta Air Lines",
+    "category": "ai-assistant",
+    "revised_badge": "orange",
+    "competitor_status": "surviving",
+    "regulatory_flag": "high",
+    "capital_intensity": "high",
+    "risk_score": 9,
+    "risk_reasoning": "The search evidence confirms IndiGo is a dominant, well-capitalized competitor with over 60% domestic market share and \u20b951,651 crore in cash, making any India-localized Delta-style AI assistant an extremely difficult market entry. Aviation in India is heavily regulated by the DGCA, including recent crew time limitation mandates that caused IndiGo to cancel 4,500 flights, and any AI assistant touching flight operations, scheduling, or customer-facing airline services would face significant compliance burdens. The airline/aviation-adjacent model is also capital-intensive\u2014IndiGo itself reported a $287 million loss and carries \u20b977,749 crore in debt\u2014so a startup attempting to compete or integrate would need massive runway without clear software-margin economics."
+  },
+  "casio::2026-09-05": {
+    "company": "Casio",
+    "category": "luxury-watches",
+    "revised_badge": "black",
+    "competitor_status": "no-real-competitor-found",
+    "regulatory_flag": "none",
+    "capital_intensity": "high \u2013 launching a luxury\u2011watch line requires significant upfront inventory, branding, and distribution investments before unit economics can be proven.",
+    "risk_score": 6,
+    "risk_reasoning": "The search evidence does not confirm a direct Indian watch competitor like Titan, but the market is capital\u2011intensive, requiring large inventory and brand\u2011building spend. Regulatory exposure is minimal, which mitigates some risk, yet the high capital demand and uncertainty around market traction push the overall risk to a moderate level."
+  },
+  "litter-robot::2026-09-05": {
+    "company": "Litter-Robot",
+    "category": "pet-tech",
+    "revised_badge": "orange",
+    "competitor_status": "surviving",
+    "regulatory_flag": "none",
+    "capital_intensity": "medium",
+    "risk_score": 5,
+    "risk_reasoning": "Search evidence identifies at least two Indian\u2011available automatic litter boxes (HHOLOVE Litter Box Pro, Petlibro Luma), confirming a competitive landscape, which pushes the badge to orange. The product faces minimal sector\u2011specific regulation\u2014no licensing or data\u2011localisation mandates beyond standard e\u2011commerce rules\u2014so regulatory risk is low. Capital requirements are moderate because the business needs inventory, logistics, and possibly local assembly, but it can be bootstrapped or funded with a modest runway. Combined, these factors yield a mid\u2011range risk score."
   }
 }

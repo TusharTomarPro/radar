@@ -1,7 +1,7 @@
 # Top 20 Shortlist
-_Generated 2026-09-06 06:37 UTC -- auto-updated after every deep-research pass._
+_Generated 2026-09-07 06:44 UTC -- auto-updated after every deep-research pass._
 
-Ranked by risk score (lower = more promising) out of 49 companies deep-researched so far, 146 tracked total.
+Ranked by risk score (lower = more promising) out of 64 companies deep-researched so far, 226 tracked total.
 
 ---
 
@@ -53,7 +53,39 @@ Ranked by risk score (lower = more promising) out of 49 companies deep-researche
 
 ---
 
-## 4. Tweet.app -- LOW RISK (3/10)
+## 4. PostBox -- LOW RISK (2/10)
+
+**Category:** design-tools  
+**Badge:** black  
+**Competitor status:** no-real-competitor-found  
+**Regulatory:** none  
+**Capital intensity:** low  
+
+**AI reasoning:** Search results show no Indian design‑tool competitor; the only PostBox references are unrelated (lifestyle accessories, hyperlocal delivery) and one failed delivery venture, indicating no direct market threat. Regulatory exposure is minimal for a SaaS design platform, and the business is asset‑light, requiring modest capital. Combined, these factors suggest a low‑risk, promising opportunity.
+
+**Your notes:** _(none added yet -- click through from the dashboard to add your take)_
+
+[Full research file](companies/postbox/2026-09-05-research.md) -- [Add notes](companies/postbox/your-notes.md)
+
+---
+
+## 5. Pushin -- LOW RISK (2/10)
+
+**Category:** devops  
+**Badge:** black  
+**Competitor status:** no-real-competitor-found  
+**Regulatory:** none  
+**Capital intensity:** low  
+
+**AI reasoning:** Search evidence shows no direct Indian competitor for Pushin, and the devops SaaS space faces minimal regulatory hurdles in India. The business model is asset‑light and can be bootstrapped, keeping capital needs low. Combined, these factors make the venture relatively low‑risk, though market adoption timing remains the main uncertainty.
+
+**Your notes:** _(none added yet -- click through from the dashboard to add your take)_
+
+[Full research file](companies/pushin/2026-09-05-research.md) -- [Add notes](companies/pushin/your-notes.md)
+
+---
+
+## 6. Tweet.app -- LOW RISK (3/10)
 
 **Category:** microblogging  
 **Badge:** black  
@@ -69,7 +101,7 @@ Ranked by risk score (lower = more promising) out of 49 companies deep-researche
 
 ---
 
-## 5. Snitch -- LOW RISK (3/10)
+## 7. Snitch -- LOW RISK (3/10)
 
 **Category:** hr-tech  
 **Badge:** black  
@@ -85,7 +117,7 @@ Ranked by risk score (lower = more promising) out of 49 companies deep-researche
 
 ---
 
-## 6. Sidebranch -- LOW RISK (3/10)
+## 8. Sidebranch -- LOW RISK (3/10)
 
 **Category:** dev-tools  
 **Badge:** black  
@@ -101,7 +133,7 @@ Ranked by risk score (lower = more promising) out of 49 companies deep-researche
 
 ---
 
-## 7. cmmnts -- LOW RISK (3/10)
+## 9. cmmnts -- LOW RISK (3/10)
 
 **Category:** comment-platform  
 **Badge:** black  
@@ -117,7 +149,7 @@ Ranked by risk score (lower = more promising) out of 49 companies deep-researche
 
 ---
 
-## 8. Grove -- LOW RISK (3/10)
+## 10. Grove -- LOW RISK (3/10)
 
 **Category:** developer-tools  
 **Badge:** black  
@@ -133,7 +165,7 @@ Ranked by risk score (lower = more promising) out of 49 companies deep-researche
 
 ---
 
-## 9. Thaw -- LOW RISK (3/10)
+## 11. Thaw -- LOW RISK (3/10)
 
 **Category:** productivity  
 **Badge:** black  
@@ -149,7 +181,7 @@ Ranked by risk score (lower = more promising) out of 49 companies deep-researche
 
 ---
 
-## 10. Roadie -- LOW RISK (3/10)
+## 12. Roadie -- LOW RISK (3/10)
 
 **Category:** audio-utility  
 **Badge:** black  
@@ -165,7 +197,7 @@ Ranked by risk score (lower = more promising) out of 49 companies deep-researche
 
 ---
 
-## 11. BrickForgerAI -- LOW RISK (3/10)
+## 13. BrickForgerAI -- LOW RISK (3/10)
 
 **Category:** generative-ai  
 **Badge:** black  
@@ -181,7 +213,7 @@ Ranked by risk score (lower = more promising) out of 49 companies deep-researche
 
 ---
 
-## 12. at8pm -- LOW RISK (3/10)
+## 14. at8pm -- LOW RISK (3/10)
 
 **Category:** journaling  
 **Badge:** black  
@@ -197,7 +229,7 @@ Ranked by risk score (lower = more promising) out of 49 companies deep-researche
 
 ---
 
-## 13. Ponytail -- LOW RISK (3/10)
+## 15. Ponytail -- LOW RISK (3/10)
 
 **Category:** low-code  
 **Badge:** black  
@@ -213,7 +245,7 @@ Ranked by risk score (lower = more promising) out of 49 companies deep-researche
 
 ---
 
-## 14. Clockwork -- MODERATE RISK (4/10)
+## 16. Clockwork -- MODERATE RISK (4/10)
 
 **Category:** ai-agent  
 **Badge:** black  
@@ -229,7 +261,7 @@ Ranked by risk score (lower = more promising) out of 49 companies deep-researche
 
 ---
 
-## 15. Offline JS Playground -- MODERATE RISK (4/10)
+## 17. Offline JS Playground -- MODERATE RISK (4/10)
 
 **Category:** dev-tools  
 **Badge:** orange  
@@ -245,7 +277,7 @@ Ranked by risk score (lower = more promising) out of 49 companies deep-researche
 
 ---
 
-## 16. WeatherNext -- MODERATE RISK (4/10)
+## 18. WeatherNext -- MODERATE RISK (4/10)
 
 **Category:** weather-ai  
 **Badge:** orange  
@@ -261,7 +293,7 @@ Ranked by risk score (lower = more promising) out of 49 companies deep-researche
 
 ---
 
-## 17. Tidy -- MODERATE RISK (4/10)
+## 19. Tidy -- MODERATE RISK (4/10)
 
 **Category:** ai-grammar  
 **Badge:** orange  
@@ -277,7 +309,7 @@ Ranked by risk score (lower = more promising) out of 49 companies deep-researche
 
 ---
 
-## 18. Tabbit AI -- MODERATE RISK (4/10)
+## 20. Tabbit AI -- MODERATE RISK (4/10)
 
 **Category:** ai-browser  
 **Badge:** black  
@@ -290,37 +322,5 @@ Ranked by risk score (lower = more promising) out of 49 companies deep-researche
 **Your notes:** _(none added yet -- click through from the dashboard to add your take)_
 
 [Full research file](companies/tabbit-ai/2026-09-05-research.md) -- [Add notes](companies/tabbit-ai/your-notes.md)
-
----
-
-## 19. TwelveLabs -- MODERATE RISK (5/10)
-
-**Category:** video-compliance  
-**Badge:** orange  
-**Competitor status:** surviving  
-**Regulatory:** moderate – subject to India’s Personal Data Protection Bill (draft) and data‑localisation rules for “critical personal data” that could affect video‑surveillance/compliance services  
-**Capital intensity:** low – the product is a cloud‑based API (software‑only), requiring minimal physical assets or inventory  
-
-**AI reasoning:** The market already has several active players (Nodeflux, Conviva, BriefCam, etc.), reducing the upside of a new entrant. Regulatory exposure is moderate due to emerging data‑privacy legislation, but the SaaS model is asset‑light, keeping capital needs low. Combined, these factors place the venture at a medium risk level.
-
-**Your notes:** _(none added yet -- click through from the dashboard to add your take)_
-
-[Full research file](companies/twelvelabs/2026-09-05-research.md) -- [Add notes](companies/twelvelabs/your-notes.md)
-
----
-
-## 20. myAIcademy -- MODERATE RISK (5/10)
-
-**Category:** ai-education  
-**Badge:** orange  
-**Competitor status:** surviving  
-**Regulatory:** moderate  
-**Capital intensity:** low  
-
-**AI reasoning:** Search results list several active Indian AI‑education platforms (Learn.xyz, GoIT LMS, Wilco, Creatium, etc.), confirming a competitive landscape. The model faces moderate regulatory risk due to data‑localisation requirements under the IT Act and the pending Personal Data Protection Bill, but no sector‑specific licensing hurdles. Capital needs are low because the product is software‑only and can leverage generative AI for content, making it bootstrappable. These factors combine to a mid‑range risk score.
-
-**Your notes:** _(none added yet -- click through from the dashboard to add your take)_
-
-[Full research file](companies/myaicademy/2026-09-05-research.md) -- [Add notes](companies/myaicademy/your-notes.md)
 
 ---
