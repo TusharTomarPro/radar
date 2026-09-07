@@ -238,3 +238,4 @@
 | Mador | ui-library | black | 2026-09-06 | none found |
 | Anubis | wasm-compute | black | 2026-09-06 | none found |
 | VODForge | video-download | black | 2026-09-06 | none found |
+| MathKernel | math-api | black | 2026-09-07 | none found |
