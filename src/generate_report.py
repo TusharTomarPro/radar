@@ -114,6 +114,8 @@ def generate():
         lines.append(f"**Competitor status:** {r['competitor_status']}  ")
         lines.append(f"**Regulatory:** {r.get('regulatory_flag', 'unknown')}  ")
         lines.append(f"**Capital intensity:** {r.get('capital_intensity', 'unknown')}  ")
+        lines.append(f"**Known numbers:** {r.get('known_numbers', 'unknown')}  ")
+        lines.append(f"**India cost estimate:** {r.get('india_cost_estimate', 'unknown')}  ")
         lines.append("")
         lines.append(f"**AI reasoning:** {r['risk_reasoning']}")
         lines.append("")
