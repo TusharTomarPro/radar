@@ -291,3 +291,12 @@
 | TradingAgents | ai-trading | orange | 2026-09-08 | QuantInsti |
 | Fundly.ai | pharma-tech | orange | 2026-09-08 | MediSupply |
 | DigitalPaani | watertech | black | 2026-09-08 | none found |
+| Pastea | clipboard-manager | black | 2026-09-08 | none found |
+| Bonds | ai-messenger | black | 2026-09-08 | none found |
+| Ideact | idea-management | black | 2026-09-08 | none found |
+| Iztri | fabric-care | orange | 2026-09-08 | Urban Company |
+| Circolife | climatetech | orange | 2026-09-08 | Rentomojo (appliance rental platform that includes ACs) |
+| ADA | retail-tech | orange | 2026-09-08 | Vue.ai |
+| Delhi Land Records Platform | gov-tech | orange | 2026-09-08 | NIC's e-Dhara platform |
+| TrueFan AI | ai-video | black | 2026-09-08 | none found |
+| FoodSafe AI | food-tech | black | 2026-09-08 | none found |

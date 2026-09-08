@@ -241,3 +241,84 @@
 - India fit note: The solution depends on dense IoT sensor rollout, reliable broadband connectivity and a willingness of building owners to pay for water‑saving analytics—factors that are still uneven across Indian real‑estate.
 - Badge guess: black
 
+## Pastea
+- Source article: [Pastea](https://www.producthunt.com/products/pastea) (Product Hunt)
+- Category: clipboard-manager
+- What it does: Pastea lets users save, organize, and search through copied links, text snippets, and screenshots in a centralized library.
+- Likely revenue model: A freemium model with a paid subscription for unlimited storage, advanced search, and collaboration features.
+- India equivalent: none found
+- India fit note: The product relies on users habitually copying content and on consistent cloud connectivity; while internet access is widespread, the habit of curating personal clipboards is less common in India, which may slow adoption.
+- Badge guess: black
+
+## Bonds
+- Source article: [bonds](https://www.producthunt.com/products/bonds-2) (Product Hunt)
+- Category: ai-messenger
+- What it does: An AI‑powered messenger that lets users create and use shared mini‑apps directly within group chats.
+- Likely revenue model: Freemium model with paid tiers for advanced AI features, custom app templates, and enterprise collaboration tools.
+- India equivalent: none found
+- India fit note: Success depends on widespread adoption of AI‑enhanced chat experiences and seamless integration with existing messaging platforms, which may be slower in India where WhatsApp dominates and AI features are less common.
+- Badge guess: black
+
+## Ideact
+- Source article: [A user told me my product's core pitch isn't a real reason to switch. Here's what I'm doing about it.](https://feed.indiehackers.world/post/c2046b864a) (Indie Hackers (unofficial feed))
+- Category: idea-management
+- What it does: Provides a collaborative platform for capturing, organizing, and developing product ideas in real time.
+- Likely revenue model: Subscription SaaS with tiered plans for individuals, startups, and enterprise teams.
+- India equivalent: none found
+- India fit note: Success depends on widespread remote collaboration habits and a strong culture of continuous product ideation, which are still emerging among many Indian SMBs and startups.
+- Badge guess: black
+
+## Iztri
+- Source article: [Fabric care startup Iztri raises Seed round led by All In Capital, Suashish Group](https://entrackr.com/snippets/fabric-care-startup-iztri-raises-seed-round-led-by-all-in-capital-suashish-group-12506395) (Entrackr)
+- Category: fabric-care
+- What it does: Iztri operates a hyper‑local network of neighbourhood hubs that provide on‑demand clothes ironing, dry‑cleaning and shoe‑care services using trained workers and a technology‑driven backend. Customers book services through an app and get fast turnaround via the hub model.
+- Likely revenue model: Charges customers per item or per service (e.g., per ironed shirt) and may offer subscription bundles for regular users.
+- India equivalent: Urban Company
+- India fit note: The model relies on reliable last‑mile logistics, digital payments and a pool of trained blue‑collar workers—capabilities that already exist in Indian metros but may be harder to scale in tier‑2/3 cities where consumer willingness to pay for premium fabric care is lower.
+- Badge guess: orange
+
+## Circolife
+- Source article: [Circolife Raises $4.5 Mn To Scale Subscription-Based Air Conditioning](https://inc42.com/buzz/circolife-raises-4-5-mn-to-scale-subscription-based-air-conditioning/) (Inc42)
+- Category: climatetech
+- What it does: Circolife offers a subscription-based model for air conditioning, providing installation, maintenance, and energy‑efficiency services bundled into a monthly fee.
+- Likely revenue model: Monthly subscription fees paid by customers for the use, upkeep, and servicing of the AC units.
+- India equivalent: Rentomojo (appliance rental platform that includes ACs)
+- India fit note: The model relies on a robust service network and consumer willingness to pay recurring fees for a traditionally owned appliance; while metros have the needed logistics, price‑sensitive consumers and variable electricity tariffs may slow adoption.
+- Badge guess: orange
+
+## ADA
+- Source article: [The Product You See Isn’t the Product I See | How AI is Personalizing Retail Experiences | Srinivas Gattamneni, CEO, ADA](https://economictimes.indiatimes.com/tech/artificial-intelligence/the-product-you-see-isnt-the-product-i-see-how-ai-is-personalizing-retail-experiences-srinivas-gattamneni-ceo-ada/videoshow/133918699.cms) (Economic Times Tech)
+- Category: retail-tech
+- What it does: ADA leverages AI to personalize retail experiences, delivering individualized product recommendations, dynamic pricing, and visual merchandising for each shopper.
+- Likely revenue model: It likely charges retailers a SaaS subscription plus a usage‑based fee or revenue‑share on sales uplift generated by its AI engine.
+- India equivalent: Vue.ai
+- India fit note: The model relies on extensive shopper data, real‑time digital touchpoints, and consumer comfort with AI‑driven suggestions—elements that are growing but still uneven across India's offline retail sector and face data‑privacy scrutiny.
+- Badge guess: orange
+
+## Delhi Land Records Platform
+- Source article: [Centre pushing Delhi land records digitisation for development: D Thara](https://www.business-standard.com/india-news/centre-pushing-delhi-land-records-digitisation-for-development-d-thara-126090801248_1.html) (Business Standard Tech)
+- Category: gov-tech
+- What it does: Creates a virtual database to consolidate and digitise Delhi's land records, enabling easier access and streamlined development approvals near transit corridors.
+- Likely revenue model: Funded primarily through the Delhi state budget with ancillary fees collected from land transaction services and developer usage.
+- India equivalent: NIC's e-Dhara platform
+- India fit note: The model relies on existing digital infrastructure and government data integration capabilities, which are already present in many Indian states, but scaling requires consistent data standards and user adoption across fragmented land record systems.
+- Badge guess: orange
+
+## TrueFan AI
+- Source article: [Bajaj Finance acquires 5% stake in AI video platform TrueFan AI](https://www.business-standard.com/companies/news/bajaj-finance-acquires-5-stake-in-ai-video-platform-truefan-ai-126090801195_1.html) (Business Standard Tech)
+- Category: ai-video
+- What it does: TrueFan AI provides an AI‑driven platform that creates millions of personalized video ads at scale, tailoring content to individual viewer attributes.
+- Likely revenue model: It likely charges brands a SaaS subscription or per‑video generation fee, possibly combined with performance‑based revenue sharing.
+- India equivalent: none found
+- India fit note: The model relies on high‑speed internet, robust data pipelines, and consumer acceptance of AI‑generated personalized ads, which are still emerging in many Indian markets and may require higher brand spend than typical local advertisers currently allocate.
+- Badge guess: black
+
+## FoodSafe AI
+- Source article: [FSSAI crackdown pushes restaurants to get kitchens in order](https://www.livemint.com/companies/news/fssai-food-safety-crackdown-restaurants-india-hygiene-11788798682231.html) (LiveMint Companies)
+- Category: food-tech
+- What it does: Provides AI‑driven visual monitoring to detect pests and hygiene breaches in restaurant kitchens, helping operators meet FSSAI safety standards.
+- Likely revenue model: Charges restaurants a monthly subscription for the AI monitoring platform and optional compliance consulting services.
+- India equivalent: none found
+- India fit note: Widespread adoption requires affordable AI camera hardware and reliable internet connectivity, which many small‑to‑mid‑size Indian eateries lack, and a cultural shift toward proactive compliance monitoring.
+- Badge guess: black
+
