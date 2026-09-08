@@ -300,3 +300,9 @@
 | Delhi Land Records Platform | gov-tech | orange | 2026-09-08 | NIC's e-Dhara platform |
 | TrueFan AI | ai-video | black | 2026-09-08 | none found |
 | FoodSafe AI | food-tech | black | 2026-09-08 | none found |
+| OpenUI | generative-ui | orange | 2026-09-08 | Appsmith |
+| LLM Attention Visualizer | ai-visualization | black | 2026-09-08 | none found |
+| Machina | iot-platform | orange | 2026-09-08 | Tata Communications IoT |
+| C* | dev-tools | black | 2026-09-08 | none found |
+| I-have-ADHD | ai-agent | black | 2026-09-08 | none found |
+| FreeStars | arcade-game | black | 2026-09-08 | none found |

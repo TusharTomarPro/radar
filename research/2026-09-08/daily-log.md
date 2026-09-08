@@ -322,3 +322,57 @@
 - India fit note: Widespread adoption requires affordable AI camera hardware and reliable internet connectivity, which many small‑to‑mid‑size Indian eateries lack, and a cultural shift toward proactive compliance monitoring.
 - Badge guess: black
 
+## OpenUI
+- Source article: [OUI-1: world's first model for Generative UI](https://www.openui.com/blog/oui-1) (Hacker News (front page))
+- Category: generative-ui
+- What it does: OpenUI has built OUI‑1, a large model that can generate complete user‑interface code (HTML/CSS/JS) from natural‑language prompts. It aims to let developers and designers prototype or build production‑ready UIs instantly.
+- Likely revenue model: Subscription‑based SaaS with tiered pricing for API calls and enterprise licensing for private deployments.
+- India equivalent: Appsmith
+- India fit note: Appsmith shows that low‑code UI builders have traction in India, but OUI‑1 relies on high‑quality training data and fast cloud inference, which may be limited by bandwidth and cloud cost for smaller Indian teams.
+- Badge guess: orange
+
+## LLM Attention Visualizer
+- Source article: [Show HN: LLM Attention Visualization](https://ishamf.dev/p/llm-attention-visualizer/) (Hacker News (front page))
+- Category: ai-visualization
+- What it does: Provides an interactive interface to visualize attention weights of large language models, helping developers and researchers understand model behavior.
+- Likely revenue model: Primarily an open‑source tool, likely monetized through consulting services, custom integrations, or paid enterprise features.
+- India equivalent: none found
+- India fit note: The tool relies on access to LLM APIs and a developer community comfortable with model interpretability; while India has a growing AI talent pool, enterprise adoption of such niche debugging tools is still limited.
+- Badge guess: black
+
+## Machina
+- Source article: [Connecting the Machines](https://herdr.dev/blog/connecting-the-machines/) (Hacker News (front page))
+- Category: iot-platform
+- What it does: Machina offers a cloud‑based middleware that unifies APIs for disparate industrial machines, enabling real‑time monitoring, remote control, and data analytics from a single dashboard.
+- Likely revenue model: It likely charges a subscription fee per connected device or per active data stream, with tiered pricing for enterprise‑level analytics and support.
+- India equivalent: Tata Communications IoT
+- India fit note: The model relies on robust, low‑latency broadband and standardized machine protocols, which are still unevenly adopted across Indian factories, especially among small and medium enterprises.
+- Badge guess: orange
+
+## C*
+- Source article: [C*: Unifying Programming and Verification in C](https://arxiv.org/abs/2504.02246) (Hacker News (front page))
+- Category: dev-tools
+- What it does: C* is a language extension and toolchain that integrates formal verification directly into C programming, allowing developers to write code and specifications together and automatically prove correctness.
+- Likely revenue model: The project will likely adopt an open‑source core with paid enterprise licenses, support contracts, and consulting services for large software firms.
+- India equivalent: none found
+- India fit note: Adoption relies on widespread use of formal verification practices and a developer pool skilled in theorem proving, which are still niche in India; infrastructure for large‑scale static analysis exists but the cultural shift may be slow.
+- Badge guess: black
+
+## I-have-ADHD
+- Source article: [I-have-ADHD: A skill to stop coding agents from burying the answer](https://github.com/ayghri/i-have-adhd) (Hacker News (front page))
+- Category: ai-agent
+- What it does: A tool/skill that modifies coding agents so they surface the final answer directly instead of hiding it inside generated code or comments.
+- Likely revenue model: Open‑source project likely monetized through sponsorships, consulting, or paid premium extensions.
+- India equivalent: none found
+- India fit note: The concept relies on widespread use of AI coding assistants and developer habits that are already present in India, so adoption would be feasible, but the niche focus may limit immediate market traction.
+- Badge guess: black
+
+## FreeStars
+- Source article: [The combat demo for Free Stars: Children of Infinity is out, and it's free](https://arstechnica.com/gaming/2026/09/the-official-sequel-to-the-ur-quan-masters-releases-its-free-demo-today/) (Ars Technica)
+- Category: arcade-game
+- What it does: Offers a free 1v1 arcade space combat demo that mimics early‑1990s shooter gameplay.
+- Likely revenue model: Free-to-play with optional paid upgrades or a future full‑version purchase.
+- India equivalent: none found
+- India fit note: The game depends on PC gaming habits and reliable broadband, which are strong in urban India but less prevalent in rural areas, limiting mass adoption.
+- Badge guess: black
+
