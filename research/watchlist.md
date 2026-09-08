@@ -264,3 +264,7 @@
 | Bengaluru Bioinnovation Centre | food-tech | orange | 2026-09-07 | The Whole Truth |
 | Parcelscope | proptech | orange | 2026-09-07 | Propstack |
 | CrumbBot | home-robotics | black | 2026-09-07 | none found |
+| NavigateAI | construction-tech | black | 2026-09-08 | none found |
+| d2lang (TALA) | ai-agent | black | 2026-09-08 | none found |
+| Emacs Bedrock | dev-tools | black | 2026-09-08 | none found |
+| Vernacular.ai | voice-assistant | orange | 2026-09-08 | Haptik |
