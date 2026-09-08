@@ -306,3 +306,7 @@
 | C* | dev-tools | black | 2026-09-08 | none found |
 | I-have-ADHD | ai-agent | black | 2026-09-08 | none found |
 | FreeStars | arcade-game | black | 2026-09-08 | none found |
+| e-infinity | edtech | orange | 2026-09-08 | BYJU'S |
+| Tao | ai-math | black | 2026-09-08 | none found |
+| Mercury | ai-agent | black | 2026-09-08 | none found |
+| Argonaut Labs AI | llm-inference | black | 2026-09-08 | none found |

@@ -376,3 +376,39 @@
 - India fit note: The game depends on PC gaming habits and reliable broadband, which are strong in urban India but less prevalent in rural areas, limiting mass adoption.
 - Badge guess: black
 
+## e-infinity
+- Source article: [A Topological Picture Book, Rendered](https://e-infinity.space/picture-book/) (Hacker News (front page))
+- Category: edtech
+- What it does: Offers an interactive, rendered picture book that visualizes topological concepts for learners and enthusiasts.
+- Likely revenue model: Sells digital access or printed editions of the picture book, possibly via subscription or one‑off purchases for schools and individuals.
+- India equivalent: BYJU'S
+- India fit note: The product relies on high‑speed internet and a niche interest in advanced mathematics, which may limit mass appeal in India, but the country's strong appetite for digital education tools could support adoption in specialized curricula.
+- Badge guess: orange
+
+## Tao
+- Source article: [Tao: Open math problems being non-renewably mined by AI](https://mathstodon.xyz/@tao/117237320796901560) (Hacker News (front page))
+- Category: ai-math
+- What it does: Tao leverages large language models and other AI techniques to mine, curate, and attempt to solve open mathematical problems, publishing the results in a public repository.
+- Likely revenue model: It likely charges subscription or licensing fees for premium access to curated problem sets, AI solving tools, and enterprise APIs.
+- India equivalent: none found
+- India fit note: The model depends on high‑end GPU compute and a community of researchers comfortable with open‑source math collaboration, both of which are less prevalent in India, potentially limiting rapid adoption.
+- Badge guess: black
+
+## Mercury
+- Source article: [Mercury 2.5](https://www.inceptionlabs.ai/blog/introducing-mercury-2-5) (Hacker News (front page))
+- Category: ai-agent
+- What it does: Mercury 2.5 is a platform that lets developers build, run, and manage autonomous AI agents that can browse the web, execute code, and integrate with APIs.
+- Likely revenue model: Subscription SaaS with tiered pricing based on number of agents, compute usage, and enterprise features.
+- India equivalent: none found
+- India fit note: The service depends on high‑speed cloud compute and extensive API ecosystems, which exist in India, but adoption may be slowed by limited enterprise familiarity with autonomous AI agents and stricter data‑privacy considerations.
+- Badge guess: black
+
+## Argonaut Labs AI
+- Source article: [Kimi K3 (2.8T) at 1 token/s on a MacBook Pro, streamed from four SSDs](https://github.com/argonautlabsai/deltafin) (Hacker News (front page))
+- Category: llm-inference
+- What it does: Provides a system that streams massive language model weights from multiple SSDs to run a 2.8‑trillion‑parameter model on a consumer laptop in real time.
+- Likely revenue model: Charges enterprises or developers a licensing/subscription fee for the inference engine and support services.
+- India equivalent: none found
+- India fit note: The approach relies on high‑speed NVMe SSD arrays and a willingness to host large models locally, which many Indian consumers and small businesses lack due to hardware cost and limited broadband for downloading multi‑terabyte models.
+- Badge guess: black
+
