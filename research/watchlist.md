@@ -268,3 +268,26 @@
 | d2lang (TALA) | ai-agent | black | 2026-09-08 | none found |
 | Emacs Bedrock | dev-tools | black | 2026-09-08 | none found |
 | Vernacular.ai | voice-assistant | orange | 2026-09-08 | Haptik |
+| Lyrimuse | music-tech | orange | 2026-09-08 | JioSaavn |
+| Tables.so | lead-generation | orange | 2026-09-08 | LeadSquared |
+| Knockin' | ai-agent | black | 2026-09-08 | none found |
+| Jupitrr | video-tools | black | 2026-09-08 | none found |
+| Widgo | ai-sales | orange | 2026-09-08 | Verloop.io |
+| OpenMarket | marketplace | black | 2026-09-08 | none found |
+| Kopai | ai-agent | orange | 2026-09-08 | Niki.ai |
+| Switch | ai-agent | black | 2026-09-08 | none found |
+| TapCraft | dev-tools | black | 2026-09-08 | none found |
+| Relaticle | crm | orange | 2026-09-08 | Zoho CRM |
+| Trancy Air | translation | black | 2026-09-08 | none found |
+| Coherence | web-to-app | black | 2026-09-08 | none found |
+| Catenary | ai-devtools | black | 2026-09-08 | none found |
+| Replay | ai-security | orange | 2026-09-08 | Appknox |
+| SODAX | crypto-sdk | orange | 2026-09-08 | CoinDCX |
+| Nametag | personal-crm | black | 2026-09-08 | none found |
+| Kombai Gallery | design-assets | black | 2026-09-08 | none found |
+| MiniCPM5-2B | edge-ai | black | 2026-09-08 | none found |
+| AppGacha | ai-codegen | orange | 2026-09-08 | Zoho Creator |
+| Falcon AI | ai-moderation | black | 2026-09-08 | none found |
+| TradingAgents | ai-trading | orange | 2026-09-08 | QuantInsti |
+| Fundly.ai | pharma-tech | orange | 2026-09-08 | MediSupply |
+| DigitalPaani | watertech | black | 2026-09-08 | none found |
