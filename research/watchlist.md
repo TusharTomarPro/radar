@@ -313,3 +313,17 @@
 | GPU Lexer | dev-tools | black | 2026-09-09 | none found |
 | Desi Tales | kids-fashion | orange | 2026-09-09 | Kiddie Couture |
 | Shuddh Swad | snack-food | black | 2026-09-09 | none found |
+| Harden | ai-security | black | 2026-09-09 | none found |
+| Ass Auction | ad-tech | black | 2026-09-09 | none found |
+| AdScope | ad-analytics | orange | 2026-09-09 | AdPushup |
+| Noodle Seed | ai-tool | black | 2026-09-09 | none found |
+| Muse | ai-assistant | orange | 2026-09-09 | Haptik |
+| WorkID.ai | HR-tech | orange | 2026-09-09 | Talview |
+| Mastra | manufacturing-tech | black | 2026-09-09 | none found |
+| DuckFightClub | mobile-game | black | 2026-09-09 | none found |
+| Type.com | ai-workspace | black | 2026-09-09 | none found |
+| Diiverge | ai-gaming | black | 2026-09-09 | none found |
+| GoModel | ai-router | black | 2026-09-09 | none found |
+| Frigade | ai-agent | black | 2026-09-09 | none found |
+| 49agents | ai-agent | black | 2026-09-09 | none found |
+| Wint Wealth | wealth-tech | black | 2026-09-09 | none found |
