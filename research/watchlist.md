@@ -329,3 +329,6 @@
 | Wint Wealth | wealth-tech | black | 2026-09-09 | none found |
 | Suno | ai-music | black | 2026-09-09 | none found |
 | Footprints | preschool | orange | 2026-09-09 | Little Millennium |
+| Consumer Claims | legal-tech | orange | 2026-09-09 | LegalKart |
+| GNU Radio Web | sdr | black | 2026-09-09 | none found |
+| Entropic Thoughts | ai-code | black | 2026-09-09 | none found |
