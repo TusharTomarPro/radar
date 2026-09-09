@@ -310,3 +310,6 @@
 | Tao | ai-math | black | 2026-09-08 | none found |
 | Mercury | ai-agent | black | 2026-09-08 | none found |
 | Argonaut Labs AI | llm-inference | black | 2026-09-08 | none found |
+| GPU Lexer | dev-tools | black | 2026-09-09 | none found |
+| Desi Tales | kids-fashion | orange | 2026-09-09 | Kiddie Couture |
+| Shuddh Swad | snack-food | black | 2026-09-09 | none found |
