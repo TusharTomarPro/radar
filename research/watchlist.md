@@ -332,3 +332,5 @@
 | Consumer Claims | legal-tech | orange | 2026-09-09 | LegalKart |
 | GNU Radio Web | sdr | black | 2026-09-09 | none found |
 | Entropic Thoughts | ai-code | black | 2026-09-09 | none found |
+| AgentGPT (by Reworkd) | ai-agent | orange | 2026-09-09 | Safe Security |
+| Playdate | handheld-gaming | black | 2026-09-09 | none found |

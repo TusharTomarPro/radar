@@ -196,3 +196,21 @@
 - India fit note: The product assumes widespread adoption of AI code assistants like Copilot and a mature CI/CD culture, which are still emerging in many Indian startups and smaller firms, potentially limiting immediate demand.
 - Badge guess: black
 
+## AgentGPT (by Reworkd)
+- Source article: [I Let an AI Agent Hack All My Gadgets—and I’d Do It Again](https://www.wired.com/story/i-used-ai-to-hack-my-home-network/) (Wired)
+- Category: ai-agent
+- What it does: An autonomous AI agent that can execute commands, interact with IoT devices and software, and discover security vulnerabilities without human prompting.
+- Likely revenue model: A freemium SaaS model where basic agent usage is free and advanced features, API access, and enterprise security integrations are offered via subscription.
+- India equivalent: Safe Security
+- India fit note: The model relies on users being comfortable removing AI safety guardrails and having a heterogeneous IoT ecosystem, which may be limited in Indian households due to lower adoption of smart devices and stricter regulatory attitudes toward unsupervised hacking tools.
+- Badge guess: orange
+
+## Playdate
+- Source article: [Playdate Season 3 kicks off on October 8](https://www.engadget.com/2254393/playdate-season-3-kicks-off-on-october-8/) (Engadget)
+- Category: handheld-gaming
+- What it does: Playdate is a small, crank‑controlled handheld gaming console that releases new indie games in curated seasonal batches.
+- Likely revenue model: Revenue comes from hardware sales plus a cut of game purchases or season passes for each batch of titles.
+- India equivalent: none found
+- India fit note: The model depends on a niche indie‑gaming audience and a subscription‑style release cadence, which may face limited adoption in India due to lower disposable income for niche hardware and limited distribution channels for such consoles.
+- Badge guess: black
+
