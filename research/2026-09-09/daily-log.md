@@ -151,3 +151,21 @@
 - India fit note: The model relies on a deep, liquid corporate bond market and robust secondary trading infrastructure, which are still nascent in India, and on consumer trust in digital platforms for fixed‑income investing, which may be limited.
 - Badge guess: black
 
+## Suno
+- Source article: [Suno trained its v6 AI music models with help from Warner and BMG](https://www.engadget.com/2251539/suno-trained-its-v6-ai-music-models-with-help-from-warner-and-bmg/) (Engadget)
+- Category: ai-music
+- What it does: Suno builds generative AI models that create original music tracks, now trained on data from major labels like Warner and BMG. The models can be accessed via APIs or platforms for creators and enterprises.
+- Likely revenue model: Subscription or usage‑based licensing for API access, plus royalty‑sharing or licensing deals with content platforms and advertisers.
+- India equivalent: none found
+- India fit note: The model relies on extensive licensed music catalogs and robust royalty‑tracking infrastructure, which are less mature in India, and consumer acceptance of AI‑generated music for commercial use may be slower.
+- Badge guess: black
+
+## Footprints
+- Source article: [Footprints Preschool & Daycare expands Bengaluru presence with new centre at RMZ Eco World, Bellandur](https://yourstory.com/2026/09/footprints-preschool-daycare-expands-bengaluru-presence-new-centre-rmz-eco-world-bellandur) (YourStory)
+- Category: preschool
+- What it does: Footprints offers HighScope-based early‑years learning combined with full‑day daycare, targeting working parents in Bengaluru's tech parks. It also partners with corporations to provide on‑site childcare for employees.
+- Likely revenue model: Charges monthly tuition fees per child and secures corporate contracts that pay a bulk rate for employee daycare services.
+- India equivalent: Little Millennium
+- India fit note: The model relies on corporate willingness to subsidize premium daycare and on parents' trust in structured early‑education curricula, which are growing but still limited to major tech hubs like Bengaluru.
+- Badge guess: orange
+
