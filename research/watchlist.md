@@ -362,3 +362,9 @@
 | OpenAI | ai-agent | black | 2026-09-10 | none found |
 | Greenwave Circularity | circular-economy | orange | 2026-09-10 | Recykal |
 | Children’s Art Museum of India (CAMI) | edtech | black | 2026-09-10 | none found |
+| ClaimBot | govtech | orange | 2026-09-10 | ClearTax |
+| Feyn | ai-image | black | 2026-09-10 | none found |
+| Neki | ai-devtools | black | 2026-09-10 | none found |
+| Syq | dev-tools | black | 2026-09-10 | none found |
+| Dialflo | ai-contactcenter | orange | 2026-09-10 | Ameyo |
+| Graph AI | graph-analytics | black | 2026-09-10 | none found |

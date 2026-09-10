@@ -250,3 +250,57 @@
 - India fit note: The model relies on parents allocating discretionary spending to art activities and on safe, dedicated physical spaces, which may be limited in many Indian cities where academic focus dominates and real‑estate costs are high.
 - Badge guess: black
 
+## ClaimBot
+- Source article: [AI agents are flooding public services with new requests](https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/) (TechCrunch)
+- Category: govtech
+- What it does: ClaimBot deploys autonomous AI agents that locate, fill out, and submit entitlement claims (e.g., unemployment, welfare, tax rebates) on behalf of users to public‑service portals.
+- Likely revenue model: Charges a per‑successful‑claim fee or a low‑cost subscription for unlimited claim submissions.
+- India equivalent: ClearTax
+- India fit note: The model relies on fully digital government portals and widespread use of e‑KYC/Aadhaar; while many Indian services are online, some benefit programs still require in‑person verification, which could limit scalability.
+- Badge guess: orange
+
+## Feyn
+- Source article: [Show HN: MultiMatte, a Promptable Image Background Removal Model](https://usefeyn.com/blog/multimatte/) (Hacker News (front page))
+- Category: ai-image
+- What it does: Offers a promptable background removal model that lets users specify objects to keep via text, outputting high‑quality alpha mattes.
+- Likely revenue model: Charges enterprises and developers a subscription or usage‑based fee for API access to the custom model and related support.
+- India equivalent: none found
+- India fit note: The service relies on GPU‑intensive inference and low‑latency cloud connectivity, which can be costly and less reliable in many Indian regions, limiting widespread consumer adoption.
+- Badge guess: black
+
+## Neki
+- Source article: [Neki by PlanetScale](https://neki.dev/) (Hacker News (front page))
+- Category: ai-devtools
+- What it does: Neki is an AI‑powered assistant that helps developers write, debug, and optimise SQL queries on PlanetScale databases.
+- Likely revenue model: It is sold as a subscription or paid add‑on on top of PlanetScale’s managed database service.
+- India equivalent: none found
+- India fit note: The product assumes widespread use of PlanetScale’s serverless MySQL platform and reliable high‑speed internet for LLM calls; adoption may be slower in India where on‑premise databases and lower bandwidth are still common.
+- Badge guess: black
+
+## Syq
+- Source article: [Show HN: Syq – copy files between machines fast (better than rsync)](https://greaber.github.io/syq/) (Hacker News (front page))
+- Category: dev-tools
+- What it does: Syq is a file transfer utility that syncs data between machines faster than rsync by using parallel connections, encrypted TCP, persistent SSH sessions, and remote‑remote transfer capabilities.
+- Likely revenue model: Probably an open‑source core with paid enterprise licensing or support subscriptions.
+- India equivalent: none found
+- India fit note: The product assumes reliable high‑bandwidth internet and widespread SSH usage among developers; while Indian tech teams have the skills, inconsistent broadband quality in some regions could limit performance gains.
+- Badge guess: black
+
+## Dialflo
+- Source article: [AI contact centre startup Dialflo raises Rs 1.7 Cr led by AJVC](https://entrackr.com/snippets/ai-contact-centre-startup-dialflo-raises-rs-17-cr-led-by-ajvc-12515938) (Entrackr)
+- Category: ai-contactcenter
+- What it does: Dialflo offers an AI‑first contact centre platform that blends human agents with AI agents and uses an attribution engine to tie interactions to customer experience and ROI.
+- Likely revenue model: Enterprise SaaS subscription or usage‑based licensing fees per seat/interaction.
+- India equivalent: Ameyo
+- India fit note: India already has a mature outbound/inbound call centre ecosystem and strong telecom infrastructure, so a hybrid AI‑human model can be adopted, though success depends on multilingual AI capabilities and enterprise willingness to shift from pure BPO to AI‑augmented services.
+- Badge guess: orange
+
+## Graph AI
+- Source article: [Graph AI raises $13.3 million in Series A round to fuel global expansion](https://www.business-standard.com/technology/artificial-intelligence/graph-ai-raises-13-3-million-in-series-a-round-to-fuel-global-expansion-126091001530_1.html) (Business Standard Tech)
+- Category: graph-analytics
+- What it does: Provides an AI‑powered platform that builds and queries graph databases to uncover relationships and insights across enterprise data.
+- Likely revenue model: Charges enterprises a subscription SaaS fee based on usage or tiered feature packages.
+- India equivalent: none found
+- India fit note: Success relies on widespread adoption of graph databases and AI‑driven analytics, which are still nascent in many Indian enterprises and require skilled data engineers.
+- Badge guess: black
+
