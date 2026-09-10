@@ -187,3 +187,66 @@
 - India fit note: The model relies on ultra‑dense kitchen clusters, high‑speed delivery fleets and consumers accustomed to ordering food instantly; heavy traffic, variable road conditions and lower order density outside metro areas could hinder replication in many Indian cities.
 - Badge guess: orange
 
+## Honestly Ranked
+- Source article: [Show HN: The same nine streaming subscriptions cost $702/year more than in 2021](https://honestlyranked.com/guides/streaming-price-increases/) (Hacker News (front page))
+- Category: price-comparison
+- What it does: Tracks and compares the monthly/annual costs of major streaming services, highlighting price changes over time.
+- Likely revenue model: Earns affiliate commissions or referral fees when users subscribe to services through its links.
+- India equivalent: none found
+- India fit note: The concept depends on a mature market where users subscribe to multiple OTT platforms and value price transparency; while India has a growing OTT ecosystem, the US‑centric service mix and affiliate structures may not translate directly.
+- Badge guess: black
+
+## Tithon
+- Source article: [Show HN: Persistent Jupyter kernel execution and live output streaming in VSCode](https://github.com/rnoro/tithon) (Hacker News (front page))
+- Category: dev-tools
+- What it does: Tithon provides persistent Jupyter kernel execution and streams live output directly within VSCode, preventing loss of state during disconnections or crashes.
+- Likely revenue model: Subscription or license fee for the VSCode extension with premium features.
+- India equivalent: none found
+- India fit note: The solution relies on stable internet and VSCode adoption, which are common among Indian developers, but continuous cloud compute may be constrained by inconsistent broadband quality in some regions.
+- Badge guess: black
+
+## Udogaranya Studios
+- Source article: [‘Killmonger Locs’ Are Everywhere in Video Games. This Artist Is Sick of It](https://www.wired.com/story/killmonger-locs-have-infiltrated-video-games-this-artist-is-sick-of-it/) (Wired)
+- Category: game-assets
+- What it does: Creates and sells a library of authentic Black hairstyles for video game characters, giving developers alternatives to the default 'Killmonger locs'.
+- Likely revenue model: Sells individual asset packs or offers a subscription model for continuous access to new hairstyle assets.
+- India equivalent: none found
+- India fit note: Success relies on game developers' willingness to integrate more diverse character models, which may be limited in India where the focus on Black representation is lower, though the technical integration is similar.
+- Badge guess: black
+
+## Piston
+- Source article: [Cardless payments platform Piston raises $15 Mn in Series A led by FPV Ventures](https://entrackr.com/news/cardless-payments-platform-piston-raises-15-mn-in-series-a-led-by-fpv-ventures-12516055) (Entrackr)
+- Category: cardless payments
+- What it does: Provides a cardless payments platform that links commercial fleets with gas stations and convenience stores via mobile authorisation integrated directly into point‑of‑sale systems, giving real‑time visibility and fraud protection.
+- Likely revenue model: Earns transaction fees or subscription fees from merchants and fleet operators for using its payment network and analytics services.
+- India equivalent: FuelX
+- India fit note: India has widespread QR‑code POS but fragmented integration with fleet telematics; adoption may be limited by the need for standardized POS APIs and real‑time data sharing between fuel stations and fleet management platforms.
+- Badge guess: orange
+
+## OpenAI
+- Source article: [Enterprise AI Is Learning To Charge For Work, And Owning The Outcomes Becomes The Contest](https://inc42.com/resources/enterprise-ai-is-learning-to-charge-for-work-and-owning-the-outcomes-becomes-the-contest/) (Inc42)
+- Category: ai-agent
+- What it does: Provides enterprise AI agents that can autonomously perform business tasks and charge customers based on the work completed or outcomes delivered.
+- Likely revenue model: Usage‑based pricing where enterprises pay per task execution or per successful outcome, often layered with a subscription tier for API access.
+- India equivalent: none found
+- India fit note: Outcome‑based AI agents require high‑speed cloud infrastructure, reliable data pipelines, and a culture of delegating critical tasks to autonomous software, which are still emerging in many Indian enterprises.
+- Badge guess: black
+
+## Greenwave Circularity
+- Source article: [Greenwave Circularity raises $31.5M financing from OeEB of Austria](https://yourstory.com/2026/09/greenwave-circularity-raises-315-million-financing-from-oeeb-of-austria) (YourStory)
+- Category: circular-economy
+- What it does: Provides technology platforms and services that digitise and optimise scrap material value chains, connecting generators, collectors and recyclers.
+- Likely revenue model: Earns transaction commissions or subscription fees from participants in the scrap ecosystem for access to the platform and data analytics.
+- India equivalent: Recykal
+- India fit note: The model relies on digital onboarding of informal scrap collectors and reliable logistics, which are emerging but still fragmented in India; however, growing regulatory focus on waste management makes it feasible.
+- Badge guess: orange
+
+## Children’s Art Museum of India (CAMI)
+- Source article: [Started at 12, Built a 300,000-Member Community: The Story of Children’s Art Museum of India (CAMI)](https://yourstory.com/2026/09/krish-nawal-childrens-art-museum-of-india-cami-success-story) (YourStory)
+- Category: edtech
+- What it does: CAMI provides a physical and digital community where children can create, share, and learn art, offering workshops, events, and a membership platform for 300,000 kids.
+- Likely revenue model: Revenue likely comes from membership subscriptions, paid workshops/classes, corporate sponsorships, and sale of art‑related merchandise.
+- India equivalent: none found
+- India fit note: The model relies on parents allocating discretionary spending to art activities and on safe, dedicated physical spaces, which may be limited in many Indian cities where academic focus dominates and real‑estate costs are high.
+- Badge guess: black
+

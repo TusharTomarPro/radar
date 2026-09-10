@@ -355,3 +355,10 @@
 | Vibe Eyes | desktop-widget | black | 2026-09-10 | none found |
 | DeepSeek AI | ai-model | black | 2026-09-10 | none found |
 | Swish | quick-commerce | orange | 2026-09-10 | Swiggy Bolt |
+| Honestly Ranked | price-comparison | black | 2026-09-10 | none found |
+| Tithon | dev-tools | black | 2026-09-10 | none found |
+| Udogaranya Studios | game-assets | black | 2026-09-10 | none found |
+| Piston | cardless payments | orange | 2026-09-10 | FuelX |
+| OpenAI | ai-agent | black | 2026-09-10 | none found |
+| Greenwave Circularity | circular-economy | orange | 2026-09-10 | Recykal |
+| Children’s Art Museum of India (CAMI) | edtech | black | 2026-09-10 | none found |
