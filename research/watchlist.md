@@ -368,3 +368,8 @@
 | Syq | dev-tools | black | 2026-09-10 | none found |
 | Dialflo | ai-contactcenter | orange | 2026-09-10 | Ameyo |
 | Graph AI | graph-analytics | black | 2026-09-10 | none found |
+| Furo | energy-tech | orange | 2026-09-10 | Power2SME |
+| Bodily Oddities | health-tech | black | 2026-09-10 | none found |
+| CableBox | cable-management | black | 2026-09-10 | none found |
+| IDScan | identity-security | orange | 2026-09-10 | Karza Technologies |
+| Google Gemini | ai-assistant | black | 2026-09-10 | none found |

@@ -304,3 +304,48 @@
 - India fit note: Success relies on widespread adoption of graph databases and AI‑driven analytics, which are still nascent in many Indian enterprises and require skilled data engineers.
 - Badge guess: black
 
+## Furo
+- Source article: [Furo’s founders left Silicon Valley — and it’s paying off](https://techcrunch.com/2026/09/10/furos-founders-left-silicon-valley-and-its-paying-off/) (TechCrunch)
+- Category: energy-tech
+- What it does: Furo offers an AI‑driven platform that aggregates and optimizes electricity procurement for businesses, helping them secure cheaper, renewable energy contracts.
+- Likely revenue model: It likely charges a subscription fee plus a transaction‑based commission on the volume of energy purchased through its platform.
+- India equivalent: Power2SME
+- India fit note: India's power market is heavily regulated and corporate access to wholesale electricity pricing is limited, so the model may face challenges in scaling without policy changes and broader market liberalisation.
+- Badge guess: orange
+
+## Bodily Oddities
+- Source article: [Bodily Oddities](https://vester.si/bodily-oddities/) (Hacker News (front page))
+- Category: health-tech
+- What it does: A curated marketplace and community platform that showcases rare medical conditions, unusual anatomical specimens, and bespoke body-modification products. Users can explore, purchase, or commission unique health‑related items and content.
+- Likely revenue model: Earns commissions on sales of specialty products, charges creators a listing fee, and offers premium subscriptions for advanced analytics and community features.
+- India equivalent: none found
+- India fit note: The model relies on a niche market of collectors and body‑modification enthusiasts, plus a regulatory environment that comfortably permits the sale of anatomical curiosities—both of which are limited in India.
+- Badge guess: black
+
+## CableBox
+- Source article: [Don't let anyone take away your big box of cables](https://blog.jim-nielsen.com/2026/hands-off-my-cables/) (Hacker News (front page))
+- Category: cable-management
+- What it does: CableBox offers a lockable, tamper‑proof enclosure for storing and organizing bulk cable bundles, protecting them from theft or accidental removal.
+- Likely revenue model: The company sells the hardware enclosure directly to consumers and enterprises, possibly with optional accessories or subscription‑based support.
+- India equivalent: none found
+- India fit note: The product assumes a need for dedicated, lockable cable storage common in shared workspaces or data‑center environments; many Indian offices still use open‑rack or ad‑hoc cable setups, so adoption may be limited without a cultural shift toward tighter physical security.
+- Badge guess: black
+
+## IDScan
+- Source article: [IDScan is offering free credit monitoring and ID protection after leaking driver's licenses](https://www.engadget.com/2255209/idscan-is-offering-free-credit-monitoring-and-id-protection-after-leaking-drivers-licenses/) (Engadget)
+- Category: identity-security
+- What it does: IDScan provides digital ID verification and scanning services for businesses, and now offers free credit monitoring and ID protection after a data breach.
+- Likely revenue model: It likely charges businesses subscription or per‑verification fees for its identity‑verification platform.
+- India equivalent: Karza Technologies
+- India fit note: India has a mature KYC ecosystem and similar credit monitoring services, so the model can work, though consumer awareness of credit monitoring is lower than in the US.
+- Badge guess: orange
+
+## Google Gemini
+- Source article: [A native Gemini app is finally available for Windows PCs](https://www.engadget.com/2255197/a-native-gemini-app-is-finally-available-for-windows-pcs/) (Engadget)
+- Category: ai-assistant
+- What it does: A native desktop application that lets users chat with Google's Gemini generative AI model, offering text, image, and multimodal responses.
+- Likely revenue model: Bundled into Google's ecosystem, monetized via premium subscriptions, increased ad engagement, and upselling to Google Cloud services.
+- India equivalent: none found
+- India fit note: Success depends on widespread high‑speed internet, familiarity with AI chat assistants, and acceptance of data sharing with a US‑based tech giant, which may be slower in India.
+- Badge guess: black
+
