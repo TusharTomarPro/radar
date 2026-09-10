@@ -337,3 +337,21 @@
 | Speed of Light Visualizer | science-visualization | black | 2026-09-10 | none found |
 | Desert Ant Labs | edge-ai | orange | 2026-09-10 | Vernacular.ai |
 | Habuild | wellness-tech | orange | 2026-09-10 | Cult.fit |
+| Thousand | knowledge-base | orange | 2026-09-10 | Zoho Wiki |
+| Whip | interactive-media | black | 2026-09-10 | none found |
+| OpenObserve | ai-observability | orange | 2026-09-10 | SigNoz |
+| Modeinspect | dev-tools | black | 2026-09-10 | none found |
+| Typewise | ai-customer-support | orange | 2026-09-10 | Haptik |
+| Speechmark | meeting-notes | orange | 2026-09-10 | Avoma |
+| Wealthfolio | personal-finance | orange | 2026-09-10 | Walnut |
+| Drive | auto-telemetry | black | 2026-09-10 | none found |
+| Subanana | live-translation | black | 2026-09-10 | none found |
+| Athenic AI | fintech | orange | 2026-09-10 | Trendlyne |
+| FreeScan | seo-tool | orange | 2026-09-10 | RankWatch |
+| Gojo | productivity | black | 2026-09-10 | none found |
+| Viso Now | computer-vision | black | 2026-09-10 | none found |
+| Mock Magic | design-tools | black | 2026-09-10 | none found |
+| hob | ai-agent | orange | 2026-09-10 | Haptik |
+| Vibe Eyes | desktop-widget | black | 2026-09-10 | none found |
+| DeepSeek AI | ai-model | black | 2026-09-10 | none found |
+| Swish | quick-commerce | orange | 2026-09-10 | Swiggy Bolt |
