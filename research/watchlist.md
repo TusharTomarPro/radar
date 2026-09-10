@@ -334,3 +334,6 @@
 | Entropic Thoughts | ai-code | black | 2026-09-09 | none found |
 | AgentGPT (by Reworkd) | ai-agent | orange | 2026-09-09 | Safe Security |
 | Playdate | handheld-gaming | black | 2026-09-09 | none found |
+| Speed of Light Visualizer | science-visualization | black | 2026-09-10 | none found |
+| Desert Ant Labs | edge-ai | orange | 2026-09-10 | Vernacular.ai |
+| Habuild | wellness-tech | orange | 2026-09-10 | Cult.fit |
