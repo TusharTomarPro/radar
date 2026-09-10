@@ -1,7 +1,7 @@
 # Top 20 Shortlist
-_Generated 2026-09-09 06:50 UTC -- auto-updated after every deep-research pass._
+_Generated 2026-09-10 06:45 UTC -- auto-updated after every deep-research pass._
 
-Ranked by risk score (lower = more promising) out of 84 companies deep-researched so far, 299 tracked total.
+Ranked by risk score (lower = more promising) out of 93 companies deep-researched so far, 323 tracked total.
 
 ---
 
@@ -275,7 +275,43 @@ Ranked by risk score (lower = more promising) out of 84 companies deep-researche
 
 ---
 
-## 16. Clockwork -- MODERATE RISK (4/10)
+## 16. Userlens -- LOW RISK (3/10)
+
+**Category:** ai-agent  
+**Badge:** black  
+**Competitor status:** no-real-competitor-found  
+**Regulatory:** moderate – Indian data‑localisation expectations under the Personal Data Protection Bill (and related rules for cross‑border data transfer) could require Indian‑hosted storage for any customer‑data processed by the agent.  
+**Capital intensity:** low – the model is software‑only, asset‑light and can be built with a small engineering and sales team; profitability can be reached without heavy upfront cash burn.  
+**Known numbers:** Userlens reports $307K ARR (≈₹2.5 cr) as of early 2026, 30 enterprise customers, ~300 customer‑success managers using the product weekly, and 76% weekly usage among those CSMs.  
+**India cost estimate:** ₹40‑55 lakh for a 6‑12 month pilot: cloud/API usage (~₹5‑10 lakh), a core team of 2‑4 engineers + product lead (~₹30‑40 lakh in salaries), and minimal legal/administrative overhead (~₹5 lakh).  
+
+**AI reasoning:** The market appears under‑served (no direct Indian competitor), regulatory exposure is limited to data‑localisation compliance, and the business is capital‑light, making the venture relatively low‑risk. The main uncertainty is adoption speed of AI‑agents in Indian enterprises, but the cost structure remains modest.
+
+**Your notes:** _(none added yet -- click through from the dashboard to add your take)_
+
+[Full research file](companies/userlens/2026-09-05-research.md) -- [Add notes](companies/userlens/your-notes.md)
+
+---
+
+## 17. Remote Work as a Worm -- LOW RISK (3/10)
+
+**Category:** indie-game  
+**Badge:** black  
+**Competitor status:** no-real-competitor-found  
+**Regulatory:** none  
+**Capital intensity:** low – an indie‑game is software‑only, can be built by a small remote team and run on standard cloud services, so profitability can be reached without heavy cash burn.  
+**Known numbers:** no public numbers found  
+**India cost estimate:** ₹35‑45 lakh for 6‑12 months (≈₹20‑25 lakh for a 2‑3‑person dev team, ₹10‑15 lakh for cloud/third‑party APIs, ₹5 lakh for basic legal/compliance and incidental costs).  
+
+**AI reasoning:** The market niche has no direct competitor, regulatory exposure is minimal for a software‑only game, and the capital needed is low, making the venture relatively low‑risk. The main uncertainty is market fit and the temporal nature of the remote‑work hype.
+
+**Your notes:** _(none added yet -- click through from the dashboard to add your take)_
+
+[Full research file](companies/remote-work-as-a-worm/2026-09-05-research.md) -- [Add notes](companies/remote-work-as-a-worm/your-notes.md)
+
+---
+
+## 18. Clockwork -- MODERATE RISK (4/10)
 
 **Category:** ai-agent  
 **Badge:** black  
@@ -293,7 +329,7 @@ Ranked by risk score (lower = more promising) out of 84 companies deep-researche
 
 ---
 
-## 17. Offline JS Playground -- MODERATE RISK (4/10)
+## 19. Offline JS Playground -- MODERATE RISK (4/10)
 
 **Category:** dev-tools  
 **Badge:** orange  
@@ -311,7 +347,7 @@ Ranked by risk score (lower = more promising) out of 84 companies deep-researche
 
 ---
 
-## 18. WeatherNext -- MODERATE RISK (4/10)
+## 20. WeatherNext -- MODERATE RISK (4/10)
 
 **Category:** weather-ai  
 **Badge:** orange  
@@ -326,41 +362,5 @@ Ranked by risk score (lower = more promising) out of 84 companies deep-researche
 **Your notes:** _(none added yet -- click through from the dashboard to add your take)_
 
 [Full research file](companies/weathernext/2026-09-05-research.md) -- [Add notes](companies/weathernext/your-notes.md)
-
----
-
-## 19. Tidy -- MODERATE RISK (4/10)
-
-**Category:** ai-grammar  
-**Badge:** orange  
-**Competitor status:** surviving  
-**Regulatory:** none  
-**Capital intensity:** low  
-**Known numbers:** unknown  
-**India cost estimate:** unknown  
-
-**AI reasoning:** Search results list several Indian firms (Clean India Group, Lianlian, Book a Tiger, SOLID Surface Care, Mclean Technologies) and SaaS alternatives (Hire with Near, Upshift, Bruntwork, Quickbase, SAP Business ByDesign, monday.com) that directly compete with a Tidy-like offering, confirming a competitive market. The AI‑grammar SaaS model is asset‑light and faces minimal regulatory hurdles in India, keeping capital needs low. With clear competition but low regulatory and capital risk, the overall risk is moderate (score 4).
-
-**Your notes:** _(none added yet -- click through from the dashboard to add your take)_
-
-[Full research file](companies/tidy/2026-09-05-research.md) -- [Add notes](companies/tidy/your-notes.md)
-
----
-
-## 20. Tabbit AI -- MODERATE RISK (4/10)
-
-**Category:** ai-browser  
-**Badge:** black  
-**Competitor status:** no-real-competitor-found  
-**Regulatory:** moderate  
-**Capital intensity:** low  
-**Known numbers:** unknown  
-**India cost estimate:** unknown  
-
-**AI reasoning:** Search evidence shows no direct competitor to Tabbit AI in the AI-browser category, with the named competitors (Sarvam AI, Krutrim, Neysa) operating in sovereign AI infrastructure rather than browser-based AI tools. The regulatory risk is moderate due to India's data localization requirements under the DPDP Act 2023 and potential IT Rules 2021 compliance for AI platforms handling user data. Capital intensity is low since this is a software-margin, asset-light model that can be bootstrapped, though the search results showing many Indian AI startups failing due to capital crunch suggests execution risk remains high.
-
-**Your notes:** _(none added yet -- click through from the dashboard to add your take)_
-
-[Full research file](companies/tabbit-ai/2026-09-05-research.md) -- [Add notes](companies/tabbit-ai/your-notes.md)
 
 ---

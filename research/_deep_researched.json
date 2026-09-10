@@ -864,5 +864,113 @@
     "india_cost_estimate": "\u20b980\u2011120\u202flakh for a lean 6\u201112\u202fmonth pilot: \u20b940\u201160\u202flakh for contract\u2011manufacturing & cold\u2011storage fees, \u20b915\u201125\u202flakh for a small core team (3\u20114 people) and basic office, \u20b910\u201115\u202flakh for limited marketing/branding, and \u20b915\u201120\u202flakh for initial inventory and logistics set\u2011up",
     "risk_score": 7,
     "risk_reasoning": "The market has entrenched players (Amul, Kwality Wall's) that are still operating, creating strong competitive pressure. While regulatory hurdles are moderate, the business model is capital\u2011intensive due to the need for manufacturing, cold\u2011chain, and deep discounting, raising cash\u2011burn risk. These factors together push the overall risk to a high\u2011moderate level."
+  },
+  "uber::2026-09-05": {
+    "company": "Uber",
+    "category": "last-mile logistics",
+    "revised_badge": "orange",
+    "competitor_status": "surviving",
+    "regulatory_flag": "moderate \u2013 requires compliance with the Motor Vehicles Act\u202f1988 (commercial transport permits) and The Code on Social Security\u202f2020 for gig\u2011worker classification, plus standard GST and data\u2011localisation rules for logistics platforms.",
+    "capital_intensity": "medium \u2013 Uber\u2019s model is asset\u2011light (uses partner drivers) but relies on heavy discounting and technology spend, so it burns cash faster than a pure software play yet does not need large fleet ownership.",
+    "known_numbers": "valuation ~ $85\u202fbillion in 2026; monthly active users ~120\u202fmillion in 2026 (from search evidence). No specific revenue or India\u2011level figures were found.",
+    "india_cost_estimate": "\u20b91.2\u20112.0\u202fcrore for a 6\u201112\u202fmonth MVP in India (cloud & API fees, a core team of 3\u20114 engineers/product & ops, legal/compliance, and modest partner\u2011onboarding costs, assuming no paid user\u2011acquisition spend).",
+    "risk_score": 6,
+    "risk_reasoning": "A surviving competitor (Borzo) shows the market is viable, but moderate regulatory hurdles around transport permits and gig\u2011worker status add friction. Capital needs are medium\u2011intensity, meaning the venture can be bootstrapped but still requires steady cash flow to subsidise pricing, leading to a moderate overall risk."
+  },
+  "atomberg::2026-09-05": {
+    "company": "Atomberg",
+    "category": "energy-efficient appliances",
+    "revised_badge": "orange",
+    "competitor_status": "surviving",
+    "regulatory_flag": "none",
+    "capital_intensity": "medium",
+    "known_numbers": "Atomberg reported FY26 revenue of about \u20b91,200\u202fcr (\u2248$14\u202fbn) and a valuation of roughly \u20b94,490\u202fcr in its 2026 IPO filing. Home\u2011appliances alone contributed \u20b91,153\u202fcr, with online sales \u20b9456.5\u202fcr and offline sales \u20b9820\u202fcr. The company listed ~208 employees as of May\u202f2026.",
+    "india_cost_estimate": "\u20b92\u20114\u202fcr for a lean 6\u201112\u202fmonth launch \u2013 covering a small design/engineering team (2\u20113 engineers, 1 product manager), prototype tooling, a limited first\u2011run inventory (\u22485\u201110\u202fk units), basic BIS certification, and modest cloud/ERP software costs.",
+    "risk_score": 5,
+    "risk_reasoning": "Competitors like Crompton Greaves and Havells are active, so market entry faces established brands (orange badge). Regulatory hurdles are minimal for consumer appliances, keeping compliance risk low. Capital needs are medium due to manufacturing and inventory, but a modest MVP can be funded within a few crore rupees, yielding a balanced risk profile."
+  },
+  "userlens::2026-09-05": {
+    "company": "Userlens",
+    "category": "ai-agent",
+    "revised_badge": "black",
+    "competitor_status": "no-real-competitor-found",
+    "regulatory_flag": "moderate \u2013 Indian data\u2011localisation expectations under the Personal Data Protection Bill (and related rules for cross\u2011border data transfer) could require Indian\u2011hosted storage for any customer\u2011data processed by the agent.",
+    "capital_intensity": "low \u2013 the model is software\u2011only, asset\u2011light and can be built with a small engineering and sales team; profitability can be reached without heavy upfront cash burn.",
+    "known_numbers": "Userlens reports $307K ARR (\u2248\u20b92.5\u202fcr) as of early 2026, 30 enterprise customers, ~300 customer\u2011success managers using the product weekly, and 76% weekly usage among those CSMs.",
+    "india_cost_estimate": "\u20b940\u201155\u202flakh for a 6\u201112\u202fmonth pilot: cloud/API usage (~\u20b95\u201110\u202flakh), a core team of 2\u20114 engineers + product lead (~\u20b930\u201140\u202flakh in salaries), and minimal legal/administrative overhead (~\u20b95\u202flakh).",
+    "risk_score": 3,
+    "risk_reasoning": "The market appears under\u2011served (no direct Indian competitor), regulatory exposure is limited to data\u2011localisation compliance, and the business is capital\u2011light, making the venture relatively low\u2011risk. The main uncertainty is adoption speed of AI\u2011agents in Indian enterprises, but the cost structure remains modest."
+  },
+  "geneva-watch-days::2026-09-05": {
+    "company": "Geneva Watch Days",
+    "category": "watch-events",
+    "revised_badge": "black",
+    "competitor_status": "no-real-competitor-found",
+    "regulatory_flag": "none",
+    "capital_intensity": "medium \u2013 organizing a multi\u2011brand luxury watch exhibition requires venue rental, staff, brand outreach and logistics, but it is not a capital\u2011heavy inventory or delivery operation.",
+    "known_numbers": "valuation $1.5\u202fbillion (2026); projected 500,000 monthly active users (2026). No concrete revenue, funding or paying\u2011user figures were found.",
+    "india_cost_estimate": "\u20b950\u201170\u202flakh for a 6\u201112\u202fmonth pilot (venue rental ~\u20b920\u201125\u202flakh, core team 5\u20116 people ~\u20b915\u201120\u202flakh, logistics & import handling ~\u20b910\u201112\u202flakh, modest marketing & misc ~\u20b95\u201110\u202flakh).",
+    "risk_score": 4,
+    "risk_reasoning": "With no direct Indian competitor and negligible regulatory hurdles, the concept has a clear market gap. However, the medium capital intensity of staging a luxury watch exhibition and the uncertainty around brand participation in India raise execution risk, placing the overall risk at a moderate level."
+  },
+  "remote-work-as-a-worm::2026-09-05": {
+    "company": "Remote Work as a Worm",
+    "category": "indie-game",
+    "revised_badge": "black",
+    "competitor_status": "no-real-competitor-found",
+    "regulatory_flag": "none",
+    "capital_intensity": "low \u2013 an indie\u2011game is software\u2011only, can be built by a small remote team and run on standard cloud services, so profitability can be reached without heavy cash burn.",
+    "known_numbers": "no public numbers found",
+    "india_cost_estimate": "\u20b935\u201145\u202flakh for 6\u201112\u202fmonths (\u2248\u20b920\u201125\u202flakh for a 2\u20113\u2011person dev team, \u20b910\u201115\u202flakh for cloud/third\u2011party APIs, \u20b95\u202flakh for basic legal/compliance and incidental costs).",
+    "risk_score": 3,
+    "risk_reasoning": "The market niche has no direct competitor, regulatory exposure is minimal for a software\u2011only game, and the capital needed is low, making the venture relatively low\u2011risk. The main uncertainty is market fit and the temporal nature of the remote\u2011work hype."
+  },
+  "slice::2026-09-05": {
+    "company": "Slice",
+    "category": "digital-banking",
+    "revised_badge": "black",
+    "competitor_status": "no-real-competitor-found",
+    "regulatory_flag": "high \u2013 requires RBI approval for a Small Finance Bank licence, compliance with the Banking Regulation Act, 1949, RBI's NBFC/lending guidelines, KYC/AML rules and data\u2011localisation mandates for payment systems.",
+    "capital_intensity": "high \u2013 operating a digital bank with a growing loan book and deposit base demands substantial balance\u2011sheet capital to meet CRAR requirements and fund credit, making it a cash\u2011intensive model.",
+    "known_numbers": "Revenue FY26: \u20b91,403\u202fcr; Valuation 2026: $450\u202fM; Users 2026: ~17\u202fmillion; AUM March\u202f2026: \u20b94,554\u202fcr (78% YoY); CRAR March\u202f2026: 19.1%; Net worth March\u202f2026: \u20b9875.3\u202fcr; Funding round Sep\u202f2026: $100\u202fM at $450\u202fM valuation; Peak valuation cited: $1.5\u202fB.",
+    "india_cost_estimate": "\u20b92\u20113\u202fcrore (\u2248\u202f$24\u201136\u202fk) for a 6\u201112\u202fmonth MVP: cloud & API fees, core\u2011banking integration, a lean team of 4\u20116 engineers, compliance/legal counsel, and minimal marketing.",
+    "risk_score": 7,
+    "risk_reasoning": "Slice operates in a highly regulated space requiring RBI banking licence and strict capital adequacy, which raises entry barriers. The business model is capital\u2011intensive due to loan funding and CRAR compliance, increasing cash\u2011burn risk. While no direct competitor named Jupiter exists, the market already contains several neobanks, so competitive pressure is moderate but not a decisive blocker."
+  },
+  "comet::2026-09-05": {
+    "company": "Comet",
+    "category": "D2C footwear",
+    "revised_badge": "orange",
+    "competitor_status": "surviving",
+    "regulatory_flag": "moderate \u2013 inventory\u2011based D2C e\u2011commerce in India is subject to FDI policy (2020) requiring 100\u202f% FDI approval and compliance with e\u2011commerce marketplace restrictions.",
+    "capital_intensity": "medium \u2013 product design, limited inventory and outsourced manufacturing keep cash burn lower than a full\u2011scale retail chain, but inventory, logistics and marketing still require notable upfront spend.",
+    "known_numbers": "no public numbers found",
+    "india_cost_estimate": "\u20b93\u20115\u202fcrore for a 6\u201112\u202fmonth pilot (\u20b910\u201115\u202flakh for MVP tech platform, \u20b920\u201130\u202flakh for initial digital marketing, \u20b92\u20112.5\u202fcrore for a modest first\u2011run inventory of ~5,000 pairs, and \u20b960\u201180\u202flakh for a small core team and operational overhead).",
+    "risk_score": 6,
+    "risk_reasoning": "A direct competitor (Gully Labs) is active and funded, reducing first\u2011mover advantage. Regulatory exposure is moderate due to FDI rules on inventory\u2011based e\u2011commerce, but not a blocker. Capital needs are medium, meaning a VC\u2011backed burn is manageable but still significant for early cash\u2011flow. Lack of public traction data for Comet adds uncertainty, pushing the risk to a mid\u2011range score."
+  },
+  "rentomojo::2026-09-05": {
+    "company": "Rentomojo",
+    "category": "furniture-rental",
+    "revised_badge": "orange",
+    "competitor_status": "dead",
+    "regulatory_flag": "moderate \u2013 the model touches India\u2019s FDI rules for inventory\u2011based multi\u2011brand retail (Foreign Direct Investment Policy, 2020) and requires GST compliance plus standard labour law obligations for delivery/gig workers.",
+    "capital_intensity": "high \u2013 the business must front\u2011load large furniture inventory, warehousing and a delivery fleet before unit economics improve, a classic VC\u2011subsidised cash\u2011burn model.",
+    "known_numbers": "Rentomojo raised a $25\u202fmillion funding round led by Edelweiss Discovery (announced 2025). No public ARR, valuation or user\u2011count figures were found in the search results.",
+    "india_cost_estimate": "\u20b98\u201112\u202fcrore for a 6\u201112\u202fmonth pilot \u2013 roughly \u20b95\u20118\u202fcrore to acquire a modest inventory pool (\u22482,000\u20113,000 SKUs), \u20b91\u20112\u202fcrore for warehousing & logistics set\u2011up, and \u20b91\u20112\u202fcrore for a core team (product, ops, tech) and initial marketing.",
+    "risk_score": 7,
+    "risk_reasoning": "The market still has active players (Cityfurnish, Rentickle), so competition is real (orange badge). Regulatory exposure is moderate due to FDI and GST rules, but not a show\u2011stopper. Capital intensity is high, requiring substantial upfront inventory spend, which drives cash\u2011burn and raises the risk profile to a 7 out of 10."
+  },
+  "leanwatts::2026-09-05": {
+    "company": "Leanwatts",
+    "category": "power-electronics",
+    "revised_badge": "orange",
+    "competitor_status": "dead",
+    "regulatory_flag": "moderate",
+    "capital_intensity": "high",
+    "known_numbers": "No public numbers found for Leanwatts. Competitor Dynolt Technologies raised $1.7M seed funding in 2026 before being shut down and acquired the same year.",
+    "india_cost_estimate": "\u20b93-6 Cr for first 12 months to build a scaled-down version \u2014 power electronics requires hardware prototyping, certification (AIS/BIS), and a team of 4-6 engineers, not just software MVP costs.",
+    "risk_score": 8,
+    "risk_reasoning": "The direct competitor Dynolt Technologies raised $1.7M in 2026 but was shut down and acquired the same year, signaling a brutal market for power electronics startups in India despite EV tailwinds. Power electronics is capital-intensive (hardware R&D, certification, manufacturing) and faces moderate regulatory hurdles like BIS certification and AIS standards for EV chargers. Leanwatts itself has no public revenue, valuation, or user numbers, making traction unverifiable \u2014 combined with the competitor's death, this is a high-risk space."
   }
 }
