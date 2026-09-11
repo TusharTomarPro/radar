@@ -398,3 +398,7 @@
 | Design Studio by Monday Merch | custom-merch | orange | 2026-09-11 | Printrove |
 | Radicle | decentralized-vcs | black | 2026-09-11 | none found |
 | Namma Yatri | driver-commerce | black | 2026-09-11 | none found |
+| Remember Hong Kong | memorial-tech | black | 2026-09-11 | none found |
+| Foldelight | desktop-ui | black | 2026-09-11 | none found |
+| Moonshot | ai-agent | black | 2026-09-11 | none found |
+| Incredible Health | healthcare-recruiting | orange | 2026-09-11 | Naukri Healthcare |

@@ -223,3 +223,39 @@
 - India fit note: The model depends on a tightly‑controlled driver network and a dedicated distribution hub, which may be harder to replicate in India where gig‑driver platforms are less centralized and logistics for a driver‑only store are not yet common.
 - Badge guess: black
 
+## Remember Hong Kong
+- Source article: [Remember Hong Kong](https://www.thenextmove.org/p/remember-hong-kong) (Hacker News (front page))
+- Category: memorial-tech
+- What it does: A crowdsourced digital platform that collects, preserves, and shares personal stories, photos, and artifacts about Hong Kong's cultural heritage.
+- Likely revenue model: Offers premium subscriptions for advanced archival features and licenses curated content to researchers, media, and brands.
+- India equivalent: none found
+- India fit note: The model depends on strong diaspora engagement and a niche regional focus, which may not have the same cultural resonance or data‑sharing willingness in India.
+- Badge guess: black
+
+## Foldelight
+- Source article: [Show HN: Foldelight – the iPhone Duo folding effect the MacBook was owed](https://lufzle.dev/foldelight/) (Hacker News (front page))
+- Category: desktop-ui
+- What it does: Foldelight is an open‑source macOS application that adds a folding portal visual effect to the MacBook lid, emulating the iPhone Duo dual‑screen transition on the laptop screen.
+- Likely revenue model: The core product is free and open‑source, with potential revenue from optional paid versions, licensing for commercial use, or user donations.
+- India equivalent: none found
+- India fit note: The effect relies on macOS and specific MacBook hardware, which have limited market penetration in India, so widespread adoption may be constrained.
+- Badge guess: black
+
+## Moonshot
+- Source article: [Moonshot serves Claude instead of Kimi and collects exchanges for model training](https://twitter.com/DavidAgranovich/status/2098168522862215449) (Hacker News (front page))
+- Category: ai-agent
+- What it does: Moonshot offers a chat interface that routes user queries to Anthropic's Claude model (instead of its own Kimi model) and logs the interactions for future model training.
+- Likely revenue model: It likely charges users a subscription or per‑message fee while also monetizing the collected conversation data for training/licensing.
+- India equivalent: none found
+- India fit note: The model relies on users willingly sharing their chat data, which may clash with India's data‑localisation and privacy regulations, and it depends on stable high‑speed internet that isn’t uniformly available across the country.
+- Badge guess: black
+
+## Incredible Health
+- Source article: [How This Doctor-Turned-Startup-Founder Decided To Fix The Healthcare Staffing Crunch: Make Employers Apply](https://news.crunchbase.com/venture/doctor-turned-startup-founder-healthcare-staffing-crunch-abuzeid-incredible/) (Crunchbase News)
+- Category: healthcare-recruiting
+- What it does: A hiring platform that flips the traditional recruiting model by letting hospitals and clinics apply to qualified healthcare professionals, using AI agents to streamline matching and reduce time-to-hire.
+- Likely revenue model: Charges employers a subscription or pay‑per‑hire fee for access to the candidate pool and AI‑driven matching services.
+- India equivalent: Naukri Healthcare
+- India fit note: The model relies on employers actively seeking talent through a digital marketplace and on AI‑driven matching, which may face slower adoption in India due to fragmented hiring practices and lower penetration of advanced AI recruiting tools in the healthcare sector.
+- Badge guess: orange
+
