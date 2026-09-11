@@ -373,3 +373,6 @@
 | CableBox | cable-management | black | 2026-09-10 | none found |
 | IDScan | identity-security | orange | 2026-09-10 | Karza Technologies |
 | Google Gemini | ai-assistant | black | 2026-09-10 | none found |
+| Acoustic Fire Extinguisher | fire-safety | black | 2026-09-11 | none found |
+| YuE2 | ai-music | orange | 2026-09-11 | Raga AI |
+| Runway | ai-production | black | 2026-09-11 | none found |
