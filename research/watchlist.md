@@ -407,3 +407,8 @@
 | gPTY | dev-tools | black | 2026-09-11 | none found |
 | Glacier Extinction Explorer | climate-tech | black | 2026-09-11 | none found |
 | Rune | low-code | orange | 2026-09-11 | Appsmith |
+| EleutherAI | ai-lab | orange | 2026-09-11 | AI4Bharat |
+| Blinkenlights | architectural ads | black | 2026-09-11 | none found |
+| ResolveHQ | helpdesk | orange | 2026-09-11 | Freshdesk |
+| Txt | developer-tools | black | 2026-09-11 | none found |
+| Litelm | ai-infra | black | 2026-09-11 | none found |

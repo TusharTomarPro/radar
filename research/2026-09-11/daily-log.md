@@ -304,3 +304,48 @@
 - India fit note: The model relies on widespread corporate adoption of low‑code tools and reliable cloud connectivity, both of which are present in India’s growing enterprise tech ecosystem.
 - Badge guess: orange
 
+## EleutherAI
+- Source article: [Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too](https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/) (TechCrunch)
+- Category: ai-lab
+- What it does: Develops open‑weight AI models by distilling large frontier models into smaller, publicly accessible versions.
+- Likely revenue model: Monetises through API subscriptions, enterprise licensing, or paid support for its distilled model offerings.
+- India equivalent: AI4Bharat
+- India fit note: India has growing talent and data, but limited domestic high‑end GPU clusters and cloud compute pricing could hinder large‑scale distillation efforts.
+- Badge guess: orange
+
+## Blinkenlights
+- Source article: [Project Blinkenlights](https://blinkenlights.de/en/) (Hacker News (front page))
+- Category: architectural ads
+- What it does: Transforms the windows of a building into a coordinated low‑resolution display that can show animations, messages or art across the façade.
+- Likely revenue model: Charges advertisers, event organizers or brands per campaign or per minute of screen time on the building’s façade.
+- India equivalent: none found
+- India fit note: The model relies on owners allowing remote control of thousands of individual window lights and on a culture of large‑scale façade illumination, which faces higher electricity costs, stricter building regulations and less prevalence of glass‑curtain‑wall towers in many Indian cities.
+- Badge guess: black
+
+## ResolveHQ
+- Source article: [Show HN: ResolveHQ – A Helpdesk Built on Cloudflare Workers, D1, R2 and Queues](https://github.com/mirza-rizvi/ResolveHQ) (Hacker News (front page))
+- Category: helpdesk
+- What it does: ResolveHQ is a cloud‑native helpdesk platform built on Cloudflare Workers, D1, R2 and Queues, offering ticket management and customer support tools.
+- Likely revenue model: Probably a SaaS subscription model with tiered pricing for seats, storage, and premium features, possibly supplemented by managed‑hosting services.
+- India equivalent: Freshdesk
+- India fit note: The product relies on Cloudflare's global edge network, which is available in India, but widespread adoption may be limited by Indian SMBs' preference for locally hosted or integrated suites like Freshworks and Zoho.
+- Badge guess: orange
+
+## Txt
+- Source article: [Txt: A fast, keyboard-driven terminal text editor for engineers](https://txt.hellman.io/) (Hacker News (front page))
+- Category: developer-tools
+- What it does: Txt is a fast, keyboard‑driven terminal text editor designed for engineers who work heavily in the command line.
+- Likely revenue model: It is likely offered as an open‑source tool with optional paid support, licensing for enterprise features, or a donation‑based model.
+- India equivalent: none found
+- India fit note: The product relies on engineers being comfortable with terminal‑based workflows, which is common among Indian developers, so adoption would not face major cultural or infrastructure barriers.
+- Badge guess: black
+
+## Litelm
+- Source article: [Litelm: LiteLLM Without the Bloat](https://github.com/kennethwolters/litelm) (Hacker News (front page))
+- Category: ai-infra
+- What it does: Litelm is a lightweight, open‑source wrapper for large language model APIs that simplifies integration, request handling, and cost tracking without the heavy dependencies of larger frameworks.
+- Likely revenue model: The project is likely free/open‑source with revenue generated through paid enterprise support, consulting, or a hosted SaaS version offering advanced monitoring and analytics.
+- India equivalent: none found
+- India fit note: Success depends on developer adoption and reliable, low‑latency internet to call external LLM APIs, which are available in India but can be cost‑prohibitive for large‑scale usage.
+- Badge guess: black
+
