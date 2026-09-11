@@ -376,3 +376,25 @@
 | Acoustic Fire Extinguisher | fire-safety | black | 2026-09-11 | none found |
 | YuE2 | ai-music | orange | 2026-09-11 | Raga AI |
 | Runway | ai-production | black | 2026-09-11 | none found |
+| TIM PG | privacy-tech | black | 2026-09-11 | none found |
+| Anysite | lead-gen | orange | 2026-09-11 | LeadSquared |
+| Spaces | ai-collaboration | black | 2026-09-11 | none found |
+| Wisry | ad-tech | black | 2026-09-11 | none found |
+| Cadenya | ai-agent | black | 2026-09-11 | none found |
+| Chat Recall | ai-productivity | black | 2026-09-11 | none found |
+| Loqua | ai-assistant | black | 2026-09-11 | none found |
+| Cline | ai-tools | black | 2026-09-11 | none found |
+| Jackalope | ai-devtools | black | 2026-09-11 | none found |
+| Raycast | productivity | black | 2026-09-11 | none found |
+| easyspecs.ai | ai-docs | black | 2026-09-11 | none found |
+| sizeless | spatial-ai | black | 2026-09-11 | none found |
+| ChatHop | cross-messaging | black | 2026-09-11 | none found |
+| Sliick | design-tools | orange | 2026-09-11 | Pixelied |
+| Devin | voice-commerce | black | 2026-09-11 | none found |
+| LiveGrid | live-streaming | black | 2026-09-11 | none found |
+| Moji | markdown-viewer | black | 2026-09-11 | none found |
+| Glyph Immersive | design-tool | black | 2026-09-11 | none found |
+| Accordio | legal-tech | black | 2026-09-11 | none found |
+| Design Studio by Monday Merch | custom-merch | orange | 2026-09-11 | Printrove |
+| Radicle | decentralized-vcs | black | 2026-09-11 | none found |
+| Namma Yatri | driver-commerce | black | 2026-09-11 | none found |
