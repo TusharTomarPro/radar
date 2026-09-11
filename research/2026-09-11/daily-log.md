@@ -259,3 +259,48 @@
 - India fit note: The model relies on employers actively seeking talent through a digital marketplace and on AI‑driven matching, which may face slower adoption in India due to fragmented hiring practices and lower penetration of advanced AI recruiting tools in the healthcare sector.
 - Badge guess: orange
 
+## Snap
+- Source article: [Λ Snap – An inviting programming language for kids and adults for CS study](https://snap.berkeley.edu/) (Hacker News (front page))
+- Category: edtech
+- What it does: Snap is a block‑based visual programming language that lets kids and adults create interactive projects, teaching computational thinking and programming concepts.
+- Likely revenue model: Free to use, supported by university grants, donations, and occasional paid workshops or premium educational licensing.
+- India equivalent: none found
+- India fit note: Success depends on reliable internet access and integration into school curricula; while interest in coding is rising in India, the necessary infrastructure and localized teaching resources are still unevenly distributed.
+- Badge guess: black
+
+## UnsloP
+- Source article: [Show HN: Hacker News, Without AI](https://www.unslop.news/) (Hacker News (front page))
+- Category: curated-news
+- What it does: Runs a Hacker News‑style discussion platform that only surfaces human‑written articles, explicitly filtering out AI‑generated content.
+- Likely revenue model: Relies on a subscription or donation‑based model, possibly offering premium ad‑free or early‑access features.
+- India equivalent: none found
+- India fit note: The model depends on a community of technically inclined readers who actively upvote and comment, which may be less prevalent in India where mobile‑first, short‑form news apps dominate.
+- Badge guess: black
+
+## gPTY
+- Source article: [Show HN: Godot and Rust based multiplexer (terminal panes and more)](https://github.com/godot-pty/gpty) (Hacker News (front page))
+- Category: dev-tools
+- What it does: gPTY is a Godot and Rust based terminal multiplexer that lets users spawn multiple PTYs and arrange them in tiled grids, with added graphics, media panes and AI‑agent orchestration features.
+- Likely revenue model: It is an open‑source project likely funded through donations, sponsorships, or paid support/enterprise licensing.
+- India equivalent: none found
+- India fit note: The tool depends on a GPU‑capable environment to run Godot and on developers being comfortable with Rust, which may limit adoption in India where such tooling and hardware are less ubiquitous.
+- Badge guess: black
+
+## Glacier Extinction Explorer
+- Source article: [Global Glacier Extinction Explorer](https://glacierextinction.com) (Hacker News (front page))
+- Category: climate-tech
+- What it does: Provides an interactive, map‑based platform that visualises real‑time and historical glacier retreat worldwide using satellite imagery and climate data. It offers analytics and alerts for researchers, NGOs, and policymakers concerned with climate impact.
+- Likely revenue model: Subscription‑based licensing for premium data feeds and API access, plus custom analytics services for enterprises and government agencies.
+- India equivalent: none found
+- India fit note: The service relies on high‑resolution satellite data and a user base that regularly integrates climate analytics into decision‑making, which is less mature in India outside of research institutions, potentially limiting immediate market adoption.
+- Badge guess: black
+
+## Rune
+- Source article: [Rune is now open source](https://rune.build/blog/rune-is-now-open-source) (Hacker News (front page))
+- Category: low-code
+- What it does: Rune is a low‑code platform that lets teams visually design, build, and deploy internal tools and web applications without writing extensive code.
+- Likely revenue model: It likely charges a SaaS subscription for hosted deployments, premium features, and enterprise support while keeping the core engine open source.
+- India equivalent: Appsmith
+- India fit note: The model relies on widespread corporate adoption of low‑code tools and reliable cloud connectivity, both of which are present in India’s growing enterprise tech ecosystem.
+- Badge guess: orange
+

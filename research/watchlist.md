@@ -402,3 +402,8 @@
 | Foldelight | desktop-ui | black | 2026-09-11 | none found |
 | Moonshot | ai-agent | black | 2026-09-11 | none found |
 | Incredible Health | healthcare-recruiting | orange | 2026-09-11 | Naukri Healthcare |
+| Snap | edtech | black | 2026-09-11 | none found |
+| UnsloP | curated-news | black | 2026-09-11 | none found |
+| gPTY | dev-tools | black | 2026-09-11 | none found |
+| Glacier Extinction Explorer | climate-tech | black | 2026-09-11 | none found |
+| Rune | low-code | orange | 2026-09-11 | Appsmith |
