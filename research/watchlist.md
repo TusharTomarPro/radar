@@ -414,3 +414,23 @@
 | Litelm | ai-infra | black | 2026-09-11 | none found |
 | Graphify | dev-tools | black | 2026-09-12 | none found |
 | QueryBrew | sql-optimizer | black | 2026-09-12 | none found |
+| QApilot | qa-automation | black | 2026-09-12 | none found |
+| Relic | productivity | black | 2026-09-12 | none found |
+| Work Life Panda | productivity | orange | 2026-09-12 | Zoho (Zoho Projects/Zoho Calendar with Zia AI) |
+| LinkFlick | peripheral-management | black | 2026-09-12 | none found |
+| Kabza | location-gaming | black | 2026-09-12 | none found |
+| Cortex | dev-tools | black | 2026-09-12 | none found |
+| Marked Share | markdown-editor | black | 2026-09-12 | none found |
+| Calerto | productivity | black | 2026-09-12 | none found |
+| Pascal’s Pager | dev-tools | black | 2026-09-12 | none found |
+| VoxelWall | creative-tech | black | 2026-09-12 | none found |
+| DockFix | desktop-customization | black | 2026-09-12 | none found |
+| Wokyintosh | desktop-utility | black | 2026-09-12 | none found |
+| Captain Kill Switch | productivity | black | 2026-09-12 | none found |
+| ABrush | ai-art | black | 2026-09-12 | none found |
+| FrameSketch | animation-software | orange | 2026-09-12 | LottieFiles |
+| Youkti | sales-intelligence | orange | 2026-09-12 | LeadSquared |
+| Stackness | dev-social | black | 2026-09-12 | none found |
+| Sudari | desktop-pet | black | 2026-09-12 | none found |
+| Usenet Rewind | archive-search | black | 2026-09-12 | none found |
+| Xflow | cross-border fintech | orange | 2026-09-12 | Razorpay |
