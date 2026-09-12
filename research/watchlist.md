@@ -434,3 +434,4 @@
 | Sudari | desktop-pet | black | 2026-09-12 | none found |
 | Usenet Rewind | archive-search | black | 2026-09-12 | none found |
 | Xflow | cross-border fintech | orange | 2026-09-12 | Razorpay |
+| High5Apps | geo-mapping | black | 2026-09-12 | none found |

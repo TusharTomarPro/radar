@@ -196,3 +196,12 @@
 - India fit note: The model relies on India's mature UPI and digital banking ecosystem, which is well‑established, but requires strict RBI compliance and KYC processes that may add friction for foreign firms.
 - Badge guess: orange
 
+## High5Apps
+- Source article: [Make Your First Edit to OpenStreetMap in the Next 15 Minutes](https://high5apps.github.io/josm-plugin-website-wizard/) (Hacker News (front page))
+- Category: geo-mapping
+- What it does: Provides a guided wizard that helps new users make their first edit to OpenStreetMap within 15 minutes using a JOSM plugin.
+- Likely revenue model: Free open‑source tool monetized through donations, sponsorships, or consulting services for mapping projects.
+- India equivalent: none found
+- India fit note: Success relies on desktop‑based JOSM usage and a community of volunteer mappers; limited desktop adoption and lower awareness of OSM editing tools in India could hinder rapid uptake.
+- Badge guess: black
+
