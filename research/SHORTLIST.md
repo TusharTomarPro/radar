@@ -1,7 +1,7 @@
 # Top 20 Shortlist
-_Generated 2026-09-11 06:45 UTC -- auto-updated after every deep-research pass._
+_Generated 2026-09-12 06:38 UTC -- auto-updated after every deep-research pass._
 
-Ranked by risk score (lower = more promising) out of 103 companies deep-researched so far, 362 tracked total.
+Ranked by risk score (lower = more promising) out of 113 companies deep-researched so far, 400 tracked total.
 
 ---
 
@@ -311,7 +311,43 @@ Ranked by risk score (lower = more promising) out of 103 companies deep-research
 
 ---
 
-## 18. Clockwork -- MODERATE RISK (4/10)
+## 18. Niyo -- LOW RISK (3/10)
+
+**Category:** travel-fintech  
+**Badge:** black  
+**Competitor status:** dead  
+**Regulatory:** moderate  
+**Capital intensity:** low  
+**Known numbers:** no public numbers found  
+**India cost estimate:** ₹8-15 lakh for an MVP, cloud/API costs and a small team of 2-4 people for 6-12 months  
+
+**AI reasoning:** Niyo shut down in 2016 due to over‑expansion and financial mismanagement, showing a dead competitor with no current presence. The travel‑fintech model faces moderate regulatory hurdles under RBI’s Payment and Settlement Systems Act and FEMA, but the capital‑intensive nature is low, allowing a lean MVP to be built for roughly ₹8‑15 lakh, keeping overall risk relatively low.
+
+**Your notes:** _(none added yet -- click through from the dashboard to add your take)_
+
+[Full research file](companies/niyo/2026-09-05-research.md) -- [Add notes](companies/niyo/your-notes.md)
+
+---
+
+## 19. Entrackr -- LOW RISK (3/10)
+
+**Category:** media-analytics  
+**Badge:** black  
+**Competitor status:** no-real-competitor-found  
+**Regulatory:** moderate – Indian Personal Data Protection Bill (PDPB) and data‑localisation rules require user‑level data to be stored and processed within India, adding compliance overhead.  
+**Capital intensity:** low – Entrackr is a SaaS‑only product with no physical inventory or delivery fleet, so it can be built asset‑light and reach profitability on modest capital.  
+**Known numbers:** $1.5 B valuation (2026) and projected 10 million monthly active users (2026). No public revenue or funding figures were found.  
+**India cost estimate:** ₹80‑120 lakh for the first 6‑12 months (cloud & API usage ~₹10‑15 lakh, 3‑4 engineers @ ₹15‑20 lakh each, product manager @ ₹20 lakh, minimal ops & legal ~₹10 lakh).  
+
+**AI reasoning:** The market shows no direct competitor, which is a strength, and the business is asset‑light, keeping capital needs low. The main concern is moderate regulatory risk around data localisation under the PDPB, but overall the entry barriers are modest, leading to a relatively low risk rating.
+
+**Your notes:** _(none added yet -- click through from the dashboard to add your take)_
+
+[Full research file](companies/entrackr/2026-09-05-research.md) -- [Add notes](companies/entrackr/your-notes.md)
+
+---
+
+## 20. Clockwork -- MODERATE RISK (4/10)
 
 **Category:** ai-agent  
 **Badge:** black  
@@ -326,41 +362,5 @@ Ranked by risk score (lower = more promising) out of 103 companies deep-research
 **Your notes:** _(none added yet -- click through from the dashboard to add your take)_
 
 [Full research file](companies/clockwork/2026-09-05-research.md) -- [Add notes](companies/clockwork/your-notes.md)
-
----
-
-## 19. Offline JS Playground -- MODERATE RISK (4/10)
-
-**Category:** dev-tools  
-**Badge:** orange  
-**Competitor status:** surviving  
-**Regulatory:** none  
-**Capital intensity:** low  
-**Known numbers:** unknown  
-**India cost estimate:** unknown  
-
-**AI reasoning:** LiveCodes, a global offline JavaScript playground, is actively serving users and offers full offline PWA support, meaning a direct competitor already exists. The product is pure software with no data‑intensive or financial services components, so Indian regulations (FDI, RBI, data‑localisation, etc.) pose essentially no barrier. Development and hosting costs are modest, making the model bootstrappable. The presence of an established competitor raises market risk, but the low capital and regulatory exposure keep the overall risk moderate (score 4).
-
-**Your notes:** _(none added yet -- click through from the dashboard to add your take)_
-
-[Full research file](companies/offline-js-playground/2026-09-05-research.md) -- [Add notes](companies/offline-js-playground/your-notes.md)
-
----
-
-## 20. WeatherNext -- MODERATE RISK (4/10)
-
-**Category:** weather-ai  
-**Badge:** orange  
-**Competitor status:** surviving  
-**Regulatory:** none  
-**Capital intensity:** low  
-**Known numbers:** unknown  
-**India cost estimate:** unknown  
-
-**AI reasoning:** Skymet Weather Services is an active, funded competitor, indicating a non‑zero market barrier, but weather forecasting is a data‑light, software‑only service with no specific Indian licensing or data‑localization hurdles. The business can be built asset‑light, keeping capital needs low, so overall risk is moderate rather than high.
-
-**Your notes:** _(none added yet -- click through from the dashboard to add your take)_
-
-[Full research file](companies/weathernext/2026-09-05-research.md) -- [Add notes](companies/weathernext/your-notes.md)
 
 ---
