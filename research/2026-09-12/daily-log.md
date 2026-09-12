@@ -223,3 +223,21 @@
 - India fit note: The solution assumes widespread use of Signal and a need for forensic verification, which is limited in India where WhatsApp dominates messaging; additionally, enterprises may lack the internal security maturity to adopt such specialized tooling.
 - Badge guess: orange
 
+## Specific
+- Source article: [Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases](https://withspecific.com/benchmarks/real-swe) (Hacker News (front page))
+- Category: ai-code
+- What it does: Provides a benchmark suite that evaluates AI code‑generation models on private, real‑world enterprise codebases, offering metrics and insights for model performance in production settings.
+- Likely revenue model: Charges enterprises and AI vendors subscription or licensing fees for access to the benchmark data, evaluation platform, and related consulting services.
+- India equivalent: none found
+- India fit note: The model relies on access to large, proprietary corporate codebases and strict data‑privacy agreements, which are less common in India where many firms keep code in-house and may be reluctant to share it for external benchmarking.
+- Badge guess: black
+
+## Cubacadabra
+- Source article: [The Magic Behind Cubacadabra](https://andrewarrow.dev/2026/moon/2/day/19/the-magic-behind-cubacadabra/) (Hacker News (front page))
+- Category: 3d-visualization
+- What it does: Cubacadabra is an AI‑powered platform that turns 2‑D product photos into interactive 3‑D models that can be embedded on e‑commerce sites or used in AR experiences. Users upload images and receive ready‑to‑use 3‑D assets with minimal manual effort.
+- Likely revenue model: Subscription‑based SaaS with tiered pricing per number of generated models or API calls, plus optional enterprise licensing for bulk processing.
+- India equivalent: none found
+- India fit note: The service relies on high‑speed broadband for uploading images and on cloud GPU compute for AI rendering, which may be less accessible in tier‑2/3 Indian markets, limiting rapid adoption outside major metros.
+- Badge guess: black
+
