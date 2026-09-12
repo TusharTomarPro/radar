@@ -412,3 +412,5 @@
 | ResolveHQ | helpdesk | orange | 2026-09-11 | Freshdesk |
 | Txt | developer-tools | black | 2026-09-11 | none found |
 | Litelm | ai-infra | black | 2026-09-11 | none found |
+| Graphify | dev-tools | black | 2026-09-12 | none found |
+| QueryBrew | sql-optimizer | black | 2026-09-12 | none found |
