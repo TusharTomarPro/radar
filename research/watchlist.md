@@ -435,3 +435,5 @@
 | Usenet Rewind | archive-search | black | 2026-09-12 | none found |
 | Xflow | cross-border fintech | orange | 2026-09-12 | Razorpay |
 | High5Apps | geo-mapping | black | 2026-09-12 | none found |
+| BuildProf | dev-tools | black | 2026-09-12 | none found |
+| Trail of Bits | cybersecurity | orange | 2026-09-12 | Safe Security |

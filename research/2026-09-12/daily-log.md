@@ -205,3 +205,21 @@
 - India fit note: Success relies on desktop‑based JOSM usage and a community of volunteer mappers; limited desktop adoption and lower awareness of OSM editing tools in India could hinder rapid uptake.
 - Badge guess: black
 
+## BuildProf
+- Source article: [I made a build visualizer to understand Bun's compile times](https://lalitm.com/post/buildprof/) (Hacker News (front page))
+- Category: dev-tools
+- What it does: A visualizer that breaks down Bun's compile times by module and phase, helping developers pinpoint slow parts of the build process.
+- Likely revenue model: Likely free/open‑source with possible revenue from sponsorships, donations, or consulting services.
+- India equivalent: none found
+- India fit note: The tool relies on the Bun JavaScript runtime, which has limited adoption in India, and on developers integrating the visualizer into their CI pipelines—a behavior not yet common locally.
+- Badge guess: black
+
+## Trail of Bits
+- Source article: [How Trail of Bits helps verify the integrity of Signal chats](https://blog.trailofbits.com/2026/08/11/how-trail-of-bits-helps-verify-the-integrity-of-your-signal-chats/) (Hacker News (front page))
+- Category: cybersecurity
+- What it does: Provides cryptographic tools and consulting to verify that Signal chat logs have not been tampered with, using integrity proofs and forensic analysis.
+- Likely revenue model: Charges enterprises and developers for consulting services, custom tooling, and subscription licenses to its verification software.
+- India equivalent: Safe Security
+- India fit note: The solution assumes widespread use of Signal and a need for forensic verification, which is limited in India where WhatsApp dominates messaging; additionally, enterprises may lack the internal security maturity to adopt such specialized tooling.
+- Badge guess: orange
+
