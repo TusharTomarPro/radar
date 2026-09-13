@@ -187,3 +187,12 @@
 - India fit note: The model relies heavily on digital influencer marketing and fast‑shipping logistics, both of which are well‑established in India, but success may depend on high internet penetration and a consumer base comfortable with buying cosmetics online.
 - Badge guess: orange
 
+## Fable
+- Source article: [Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher](https://www.vals.ai/blogs/fable-solves-cyphral-distich) (Hacker News (front page))
+- Category: ai-cryptanalysis
+- What it does: Fable 5.1 is an AI-powered tool that automatically decodes historic ciphers, demonstrated by cracking the 370‑year‑old Cyphral Distich. It combines language models with pattern‑recognition algorithms to solve complex substitution puzzles.
+- Likely revenue model: The company likely sells a SaaS subscription or per‑project licensing to museums, academic institutions, and security firms that need automated cryptanalysis services.
+- India equivalent: none found
+- India fit note: The service relies on a niche market of historical manuscript research and high‑end cryptographic expertise, which is limited in India and depends on access to rare archives and specialized scholars, making direct adoption challenging.
+- Badge guess: black
+
