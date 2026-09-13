@@ -442,3 +442,18 @@
 | Interim Computer Museum | digital-museum | black | 2026-09-13 | none found |
 | AgentsDock | ai-ide | black | 2026-09-13 | none found |
 | P(doom) | dev-tools | black | 2026-09-13 | none found |
+| Kirokune | incident-management | black | 2026-09-13 | none found |
+| Neopress | ai-website-builder | black | 2026-09-13 | none found |
+| Epilude | note-taking | black | 2026-09-13 | none found |
+| GhostWriter | ai-writer | black | 2026-09-13 | none found |
+| ScreenCursor | screen-recording | black | 2026-09-13 | none found |
+| DemoTV | demo-platform | black | 2026-09-13 | none found |
+| Resurf | personal-productivity | black | 2026-09-13 | none found |
+| Clipwise | productivity | black | 2026-09-13 | none found |
+| Perplexity AI | ai-assistant | black | 2026-09-13 | none found |
+| Visiby | ai-seo | black | 2026-09-13 | none found |
+| Cognition | ai-coding | black | 2026-09-13 | none found |
+| SHIUI | ui-kit | black | 2026-09-13 | none found |
+| Bird Buddy | iot | black | 2026-09-13 | none found |
+| VolcanoPredict | geo-analytics | black | 2026-09-13 | none found |
+| GPUComputePay | ai-agent | black | 2026-09-13 | none found |
