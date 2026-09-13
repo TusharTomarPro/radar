@@ -457,3 +457,6 @@
 | Bird Buddy | iot | black | 2026-09-13 | none found |
 | VolcanoPredict | geo-analytics | black | 2026-09-13 | none found |
 | GPUComputePay | ai-agent | black | 2026-09-13 | none found |
+| Cpak | app-packaging | black | 2026-09-13 | none found |
+| CUDA-for-AMD-Windows | dev-tools | black | 2026-09-13 | none found |
+| Peep Beauty | beauty-tech | orange | 2026-09-13 | Mamaearth |
