@@ -439,3 +439,6 @@
 | Trail of Bits | cybersecurity | orange | 2026-09-12 | Safe Security |
 | Specific | ai-code | black | 2026-09-12 | none found |
 | Cubacadabra | 3d-visualization | black | 2026-09-12 | none found |
+| Interim Computer Museum | digital-museum | black | 2026-09-13 | none found |
+| AgentsDock | ai-ide | black | 2026-09-13 | none found |
+| P(doom) | dev-tools | black | 2026-09-13 | none found |
