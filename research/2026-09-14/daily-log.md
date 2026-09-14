@@ -214,3 +214,75 @@
 - India fit note: The model relies on high internet penetration, fast logistics and a consumer habit of buying fashion online, which is strong in Indian metros but less uniform in tier‑2/3 cities; AI‑driven trend forecasting may need more localized data to match India's diverse style preferences.
 - Badge guess: orange
 
+## Fathom
+- Source article: [Superhuman acquires YC-backed notetaker Fathom as productivity platforms push for agentic work](https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work/) (TechCrunch)
+- Category: ai-notetaker
+- What it does: Fathom automatically records, transcribes, and summarizes meetings, letting users capture key takeaways without manual note‑taking.
+- Likely revenue model: A freemium model with paid tiers for higher transcription minutes, advanced AI summarization, and team/enterprise collaboration features.
+- India equivalent: Avoma
+- India fit note: Success depends on reliable broadband for real‑time transcription and a user base comfortable with English‑centric AI tools; India's multilingual environment and variable internet quality could limit adoption outside major metros.
+- Badge guess: orange
+
+## Vinyl Bar
+- Source article: [A Vinyl Bar in Shibuya is a startup offering fun music apps without any AI prompting](https://techcrunch.com/2026/09/14/a-vinyl-bar-in-shibuya-is-a-startup-offering-fun-music-apps-without-any-ai-prompting/) (TechCrunch)
+- Category: music-tech
+- What it does: Offers experimental music apps that let users create, remix, and share short "singles" without any AI prompting.
+- Likely revenue model: Earns money through subscription tiers and in‑app purchases for premium tracks, tools, and exclusive content.
+- India equivalent: none found
+- India fit note: The model relies on a culture of casual, user‑generated music creation and seamless licensing for remixable tracks, which are less common in India; high smartphone penetration helps, but consumer willingness to pay for niche music‑making apps may be limited.
+- Badge guess: black
+
+## Pion
+- Source article: [Pion, an agent designed to run any company autonomously](https://andonlabs.com/blog/why-we-built-pion) (Hacker News (front page))
+- Category: ai-agent
+- What it does: Pion is an autonomous AI agent that can run core business functions—hiring, finance, product development, and operations—without human intervention, acting as a virtual CEO for a company.
+- Likely revenue model: Enterprise SaaS subscription with tiered pricing based on the number of autonomous processes and data volume, possibly supplemented by usage‑based fees for high‑volume transactions.
+- India equivalent: none found
+- India fit note: The model assumes widespread trust in fully autonomous AI decision‑making and seamless integration with existing ERP, payroll, and compliance systems, which may be limited in India due to regulatory scrutiny, data‑privacy concerns, and slower adoption of AI‑only management structures.
+- Badge guess: black
+
+## Neobrutalism
+- Source article: [Show HN: Neobrutalism.dev – Just added Base UI support and added new color theme](https://www.neobrutalism.dev/) (Hacker News (front page))
+- Category: ui-library
+- What it does: Neobrutalism.dev offers a React component library styled in a neobrutalist aesthetic, now with Base UI integration and customizable color themes.
+- Likely revenue model: Likely a freemium model with free open‑source components and paid premium themes, enterprise support, or licensing for commercial use.
+- India equivalent: none found
+- India fit note: The product relies on a niche design trend and a developer community familiar with React and modern UI frameworks, which may limit immediate adoption in India where more conventional design systems dominate.
+- Badge guess: black
+
+## Fly.exe
+- Source article: [Show HN: Fly.exe – An EON systems like virtual fruit fly uploaded to computer](https://github.com/Ibtisam-Mohammad/Fly.exe) (Hacker News (front page))
+- Category: bio-simulation
+- What it does: Fly.exe is an open‑source project that recreates the neural circuitry of a fruit fly (Drosophila) as a virtual model that runs on a computer.
+- Likely revenue model: The project is likely free and monetised through donations, grants, or paid consulting services for custom simulations.
+- India equivalent: none found
+- India fit note: The tool relies on specialized neuroscience expertise and high‑performance computing resources that are limited to research institutions, which may restrict widespread adoption in India.
+- Badge guess: black
+
+## Transitions.dev
+- Source article: [Transitions.dev: UI transitions for AI agents](https://transitions.dev/) (Hacker News (front page))
+- Category: ai-agent
+- What it does: Provides a library of ready‑made UI transition components designed to make interactions with AI agents feel smooth and natural. Developers can drop these transitions into their chat‑bot or agent front‑ends with minimal code.
+- Likely revenue model: Subscription‑based SaaS licensing (tiered plans for individual developers, startups, and enterprises) plus possible per‑seat or usage fees.
+- India equivalent: none found
+- India fit note: The product assumes widespread integration of AI agents in consumer/web apps and a dev culture that values polished micro‑interactions; while Indian developers have the technical skill, the market for AI‑agent‑centric UI kits is still nascent, so adoption may be slower.
+- Badge guess: black
+
+## Adversarial Fashion
+- Source article: [Adversarial Fashion Makes a Statement on AI Panopticon](https://spectrum.ieee.org/adversarial-fashion) (Hacker News (front page))
+- Category: privacy-tech
+- What it does: Designs and sells clothing with adversarial patterns that deliberately confuse facial‑recognition and other AI surveillance systems. The apparel turns everyday wear into a privacy‑preserving statement.
+- Likely revenue model: Direct‑to‑consumer sales of premium apparel, possibly supplemented by licensing the pattern technology to other fashion brands.
+- India equivalent: none found
+- India fit note: The model relies on a high density of AI‑driven surveillance and a consumer base that values privacy‑focused fashion, both of which are less prevalent in India. Manufacturing such specialized patterns at scale may also face cost and supply‑chain challenges.
+- Badge guess: black
+
+## Pelican SVG
+- Source article: [Show HN: Pelican-bicycle alternatives](https://gally.net/temp/20260914pelican-alternatives/index.html) (Hacker News (front page))
+- Category: ai-graphics
+- What it does: A web service that uses large language models to generate SVG vector graphics from natural‑language prompts.
+- Likely revenue model: Charges users per image generated or via a subscription tier for higher‑volume access to the underlying LLM APIs.
+- India equivalent: none found
+- India fit note: The model relies on high‑quality LLM APIs and fast internet bandwidth for real‑time SVG generation, which may be less accessible in regions of India with limited connectivity or lower willingness to pay for niche AI‑generated vector art.
+- Badge guess: black
+

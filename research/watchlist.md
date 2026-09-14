@@ -485,3 +485,11 @@
 | screensize.net | web-analytics | black | 2026-09-14 | none found |
 | ChatGPT | ai-fiction | black | 2026-09-14 | none found |
 | UniqYou | fashion-tech | orange | 2026-09-14 | Fashalot |
+| Fathom | ai-notetaker | orange | 2026-09-14 | Avoma |
+| Vinyl Bar | music-tech | black | 2026-09-14 | none found |
+| Pion | ai-agent | black | 2026-09-14 | none found |
+| Neobrutalism | ui-library | black | 2026-09-14 | none found |
+| Fly.exe | bio-simulation | black | 2026-09-14 | none found |
+| Transitions.dev | ai-agent | black | 2026-09-14 | none found |
+| Adversarial Fashion | privacy-tech | black | 2026-09-14 | none found |
+| Pelican SVG | ai-graphics | black | 2026-09-14 | none found |
