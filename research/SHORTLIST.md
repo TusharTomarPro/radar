@@ -1,7 +1,7 @@
 # Top 20 Shortlist
-_Generated 2026-09-13 06:53 UTC -- auto-updated after every deep-research pass._
+_Generated 2026-09-14 07:18 UTC -- auto-updated after every deep-research pass._
 
-Ranked by risk score (lower = more promising) out of 123 companies deep-researched so far, 428 tracked total.
+Ranked by risk score (lower = more promising) out of 133 companies deep-researched so far, 449 tracked total.
 
 ---
 
@@ -347,20 +347,20 @@ Ranked by risk score (lower = more promising) out of 123 companies deep-research
 
 ---
 
-## 20. Clockwork -- MODERATE RISK (4/10)
+## 20. AI Literacy Platform -- LOW RISK (3/10)
 
-**Category:** ai-agent  
+**Category:** edtech  
 **Badge:** black  
 **Competitor status:** no-real-competitor-found  
-**Regulatory:** unknown  
-**Capital intensity:** unknown  
-**Known numbers:** unknown  
-**India cost estimate:** unknown  
+**Regulatory:** moderate – Indian data‑localisation rules under the draft Personal Data Protection Bill (and sector‑specific guidelines for online education from the Ministry of Education) impose compliance costs.  
+**Capital intensity:** low – the model is software‑only, asset‑light and can reach profitability with modest cloud and staffing spend.  
+**Known numbers:** no public numbers found  
+**India cost estimate:** ₹12‑20 lakh for 6‑12 months (covers cloud/API usage, a core team of 3‑4 engineers/educators, basic content creation and minimal legal/compliance spend; no paid user‑acquisition budget).  
 
-**AI reasoning:** Search evidence found no relevant AI-agent competitors for Clockwork in India; the competitors returned (Tezign, Vimeo, OpusClip, Accenture, Deloitte) are design/video tools or consulting firms, not AI agents. The failed startup data (Log9 Materials, GenWise, etc.) identified general Indian startup closures but none connected to AI agents, suggesting the gap is structural rather than temporal. Risk is moderate because the absence of competitors could indicate genuine market gaps or simply that Indian enterprises aren't ready for AI agent adoption yet.
+**AI reasoning:** With no clear incumbent competitor, the market appears open, and the business is low‑capital and asset‑light, reducing financial risk. Moderate regulatory exposure around data localisation and education licensing adds some uncertainty, but not enough to outweigh the upside, resulting in a relatively low overall risk score.
 
 **Your notes:** _(none added yet -- click through from the dashboard to add your take)_
 
-[Full research file](companies/clockwork/2026-09-05-research.md) -- [Add notes](companies/clockwork/your-notes.md)
+[Full research file](companies/ai-literacy-platform/2026-09-05-research.md) -- [Add notes](companies/ai-literacy-platform/your-notes.md)
 
 ---
