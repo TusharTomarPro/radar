@@ -463,3 +463,25 @@
 | Fable | ai-cryptanalysis | black | 2026-09-13 | none found |
 | Is It Greg? | browser-extension | black | 2026-09-14 | none found |
 | PredictionSocial | prediction-market | black | 2026-09-14 | none found |
+| Hello Inbox | email-deliverability | orange | 2026-09-14 | Mailmodo |
+| Image to ASCII | creative-tools | black | 2026-09-14 | none found |
+| Slashy | ai-assistant | black | 2026-09-14 | none found |
+| Nimble | ai-agent | black | 2026-09-14 | none found |
+| Naoma | sales-automation | orange | 2026-09-14 | Vymo |
+| Marqly | bookmark-ai | black | 2026-09-14 | none found |
+| MemoryPet | browser-extension | black | 2026-09-14 | none found |
+| Juggler | visual-ai | black | 2026-09-14 | none found |
+| AppDesigns | design-tool | black | 2026-09-14 | none found |
+| OzBrain | knowledge-management | black | 2026-09-14 | none found |
+| TryCase | dev-tools | black | 2026-09-14 | none found |
+| Aside | ai-browser | black | 2026-09-14 | none found |
+| Deplo | devops | black | 2026-09-14 | none found |
+| Elva | api-tools | black | 2026-09-14 | none found |
+| Afterglow | macOS-utility | black | 2026-09-14 | none found |
+| Oats | meeting-notetaker | orange | 2026-09-14 | Avoma |
+| LLMagnet | ai-seo | black | 2026-09-14 | none found |
+| Frank-386 | retro-computing | black | 2026-09-14 | none found |
+| EuroBirdPortal | wildlife-tech | orange | 2026-09-14 | eBird India (part of the global eBird platform) |
+| screensize.net | web-analytics | black | 2026-09-14 | none found |
+| ChatGPT | ai-fiction | black | 2026-09-14 | none found |
+| UniqYou | fashion-tech | orange | 2026-09-14 | Fashalot |
