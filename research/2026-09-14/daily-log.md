@@ -286,3 +286,30 @@
 - India fit note: The model relies on high‑quality LLM APIs and fast internet bandwidth for real‑time SVG generation, which may be less accessible in regions of India with limited connectivity or lower willingness to pay for niche AI‑generated vector art.
 - Badge guess: black
 
+## Entelligence AI
+- Source article: [GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?](https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review) (Hacker News (front page))
+- Category: ai-code-review
+- What it does: Offers AI‑powered code review using large language models (GPT‑5.6 Luna and GPT‑6 Astra) with a low per‑request price of about $1.20. The service analyzes code for bugs, style issues, and security flaws.
+- Likely revenue model: Pay‑per‑use (per‑token or per‑review) pricing, possibly with tiered subscription plans for higher volume users.
+- India equivalent: none found
+- India fit note: The model relies on high‑speed internet and developers accustomed to cloud‑based AI tools; while Indian developers are price‑sensitive, the low cost could drive adoption, but limited broadband in some regions may hinder real‑time usage.
+- Badge guess: black
+
+## Nari Labs
+- Source article: [Show HN: Nari Qwen3-TTS and Qwen3-ASR – High accuracy, low latency and cost](https://narilabs.com/blog/nari-labs-leads-coval-voice-ai-benchmarks/) (Hacker News (front page))
+- Category: speech-ai
+- What it does: Provides open-source, ultra‑low‑latency inference engines for Qwen3‑TTS (text‑to‑speech) and Qwen3‑ASR (speech‑to‑text), offering API endpoints that are faster and cheaper than many closed‑source alternatives.
+- Likely revenue model: Charges developers and enterprises per‑request or subscription fees for API access, with optional enterprise licensing and support contracts.
+- India equivalent: Vernacular.ai
+- India fit note: India has a large voice‑first market and good broadband/mobile coverage, but widespread adoption may depend on integration with regional language support and pricing that matches local SaaS expectations.
+- Badge guess: orange
+
+## Dario
+- Source article: [Dario, Please](https://pop.rdi.sh/dario-please/) (Hacker News (front page))
+- Category: ai-assistant
+- What it does: Dario is a conversational AI platform that lets users request everyday tasks—like booking appointments, ordering food, or paying bills—through natural language prompts. It acts as a personal digital concierge that automates routine actions.
+- Likely revenue model: A subscription tier for unlimited requests plus a per‑transaction fee for premium services such as concierge bookings or third‑party integrations.
+- India equivalent: Niki.ai
+- India fit note: The model relies on high smartphone penetration and reliable mobile internet, both of which exist in urban India, but widespread adoption may be limited by multilingual support and trust in AI handling financial transactions.
+- Badge guess: orange
+

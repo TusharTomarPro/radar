@@ -493,3 +493,6 @@
 | Transitions.dev | ai-agent | black | 2026-09-14 | none found |
 | Adversarial Fashion | privacy-tech | black | 2026-09-14 | none found |
 | Pelican SVG | ai-graphics | black | 2026-09-14 | none found |
+| Entelligence AI | ai-code-review | black | 2026-09-14 | none found |
+| Nari Labs | speech-ai | orange | 2026-09-14 | Vernacular.ai |
+| Dario | ai-assistant | orange | 2026-09-14 | Niki.ai |
