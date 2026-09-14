@@ -461,3 +461,5 @@
 | CUDA-for-AMD-Windows | dev-tools | black | 2026-09-13 | none found |
 | Peep Beauty | beauty-tech | orange | 2026-09-13 | Mamaearth |
 | Fable | ai-cryptanalysis | black | 2026-09-13 | none found |
+| Is It Greg? | browser-extension | black | 2026-09-14 | none found |
+| PredictionSocial | prediction-market | black | 2026-09-14 | none found |
