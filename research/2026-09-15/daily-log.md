@@ -376,3 +376,39 @@
 - India fit note: The model relies on robust last‑mile logistics networks and high internet penetration for seamless order flow; while India has growing logistics partners, fragmented regional delivery and cash‑on‑delivery preferences may require additional adaptation.
 - Badge guess: orange
 
+## AI Contact Hotline
+- Source article: [AI agents now have a place to snitch](https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/) (TechCrunch)
+- Category: ai-ethics
+- What it does: Provides a discreet reporting channel where autonomous AI agents can flag observed policy violations or illegal activity to relevant authorities.
+- Likely revenue model: Charges AI platform providers a subscription or per‑incident fee for access to the reporting infrastructure and compliance analytics.
+- India equivalent: none found
+- India fit note: The model relies on robust legal frameworks for AI accountability and on AI agents being able to transmit sensitive data to government bodies, which are still nascent in India and may face privacy and bureaucratic hurdles.
+- Badge guess: black
+
+## WangNet
+- Source article: [WangNet – 1.8 MB, zero-dependency Numberwang adjudication in 11 languages](https://github.com/GraafHenk/numberwang) (Hacker News (front page))
+- Category: developer-tools
+- What it does: A lightweight, zero‑dependency library that adjudicates Numberwang games across 11 programming languages.
+- Likely revenue model: Open‑source project with no direct revenue; may rely on donations or sponsorships.
+- India equivalent: none found
+- India fit note: The tool targets a niche, meme‑driven game and requires developers familiar with the specific languages; there is no comparable commercial product in India and limited demand.
+- Badge guess: black
+
+## BookSlice
+- Source article: [Chop Up Your Books](https://attainablefelicity.mattkirkland.com/20260915/cut-up-your-books.html) (Hacker News (front page))
+- Category: content‑repurposing
+- What it does: BookSlice offers an AI‑driven platform that ingests full‑text books and automatically extracts, formats, and packages short, shareable excerpts for newsletters, social media, and micro‑learning apps.
+- Likely revenue model: They charge publishers and authors a subscription fee plus per‑excerpt licensing fees for commercial reuse.
+- India equivalent: none found
+- India fit note: The model relies on widespread digital publishing pipelines and high‑speed internet consumption of short‑form content, which are still emerging in many Indian tier‑2 and tier‑3 markets.
+- Badge guess: black
+
+## ZuckOff
+- Source article: [ZuckOff Is a Free App That Sees Meta Glasses Before They See You](https://www.wired.com/story/zuckoff-app-sees-meta-glasses-before-they-see-you/) (Wired)
+- Category: privacy-tech
+- What it does: A free mobile app that uses the phone’s camera to detect Meta smart glasses (e.g., Ray‑Ban Stories) on nearby people and notifies the user.
+- Likely revenue model: Freemium model with ads or a paid premium tier for advanced detection features.
+- India equivalent: none found
+- India fit note: The app relies on widespread smartphone camera usage and awareness of smart‑glass privacy concerns, which are still limited in India, and may face challenges due to lower adoption of such glasses.
+- Badge guess: black
+

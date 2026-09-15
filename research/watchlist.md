@@ -538,3 +538,7 @@
 | Modem Thing | iot | black | 2026-09-15 | none found |
 | Fugleramme | ai-art | black | 2026-09-15 | none found |
 | Stelcore | d2c-platform | orange | 2026-09-15 | Unicommerce |
+| AI Contact Hotline | ai-ethics | black | 2026-09-15 | none found |
+| WangNet | developer-tools | black | 2026-09-15 | none found |
+| BookSlice | content‑repurposing | black | 2026-09-15 | none found |
+| ZuckOff | privacy-tech | black | 2026-09-15 | none found |
