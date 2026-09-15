@@ -496,3 +496,6 @@
 | Entelligence AI | ai-code-review | black | 2026-09-14 | none found |
 | Nari Labs | speech-ai | orange | 2026-09-14 | Vernacular.ai |
 | Dario | ai-assistant | orange | 2026-09-14 | Niki.ai |
+| fcbnerd | music-tech | black | 2026-09-15 | none found |
+| dbtCharts | ai-analytics | orange | 2026-09-15 | Zoho Analytics |
+| Agentverse | ai-agent | black | 2026-09-15 | none found |
