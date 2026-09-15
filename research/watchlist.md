@@ -499,3 +499,32 @@
 | fcbnerd | music-tech | black | 2026-09-15 | none found |
 | dbtCharts | ai-analytics | orange | 2026-09-15 | Zoho Analytics |
 | Agentverse | ai-agent | black | 2026-09-15 | none found |
+| Kilo Code | mobile-ide | black | 2026-09-15 | none found |
+| Grimo AI | ai-assistant | black | 2026-09-15 | none found |
+| Buddy | ai-agent | black | 2026-09-15 | none found |
+| Father | web-monitoring | orange | 2026-09-15 | Zoho Site24x7 |
+| is.team | ai-agent | black | 2026-09-15 | none found |
+| siift | ai-analytics | orange | 2026-09-15 | Absolutdata |
+| Proofrr | creative-collaboration | black | 2026-09-15 | none found |
+| Sierra | ai-agent | orange | 2026-09-15 | Haptik |
+| Axari | security-automation | orange | 2026-09-15 | Appknox |
+| Workshopy | edtech | black | 2026-09-15 | none found |
+| Idlen | ai-assist | black | 2026-09-15 | none found |
+| jurniti | ai-agent | black | 2026-09-15 | none found |
+| Mailyte | team-email | orange | 2026-09-15 | Zoho Mail |
+| Anthropologic | market-research | orange | 2026-09-15 | Kantar IMRB |
+| Minimalist Entrepreneur Skills | education | black | 2026-09-15 | none found |
+| PortAura | system-utility | black | 2026-09-15 | none found |
+| Narrative | ai-video | orange | 2026-09-15 | InVideo |
+| Portfolio Frame | design-tool | black | 2026-09-15 | none found |
+| Tangerine | file-converter | black | 2026-09-15 | none found |
+| Voiskey | voice-typing | black | 2026-09-15 | none found |
+| Mac Duo | privacy screen | orange | 2026-09-15 | iBall |
+| tiun | ai-infra | orange | 2026-09-15 | Instamojo |
+| PeekPaste | clipboard-manager | black | 2026-09-15 | none found |
+| Thoughts for Mac | note-taking | orange | 2026-09-15 | Zoho Notebook |
+| Fifi | smart-alarm | black | 2026-09-15 | none found |
+| Kodro | edtech | black | 2026-09-15 | none found |
+| Payflip | p2p-payments | orange | 2026-09-15 | PhonePe |
+| Flow Neuroscience | digital-therapeutics | black | 2026-09-15 | none found |
+| Flam | ai-content | black | 2026-09-15 | none found |
