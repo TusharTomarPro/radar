@@ -286,3 +286,93 @@
 - India fit note: Success hinges on widespread enterprise adoption of AI‑generated interactive media and reliable high‑speed internet, which are still uneven across Indian firms, especially in tier‑2/3 cities.
 - Badge guess: black
 
+## Superpose
+- Source article: [Former TikTok execs built an app that uses AI to teach you how to pose for a photo](https://techcrunch.com/2026/09/15/former-tiktok-execs-built-an-app-that-uses-ai-to-teach-you-how-to-pose-for-a-photo/) (TechCrunch)
+- Category: ai-photo
+- What it does: Superpose analyzes a selfie or photo and generates four AI‑crafted pose suggestions, showing users how they would look in different positions before taking the shot.
+- Likely revenue model: A freemium model with a subscription or one‑time purchase for premium pose packs, higher‑resolution renders, and an ad‑free experience.
+- India equivalent: none found
+- India fit note: The app relies on high‑speed mobile data and on‑device AI processing, which may be less consistent in many Indian regions; cultural attitudes toward staged photography could also limit adoption.
+- Badge guess: black
+
+## SimpliSafe
+- Source article: [This doorbell camera lets a human security guard watch your front door](https://www.theverge.com/tech/995365/simplisafe-video-doorbell-series-2-virtual-guard-price-specs) (The Verge)
+- Category: home-security
+- What it does: SimpliSafe’s Video Doorbell Series 2 uses AI to analyze visitors and connects them to live security guards who can watch the front door and intervene if a threat is detected.
+- Likely revenue model: Revenue comes from selling the doorbell hardware and charging a monthly subscription for the AI‑plus‑human monitoring service.
+- India equivalent: QwikCams
+- India fit note: Success in India would require reliable broadband at residential entrances and consumer willingness to pay a recurring monitoring fee, which may be limited in price‑sensitive markets and in multi‑family buildings where shared entry points are common.
+- Badge guess: orange
+
+## Cartesian
+- Source article: [Cartesian – AI 3D Modeling for Design](https://www.formas.ai/cartesian) (Hacker News (front page))
+- Category: design-ai
+- What it does: Cartesian provides an AI-powered platform that generates and edits 3D models from textual prompts or sketches, streamlining the design workflow for product designers and architects.
+- Likely revenue model: A subscription‑based SaaS model with tiered plans for individual designers, teams, and enterprise integrations.
+- India equivalent: none found
+- India fit note: Success depends on widespread high‑speed internet and access to GPU‑accelerated compute, as well as existing adoption of advanced CAD workflows, which are still limited in many Indian SMEs and design studios.
+- Badge guess: black
+
+## Grand
+- Source article: [Closing the IPv6 First-Packet Gap with Grand](https://labs.ripe.net/author/pouria/closing-the-ipv6-first-packet-gap-with-grand/) (Hacker News (front page))
+- Category: networking
+- What it does: Grand is a tool that mitigates the IPv6 first‑packet loss gap by improving packet handling and routing for IPv6 traffic. It helps networks achieve smoother IPv6 adoption and better performance.
+- Likely revenue model: Enterprise licensing or subscription fees for the software, possibly bundled with consulting and support services.
+- India equivalent: Tata Communications
+- India fit note: The solution relies on widespread IPv6 deployment and carrier‑grade routing, which are still uneven across Indian ISPs and enterprises, potentially limiting immediate impact.
+- Badge guess: orange
+
+## Panel
+- Source article: [Show HN: Panel – A research workspace where the agent can build its own panes](https://github.com/greentfrapp/panel) (Hacker News (front page))
+- Category: ai-agent
+- What it does: Panel is a research workspace that lets an AI agent create and manage its own UI panes for data exploration and analysis.
+- Likely revenue model: Likely a freemium SaaS model with paid team/enterprise plans for collaboration, storage, and advanced AI features.
+- India equivalent: none found
+- India fit note: The product depends on widespread adoption of AI assistants in research workflows and reliable high‑speed internet for real‑time pane generation, which are still limited in many Indian academic and startup environments.
+- Badge guess: black
+
+## Capsule
+- Source article: [Show HN: Capsule – Single-file web apps that save their data into SQLite](https://withcapsule.app/) (Hacker News (front page))
+- Category: no-code
+- What it does: Capsule lets users build single‑file web apps where the HTML, assets and user data are bundled into a SQLite database, enabling offline storage and easy export. It provides a localStorage‑style key/value store and a document‑style API, with optional AI integration.
+- Likely revenue model: A freemium model where basic app creation is free, while advanced features like AI integration, cloud sync, team collaboration and enterprise licensing are paid subscriptions.
+- India equivalent: Zoho Creator
+- India fit note: The concept relies on users installing desktop Tauri apps or using a web preview, which may face adoption hurdles in India where low‑code platforms are typically SaaS‑based and mobile‑first. However, the underlying SQLite file format works on standard hardware, so technical feasibility is not a barrier.
+- Badge guess: orange
+
+## Ordewell
+- Source article: [Show HN: Ordewell – turn one goal into an ordered plan of coding-agent tasks](https://github.com/ordewell/ordewell) (Hacker News (front page))
+- Category: ai-agent
+- What it does: Ordewell converts a single high‑level goal into an ordered sequence of coding‑agent tasks, automating the planning and execution of software development steps.
+- Likely revenue model: Probably a freemium SaaS model where basic task generation is free and advanced orchestration, team collaboration, and API access are paid subscriptions.
+- India equivalent: none found
+- India fit note: The product relies on sophisticated LLM‑driven coding agents and seamless cloud compute, which are available in India, but widespread adoption may be limited by enterprise readiness to trust AI‑generated code and by the need for strong developer upskilling.
+- Badge guess: black
+
+## Modem Thing
+- Source article: [Show HN: Hacking a $20 4G wireless hotspot into a texting device](https://bkovac.github.io/modem-thing/) (Hacker News (front page))
+- Category: iot
+- What it does: Turns a low‑cost 4G wireless hotspot into a standalone SMS texting device that can send and receive messages via a simple interface.
+- Likely revenue model: Sells DIY kits, printed circuit boards, or paid documentation for hobbyists and small businesses.
+- India equivalent: none found
+- India fit note: The concept relies on affordable 4G hotspot hardware and open carrier SMS support, which are available in India, but widespread adoption may be limited by carrier restrictions on bulk SMS and the technical expertise required to assemble the device.
+- Badge guess: black
+
+## Fugleramme
+- Source article: [Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations](https://github.com/arnegiacomo/fugleramme) (Hacker News (front page))
+- Category: ai-art
+- What it does: An e‑ink frame that listens to bird songs, identifies the species with AI and renders a vintage 1800s‑style illustration of the bird on the display.
+- Likely revenue model: Sells the e‑ink hardware kit (or pre‑assembled frame) and may charge a subscription for cloud‑based bird‑song recognition and illustration generation.
+- India equivalent: none found
+- India fit note: Success depends on stable internet for AI processing and a market of bird‑watchers willing to buy niche smart‑home art; both are limited in many Indian regions.
+- Badge guess: black
+
+## Stelcore
+- Source article: [How Stelcore Is Helping Brands Simplify Complex D2C Operations](https://inc42.com/startups/how-stelcore-is-helping-brands-simplify-complex-d2c-operations/) (Inc42)
+- Category: d2c-platform
+- What it does: Stelcore provides an end‑to‑end SaaS platform that integrates ecommerce, fulfillment, logistics and analytics to help consumer brands launch and run direct‑to‑consumer operations at scale.
+- Likely revenue model: A subscription‑based SaaS fee plus usage‑based transaction or fulfillment commissions.
+- India equivalent: Unicommerce
+- India fit note: The model relies on robust last‑mile logistics networks and high internet penetration for seamless order flow; while India has growing logistics partners, fragmented regional delivery and cash‑on‑delivery preferences may require additional adaptation.
+- Badge guess: orange
+

@@ -528,3 +528,13 @@
 | Payflip | p2p-payments | orange | 2026-09-15 | PhonePe |
 | Flow Neuroscience | digital-therapeutics | black | 2026-09-15 | none found |
 | Flam | ai-content | black | 2026-09-15 | none found |
+| Superpose | ai-photo | black | 2026-09-15 | none found |
+| SimpliSafe | home-security | orange | 2026-09-15 | QwikCams |
+| Cartesian | design-ai | black | 2026-09-15 | none found |
+| Grand | networking | orange | 2026-09-15 | Tata Communications |
+| Panel | ai-agent | black | 2026-09-15 | none found |
+| Capsule | no-code | orange | 2026-09-15 | Zoho Creator |
+| Ordewell | ai-agent | black | 2026-09-15 | none found |
+| Modem Thing | iot | black | 2026-09-15 | none found |
+| Fugleramme | ai-art | black | 2026-09-15 | none found |
+| Stelcore | d2c-platform | orange | 2026-09-15 | Unicommerce |
