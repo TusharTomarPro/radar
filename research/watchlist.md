@@ -542,3 +542,4 @@
 | WangNet | developer-tools | black | 2026-09-15 | none found |
 | BookSlice | content‑repurposing | black | 2026-09-15 | none found |
 | ZuckOff | privacy-tech | black | 2026-09-15 | none found |
+| OpenAP | flight-planning | black | 2026-09-16 | none found |
