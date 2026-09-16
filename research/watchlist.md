@@ -543,3 +543,20 @@
 | BookSlice | content‑repurposing | black | 2026-09-15 | none found |
 | ZuckOff | privacy-tech | black | 2026-09-15 | none found |
 | OpenAP | flight-planning | black | 2026-09-16 | none found |
+| Appwrite | backend-as-a-service | black | 2026-09-16 | none found |
+| PhraseVault | snippet-manager | orange | 2026-09-16 | Zoho Notebook |
+| Flat Social | virtual-office | black | 2026-09-16 | none found |
+| Expand Board | mind-mapping | black | 2026-09-16 | none found |
+| Project Feed | project-management | orange | 2026-09-16 | Zoho Projects |
+| PeakHour | network-monitoring | black | 2026-09-16 | none found |
+| Thread | ai-journal | black | 2026-09-16 | none found |
+| Toki AI | ai-assistant | black | 2026-09-16 | none found |
+| Cat Me | photo-filter | orange | 2026-09-16 | Moj |
+| Convo | sales-ai | orange | 2026-09-16 | Vymo |
+| Jottoo | ai-productivity | black | 2026-09-16 | none found |
+| Fide Island | mobile-productivity | black | 2026-09-16 | none found |
+| Twigg | dev-tools | black | 2026-09-16 | none found |
+| Datamimic | ai-agent | black | 2026-09-16 | none found |
+| Polymarket | prediction-market | black | 2026-09-16 | none found |
+| VerifAIX | eda-tech | orange | 2026-09-16 | Vyoma Systems |
+| Slayd | fashion-tech | orange | 2026-09-16 | Limeroad |
