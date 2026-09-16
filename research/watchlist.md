@@ -566,3 +566,8 @@
 | ImpactGate | model-management | black | 2026-09-16 | none found |
 | Dextrus | flex-office | orange | 2026-09-16 | Awfis |
 | Yaa Creations | artisan-ecommerce | orange | 2026-09-16 | Jaypore |
+| ZeroClick | ai-commerce | black | 2026-09-16 | none found |
+| Qorl | ai-db | black | 2026-09-16 | none found |
+| Montana ETRB | biotech-regulatory | black | 2026-09-16 | none found |
+| PitchFly | ai-creative | black | 2026-09-16 | none found |
+| Webpixie | ai-indexing | black | 2026-09-16 | none found |

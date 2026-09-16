@@ -214,3 +214,48 @@
 - India fit note: The model relies on reliable internet penetration, digital payments, and an efficient logistics network for international shipping—areas that are still maturing in many Indian tier‑2 and tier‑3 towns.
 - Badge guess: orange
 
+## ZeroClick
+- Source article: [ZeroClick](https://www.producthunt.com/products/zeroclick) (Product Hunt)
+- Category: ai-commerce
+- What it does: ZeroClick provides a platform where product owners can list their items for purchase directly by AI agents, enabling automated sales through conversational AI.
+- Likely revenue model: Charges a commission or listing fee on each transaction made through the AI agents.
+- India equivalent: none found
+- India fit note: The model depends on widespread adoption of AI agents in everyday shopping and seamless integration with digital payments and logistics, which are still emerging in India and may not match current consumer behavior.
+- Badge guess: black
+
+## Qorl
+- Source article: [Training a 4B model to produce 81% faster query plans than Postgres](https://rohanbansal.com/qorl) (Hacker News (front page))
+- Category: ai-db
+- What it does: Qorl trains a 4‑billion‑parameter language model to generate PostgreSQL query execution plans, delivering up to 81% faster query performance than the native optimizer.
+- Likely revenue model: Subscription‑based SaaS licensing for enterprises and cloud providers, possibly with usage‑based pricing for inference calls.
+- India equivalent: none found
+- India fit note: The solution relies on large‑scale GPU inference and tight integration with PostgreSQL internals, which may be limited by the availability of high‑end compute resources and the slower adoption of AI‑driven DB tooling in Indian enterprises.
+- Badge guess: black
+
+## Montana ETRB
+- Source article: [Tell HN: An inside view of Montana's new biotech law](https://news.ycombinator.com/item?id=49731216) (Hacker News (front page))
+- Category: biotech-regulatory
+- What it does: Operates a state‑registered private ethics review board that authorizes experimental drug treatments under Montana's SB535 law and enables sponsors to charge patients, generating real‑world data.
+- Likely revenue model: Charges review‑board fees to sponsors and takes a portion of the payment patients make for the experimental treatments.
+- India equivalent: none found
+- India fit note: The model depends on a state law that permits charging for compassionate‑use treatments and a private review board, which does not exist in India; Indian regulations prohibit commercializing compassionate‑use drugs and lack a similar private oversight mechanism.
+- Badge guess: black
+
+## PitchFly
+- Source article: [I Trained a Fly’s Brain to Generate WIRED Story Ideas](https://www.wired.com/story/i-trained-a-fly-on-wired-story-ideas/) (Wired)
+- Category: ai-creative
+- What it does: PitchFly uses a simulated fruit‑fly brain model to generate quirky headline and story‑idea suggestions for writers. Users input a brief prompt and receive multiple AI‑crafted concepts.
+- Likely revenue model: Probably a freemium model with a paid subscription for unlimited or premium-quality ideas and API access for enterprises.
+- India equivalent: none found
+- India fit note: The concept relies on niche neuroscience‑inspired AI and a novelty‑driven user base, which may not have strong demand in India where mainstream AI writing tools dominate. However, basic internet access and content creation needs are present.
+- Badge guess: black
+
+## Webpixie
+- Source article: [Everyone's adding llms.txt. Almost nothing is reading it.](https://feed.indiehackers.world/post/0af4304280) (Indie Hackers (unofficial feed))
+- Category: ai-indexing
+- What it does: Creates a curated markdown file (llms.txt) that indexes a site's documentation to make it easier for LLMs to retrieve relevant information.
+- Likely revenue model: Subscription‑based SaaS where docs owners pay a recurring fee for hosting, updating, and optimizing their llms.txt files.
+- India equivalent: none found
+- India fit note: Success relies on widespread use of LLM‑powered coding assistants and standardized documentation sites, which are still emerging in India; adoption may be slower without strong LLM integration in local dev workflows.
+- Badge guess: black
+
