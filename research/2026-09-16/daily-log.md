@@ -160,3 +160,57 @@
 - India fit note: India’s fragmented e‑commerce landscape and high mobile usage make a cross‑platform discovery layer valuable, but scaling requires reliable data integration with many marketplaces and a robust logistics network for private‑label fulfillment, which can be uneven across the country.
 - Badge guess: orange
 
+## Chat-Man
+- Source article: [Show HN: Give your AI agents access to WhatsApp](https://news.ycombinator.com/item?id=49728159) (Hacker News (front page))
+- Category: ai-agent
+- What it does: Offers a WhatsApp MCP server and web UI that lets AI agents programmatically read, search, extract, and send WhatsApp messages, with features for CRM syncing and group management.
+- Likely revenue model: Subscription‑based SaaS pricing per active WhatsApp number or per message volume, possibly with tiered plans for additional UI features.
+- India equivalent: Gupshup
+- India fit note: WhatsApp is ubiquitous in India, but accessing the official WhatsApp Business API requires approval and can be costly; compliance with data‑protection rules and the need for AI‑agent integration may limit rapid adoption.
+- Badge guess: orange
+
+## CloudX
+- Source article: [Scaling Golang CI by Replacing actions/setup-go](https://www.cloudx.ai/posts/setup-go) (Hacker News (front page))
+- Category: ci-cd
+- What it does: Provides a faster, more efficient way to install and cache the Go toolchain in GitHub Actions, cutting down CI build times for Go projects.
+- Likely revenue model: Subscription‑based SaaS offering enterprise teams premium CI acceleration, analytics, and support.
+- India equivalent: none found
+- India fit note: The solution relies on GitHub Actions and Docker‑based caching, which are available in India but may be limited by network latency to GitHub's infrastructure and the prevalence of self‑hosted runners in Indian development teams.
+- Badge guess: black
+
+## Stale AI Tracker
+- Source article: [Show HN: How Stale Is Your AI? Release age and training cutoff for 20 models](https://stale.jock.pl/) (Hacker News (front page))
+- Category: ai-analytics
+- What it does: Provides a searchable database showing the release dates and training data cut‑off points for popular AI models, letting users gauge how up‑to‑date a model is. It visualises model freshness for developers and researchers.
+- Likely revenue model: Probably a freemium model with paid API access or enterprise subscriptions for bulk data and alerts.
+- India equivalent: none found
+- India fit note: The service relies on timely public disclosures of model release dates, which are less common in India’s fragmented AI startup ecosystem, and assumes users have a strong need to track model freshness for rapid product cycles.
+- Badge guess: black
+
+## ImpactGate
+- Source article: [ImpactGate: A merge gate that scores the structural decay AI adds](https://github.com/officefloor/ImpactGate) (Hacker News (front page))
+- Category: model-management
+- What it does: ImpactGate provides a merge gate that evaluates and scores the structural decay introduced when combining AI models, helping developers maintain model quality during merges.
+- Likely revenue model: Likely a freemium SaaS model offering paid enterprise features, support, and integration services for large AI teams.
+- India equivalent: none found
+- India fit note: The tool relies on sophisticated model versioning and high‑compute environments that are still emerging in India, and adoption may be limited by the availability of large‑scale AI infrastructure and expertise.
+- Badge guess: black
+
+## Dextrus
+- Source article: [Inside Dextrus’ Contrarian Bet In India’s Venture Capital-Heavy Workspace Ecosystem](https://inc42.com/features/inside-dextrus-bet-in-indias-workspace-ecosystem/) (Inc42)
+- Category: flex-office
+- What it does: Dextrus operates a technology‑driven platform that aggregates and manages flexible office spaces, allowing enterprises to book, scale, and customize workspace on demand.
+- Likely revenue model: It likely earns revenue through a mix of subscription fees from enterprises and transaction commissions on each workspace booking.
+- India equivalent: Awfis
+- India fit note: The model relies on a mature ecosystem of premium coworking operators and corporate willingness to shift from owned real estate to on‑demand space, which already exists in major Indian metros but may be slower to adopt in tier‑2 cities due to lower awareness and infrastructure constraints.
+- Badge guess: orange
+
+## Yaa Creations
+- Source article: [From a Namakkal Village to 7 Countries: How Yaa Creations Hit Rs 1.5 Crore](https://yourstory.com/2026/09/yaa-creations-namakkal-software-startup-rs-1-5-crore-revenue) (YourStory)
+- Category: artisan-ecommerce
+- What it does: Yaa Creations designs and manufactures handcrafted products (such as leather accessories and home décor) and sells them online to customers in multiple countries.
+- Likely revenue model: Revenue comes from direct B2C sales through its own e‑commerce platform and third‑party marketplaces, with occasional wholesale orders.
+- India equivalent: Jaypore
+- India fit note: The model relies on reliable internet penetration, digital payments, and an efficient logistics network for international shipping—areas that are still maturing in many Indian tier‑2 and tier‑3 towns.
+- Badge guess: orange
+

@@ -560,3 +560,9 @@
 | Polymarket | prediction-market | black | 2026-09-16 | none found |
 | VerifAIX | eda-tech | orange | 2026-09-16 | Vyoma Systems |
 | Slayd | fashion-tech | orange | 2026-09-16 | Limeroad |
+| Chat-Man | ai-agent | orange | 2026-09-16 | Gupshup |
+| CloudX | ci-cd | black | 2026-09-16 | none found |
+| Stale AI Tracker | ai-analytics | black | 2026-09-16 | none found |
+| ImpactGate | model-management | black | 2026-09-16 | none found |
+| Dextrus | flex-office | orange | 2026-09-16 | Awfis |
+| Yaa Creations | artisan-ecommerce | orange | 2026-09-16 | Jaypore |
