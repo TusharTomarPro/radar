@@ -259,3 +259,48 @@
 - India fit note: Success relies on widespread use of LLM‑powered coding assistants and standardized documentation sites, which are still emerging in India; adoption may be slower without strong LLM integration in local dev workflows.
 - Badge guess: black
 
+## Noise
+- Source article: [Noise wants to help everyday people  become paid content creators](https://techcrunch.com/2026/09/16/noise-wants-to-help-everyday-people-become-paid-content-creators/) (TechCrunch)
+- Category: creator-platform
+- What it does: Noise provides a marketing platform that enables everyday smartphone users to turn their personal content into paid creator opportunities through brand collaborations and monetization tools.
+- Likely revenue model: The company likely earns by taking a commission on creator earnings and charging brands a fee for campaign access and analytics.
+- India equivalent: Moj
+- India fit note: India has a massive short‑form video user base and growing creator monetization features, but success depends on reliable high‑speed data and a mature brand‑creator marketplace, which are still evolving in many regions.
+- Badge guess: orange
+
+## OpenSpec
+- Source article: [OpenSpec – A lightweight and configurable AI spec framework](https://openspec.dev/) (Hacker News (front page))
+- Category: ai-framework
+- What it does: OpenSpec provides a lightweight, configurable specification framework for building and orchestrating AI pipelines, allowing developers to define prompts, models, and data flows in a modular way.
+- Likely revenue model: The project is likely open‑source with a freemium model, charging for enterprise support, hosted SaaS deployments, or consulting services.
+- India equivalent: none found
+- India fit note: The product relies on a mature ecosystem of cloud AI services and developer familiarity with modular spec languages, which are still emerging in India; adoption may be slower without comparable tooling and community support.
+- Badge guess: black
+
+## jevlike
+- Source article: [Reverse-engineered Jev-like model](https://github.com/vinnylarouge/jevlike) (Hacker News (front page))
+- Category: fintech
+- What it does: Provides an open‑source implementation that mimics the Jev platform, letting users create and manage community‑driven investment pools with tokenised shares.
+- Likely revenue model: Likely indirect – the project may earn money through consulting, custom integrations, or premium support for enterprises using the code.
+- India equivalent: none found
+- India fit note: Community investment clubs rely on trust, tokenised share structures and a regulatory environment that is still evolving in India; strict rules on collective investment schemes and limited familiarity with token‑based pooling could hinder adoption.
+- Badge guess: black
+
+## Hush
+- Source article: [I replaced my brown-noise browser tab with a menu bar app](https://oldmanrahul.com/2026/09/14/hush/) (Hacker News (front page))
+- Category: focus-app
+- What it does: A macOS menu‑bar application that plays brown‑noise (or other ambient sounds) to help users concentrate without needing a browser tab.
+- Likely revenue model: One‑time purchase or paid download via the Mac App Store.
+- India equivalent: none found
+- India fit note: The app relies on macOS users who keep a menu‑bar app running; macOS market share in India is relatively low and many users prefer Windows or mobile platforms, limiting adoption.
+- Badge guess: black
+
+## Ancient Scroll Analyzer
+- Source article: [Scientists develop new method for deciphering ancient scrolls](https://arstechnica.com/science/2026/09/why-researchers-made-their-own-model-herculaneum-scrolls/) (Ars Technica)
+- Category: heritage-tech
+- What it does: Uses a handheld X‑ray fluorescence (XRF) scanner to non‑destructively assess the material composition of ancient scrolls, flagging those most likely to contain readable text for deeper analysis.
+- Likely revenue model: Sells the specialized XRF hardware and associated analysis software, plus offers subscription‑based scanning and consulting services to museums, libraries and research institutions.
+- India equivalent: none found
+- India fit note: The approach relies on expensive handheld XRF equipment and trained specialists, which many Indian cultural institutions lack, and adoption may be slowed by limited funding and differing preservation practices.
+- Badge guess: black
+

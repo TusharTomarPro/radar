@@ -571,3 +571,8 @@
 | Montana ETRB | biotech-regulatory | black | 2026-09-16 | none found |
 | PitchFly | ai-creative | black | 2026-09-16 | none found |
 | Webpixie | ai-indexing | black | 2026-09-16 | none found |
+| Noise | creator-platform | orange | 2026-09-16 | Moj |
+| OpenSpec | ai-framework | black | 2026-09-16 | none found |
+| jevlike | fintech | black | 2026-09-16 | none found |
+| Hush | focus-app | black | 2026-09-16 | none found |
+| Ancient Scroll Analyzer | heritage-tech | black | 2026-09-16 | none found |
