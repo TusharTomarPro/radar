@@ -613,3 +613,13 @@
 | Skalar | fintech | orange | 2026-09-17 | Razorpay Capital |
 | Factrika | industrial staffing | orange | 2026-09-17 | WorkIndia |
 | Taruwar Agro | agri-waste | orange | 2026-09-17 | Banyan Nation |
+| Arize AI | ai-observability | black | 2026-09-17 | none found |
+| Base Labs | ai-safety | black | 2026-09-17 | none found |
+| No Hello | email-ai | black | 2026-09-17 | none found |
+| Canto | speech-ai | orange | 2026-09-17 | Vernacular.ai |
+| AgentSkills | ai-agent | black | 2026-09-17 | none found |
+| Hister | private-search | black | 2026-09-17 | none found |
+| Skillsync | ai-agent | black | 2026-09-17 | none found |
+| Whoisinspace | space-data | black | 2026-09-17 | none found |
+| Lofi Girl | music-streaming | orange | 2026-09-17 | Gaana |
+| JanAI Technology | rural-tech | black | 2026-09-17 | none found |

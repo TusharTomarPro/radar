@@ -331,3 +331,93 @@
 - India fit note: Success depends on organized collection of banana stem waste and consumer acceptance of banana‑fiber alternatives to plastic, both of which are emerging but still limited in many Indian regions.
 - Badge guess: orange
 
+## Arize AI
+- Source article: [The fix for rogue AI agents could be more AI](https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/) (TechCrunch)
+- Category: ai-observability
+- What it does: Provides tools to monitor, debug, and improve the performance of AI models and agents in production.
+- Likely revenue model: Subscription SaaS pricing based on number of models or data processed.
+- India equivalent: none found
+- India fit note: Requires mature MLOps infrastructure and a culture of continuous model monitoring, which many Indian firms are still adopting, limiting immediate adoption.
+- Badge guess: black
+
+## Base Labs
+- Source article: [Base Labs launches an open-weight AI safety partnership with Hugging Face and Goodfire](https://techcrunch.com/2026/09/17/base-labs-launches-an-open-weight-ai-safety-partnership-with-hugging-face-and-goodfire/) (TechCrunch)
+- Category: ai-safety
+- What it does: Base Labs develops and publishes methods for training and monitoring open-weight AI models with a focus on safety. It partners with Hugging Face and Goodfire to create open-source safety tooling.
+- Likely revenue model: They likely monetize through enterprise licensing, consulting services, and paid access to advanced safety monitoring platforms.
+- India equivalent: none found
+- India fit note: The model relies on a mature open-source AI ecosystem and widespread adoption of open-weight models, which are less prevalent in India. Additionally, the necessary regulatory and data infrastructure for large‑scale model monitoring is still emerging.
+- Badge guess: black
+
+## No Hello
+- Source article: [Don't Just Say Hello](https://nohello.net/en/) (Hacker News (front page))
+- Category: email-ai
+- What it does: An AI‑powered tool that rewrites generic email greetings into more personalized, context‑aware openings.
+- Likely revenue model: Subscription‑based SaaS with a free tier and paid plans for higher usage.
+- India equivalent: none found
+- India fit note: Relies on widespread use of email clients that support extensions and on users being accustomed to AI‑generated content, which may be less common in Indian corporate email practices.
+- Badge guess: black
+
+## Canto
+- Source article: [Canto: A speech model built for the real world](https://wisprflow.ai/canto) (Hacker News (front page))
+- Category: speech-ai
+- What it does: Canto is a large‑scale speech model designed to work reliably in noisy, real‑world environments, offering transcription and voice‑interaction capabilities that adapt to diverse accents and background sounds.
+- Likely revenue model: They likely monetize via a usage‑based API subscription or enterprise licensing for integration into call‑center, app, and device platforms.
+- India equivalent: Vernacular.ai
+- India fit note: India already has a strong call‑center and voice‑assistant ecosystem, but widespread deployment may be limited by inconsistent broadband quality in rural areas and the need for extensive multilingual training data.
+- Badge guess: orange
+
+## AgentSkills
+- Source article: [Show HN: Craigslist for agent skills, curated by a human](https://skillbay.sh/) (Hacker News (front page))
+- Category: ai-agent
+- What it does: Offers a curated marketplace where users can buy ready‑to‑run AI agent skills for tasks such as contract redlining, AI‑generated video creation, and website design.
+- Likely revenue model: Earns a commission on each skill sale or charges sellers a listing/subscription fee.
+- India equivalent: none found
+- India fit note: Success depends on widespread familiarity with autonomous AI agents and trust in human‑curated listings, which are still emerging in India; payment friction and limited corporate adoption of such agents could slow uptake.
+- Badge guess: black
+
+## Hister
+- Source article: [Hister: A private search engine for the pages you visit and the files you keep](https://github.com/asciimoo/hister) (Hacker News (front page))
+- Category: private-search
+- What it does: Hister is a local, privacy‑first search engine that indexes the web pages you visit and the files stored on your device, letting you search them without sending data to the cloud.
+- Likely revenue model: It appears to be an open‑source project that may rely on donations, sponsorships, or a paid premium version for advanced features.
+- India equivalent: none found
+- India fit note: The product assumes users keep a sizable amount of personal browsing history and files locally and are comfortable running a self‑hosted indexer, which may be less common in India where mobile‑first usage and cloud‑based services dominate.
+- Badge guess: black
+
+## Skillsync
+- Source article: [Launch HN: Skillsync (YC W26) – AI chat sessions made portable across agents](https://news.ycombinator.com/item?id=49743049) (Hacker News (front page))
+- Category: ai-agent
+- What it does: Skillsync provides a universal converter that lets developers move AI chat sessions—including messages, reasoning, and tool calls—between different coding agents, storing them locally and making them searchable and shareable.
+- Likely revenue model: A freemium model with a paid subscription for team workspaces and advanced collaboration features, possibly supplemented by a one‑time license for the desktop app.
+- India equivalent: none found
+- India fit note: The product assumes widespread use of multiple proprietary coding agents (Claude, Codex, Cursor) and a desktop‑first workflow, which are less common in India where developers often rely on a narrower set of tools and may face bandwidth constraints for cloud‑based AI services.
+- Badge guess: black
+
+## Whoisinspace
+- Source article: [Whoisinspace.com/](https://whoisinspace.com) (Hacker News (front page))
+- Category: space-data
+- What it does: Provides a real‑time dashboard of which astronauts, cosmonauts and private crew members are currently aboard the International Space Station and other orbital platforms, with bios and mission details.
+- Likely revenue model: Monetises through advertising, affiliate links to space‑related merchandise, and paid API access for developers or media outlets.
+- India equivalent: none found
+- India fit note: The service relies on publicly available telemetry from NASA, ESA and private launch providers, which is globally accessible, but Indian users may have less cultural interest in daily astronaut tracking, limiting mass adoption.
+- Badge guess: black
+
+## Lofi Girl
+- Source article: [Lofi Girl returns with a new house music station and vinyl compilation](https://www.engadget.com/2260588/lofi-girl-returns-with-a-new-house-music-station-and-vinyl-compilation/) (Engadget)
+- Category: music-streaming
+- What it does: Curates and streams themed music stations like lo‑fi hip‑hop and house, and sells physical vinyl compilations under its brand.
+- Likely revenue model: Free ad‑supported streaming plus sales of merchandise and vinyl records, with a possible premium subscription tier.
+- India equivalent: Gaana
+- India fit note: Streaming habits and mobile data infrastructure are strong in India, so the digital side fits well, but the vinyl compilation market is niche and limited by distribution and consumer demand.
+- Badge guess: orange
+
+## JanAI Technology
+- Source article: [JanAI Technology launches AI platform for rural consumers](https://economictimes.indiatimes.com/tech/technology/janai-technology-launches-ai-platform-for-rural-consumers/articleshow/134316686.cms) (Economic Times Tech)
+- Category: rural-tech
+- What it does: JanAI offers an AI-powered platform tailored for rural consumers, delivering localized information, services and digital tools to improve daily life and economic opportunities.
+- Likely revenue model: The company likely monetizes through B2B partnerships with NGOs, government agencies, and service providers who pay for access to the platform and data analytics.
+- India equivalent: none found
+- India fit note: Success depends on reliable internet connectivity, smartphone penetration, and digital literacy in rural areas, which are still uneven across India and may limit adoption.
+- Badge guess: black
+
