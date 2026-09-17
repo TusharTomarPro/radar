@@ -623,3 +623,7 @@
 | Whoisinspace | space-data | black | 2026-09-17 | none found |
 | Lofi Girl | music-streaming | orange | 2026-09-17 | Gaana |
 | JanAI Technology | rural-tech | black | 2026-09-17 | none found |
+| PrismML | edge-ai | black | 2026-09-17 | none found |
+| Snapdrop | p2p-file-share | orange | 2026-09-17 | Xender |
+| Flet | app-framework | orange | 2026-09-17 | Appsmith |
+| Bend | ai-safety | black | 2026-09-17 | none found |

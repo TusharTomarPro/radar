@@ -421,3 +421,39 @@
 - India fit note: Success depends on reliable internet connectivity, smartphone penetration, and digital literacy in rural areas, which are still uneven across India and may limit adoption.
 - Badge guess: black
 
+## PrismML
+- Source article: [PrismML hopes its tiny LLM will change how we all use AI](https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/) (TechCrunch)
+- Category: edge-ai
+- What it does: PrismML builds ultra‑compact large language models that can run on low‑power devices, enabling AI features without cloud dependence.
+- Likely revenue model: They likely sell API access or enterprise licensing for on‑device inference and custom model fine‑tuning.
+- India equivalent: none found
+- India fit note: Success depends on widespread low‑latency edge compute and a developer ecosystem comfortable with deploying on‑device models, which are still emerging in India.
+- Badge guess: black
+
+## Snapdrop
+- Source article: [Show HN: Snapdrop: Instantly share files between devices. No setup, no signup](https://snapdrop.me) (Hacker News (front page))
+- Category: p2p-file-share
+- What it does: Snapdrop lets users instantly share files, links, and text between devices on the same local network via a web browser, with no installation or signup required.
+- Likely revenue model: It appears to be a free, open‑source service that likely relies on donations or sponsorship rather than direct monetisation.
+- India equivalent: Xender
+- India fit note: The service assumes devices are on the same Wi‑Fi/LAN and that users have modern browsers with WebRTC support; while many Indian users have smartphones, a large share rely on mobile data and older browsers, which could limit adoption.
+- Badge guess: orange
+
+## Flet
+- Source article: [Flet 1.0 – Build cross-platform apps in Python](https://flet.dev/) (Hacker News (front page))
+- Category: app-framework
+- What it does: Flet provides a Python‑only SDK that lets developers create cross‑platform desktop, web, and mobile applications without writing UI code in other languages. It compiles the UI to native components and handles the runtime communication.
+- Likely revenue model: Freemium model: free open‑source core with paid cloud hosting, enterprise support, and premium features or licensing for large teams.
+- India equivalent: Appsmith
+- India fit note: India has a strong Python developer base and growing demand for low‑code/internal tools, so the concept fits. However, adoption may be slower if teams prefer JavaScript‑centric stacks or lack awareness of Python‑based UI frameworks.
+- Badge guess: orange
+
+## Bend
+- Source article: [Bend – A language that blocks AI mistakes via proof, on CPU and GPU](https://bend-lang.com/) (Hacker News (front page))
+- Category: ai-safety
+- What it does: Bend is a programming language that uses formal proofs to block AI model mistakes, providing correctness guarantees while running on both CPU and GPU.
+- Likely revenue model: They likely monetize through enterprise licensing or subscription fees for the language tooling, verification services, and premium support.
+- India equivalent: none found
+- India fit note: Adoption depends on developers learning a new language and embracing formal verification, which are not yet mainstream in India, and on access to GPU‑enabled infrastructure that many Indian startups lack.
+- Badge guess: black
+
