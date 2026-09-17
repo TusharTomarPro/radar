@@ -277,3 +277,57 @@
 - India fit note: The model relies on digital adoption among fragmented steel manufacturers and a robust logistics network, both of which are present in India but vary in maturity across regions, so scaling may face uneven supplier onboarding.
 - Badge guess: orange
 
+## Comp AI
+- Source article: [Comp AI sets eyes on a continuously agentic future for security and compliance](https://techcrunch.com/2026/09/17/comp-ai-sets-eyes-on-a-continiously-agentic-future-for-security-and-complaince/) (TechCrunch)
+- Category: cybersecurity
+- What it does: Offers an AI‑driven platform that continuously monitors and enforces security and compliance policies using autonomous agents.
+- Likely revenue model: Charges enterprises a subscription fee based on the number of assets or users covered by the platform.
+- India equivalent: Safe Security
+- India fit note: The model relies on mature cloud infrastructure and DevSecOps pipelines, which are growing in India but still lag in many mid‑size firms, potentially slowing adoption.
+- Badge guess: orange
+
+## Lunacy
+- Source article: [Lunacy Audio Nova is a place to build and sell your own AI-powered music plug-ins](https://www.theverge.com/tech/996860/lunacy-audio-nova-ai-music-plugin-vst) (The Verge)
+- Category: ai-audio
+- What it does: Lunacy offers a platform called Nova where developers can create AI‑enhanced VST music plug‑ins and sell them directly to musicians and producers.
+- Likely revenue model: Nova likely takes a commission on each plug‑in sale and may charge creators a subscription or listing fee.
+- India equivalent: none found
+- India fit note: The model relies on a mature market of independent music producers and a widespread ecosystem of DAWs that support VSTs, which is still nascent in India, and on creators comfortable with AI‑generated audio tools.
+- Badge guess: black
+
+## AI Setup Hub
+- Source article: [Show HN: Share your AI Setup, Learn from others](https://mysetup.ai/) (Hacker News (front page))
+- Category: ai-community
+- What it does: Provides a platform where engineers can publicly share the details of their AI agent configurations, tools, and workflow setups, enabling peer learning and replication.
+- Likely revenue model: Offers a free tier with optional paid subscriptions for premium features such as analytics, private sharing, and corporate sponsorships.
+- India equivalent: none found
+- India fit note: The concept relies on a culture of open sharing of proprietary AI workflows, which may be limited in India due to IP concerns and less widespread use of advanced AI agents among engineers.
+- Badge guess: black
+
+## Skalar
+- Source article: [Exclusive: Fintech Offers Startups Alternative To Venture Debt With A New Model To Finance Customer Acquisition Costs](https://news.crunchbase.com/venture/fintech-alternative-funding-customer-acquisition-skalar/) (Crunchbase News)
+- Category: fintech
+- What it does: Skalar provides startups with upfront capital to fund sales and marketing spend, and recoups the money as a percentage of the revenue generated from the customers acquired with that capital.
+- Likely revenue model: It likely charges a revenue share fee or a fixed multiple on the financed amount, collected from the startup's ongoing revenues.
+- India equivalent: Razorpay Capital
+- India fit note: The model relies on robust digital payment data and predictable recurring revenue, which many Indian SaaS and e‑commerce startups have, but smaller firms may lack the necessary revenue tracking infrastructure.
+- Badge guess: orange
+
+## Factrika
+- Source article: [Info Edge leads Rs 8.9 Cr seed round in Factrika](https://entrackr.com/snippets/info-edge-leads-rs-89-cr-seed-round-in-factrika-12544954) (Entrackr)
+- Category: industrial staffing
+- What it does: Factrika runs an on‑demand platform that digitally matches manufacturers with verified, skilled factory workers for short‑term shifts, handling attendance and payments.
+- Likely revenue model: It likely earns a commission or service fee on each worker‑hour billed to the employer, possibly supplemented by subscription tiers for larger manufacturers.
+- India equivalent: WorkIndia
+- India fit note: Success hinges on widespread smartphone use and reliable internet among blue‑collar workers, as well as factories’ willingness to shift from traditional contractor models to digital gig‑style staffing, which is still emerging in many Indian industrial clusters.
+- Badge guess: orange
+
+## Taruwar Agro
+- Source article: [Taruwar Agro: Three Bihar Friends Built a Rs 2.5 Crore Business from Banana Waste](https://yourstory.com/2026/09/taruwar-agro-banana-waste) (YourStory)
+- Category: agri-waste
+- What it does: Taruwar Agro collects banana stem waste from farms and converts it into eco‑friendly products such as bags, mats and plates using banana fibre. The company markets these biodegradable items to retailers and institutional buyers.
+- Likely revenue model: They sell the finished banana‑fiber products directly to B2B customers and through online/offline retail channels, earning margin on each unit.
+- India equivalent: Banyan Nation
+- India fit note: Success depends on organized collection of banana stem waste and consumer acceptance of banana‑fiber alternatives to plastic, both of which are emerging but still limited in many Indian regions.
+- Badge guess: orange
+

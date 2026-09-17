@@ -607,3 +607,9 @@
 | Axiom | observability | black | 2026-09-17 | none found |
 | Ecosys | laundry-tech | orange | 2026-09-17 | Koparo |
 | Enlight Metals | metal-procurement | orange | 2026-09-17 | SteelMint |
+| Comp AI | cybersecurity | orange | 2026-09-17 | Safe Security |
+| Lunacy | ai-audio | black | 2026-09-17 | none found |
+| AI Setup Hub | ai-community | black | 2026-09-17 | none found |
+| Skalar | fintech | orange | 2026-09-17 | Razorpay Capital |
+| Factrika | industrial staffing | orange | 2026-09-17 | WorkIndia |
+| Taruwar Agro | agri-waste | orange | 2026-09-17 | Banyan Nation |
