@@ -578,3 +578,32 @@
 | Ancient Scroll Analyzer | heritage-tech | black | 2026-09-16 | none found |
 | HarnessTax | ai-agent | black | 2026-09-17 | none found |
 | Launch Nest | product-discovery | black | 2026-09-17 | none found |
+| Treble | voice-ai | black | 2026-09-17 | none found |
+| NovaSynth | voice-testing | black | 2026-09-17 | none found |
+| QAgent | ai-qa | orange | 2026-09-17 | Qyrus |
+| TinyKPI | business-analytics | orange | 2026-09-17 | Zoho Analytics |
+| Opyt | knowledge-management | black | 2026-09-17 | none found |
+| AskDeck | ai-presentation | black | 2026-09-17 | none found |
+| Modaal | cross-platform | black | 2026-09-17 | none found |
+| The Forge | dev-tools | black | 2026-09-17 | none found |
+| Pitchfire | fundraising-platform | orange | 2026-09-17 | LetsVenture |
+| Figo | competitive-intelligence | black | 2026-09-17 | none found |
+| QuietHint | meeting-assistant | black | 2026-09-17 | none found |
+| S-Roll | video-ai | black | 2026-09-17 | none found |
+| MacSentinel | system-optimizer | black | 2026-09-17 | none found |
+| Blanc | browser | black | 2026-09-17 | none found |
+| Analytiics | analytics | orange | 2026-09-17 | MoEngage |
+| Ever Beyond | gaming | black | 2026-09-17 | none found |
+| CREEM | ai-platform | orange | 2026-09-17 | Builder.ai |
+| NavKey | productivity | black | 2026-09-17 | none found |
+| Portal | product-discovery | black | 2026-09-17 | none found |
+| Compute Arena | ai-benchmark | black | 2026-09-17 | none found |
+| Text Agent Store | ai-agent | orange | 2026-09-17 | Haptik |
+| Die With Me | dev-social | black | 2026-09-17 | none found |
+| Worldsplat | generative-3d | black | 2026-09-17 | none found |
+| Amy | recruiting-ai | black | 2026-09-17 | none found |
+| Zella | auto-editing | black | 2026-09-17 | none found |
+| MCPJam | dev-tools | black | 2026-09-17 | none found |
+| Axiom | observability | black | 2026-09-17 | none found |
+| Ecosys | laundry-tech | orange | 2026-09-17 | Koparo |
+| Enlight Metals | metal-procurement | orange | 2026-09-17 | SteelMint |
