@@ -576,3 +576,5 @@
 | jevlike | fintech | black | 2026-09-16 | none found |
 | Hush | focus-app | black | 2026-09-16 | none found |
 | Ancient Scroll Analyzer | heritage-tech | black | 2026-09-16 | none found |
+| HarnessTax | ai-agent | black | 2026-09-17 | none found |
+| Launch Nest | product-discovery | black | 2026-09-17 | none found |
