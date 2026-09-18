@@ -627,3 +627,5 @@
 | Snapdrop | p2p-file-share | orange | 2026-09-17 | Xender |
 | Flet | app-framework | orange | 2026-09-17 | Appsmith |
 | Bend | ai-safety | black | 2026-09-17 | none found |
+| Ask A Monk | spiritual-wellness | black | 2026-09-18 | none found |
+| Goose | systems-lang | black | 2026-09-18 | none found |
