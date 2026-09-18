@@ -629,3 +629,56 @@
 | Bend | ai-safety | black | 2026-09-17 | none found |
 | Ask A Monk | spiritual-wellness | black | 2026-09-18 | none found |
 | Goose | systems-lang | black | 2026-09-18 | none found |
+| AEXGrid | ai-agent | black | 2026-09-18 | none found |
+| Notch Design | design-tool | black | 2026-09-18 | none found |
+| WhaleRead | translation tool | black | 2026-09-18 | none found |
+| Keysake | language-learning | black | 2026-09-18 | none found |
+| Snooze Files | file-management | black | 2026-09-18 | none found |
+| Ariso | recruiting-ai | orange | 2026-09-18 | Talview |
+| Buncha Games | gaming-platform | orange | 2026-09-18 | Gamezop |
+| AINA | ai-coach | orange | 2026-09-18 | InterviewBuddy |
+| Cubicles | virtual-workspace | black | 2026-09-18 | none found |
+| Illusions | writing-editor | black | 2026-09-18 | none found |
+| Mantle | devops | black | 2026-09-18 | none found |
+| RepoRoad | code-visualization | black | 2026-09-18 | none found |
+| Nepo Network | referral-network | black | 2026-09-18 | none found |
+| Guild Manager | gaming-community | black | 2026-09-18 | none found |
+| Shall We Talk | voice-dictation | black | 2026-09-18 | none found |
+| Mela | social-gaming | black | 2026-09-18 | none found |
+| Unvendor | ai-ui | black | 2026-09-18 | none found |
+| CodaBridge | marine-tech | black | 2026-09-18 | none found |
+| Powermove | ai-video | orange | 2026-09-18 | InVideo |
+| Forma | hardware-design | black | 2026-09-18 | none found |
+| Bring Them to Life | animation-tool | orange | 2026-09-18 | Animaker |
+| Makersclaw | agent-platform | black | 2026-09-18 | none found |
+| ProductBridge | ai-support | orange | 2026-09-18 | Freshworks (Freshdesk) |
+| Wombo | game-dev | black | 2026-09-18 | none found |
+| Ringo | ai-assistant | black | 2026-09-18 | none found |
+| Try The Apartment | interior-design | orange | 2026-09-18 | Livspace |
+| Banana Keyboard | ai-keyboard | black | 2026-09-18 | none found |
+| Reactor Atlas | energy-data | black | 2026-09-18 | none found |
+| Sider Omni | productivity | black | 2026-09-18 | none found |
+| Wingman | relationship-app | black | 2026-09-18 | none found |
+| omadesign | design-software | black | 2026-09-18 | none found |
+| ChinaMarketing.AI | ai-marketing | orange | 2026-09-18 | MoEngage |
+| Toone | ai-agent | black | 2026-09-18 | none found |
+| Edgee | ai-devtools | black | 2026-09-18 | none found |
+| OpenAlgo Charts | fintech | orange | 2026-09-18 | Chartink |
+| Ami AI | ai-sales | orange | 2026-09-18 | LeadSquared |
+| Pushary | ai-agent | black | 2026-09-18 | none found |
+| Mola | simulation-game | black | 2026-09-18 | none found |
+| MosMos | meeting-assist | orange | 2026-09-18 | Avoma |
+| Kanary | developer-tools | orange | 2026-09-18 | InterviewBit |
+| Nina's Little Universe | edtech | orange | 2026-09-18 | BYJU'S |
+| Slurp | video-downloader | black | 2026-09-18 | none found |
+| GameReverie | game-development | black | 2026-09-18 | none found |
+| Verity Score | ai-seo | black | 2026-09-18 | none found |
+| Agent Interface | ai-agent | orange | 2026-09-18 | Nividous |
+| Kanverse | gpu-marketplace | black | 2026-09-18 | none found |
+| Rolequiry | career-tech | black | 2026-09-18 | none found |
+| Mercury Pitch | music-tech | orange | 2026-09-18 | Riyaz |
+| OpenJev | hr-tech | orange | 2026-09-18 | Talview |
+| Napster | edtech | orange | 2026-09-18 | Byju's |
+| Physioplus Healthcare | healthtech | orange | 2026-09-18 | PhysioConnect |
+| MoroMaa | beauty | orange | 2026-09-18 | Forest Essentials |
+| ACIC | incubator | orange | 2026-09-18 | T-Hub |
