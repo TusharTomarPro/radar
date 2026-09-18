@@ -718,3 +718,10 @@
 | Sutura | ci-cd | black | 2026-09-18 | none found |
 | Duvi | ai-agent | orange | 2026-09-18 | Gupshup |
 | ZeroSphere | ai-agent | black | 2026-09-18 | none found |
+| Angle Health | insurtech | orange | 2026-09-18 | Acko |
+| DungeonQ | cybersecurity | orange | 2026-09-18 | Aujas |
+| GameToMac | gaming-emulation | black | 2026-09-18 | none found |
+| Eggshell | ai-agent | black | 2026-09-18 | none found |
+| Foleyfy | audio-tools | black | 2026-09-18 | none found |
+| Yoetz | AI-qa | black | 2026-09-18 | none found |
+| LokalBot | desktop-search | black | 2026-09-18 | none found |

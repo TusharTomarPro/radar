@@ -817,3 +817,66 @@
 - India fit note: The product assumes widespread high‑resolution monitors and a culture of using desktop AI assistants, which may be less common in India where mobile‑first usage dominates and desktop AI tools are still niche.
 - Badge guess: black
 
+## Angle Health
+- Source article: [Y Combinator insurance tech alum Angle Health hits $2.7B valuation](https://techcrunch.com/2026/09/18/y-combinator-insurance-tech-alum-angle-health-hits-2-7b-valuation/) (TechCrunch)
+- Category: insurtech
+- What it does: Provides small businesses with level‑funded health insurance plans, handling carrier selection, funding, and administration to make coverage affordable and predictable.
+- Likely revenue model: Earns a fee or percentage on the premiums administered, plus possible subscription or service fees for the platform.
+- India equivalent: Acko
+- India fit note: The level‑funded model depends on a mature employer‑sponsored insurance market and risk‑pooling mechanisms common in the US, which are less developed in India where employer health benefits are limited and regulations differ.
+- Badge guess: orange
+
+## DungeonQ
+- Source article: [DungeonQ](https://www.producthunt.com/products/dungeonq-astra-safety-rehearsal) (Product Hunt)
+- Category: cybersecurity
+- What it does: DungeonQ detects potentially malicious user sessions and silently redirects them into persistent, isolated decoy environments (honeypots) to protect real systems and gather intelligence.
+- Likely revenue model: Enterprise SaaS subscription with tiered pricing based on number of decoy worlds and data retention.
+- India equivalent: Aujas
+- India fit note: The model relies on mature SOCs and real‑time traffic monitoring, which large Indian enterprises have, but smaller firms may lack the infrastructure or expertise to deploy persistent decoy worlds effectively.
+- Badge guess: orange
+
+## GameToMac
+- Source article: [GameToMac](https://www.producthunt.com/products/gametomac) (Product Hunt)
+- Category: gaming-emulation
+- What it does: Uses AI to translate Windows game code so that PC titles can run natively on macOS without manual tweaking.
+- Likely revenue model: Offers a subscription or per‑game licensing fee for access to the AI‑powered compatibility layer.
+- India equivalent: none found
+- India fit note: Mac penetration in India is low and most gamers use Windows PCs, so demand for macOS game compatibility is limited; additionally, the AI translation may require high‑end Macs that are not widely owned.
+- Badge guess: black
+
+## Eggshell
+- Source article: [Eggshell](https://www.producthunt.com/products/eggshell-2) (Product Hunt)
+- Category: ai-agent
+- What it does: Provides a local memory layer for AI agents, allowing them to store and retrieve prior work so they can reuse context and reduce token consumption.
+- Likely revenue model: Subscription‑based SaaS with tiered pricing based on the amount of stored memory or token usage.
+- India equivalent: none found
+- India fit note: Success depends on a mature ecosystem of custom AI agents and willingness to pay for token‑saving infrastructure, which is still emerging in India; limited token‑cost awareness may slow adoption.
+- Badge guess: black
+
+## Foleyfy
+- Source article: [Foleyfy](https://www.producthunt.com/products/foleyfy) (Product Hunt)
+- Category: audio-tools
+- What it does: Foleyfy lets users record everyday sounds and automatically processes them into royalty‑free, game‑ready sound effect packs.
+- Likely revenue model: A marketplace model where creators earn a cut on each pack sold and the platform takes a transaction fee, possibly supplemented by a subscription for premium editing tools.
+- India equivalent: none found
+- India fit note: Success depends on a culture of indie game developers who regularly source royalty‑free sound packs and on users having decent recording equipment and fast internet for uploading; while India has a growing game dev scene, the habit of crowdsourced Foley packs is still nascent.
+- Badge guess: black
+
+## Yoetz
+- Source article: [Yoetz](https://www.producthunt.com/products/yoetz) (Product Hunt)
+- Category: AI-qa
+- What it does: Yoetz checks AI-generated outputs to identify gaps or incomplete task execution, providing a validation layer that confirms whether the AI truly completed the intended work.
+- Likely revenue model: Subscription‑based SaaS with tiered plans based on usage volume or number of AI projects monitored.
+- India equivalent: none found
+- India fit note: The product relies on mature AI adoption and a culture of rigorous AI validation, which is still emerging in India; however, as enterprises adopt generative AI, the need for such assurance tools could grow.
+- Badge guess: black
+
+## LokalBot
+- Source article: [LokalBot](https://www.producthunt.com/products/lokalbot) (Product Hunt)
+- Category: desktop-search
+- What it does: LokalBot indexes the content on your Mac—including transcribed speech and visual data—so you can quickly locate things you said or saw on your computer.
+- Likely revenue model: A freemium model with a paid subscription for advanced search features, larger storage, and enterprise integrations.
+- India equivalent: none found
+- India fit note: The product relies heavily on macOS adoption and deep OS integration, both of which are limited in India where Windows and low‑cost Android devices dominate. Additionally, user comfort with storing and searching personal voice and visual data may be lower due to privacy concerns.
+- Badge guess: black
+
