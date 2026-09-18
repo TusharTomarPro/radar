@@ -754,3 +754,66 @@
 - India fit note: The model depends on widespread deployment of autonomous AI agents and robust data pipelines, which are still nascent in India, and may face regulatory hurdles around data sharing.
 - Badge guess: black
 
+## Infinomni
+- Source article: [Infinomni](https://www.producthunt.com/products/infinomni) (Product Hunt)
+- Category: 3d-design
+- What it does: Infinomni converts hand‑drawn sketches into interactive 3D models that users can explore, animate, and export for 3D printing.
+- Likely revenue model: A freemium model with paid subscriptions for advanced features and export options, plus possible per‑print or marketplace fees.
+- India equivalent: none found
+- India fit note: The service relies on widespread access to smartphones or tablets for sketch capture and on affordable, reliable 3D‑printing services, both of which are still limited in many Indian regions.
+- Badge guess: black
+
+## AtlasAlign
+- Source article: [AtlasAlign](https://www.producthunt.com/products/atlasalign) (Product Hunt)
+- Category: bioinformatics
+- What it does: AtlasAlign lets researchers align brain microscopy images to a reference atlas, annotate regions of interest (ROIs), and export the data for analysis.
+- Likely revenue model: A subscription‑based SaaS model with tiered pricing per user or per project, possibly offering a free tier with limited features.
+- India equivalent: none found
+- India fit note: The product relies on high‑resolution microscopy and advanced image‑processing pipelines that are common in well‑funded research labs; many Indian institutes have the hardware but may lack the specialized software expertise, which could slow adoption.
+- Badge guess: black
+
+## ApplySeed
+- Source article: [ApplySeed](https://www.producthunt.com/products/applyseed) (Product Hunt)
+- Category: seed-funding
+- What it does: ApplySeed is a platform that lets early‑stage startups submit applications to multiple accelerators in one place, streamlining the process of raising seed capital. It matches founders with accelerator programs that fit their sector and stage.
+- Likely revenue model: The company likely charges a success‑fee or commission on the capital raised and/or a subscription fee to accelerators for access to the deal flow.
+- India equivalent: none found
+- India fit note: The model relies on a dense network of accelerators that actively source startups through a centralized portal, which is less common in India where accelerators often operate via direct outreach or localized events. Additionally, founders may prefer personal networks over a digital application aggregator.
+- Badge guess: black
+
+## M9R
+- Source article: [M9R](https://www.producthunt.com/products/m9r) (Product Hunt)
+- Category: ai-agent
+- What it does: M9R provides a collaborative, multiplayer environment where AI coding agents can work together on codebases in real time, enabling teams to orchestrate and manage multiple AI assistants.
+- Likely revenue model: A subscription‑based SaaS model with tiered pricing per user or per number of AI agents/computation minutes.
+- India equivalent: none found
+- India fit note: The product relies on high‑speed internet, low‑latency cloud compute, and access to large language models, which can be cost‑prohibitive or face latency issues in many Indian regions, limiting adoption.
+- Badge guess: black
+
+## Sutura
+- Source article: [Sutura](https://www.producthunt.com/products/sutura) (Product Hunt)
+- Category: ci-cd
+- What it does: Sutura provides a self‑healing continuous integration platform that automatically detects failing builds, applies fixes, and verifies that the issue is resolved before proceeding.
+- Likely revenue model: Subscription‑based SaaS pricing, typically tiered by number of users or build minutes used.
+- India equivalent: none found
+- India fit note: The product assumes widespread adoption of automated CI pipelines and a culture of continuous delivery, which is still emerging in many Indian startups and mid‑size firms, potentially limiting immediate uptake.
+- Badge guess: black
+
+## Duvi
+- Source article: [Duvi](https://www.producthunt.com/products/duvi) (Product Hunt)
+- Category: ai-agent
+- What it does: Duvi creates a custom AI chatbot for any business by simply ingesting the business's website URL and generating relevant conversational flows.
+- Likely revenue model: Subscription‑based SaaS with tiered plans based on the number of bots, monthly active users, or API calls.
+- India equivalent: Gupshup
+- India fit note: India has a strong messaging ecosystem and widespread use of chatbots, but success depends on businesses having well‑structured, SEO‑friendly websites, which may vary across sectors.
+- Badge guess: orange
+
+## ZeroSphere
+- Source article: [ZeroSphere](https://www.producthunt.com/products/zerosphere) (Product Hunt)
+- Category: ai-agent
+- What it does: ZeroSphere creates a dedicated on‑screen display that lets users interact with AI models directly on their own computer, turning the AI into a visual, persistent assistant.
+- Likely revenue model: They likely use a freemium model with a paid subscription for advanced features, custom integrations, and higher usage limits.
+- India equivalent: none found
+- India fit note: The product assumes widespread high‑resolution monitors and a culture of using desktop AI assistants, which may be less common in India where mobile‑first usage dominates and desktop AI tools are still niche.
+- Badge guess: black
+

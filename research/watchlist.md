@@ -711,3 +711,10 @@
 | Data Center Plushie | novelty-gadget | black | 2026-09-18 | none found |
 | Institute for Protein Design (IPD) | ai-biotech | black | 2026-09-18 | none found |
 | none found | ai-agent | black | 2026-09-18 | none found |
+| Infinomni | 3d-design | black | 2026-09-18 | none found |
+| AtlasAlign | bioinformatics | black | 2026-09-18 | none found |
+| ApplySeed | seed-funding | black | 2026-09-18 | none found |
+| M9R | ai-agent | black | 2026-09-18 | none found |
+| Sutura | ci-cd | black | 2026-09-18 | none found |
+| Duvi | ai-agent | orange | 2026-09-18 | Gupshup |
+| ZeroSphere | ai-agent | black | 2026-09-18 | none found |
