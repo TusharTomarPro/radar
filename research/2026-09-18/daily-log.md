@@ -493,3 +493,264 @@
 - India fit note: The model relies on a vibrant startup ecosystem, access to venture capital and mentorship networks, which are already present in many Indian regions, so it can be replicated, though coastal Karnataka may need stronger connectivity and awareness to attract participants.
 - Badge guess: orange
 
+## FloodWatch
+- Source article: [Flash floods can strike without warning — this new technology could change that](https://www.theverge.com/science/997083/flash-flood-warning-tacls-satellite-machine-learning) (The Verge)
+- Category: climate-tech
+- What it does: Provides real‑time flood detection and early warning using a network of low‑cost water level sensors and AI‑driven analytics.
+- Likely revenue model: Sells hardware sensors and charges a subscription fee for data access and alert services to municipalities, utilities and insurers.
+- India equivalent: none found
+- India fit note: The solution relies on dense sensor deployment and reliable cellular or broadband connectivity, which can be difficult to achieve in many Indian rural regions with limited infrastructure.
+- Badge guess: black
+
+## NM Signals
+- Source article: [NM Signals](https://www.producthunt.com/products/nyman-media-signals) (Product Hunt)
+- Category: web-analytics
+- What it does: Provides AI‑driven signals and insights to help website owners optimize the experience for both human visitors and AI crawlers.
+- Likely revenue model: Subscription‑based SaaS pricing, likely tiered by traffic volume or feature set.
+- India equivalent: Zoho PageSense
+- India fit note: The product relies on AI parsing of site content and real‑time visitor data, which Indian sites can supply, but adoption may be limited by lower AI‑traffic awareness and data‑privacy regulations.
+- Badge guess: orange
+
+## Stile.iD
+- Source article: [Stile.iD](https://www.producthunt.com/products/stile-id) (Product Hunt)
+- Category: identity-verification
+- What it does: Provides a private API that lets apps verify that a user is a real, unique individual, typically for KYC and fraud prevention.
+- Likely revenue model: Charges businesses a subscription or pay‑per‑verification fee for API usage.
+- India equivalent: Signzy
+- India fit note: The service relies on digital ID documents and real‑time verification, which align with India's Aadhaar and e‑KYC infrastructure, but adoption may be limited by user willingness to share biometric data and the need for robust data‑privacy compliance.
+- Badge guess: orange
+
+## SmartCheck
+- Source article: [SmartCheck](https://www.producthunt.com/products/smartcheck) (Product Hunt)
+- Category: ai-vision
+- What it does: Enables users to count objects in a photo by tapping three example instances, leveraging AI to detect and tally similar items in the image.
+- Likely revenue model: Subscription or pay‑per‑API call model targeting developers and enterprises that need automated image counting.
+- India equivalent: Visenze
+- India fit note: The service relies on high‑quality smartphone cameras and fast internet uploads, which are widely available in urban India but may be limited in rural areas; privacy concerns around image data could also affect adoption.
+- Badge guess: orange
+
+## MiRemoteBridge
+- Source article: [MiRemoteBridge](https://www.producthunt.com/products/miremotebridge) (Product Hunt)
+- Category: pc-remote
+- What it does: MiRemoteBridge is a low‑cost ($5) hardware dongle that lets you pair any Bluetooth remote and use it to control your computer, mapping buttons to keyboard shortcuts or mouse actions.
+- Likely revenue model: One‑time sale of the hardware dongle (direct‑to‑consumer or via e‑commerce platforms).
+- India equivalent: iBall
+- India fit note: The product relies on standard Bluetooth connectivity and PC usage, both of which are common in Indian households and offices, so adoption would not face major behavioral or infrastructure barriers.
+- Badge guess: orange
+
+## AssemblyAI
+- Source article: [Dictation API by AssemblyAI](https://www.producthunt.com/products/assemblyai) (Product Hunt)
+- Category: speech-ai
+- What it does: Provides a cloud API that converts spoken audio into text in real time, letting developers add fast, accurate dictation with a single line of code.
+- Likely revenue model: Usage‑based pricing, charging customers per minute of audio processed through the API.
+- India equivalent: Vernacular.ai
+- India fit note: The service relies on stable broadband and low‑latency cloud connectivity; while India has growing internet coverage, latency could be higher than in the US, and developers must integrate the API into their apps, which may require additional effort.
+- Badge guess: orange
+
+## Simple Commenter
+- Source article: [Simple Commenter AI](https://www.producthunt.com/products/simple-commenter-for-freelance-web-devs) (Product Hunt)
+- Category: ai-code
+- What it does: It lets website owners collect on‑page feedback comments and uses GPT‑6 Astra to automatically draft code fixes for developers.
+- Likely revenue model: A subscription SaaS model with tiered plans for freelancers, agencies, and teams.
+- India equivalent: none found
+- India fit note: Success relies on widespread comfort with AI‑generated code and seamless integration into existing dev workflows, which may be slower in India where many freelancers still use manual bug‑tracking tools and are cautious about AI code quality.
+- Badge guess: black
+
+## Codex GPU Queue
+- Source article: [Codex GPU Queue](https://www.producthunt.com/products/codex-gpu-queue) (Product Hunt)
+- Category: ai-infra
+- What it does: Provides a shared GPU queue for OpenAI Codex sessions, letting multiple developers run code‑generation tasks on a single GPU without manually switching resources.
+- Likely revenue model: Charges users a subscription or pay‑per‑use fee for access to the queued GPU time.
+- India equivalent: none found
+- India fit note: The service relies on high‑end GPUs and low‑latency cloud connectivity, which are expensive and less widely available in India, potentially limiting adoption.
+- Badge guess: black
+
+## VoiceChanger.Live
+- Source article: [VoiceChanger.Live](https://www.producthunt.com/products/voicechanger-live) (Product Hunt)
+- Category: voice-modulation
+- What it does: Provides real‑time voice transformation so users can sound like an anime girl (or other presets) during phone calls, video chats, or streams.
+- Likely revenue model: Freemium model with a free tier and paid subscription or credit‑based purchases for premium voice packs and higher‑quality audio processing.
+- India equivalent: none found
+- India fit note: The service relies on low‑latency internet and integration with global calling platforms, which can be inconsistent in many parts of India; additionally, the niche appeal of anime‑style voices may limit mass adoption.
+- Badge guess: black
+
+## Polishory
+- Source article: [Polishory](https://www.producthunt.com/products/polishory) (Product Hunt)
+- Category: seo-optimizer
+- What it does: Polishory audits a website, identifies AI‑generated or low‑quality content, and delivers a step‑by‑step plan to improve SEO and user experience.
+- Likely revenue model: Subscription‑based SaaS with tiered plans (e.g., monthly/annual) plus possible pay‑per‑audit add‑ons.
+- India equivalent: NeuralText
+- India fit note: The service relies on AI content detection and SEO best practices, both of which are widely used in India, so adoption should be feasible given existing digital marketing infrastructure.
+- Badge guess: orange
+
+## Proto-Mind
+- Source article: [Proto-Mind](https://www.producthunt.com/products/proto-mind) (Product Hunt)
+- Category: ai-assistant
+- What it does: Proto-Mind provides a floating, always‑on‑top AI workspace that lives on the Mac desktop, letting users interact with generative AI without switching apps.
+- Likely revenue model: A subscription‑based model (monthly/annual) with a free tier that limits usage or features.
+- India equivalent: none found
+- India fit note: The product assumes a high penetration of macOS users and constant high‑speed internet, both of which are less common in India compared to Windows or mobile‑first ecosystems.
+- Badge guess: black
+
+## PC Anatomy
+- Source article: [PC Anatomy](https://www.producthunt.com/products/pc-anatomy) (Product Hunt)
+- Category: hardware-visualization
+- What it does: Provides an interactive 3D experience that lets users explore a personal computer’s components from the outer case down to the GPU core.
+- Likely revenue model: Likely earns through affiliate commissions on part sales, premium subscriptions for advanced features, or licensing the 3D engine to manufacturers.
+- India equivalent: none found
+- India fit note: The product relies on high‑speed internet and widespread familiarity with 3D web interfaces, which are available in urban India but may see limited adoption in regions with slower connectivity.
+- Badge guess: black
+
+## Lastbox
+- Source article: [Lastbox](https://www.producthunt.com/products/lastbox) (Product Hunt)
+- Category: mail-management
+- What it does: Lastbox offers a service that receives your physical mail, uses AI to scan and identify junk, discards unwanted items, and forwards only the important pieces to you.
+- Likely revenue model: A monthly subscription fee based on the volume of mail processed.
+- India equivalent: none found
+- India fit note: The model relies on a highly reliable postal delivery system and consumer willingness to hand over physical mail to a third‑party service, which may be limited in India due to address inconsistencies and lower prevalence of junk mail.
+- Badge guess: black
+
+## Sweep
+- Source article: [Sweep](https://www.producthunt.com/products/sweep-9) (Product Hunt)
+- Category: smart-home
+- What it does: Sweep is a device that changes the floor color to green wherever the attached vacuum has cleaned, providing a visual cue of coverage. It integrates with existing vacuums to signal cleaned areas in real time.
+- Likely revenue model: They likely sell the hardware as a one‑time purchase, possibly with optional accessories or a premium app subscription for advanced tracking.
+- India equivalent: none found
+- India fit note: The product relies on consumers valuing visual feedback on cleaning and having compatible flooring (e.g., light-colored tiles or wood) and smart‑home integration, which are less common in many Indian households where cost‑sensitivity and different floor types may limit adoption.
+- Badge guess: black
+
+## izzit
+- Source article: [izzit](https://www.producthunt.com/products/izzit) (Product Hunt)
+- Category: ai-game
+- What it does: izzit is a quick, AI‑powered drawing game where players sketch a word and the AI tries to guess it within three attempts.
+- Likely revenue model: The app likely uses a freemium model with ads and optional in‑app purchases for extra hints or custom themes.
+- India equivalent: none found
+- India fit note: The concept relies on widespread smartphone usage and AI inference that works well with stable internet; both exist in India, but user adoption may be limited by the novelty of AI‑guessing games.
+- Badge guess: black
+
+## citizen404
+- Source article: [citizen404](https://www.producthunt.com/products/citizen404) (Product Hunt)
+- Category: ai-game
+- What it does: An AI‑driven simulation where a GPT‑6 powered AGI runs a virtual world and players hunt the elusive citizen404 character.
+- Likely revenue model: Probably a freemium model with in‑app purchases or a subscription for premium AI features.
+- India equivalent: none found
+- India fit note: The concept relies on ultra‑advanced language models (GPT‑6) and high‑speed cloud compute, which are not yet widely accessible or affordable for mass Indian consumers, limiting immediate adoption.
+- Badge guess: black
+
+## ContextsBase
+- Source article: [ContextsBase - AI Knowledge Platform](https://www.producthunt.com/products/contextsbase) (Product Hunt)
+- Category: ai-knowledge
+- What it does: ContextsBase is a platform that lets companies curate, structure, and expose their product knowledge so AI assistants can retrieve accurate answers in real time.
+- Likely revenue model: Subscription SaaS with tiered plans based on the volume of knowledge assets, API calls, and enterprise features.
+- India equivalent: none found
+- India fit note: Success depends on mature AI integration and well‑documented product data, which many Indian firms still lack; adoption may be limited to large enterprises with dedicated AI teams.
+- Badge guess: black
+
+## TypeDash
+- Source article: [TypeDash](https://www.producthunt.com/products/typedash-2) (Product Hunt)
+- Category: voice-productivity
+- What it does: Provides voice-activated shortcuts and fast dictation capabilities for desktop computers, allowing users to control apps and type text hands‑free.
+- Likely revenue model: Offers a freemium model with a paid subscription for premium features such as advanced commands, higher transcription accuracy, and team management tools.
+- India equivalent: none found
+- India fit note: Success depends on widespread use of desktop environments and a cultural shift toward voice interaction on PCs, which is less common in India where mobile voice assistants dominate.
+- Badge guess: black
+
+## Unfetch
+- Source article: [Unfetch.com](https://www.producthunt.com/products/unfetch-com) (Product Hunt)
+- Category: ad-tech
+- What it does: Uses LLMs like ChatGPT and Claude to automatically create, optimize and manage advertising campaigns across platforms.
+- Likely revenue model: Subscription SaaS with tiered pricing based on ad spend or number of managed campaigns.
+- India equivalent: AdCreative.ai
+- India fit note: The model relies on robust API access to global ad platforms, which exists in India, but widespread adoption may be slowed by the need for multilingual ad copy and stricter local advertising regulations.
+- Badge guess: orange
+
+## Loci
+- Source article: [Loci](https://www.producthunt.com/products/loci-4) (Product Hunt)
+- Category: bioinformatics
+- What it does: Loci is an open‑source platform that lets biomedical researchers analyse microscopy and other lab images through ready‑made pipelines and a user‑friendly interface. It aims to make advanced image analysis accessible to any lab without heavy coding.
+- Likely revenue model: Provides paid enterprise support, custom integration services, and a hosted SaaS version for labs that want managed infrastructure.
+- India equivalent: none found
+- India fit note: The product assumes labs have high‑resolution imaging equipment and reliable compute resources; many Indian research labs still lack such infrastructure and may rely on shared facilities, limiting immediate adoption.
+- Badge guess: black
+
+## Second Eyes
+- Source article: [Second Eyes](https://www.producthunt.com/products/second-eyes) (Product Hunt)
+- Category: ai-photo curation
+- What it does: Second Eyes uses AI to automatically scan a batch of images and shortlist the most suitable ones for faster publishing workflows.
+- Likely revenue model: A subscription‑based SaaS model with tiered plans (e.g., free tier with limited scans, paid tiers for higher volume and advanced features).
+- India equivalent: none found
+- India fit note: The service relies on reliable high‑speed internet and a workflow where publishers upload large image libraries; while Indian media houses have growing digital operations, inconsistent bandwidth and lower AI adoption in smaller outlets could limit immediate uptake.
+- Badge guess: black
+
+## Poke Battle Announcer
+- Source article: [Poke Battle Announcer](https://www.producthunt.com/products/poke-battle-announcer) (Product Hunt)
+- Category: gaming
+- What it does: Provides a live, AI‑generated announcer that narrates Pokémon Champion battles in real time, enhancing streams and videos.
+- Likely revenue model: Offers a freemium model with basic announcer features free and a subscription or one‑time purchase for premium voice packs and customization.
+- India equivalent: none found
+- India fit note: The product relies on a strong Pokémon fan base and high‑quality streaming infrastructure; while streaming is growing in India, Pokémon's popularity is moderate, so adoption may be limited to niche gamers.
+- Badge guess: black
+
+## StillTalk
+- Source article: [StillTalk](https://www.producthunt.com/products/stilltalk) (Product Hunt)
+- Category: ai-avatar
+- What it does: StillTalk animates static photos with AI‑generated speech, letting images ‘talk’ in real time on a device without using video.
+- Likely revenue model: Probably a subscription or per‑generation fee for premium usage and API access.
+- India equivalent: none found
+- India fit note: The product relies on high‑speed mobile data and on‑device AI processing that may be limited on lower‑end Indian smartphones; consumer willingness to pay for a novelty communication tool is also uncertain.
+- Badge guess: black
+
+## Claudebill
+- Source article: [claudebill](https://www.producthunt.com/products/claudebill) (Product Hunt)
+- Category: ai-analytics
+- What it does: Claudebill tracks and displays the monetary cost of each Claude Code session, giving developers real‑time visibility into their AI usage spend.
+- Likely revenue model: A freemium SaaS model with paid tiers for advanced analytics, team dashboards, and higher usage limits.
+- India equivalent: none found
+- India fit note: The product relies on widespread adoption of Anthropic's Claude API, which currently has limited penetration in India compared to OpenAI, and assumes developers have the budget and willingness to monitor per‑session AI spend.
+- Badge guess: black
+
+## Rickub
+- Source article: [Show HN: Rickub – The Smartest Git in the Universe](https://rickub.com/) (Hacker News (front page))
+- Category: dev-tools
+- What it does: Rickub is an AI‑powered assistant that automates and simplifies Git workflows, generating commit messages, branch names, and code diffs for developers.
+- Likely revenue model: Subscription‑based SaaS with tiered plans for individual developers and teams.
+- India equivalent: none found
+- India fit note: The product depends on mature Git usage and AI cloud services, both available in India, but price sensitivity and limited AI adoption in smaller firms could slow traction.
+- Badge guess: black
+
+## ZCode
+- Source article: [ZCode, the GLM coding agent, silently uploads your Git history](https://tokenstead.ai/guides/zcode-silent-git-history-upload) (Hacker News (front page))
+- Category: ai-coding
+- What it does: ZCode is an AI‑powered coding assistant built on the GLM model that can generate, refactor, and debug code. It runs locally in the developer’s IDE and silently uploads the user’s Git history to improve its suggestions.
+- Likely revenue model: A freemium SaaS model with a paid subscription for advanced features, higher usage limits, and enterprise privacy controls.
+- India equivalent: none found
+- India fit note: The product relies on developers being comfortable sharing their entire Git history, which may clash with Indian data‑privacy concerns and corporate policies. Additionally, consistent high‑speed internet is needed for seamless background uploads, which can be spotty in some regions.
+- Badge guess: black
+
+## Data Center Plushie
+- Source article: [Adopt This Data Center Plushie and Hear Its Piercing Scream](https://www.wired.com/story/adopt-this-data-center-plushie-and-hear-its-piercing-scream/) (Wired)
+- Category: novelty-gadget
+- What it does: A cute plush toy that, when squeezed, plays recordings of real data center noises, creating a piercing scream effect.
+- Likely revenue model: Sells limited‑edition plushies directly to consumers at a premium price through an online storefront.
+- India equivalent: none found
+- India fit note: The product relies on a niche tech‑culture humor that may not resonate widely in India, and the novelty appeal may be limited without strong brand recognition.
+- Badge guess: black
+
+## Institute for Protein Design (IPD)
+- Source article: [He Won the Nobel Prize for Protein Design. Now He Uses AI to Create Molecules Not Found in Nature](https://www.wired.com/story/nobel-prize-protein-design-now-using-ai-to-create-molecules-beyond-nature/) (Wired)
+- Category: ai-biotech
+- What it does: Uses generative AI models to design novel proteins and other molecules that do not exist in nature, targeting therapeutics, enzymes, and new materials.
+- Likely revenue model: Licenses the designed molecules to pharmaceutical and material companies and offers custom protein‑design services on a contract basis.
+- India equivalent: none found
+- India fit note: The approach relies on massive computational resources, high‑throughput experimental validation, and a mature biotech ecosystem, which are still limited in India, making large‑scale de‑novo protein design harder to commercialise locally.
+- Badge guess: black
+
+## none found
+- Source article: [AI agents are turning past work into test beds and reusable knowledge](https://www.business-standard.com/technology/artificial-intelligence/ai-agents-past-work-reusable-knowledge-test-beds-126091800817_1.html) (Business Standard Tech)
+- Category: ai-agent
+- What it does: Provides a framework for AI agents to capture, store, and reuse knowledge from completed tasks as test environments and procedural guides for future agents.
+- Likely revenue model: Enterprise subscription licensing for access to the knowledge platform and API.
+- India equivalent: none found
+- India fit note: The model depends on widespread deployment of autonomous AI agents and robust data pipelines, which are still nascent in India, and may face regulatory hurdles around data sharing.
+- Badge guess: black
+

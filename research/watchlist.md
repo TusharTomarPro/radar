@@ -682,3 +682,32 @@
 | Physioplus Healthcare | healthtech | orange | 2026-09-18 | PhysioConnect |
 | MoroMaa | beauty | orange | 2026-09-18 | Forest Essentials |
 | ACIC | incubator | orange | 2026-09-18 | T-Hub |
+| FloodWatch | climate-tech | black | 2026-09-18 | none found |
+| NM Signals | web-analytics | orange | 2026-09-18 | Zoho PageSense |
+| Stile.iD | identity-verification | orange | 2026-09-18 | Signzy |
+| SmartCheck | ai-vision | orange | 2026-09-18 | Visenze |
+| MiRemoteBridge | pc-remote | orange | 2026-09-18 | iBall |
+| AssemblyAI | speech-ai | orange | 2026-09-18 | Vernacular.ai |
+| Simple Commenter | ai-code | black | 2026-09-18 | none found |
+| Codex GPU Queue | ai-infra | black | 2026-09-18 | none found |
+| VoiceChanger.Live | voice-modulation | black | 2026-09-18 | none found |
+| Polishory | seo-optimizer | orange | 2026-09-18 | NeuralText |
+| Proto-Mind | ai-assistant | black | 2026-09-18 | none found |
+| PC Anatomy | hardware-visualization | black | 2026-09-18 | none found |
+| Lastbox | mail-management | black | 2026-09-18 | none found |
+| Sweep | smart-home | black | 2026-09-18 | none found |
+| izzit | ai-game | black | 2026-09-18 | none found |
+| citizen404 | ai-game | black | 2026-09-18 | none found |
+| ContextsBase | ai-knowledge | black | 2026-09-18 | none found |
+| TypeDash | voice-productivity | black | 2026-09-18 | none found |
+| Unfetch | ad-tech | orange | 2026-09-18 | AdCreative.ai |
+| Loci | bioinformatics | black | 2026-09-18 | none found |
+| Second Eyes | ai-photo curation | black | 2026-09-18 | none found |
+| Poke Battle Announcer | gaming | black | 2026-09-18 | none found |
+| StillTalk | ai-avatar | black | 2026-09-18 | none found |
+| Claudebill | ai-analytics | black | 2026-09-18 | none found |
+| Rickub | dev-tools | black | 2026-09-18 | none found |
+| ZCode | ai-coding | black | 2026-09-18 | none found |
+| Data Center Plushie | novelty-gadget | black | 2026-09-18 | none found |
+| Institute for Protein Design (IPD) | ai-biotech | black | 2026-09-18 | none found |
+| none found | ai-agent | black | 2026-09-18 | none found |
