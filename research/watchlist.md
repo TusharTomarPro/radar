@@ -725,3 +725,9 @@
 | Foleyfy | audio-tools | black | 2026-09-18 | none found |
 | Yoetz | AI-qa | black | 2026-09-18 | none found |
 | LokalBot | desktop-search | black | 2026-09-18 | none found |
+| Maaa | ai-assistant | orange | 2026-09-19 | Wysa |
+| Moli | cli-browser | black | 2026-09-19 | none found |
+| Tab Doctor | productivity | black | 2026-09-19 | none found |
+| Galactic Receipt Scanner | expense-tech | orange | 2026-09-19 | Zoho Expense |
+| MeshEdit | game-dev | black | 2026-09-19 | none found |
+| LiveWorld | live-stream aggregation | black | 2026-09-19 | none found |
