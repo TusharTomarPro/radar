@@ -731,3 +731,16 @@
 | Galactic Receipt Scanner | expense-tech | orange | 2026-09-19 | Zoho Expense |
 | MeshEdit | game-dev | black | 2026-09-19 | none found |
 | LiveWorld | live-stream aggregation | black | 2026-09-19 | none found |
+| Lumiko | video-editing | black | 2026-09-19 | none found |
+| Lull | meditation-ai | orange | 2026-09-19 | Sattva |
+| Squirrel | digital-wellness | black | 2026-09-19 | none found |
+| Punch | chat-productivity | black | 2026-09-19 | none found |
+| Mise | meal-planner | orange | 2026-09-19 | Cookpad |
+| UTCP | ai-agent | black | 2026-09-19 | none found |
+| VoiceCap | ai-notetaker | black | 2026-09-19 | none found |
+| Mantra Timer | meditation app | orange | 2026-09-19 | Cult.fit |
+| Doneit | task-management | black | 2026-09-19 | none found |
+| BiBimba | productivity | black | 2026-09-19 | none found |
+| PosterAI | ai-design | black | 2026-09-19 | none found |
+| Onion Futures | agri-tech | orange | 2026-09-19 | NCDEX |
+| Disha | health-tech | orange | 2026-09-19 | HealthifyMe |
