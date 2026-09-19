@@ -750,3 +750,4 @@
 | Laya | ai-agent | orange | 2026-09-19 | Haptik |
 | Tasks.txt | task-management | black | 2026-09-19 | none found |
 | AP30 Music Boy | portable audio | black | 2026-09-19 | none found |
+| Alpine | auto-audio | orange | 2026-09-19 | JBL |

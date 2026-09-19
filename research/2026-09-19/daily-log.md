@@ -223,3 +223,12 @@
 - India fit note: The product targets audiophiles who value hi‑res lossless files and a retro handheld form factor, which may have limited appeal in India due to lower awareness of hi‑res audio, limited broadband for large file downloads, and price sensitivity.
 - Badge guess: black
 
+## Alpine
+- Source article: [Which tech upgrades are worth making to your car's old sound system?](https://www.engadget.com/2257900/tech-upgrades-worth-making-car-old-sound-system/) (Engadget)
+- Category: auto-audio
+- What it does: Offers aftermarket head units that add Bluetooth, Apple CarPlay, and Android Auto to older vehicles' sound systems.
+- Likely revenue model: Sells the hardware units directly to consumers and through car‑audio retailers, earning revenue per unit sold.
+- India equivalent: JBL
+- India fit note: India has a large fleet of older cars and a vibrant aftermarket scene, but widespread CarPlay adoption may be limited by lower smartphone integration habits and the need for professional installation.
+- Badge guess: orange
+
