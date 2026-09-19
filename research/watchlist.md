@@ -751,3 +751,7 @@
 | Tasks.txt | task-management | black | 2026-09-19 | none found |
 | AP30 Music Boy | portable audio | black | 2026-09-19 | none found |
 | Alpine | auto-audio | orange | 2026-09-19 | JBL |
+| Mayday Mysteries | interactive-puzzle | black | 2026-09-19 | none found |
+| ZK-JPEG | privacy-tech | black | 2026-09-19 | none found |
+| Cua | ai-agent | orange | 2026-09-19 | AutomationEdge |
+| Brood War Bench | gaming-analytics | orange | 2026-09-19 | Game.tv |

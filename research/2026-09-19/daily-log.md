@@ -232,3 +232,39 @@
 - India fit note: India has a large fleet of older cars and a vibrant aftermarket scene, but widespread CarPlay adoption may be limited by lower smartphone integration habits and the need for professional installation.
 - Badge guess: orange
 
+## Mayday Mysteries
+- Source article: [Mayday Mysteries](http://www.maydaymystery.org/mayday/) (Hacker News (front page))
+- Category: interactive-puzzle
+- What it does: Mayday Mysteries offers serialized, interactive mystery stories that readers solve by following clues across web pages, emails, and social media. It blends narrative storytelling with puzzle‑solving to create an immersive experience.
+- Likely revenue model: Revenue likely comes from a subscription or pay‑per‑story model, possibly supplemented by merchandise and sponsorships.
+- India equivalent: none found
+- India fit note: The model relies on high broadband penetration, frequent digital content consumption, and a culture of niche hobby communities, which are still emerging in many Indian regions, making rapid adoption uncertain.
+- Badge guess: black
+
+## ZK-JPEG
+- Source article: [ZK-JPEG: Zero-Knowledge Image Editing and Compression](https://eprint.iacr.org/2026/2039) (Hacker News (front page))
+- Category: privacy-tech
+- What it does: Provides zero‑knowledge proof based image editing and compression, allowing verification of edits without exposing the underlying image data.
+- Likely revenue model: Charges enterprises a subscription or per‑API‑call fee for access to the privacy‑preserving image processing service.
+- India equivalent: none found
+- India fit note: Adoption depends on widespread demand for cryptographic privacy in media workflows and reliable high‑speed connectivity, which are still emerging in many Indian sectors.
+- Badge guess: black
+
+## Cua
+- Source article: [Show HN: CUA-S1 – A System One Model for Computer Use](https://github.com/trycua/cua) (Hacker News (front page))
+- Category: ai-agent
+- What it does: Cua-S1 is a lightweight, specialized model that scores predefined actions (e.g., CHECK, CLICK, SKIP) for each element in a digital form, enabling fast, accurate form‑filling without a full‑scale LLM. It runs locally, delivering decisions in milliseconds.
+- Likely revenue model: They likely offer the open‑source core for free and monetize through enterprise SaaS access, custom model training, and support subscriptions.
+- India equivalent: AutomationEdge
+- India fit note: The model relies on low‑latency local inference and synthetic data generation, which are feasible in India, but widespread adoption may be limited by the need for integration with existing RPA/automation stacks and the current scarcity of specialized AI‑agent expertise.
+- Badge guess: orange
+
+## Brood War Bench
+- Source article: [Brood War Bench](https://bw.swerdlow.dev/report) (Hacker News (front page))
+- Category: gaming-analytics
+- What it does: Provides a benchmarking platform for StarCraft: Brood War AI bots, allowing developers to run matches, compare performance, and track improvements via leaderboards and analytics.
+- Likely revenue model: Charges subscription fees for API access and premium analytics dashboards, plus tournament hosting fees and sponsorships.
+- India equivalent: Game.tv
+- India fit note: The service relies on a niche competitive StarCraft community and high‑performance compute resources for AI matches, both of which are limited in India, so adoption may be constrained.
+- Badge guess: orange
+
