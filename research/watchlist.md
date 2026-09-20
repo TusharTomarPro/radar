@@ -776,3 +776,7 @@
 | Chess Atlas | chess-analytics | black | 2026-09-20 | none found |
 | CubeAPM | ai-observability | orange | 2026-09-20 | SigNoz |
 | AI Trust Framework | ai-ethics | black | 2026-09-20 | none found |
+| System Design In Depth | edtech | orange | 2026-09-20 | Scaler Academy |
+| MillenniumProblems.bio | research-platform | black | 2026-09-20 | none found |
+| Sigabrt.dev | devops-monitoring | black | 2026-09-20 | none found |
+| Dogs Anonymous | pet-support | black | 2026-09-20 | none found |

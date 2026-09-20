@@ -187,3 +187,39 @@
 - India fit note: The approach relies on widespread digital literacy and consistent access to AI services, which may be uneven in many Indian regions, limiting immediate adoption.
 - Badge guess: black
 
+## System Design In Depth
+- Source article: [system design in depth – 200 topics, 118 diagrams, interactive demos](https://system-design-in-depth.pages.dev) (Hacker News (front page))
+- Category: edtech
+- What it does: Provides a curated collection of 200 system‑design topics, 118 diagrams, and interactive demos to help engineers learn and interview‑prepare for large‑scale architecture problems.
+- Likely revenue model: Subscription‑based access to premium content or a freemium model with paid certificates and corporate training packages.
+- India equivalent: Scaler Academy
+- India fit note: The model relies on high‑speed internet and a strong market for interview prep, both of which are well‑established in India, so adoption should be smooth.
+- Badge guess: orange
+
+## MillenniumProblems.bio
+- Source article: [The Millennium Problems for Biology](https://millenniumproblems.bio/) (Hacker News (front page))
+- Category: research-platform
+- What it does: An online portal that curates and highlights the most fundamental unsolved problems in biology, encouraging collaboration and research focus.
+- Likely revenue model: Likely funded through grants, academic sponsorships, and optional premium memberships or donations.
+- India equivalent: none found
+- India fit note: The model relies on a highly active, globally networked academic community and grant funding structures that are less prevalent in India, which may limit immediate traction.
+- Badge guess: black
+
+## Sigabrt.dev
+- Source article: [Show HN: Sigabrt.dev – cronjob monitor with an SSH TUI](https://sigabrt.dev) (Hacker News (front page))
+- Category: devops-monitoring
+- What it does: Sigabrt.dev provides a lightweight service that pings an endpoint from cronjobs; if the ping stops, it sends email or ntfy alerts. It also offers a read‑only SSH TUI for viewing job status.
+- Likely revenue model: Likely a freemium SaaS model with paid tiers for higher alert volumes, custom integrations, and advanced monitoring features.
+- India equivalent: none found
+- India fit note: The service relies on self‑hosted cron jobs and basic email/ntfy notifications, which are available in India, but widespread adoption may be limited by the relatively lower proportion of developers managing their own servers versus using managed cloud services.
+- Badge guess: black
+
+## Dogs Anonymous
+- Source article: [Welcome to Dogs Anonymous, the Online Support Group for People With Difficult Dogs](https://www.wired.com/story/inside-dogs-anonymous-the-online-support-group-for-people-with-difficult-dogs/) (Wired)
+- Category: pet-support
+- What it does: An online community where dog owners can vent, share stories, and get peer advice for handling difficult or misbehaving dogs.
+- Likely revenue model: Subscription‑based membership with tiered access to premium content, expert Q&A sessions, and possibly ad‑supported free tiers.
+- India equivalent: none found
+- India fit note: Indian pet owners may be less accustomed to openly discussing frustrations with their dogs due to cultural attitudes toward pets, and a large portion of dogs are stray rather than owned, limiting the target audience.
+- Badge guess: black
+
