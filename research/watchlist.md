@@ -780,3 +780,9 @@
 | MillenniumProblems.bio | research-platform | black | 2026-09-20 | none found |
 | Sigabrt.dev | devops-monitoring | black | 2026-09-20 | none found |
 | Dogs Anonymous | pet-support | black | 2026-09-20 | none found |
+| ScrollEd | edtech | orange | 2026-09-20 | BYJU'S |
+| JevChat | ai-chatbot | orange | 2026-09-20 | Haptik |
+| Software Factory | dev-tools | black | 2026-09-20 | none found |
+| Radius | event-platform | orange | 2026-09-20 | Eventshala |
+| NLB Reading Rewards | edtech | black | 2026-09-20 | none found |
+| Pirate Face | model-ops | black | 2026-09-20 | none found |

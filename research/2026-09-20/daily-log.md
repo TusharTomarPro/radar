@@ -223,3 +223,57 @@
 - India fit note: Indian pet owners may be less accustomed to openly discussing frustrations with their dogs due to cultural attitudes toward pets, and a large portion of dogs are stray rather than owned, limiting the target audience.
 - Badge guess: black
 
+## ScrollEd
+- Source article: [ScrollEd wants to turn textbooks into TikTok](https://techcrunch.com/2026/09/20/scrolled-wants-to-turn-textbooks-into-tiktok/) (TechCrunch)
+- Category: edtech
+- What it does: ScrollEd converts traditional textbook content into a scrollable, Instagram‑like feed enriched with short videos, audio clips, and embedded quizzes.
+- Likely revenue model: They likely charge schools, universities or students a subscription/licensing fee for access to the interactive digital textbook platform.
+- India equivalent: BYJU'S
+- India fit note: India has a large mobile‑first student base and widespread adoption of video‑based learning platforms, so the model fits well, though it relies on high‑speed internet and a cultural shift toward bite‑sized learning that is already underway.
+- Badge guess: orange
+
+## JevChat
+- Source article: [I turned Jev into a (lousy) chatbot](https://github.com/kyle-pena-nlp/jevchat/) (Hacker News (front page))
+- Category: ai-chatbot
+- What it does: JevChat is an open‑source tool that wraps the Jev knowledge‑base platform with a conversational interface, letting users ask questions in natural language.
+- Likely revenue model: It is free and open‑source, likely monetised through consulting, custom integrations or sponsorships.
+- India equivalent: Haptik
+- India fit note: India has a large mobile‑first user base and widespread adoption of chatbot services, so the model works well there, though success depends on having a well‑structured knowledge base and reliable internet connectivity.
+- Badge guess: orange
+
+## Software Factory
+- Source article: [Trying the Software Factory Pattern](https://lethain.com/software-factory-experiment/) (Hacker News (front page))
+- Category: dev-tools
+- What it does: A framework/pattern that automates the generation of boilerplate code and scaffolds software components to accelerate development cycles.
+- Likely revenue model: Primarily open‑source or internal tooling, likely monetized through consulting or enterprise support rather than direct product sales.
+- India equivalent: none found
+- India fit note: The model relies on a mature engineering culture and widespread adoption of automated code‑generation practices, which are still emerging in many Indian firms.
+- Badge guess: black
+
+## Radius
+- Source article: [Show HN: Radius – A Meetup.com Alternative](https://radius.to/) (Hacker News (front page))
+- Category: event-platform
+- What it does: Radius is a community‑focused platform that lets groups create and discover events and lightweight "activities" for people to join and coordinate.
+- Likely revenue model: Likely a freemium model where basic event listings are free and organizers pay subscription or transaction fees for premium features, promotion, or analytics.
+- India equivalent: Eventshala
+- India fit note: The concept relies on urban, internet‑savvy users who regularly attend or organize meet‑ups; such behavior exists in Indian metros, but network effects may be weaker in smaller towns where community‑driven event culture is less mature.
+- Badge guess: orange
+
+## NLB Reading Rewards
+- Source article: [Singapore’s National Library Board offers micropayments to build reading habits](https://www.gadgetreview.com/singapore-is-paying-people-to-put-down-their-phones-and-read-books) (Hacker News (front page))
+- Category: edtech
+- What it does: The National Library Board of Singapore pays users small micropayments for reading books, using a digital platform to track reading time and reward habit formation.
+- Likely revenue model: Funded primarily by government allocations and possibly sponsorships rather than direct user fees.
+- India equivalent: none found
+- India fit note: Success depends on high digital‑wallet penetration and a strong culture of voluntary reading; while UPI enables easy micropayments, India's lower per‑capita leisure reading and different public‑library ecosystem could hinder rapid adoption.
+- Badge guess: black
+
+## Pirate Face
+- Source article: [Pirate Face Rescues LLM Models from Deletion](https://pirateface.co/) (Hacker News (front page))
+- Category: model-ops
+- What it does: Pirate Face offers a backup and hosting platform that preserves large language model checkpoints that would otherwise be deleted, allowing developers to retrieve, fine‑tune, and deploy them later. It acts as a safety net for open‑source LLMs by archiving versions and providing easy access via APIs.
+- Likely revenue model: Subscription‑based pricing for storage and API access, with tiered plans based on model size and request volume.
+- India equivalent: none found
+- India fit note: The service relies on high‑capacity cloud storage and a community that frequently shares large open‑source LLM checkpoints, which are less common in India due to higher storage costs and slower adoption of open‑source model ecosystems.
+- Badge guess: black
+
