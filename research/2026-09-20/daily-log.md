@@ -277,3 +277,12 @@
 - India fit note: The service relies on high‑capacity cloud storage and a community that frequently shares large open‑source LLM checkpoints, which are less common in India due to higher storage costs and slower adoption of open‑source model ecosystems.
 - Badge guess: black
 
+## No Dogs in Space
+- Source article: [No Dogs in Space is back to feed your need for obsessive music history](https://www.theverge.com/report/997948/no-dogs-in-space-is-back-punk-2-0-music-history-podcast) (The Verge)
+- Category: podcast
+- What it does: A music‑history podcast that dives deep into obscure and influential songs, artists, and scenes, delivering narrative‑driven episodes for obsessive music fans.
+- Likely revenue model: Monetized through sponsorships, dynamic ad insertion, listener donations (e.g., Patreon) and occasional merchandise sales.
+- India equivalent: JioSaavn's The MusiCasts
+- India fit note: India has strong mobile internet penetration and a growing podcast audience, but niche music‑history content may attract a smaller, more urban listener base; the model relies on ad‑supported streaming which works well in India.
+- Badge guess: orange
+
