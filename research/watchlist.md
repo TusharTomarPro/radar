@@ -816,3 +816,9 @@
 | Jev-Leftpad | developer-tools | black | 2026-09-21 | none found |
 | Kev | ai-agent | black | 2026-09-21 | none found |
 | Heretic | ai-llm | black | 2026-09-21 | none found |
+| Tabby | fintech | orange | 2026-09-21 | Khatabook |
+| Corridor | benefits-brokerage | orange | 2026-09-21 | PolicyBazaar |
+| Foremerge | ai-agent | black | 2026-09-21 | none found |
+| Lossless Memory | ai-memory | black | 2026-09-21 | none found |
+| Cozy Lives | indie-game | black | 2026-09-21 | none found |
+| Petivity | pet-tech | black | 2026-09-21 | none found |

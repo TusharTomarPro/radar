@@ -259,3 +259,57 @@
 - India fit note: The model assumes users have reliable high‑speed internet and access to substantial compute resources, which are less common in many Indian regions; additionally, regulatory scrutiny around uncensored AI content could hinder adoption.
 - Badge guess: black
 
+## Tabby
+- Source article: [With Tabby, a former accountant is using AI to make accountants obsolete](https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete/) (TechCrunch)
+- Category: fintech
+- What it does: Tabby offers an AI‑powered, real‑time bookkeeping platform that automatically processes client paperwork and provides up‑to‑the‑minute profit and loss insights.
+- Likely revenue model: It likely charges businesses a subscription SaaS fee for access to the automated bookkeeping service.
+- India equivalent: Khatabook
+- India fit note: Success depends on widespread digital receipt capture and integration with bank feeds; many Indian SMEs still rely heavily on cash and manual record‑keeping, which could slow adoption despite growing digital payments.
+- Badge guess: orange
+
+## Corridor
+- Source article: [Corridor raises $25M seed to build a health benefits brokerage for SMBs](https://techcrunch.com/2026/09/21/corridor-raises-25m-seed-to-build-a-health-benefits-brokerage-for-smbs/) (TechCrunch)
+- Category: benefits-brokerage
+- What it does: Offers a brokerage platform that helps small and medium-sized businesses source and manage health insurance benefits for their employees.
+- Likely revenue model: Earns commissions or placement fees from insurance carriers based on the number of employees enrolled through its platform.
+- India equivalent: PolicyBazaar
+- India fit note: SMBs in India are increasingly seeking group health coverage, but many operate informally and lack dedicated HR functions, which could slow adoption of a broker‑driven model; regulatory nuances and insurer partnerships also differ.
+- Badge guess: orange
+
+## Foremerge
+- Source article: [Show HN: Foremerge – Catch intent conflicts between parallel coding agents](https://github.com/naw103/foremerge) (Hacker News (front page))
+- Category: ai-agent
+- What it does: Foremerge provides a coordination layer that lets multiple AI coding agents work on the same repository by publishing intents and scopes, flagging destructive conflicts before code is written.
+- Likely revenue model: Probably a SaaS subscription model with tiered pricing for teams that need the enterprise‑grade coordination server and support.
+- India equivalent: none found
+- India fit note: The product assumes widespread use of autonomous AI coding agents (Claude, Codex, etc.) and a culture of parallel code generation, which is still nascent in India; infrastructure like fast CI/CD pipelines exists, but adoption may be limited by the availability of such agents.
+- Badge guess: black
+
+## Lossless Memory
+- Source article: [Show HN: Lossless-memory – a personal AI memory that never summarizes](https://github.com/aru-labs/lossless-memory) (Hacker News (front page))
+- Category: ai-memory
+- What it does: Provides a personal AI-powered knowledge base that stores raw user data without summarizing, enabling lossless retrieval via semantic search.
+- Likely revenue model: Subscription‑based SaaS for cloud storage, compute and premium retrieval features, with possible enterprise licensing.
+- India equivalent: none found
+- India fit note: Success depends on widespread high‑speed internet, affordable cloud compute, and user comfort with storing personal data in AI models—factors that are still uneven across India.
+- Badge guess: black
+
+## Cozy Lives
+- Source article: [Engadget Indie Pitch: Dressmaker](https://www.engadget.com/2264203/engadget-indie-pitch-dressmaker/) (Engadget)
+- Category: indie-game
+- What it does: Dressmaker is a narrative-driven simulation game where players design, craft, and sell dresses while managing a boutique and exploring story elements. It blends fashion creativity with resource management and storytelling.
+- Likely revenue model: The game is sold as a one-time purchase on Steam, with possible additional revenue from DLC or cosmetic microtransactions.
+- India equivalent: none found
+- India fit note: The game relies on a PC gaming audience comfortable with Steam purchases and a cultural interest in fashion design; while India’s PC gaming market is growing, lower average disposable income and limited Steam penetration could affect adoption.
+- Badge guess: black
+
+## Petivity
+- Source article: [Petivity's new smart feeder asks the question 'what if Flock, but for cats?'](https://www.engadget.com/2262397/petivity-new-smart-cat-feeder-asks-the-question-what-if-flock-but-for-cats/) (Engadget)
+- Category: pet-tech
+- What it does: Petivity offers a smart cat feeder that dispenses precise portions, tracks feeding times, and connects to a mobile app for remote monitoring and scheduling.
+- Likely revenue model: Revenue likely comes from one‑time hardware sales plus optional subscription fees for premium app features or automatic food replenishment services.
+- India equivalent: none found
+- India fit note: The product relies on widespread broadband connectivity and a culture of tech‑savvy pet owners, which are still emerging in many Indian households, especially outside major metros.
+- Badge guess: black
+
