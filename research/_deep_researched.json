@@ -2172,5 +2172,113 @@
     "india_cost_estimate": "\u20b915\u201330 lakh for 6\u201312 months: a small team of 2\u20134 engineers (\u20b91\u20131.5L/month all-in per person), cloud/API costs for SEO data feeds (~\u20b930\u201380K/month), and basic infra, with no paid marketing\u2014consistent with a low capital-intensity SaaS build.",
     "risk_score": 7,
     "risk_reasoning": "Serpspur itself shut down due to lack of product-market fit, and its only claimed competitor RankWatch also ceased operations in 2026, indicating the category failed to sustain even two players. While regulatory walls are absent and capital intensity is low (standard SaaS model), the broader Indian startup ecosystem saw 28,000+ shutdowns in two years, and the confirmed death of both competing SEO-tool startups makes this a high-risk replication bet."
+  },
+  "coldcraft::2026-09-06": {
+    "company": "ColdCraft",
+    "category": "sales-automation",
+    "revised_badge": "orange",
+    "competitor_status": "surviving",
+    "regulatory_flag": "none",
+    "capital_intensity": "low",
+    "known_numbers": "no public numbers found",
+    "india_cost_estimate": "\u20b912\u201120\u202flakh for 6\u201112\u202fmonths (cloud & API usage ~\u20b93\u20115\u202flakh, 2\u20113 senior engineers ~\u20b98\u201115\u202flakh, minimal marketing)",
+    "risk_score": 4,
+    "risk_reasoning": "LeadSquared is an active, well\u2011funded sales\u2011automation player, confirming a real competitive moat (orange badge). The SaaS model faces little regulatory friction in India and is asset\u2011light, keeping capital needs low. The main risk is market saturation and the need to differentiate, but overall the venture is moderately attractive."
+  },
+  "dukotools::2026-09-06": {
+    "company": "DukoTools",
+    "category": "web-tools",
+    "revised_badge": "black",
+    "competitor_status": "dead",
+    "regulatory_flag": "none",
+    "capital_intensity": "low \u2013 as a SaaS/web\u2011tools offering it is asset\u2011light and can reach profitability with modest engineering and cloud spend.",
+    "known_numbers": "no public numbers found; the only concrete detail is that DukoTools reportedly shut down in 2025 due to financial difficulties.",
+    "india_cost_estimate": "\u20b912\u201120\u202flakh for 6\u201112\u202fmonths (covers cloud hosting, domain & APIs, a core team of 2\u20114 engineers, basic legal/compliance, and minimal office overhead).",
+    "risk_score": 5,
+    "risk_reasoning": "While the idea faces no clear direct competitor and regulatory hurdles are minimal, the fact that the original DukoTools folded in 2025 signals market or execution risk. The low capital intensity keeps the financial barrier modest, but the lack of traction data makes the venture moderately risky."
+  },
+  "tinypdf::2026-09-06": {
+    "company": "TinyPDF",
+    "category": "pdf-tools",
+    "revised_badge": "black",
+    "competitor_status": "no-real-competitor-found",
+    "regulatory_flag": "none",
+    "capital_intensity": "low \u2013 a SaaS PDF editor is asset\u2011light, requiring only cloud infrastructure and a small engineering team, so it can become profitable with modest capital.",
+    "known_numbers": "no public numbers found",
+    "india_cost_estimate": "\u20b935\u201150\u202flakh for 6\u201112\u202fmonths (cloud/API hosting ~\u20b95\u201110\u202flakh, 2\u20113 engineers & product lead ~\u20b925\u201140\u202flakh in salaries, minimal marketing).",
+    "risk_score": 4,
+    "risk_reasoning": "The lack of identified competitors and minimal regulatory exposure make the opportunity attractive, but the absence of any disclosed revenue or user metrics creates uncertainty about market traction. Low capital intensity keeps the financial risk modest, resulting in a moderate overall risk rating."
+  },
+  "rdooley-dev::2026-09-06": {
+    "company": "rdooley.dev",
+    "category": "dev-tools",
+    "revised_badge": "black",
+    "competitor_status": "no-real-competitor-found",
+    "regulatory_flag": "none",
+    "capital_intensity": "low",
+    "known_numbers": "no public numbers found",
+    "india_cost_estimate": "\u20b96\u201112\u202flakh for a 6\u201112\u202fmonth MVP and small core team (2\u20114 engineers, cloud/API usage, basic support).",
+    "risk_score": 3,
+    "risk_reasoning": "Search evidence shows no existing Indian competitor and no regulatory hurdles for a SaaS dev\u2011tool, keeping risk modest. The model is asset\u2011light with low capital needs, but the lack of market data adds some uncertainty, resulting in a moderate\u2011low risk score."
+  },
+  "afop::2026-09-06": {
+    "company": "AFOP",
+    "category": "freelance-education",
+    "revised_badge": "black",
+    "competitor_status": "no-real-competitor-found",
+    "regulatory_flag": "none",
+    "capital_intensity": "low \u2013 the model is primarily software\u2011only (platform, matching, content delivery) and can be built with a small engineering and product team without heavy asset investment.",
+    "known_numbers": "no public numbers found",
+    "india_cost_estimate": "\u20b912\u201120\u202flakh for 6\u201112\u202fmonths (cloud hosting, AI APIs, 2\u20113 engineers, a product manager, basic legal/compliance, and minimal marketing).",
+    "risk_score": 4,
+    "risk_reasoning": "The search yielded no clear competitors, suggesting a first\u2011mover advantage, and the regulatory environment for online education is light. Capital needs are modest, keeping burn low. However, the lack of any public traction data and the uncertainty around market adoption keep the risk at a moderate level."
+  },
+  "agenmatic::2026-09-06": {
+    "company": "Agenmatic",
+    "category": "growth-hacking",
+    "revised_badge": "orange",
+    "competitor_status": "dead",
+    "regulatory_flag": "moderate \u2013 Indian IT Act, 2000 and the pending Personal Data Protection Bill impose data\u2011localisation and privacy compliance for any social\u2011media/ growth\u2011hacking platform.",
+    "capital_intensity": "low \u2013 the model is pure\u2011software, asset\u2011light and can reach profitability with modest cloud spend and a small engineering team.",
+    "known_numbers": "Founded 2014, shut down 2016; 50\u2011100 employees at peak; raised <\u202f$1\u202fM total funding; no public revenue or user\u2011count figures disclosed.",
+    "india_cost_estimate": "\u20b930\u201145\u202flakh for a 6\u201112\u202fmonth MVP: cloud & API usage (~\u20b95\u201110\u202flakh), 2\u20113 engineers (\u2248\u20b918\u201122\u202flakh), product manager/UX (~\u20b98\u201110\u202flakh), minimal legal/compliance (~\u20b91\u20113\u202flakh).",
+    "risk_score": 6,
+    "risk_reasoning": "Agenmatic is defunct, so reviving the idea faces a crowded agentic\u2011AI/social\u2011media market with established Indian players (e.g., Yellow.ai, Haptik, Uniphore). Regulatory compliance is moderate due to data\u2011privacy laws, but the capital requirement is low, keeping the financial barrier modest. The combination of strong incumbents and uncertain product\u2011market fit pushes the risk to a mid\u2011range level."
+  },
+  "networkhq::2026-09-06": {
+    "company": "NetworkHQ",
+    "category": "lead-gen",
+    "revised_badge": "orange",
+    "competitor_status": "surviving",
+    "regulatory_flag": "none",
+    "capital_intensity": "low",
+    "known_numbers": "no public numbers found",
+    "india_cost_estimate": "\u20b912\u201120\u202flakh for 6\u201112\u202fmonths (cloud hosting, basic SaaS stack, 2\u20113 engineers, minimal sales/marketing spend)",
+    "risk_score": 6,
+    "risk_reasoning": "LeadSquared is a well\u2011funded, active competitor, confirming the market exists, but NetworkHQ itself shut down in India in 2023 due to insufficient demand, indicating a weak product\u2011market fit. The business model is low\u2011capital and faces no major regulatory hurdles, yet the lack of traction raises a moderate risk level."
+  },
+  "stateguard::2026-09-06": {
+    "company": "StateGuard",
+    "category": "dev-tools",
+    "revised_badge": "black",
+    "competitor_status": "no-real-competitor-found",
+    "regulatory_flag": "none",
+    "capital_intensity": "low \u2013 a SaaS monitoring tool is asset\u2011light, requiring mainly cloud hosting and a small engineering team, so it can reach profitability without heavy cash burn.",
+    "known_numbers": "no public numbers found",
+    "india_cost_estimate": "\u20b912\u201120\u202flakh for an MVP and a 2\u20114\u2011person engineering/ops team for the first 6\u201112\u202fmonths (cloud hosting, basic tooling, salaries, and minimal overhead).",
+    "risk_score": 6,
+    "risk_reasoning": "The search shows StateGuard was actually a failed social\u2011media startup, not a dev\u2011tools product, and the claimed competitor (AppDynamics) already dominates the APM space, indicating a structural barrier. Regulatory exposure is minimal and capital needs are low, but the lack of a clear market niche and the presence of strong incumbents raise the overall risk."
+  },
+  "fitforge::2026-09-06": {
+    "company": "FitForge",
+    "category": "fitness-tech",
+    "revised_badge": "orange",
+    "competitor_status": "surviving",
+    "regulatory_flag": "moderate \u2013 Indian Personal Data Protection Bill (draft) and IT Act rules on storage of health\u2011related personal data impose consent, security and localisation requirements.",
+    "capital_intensity": "low \u2013 the model is asset\u2011light (software platform, no inventory or delivery fleet) and can reach profitability with modest cloud and staffing spend.",
+    "known_numbers": "no public numbers found",
+    "india_cost_estimate": "\u20b912\u201120\u202flakh for 6\u201112\u202fmonths (cloud & API usage ~\u20b93\u20115\u202flakh, 3\u20114 engineers & product lead ~\u20b97\u201112\u202flakh, minimal office & legal overhead).",
+    "risk_score": 5,
+    "risk_reasoning": "FitForge faces an existing, still\u2011operating competitor (Fittr), which reduces market\u2011entry upside. Regulatory exposure is moderate due to health data rules, but not a hard barrier. Capital needs are low, keeping cash\u2011burn manageable, leading to a mid\u2011range risk rating."
   }
 }
