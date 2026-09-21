@@ -788,3 +788,31 @@
 | Pirate Face | model-ops | black | 2026-09-20 | none found |
 | No Dogs in Space | podcast | orange | 2026-09-20 | JioSaavn's The MusiCasts |
 | OutData | data-platform | orange | 2026-09-21 | Fractal Analytics |
+| Simular | infrastructure-automation | black | 2026-09-21 | none found |
+| Cronhq | devops | black | 2026-09-21 | none found |
+| Sell to State | govtech | orange | 2026-09-21 | Tender247 |
+| Jev | ai-automation | black | 2026-09-21 | none found |
+| Superset Mobile | ai-agent | black | 2026-09-21 | none found |
+| Gradio | ai-pipeline | black | 2026-09-21 | none found |
+| Flicka | demo-tools | black | 2026-09-21 | none found |
+| Arcjet | ai-security | black | 2026-09-21 | none found |
+| Hyrax AI | ai-devtools | black | 2026-09-21 | none found |
+| Plume | resume-builder | orange | 2026-09-21 | ResumeMaker.in |
+| Jevtown | ai-feedback | black | 2026-09-21 | none found |
+| Simha Digital | seo-tool | orange | 2026-09-21 | RankWatch |
+| Refoid | refund-automation | black | 2026-09-21 | none found |
+| Supacut | video-editing | orange | 2026-09-21 | InVideo |
+| NiubiGEO | ai-visibility | black | 2026-09-21 | none found |
+| Decode | ad-tech | black | 2026-09-21 | none found |
+| Milliseconds.ai | ai-api | black | 2026-09-21 | none found |
+| OmniDICOM | healthtech | black | 2026-09-21 | none found |
+| Slop Grader | ai-devtools | black | 2026-09-21 | none found |
+| PostSider | social-scheduling | orange | 2026-09-21 | Zoho Social |
+| Turfs | desktop-productivity | black | 2026-09-21 | none found |
+| Osmotic | drone-software | black | 2026-09-21 | none found |
+| SecAIQ | ai-security | black | 2026-09-21 | none found |
+| AppGrowthKit | app-store-optimization | black | 2026-09-21 | none found |
+| Lead Sparker | sales-enablement | black | 2026-09-21 | none found |
+| Jev-Leftpad | developer-tools | black | 2026-09-21 | none found |
+| Kev | ai-agent | black | 2026-09-21 | none found |
+| Heretic | ai-llm | black | 2026-09-21 | none found |
