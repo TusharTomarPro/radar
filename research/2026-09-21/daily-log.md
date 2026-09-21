@@ -313,3 +313,21 @@
 - India fit note: The product relies on widespread broadband connectivity and a culture of tech‑savvy pet owners, which are still emerging in many Indian households, especially outside major metros.
 - Badge guess: black
 
+## Transformer Explainer
+- Source article: [Transformers Explained Visually](https://poloclub.github.io/transformer-explainer/) (Hacker News (front page))
+- Category: ai-education
+- What it does: Offers an interactive visual walkthrough of transformer models, illustrating attention heads, token flow, and architecture components.
+- Likely revenue model: Likely free/open‑source, funded through research grants, consulting, or sponsorship rather than direct sales.
+- India equivalent: none found
+- India fit note: The tool relies on internet access and a baseline understanding of deep learning, which are available in Indian academia, but there is limited commercial demand for a paid visualizer.
+- Badge guess: black
+
+## Food Price Monitor
+- Source article: [Show HN: A website that tracks US food prices every day](https://www.kadoa.com/food-prices) (Hacker News (front page))
+- Category: agri-data
+- What it does: Aggregates daily USDA food price data for hundreds of commodities and presents it in an easy‑to‑browse, historical web interface.
+- Likely revenue model: Open‑source project likely funded through donations, grants, or consulting services rather than direct sales.
+- India equivalent: Kisan Suvidha
+- India fit note: India has government‑run price portals (e.g., Kisan Suvidha) but data granularity and daily updates are less comprehensive, and user adoption for a public price‑tracking dashboard may be limited by fragmented market data.
+- Badge guess: orange
+

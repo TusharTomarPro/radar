@@ -822,3 +822,5 @@
 | Lossless Memory | ai-memory | black | 2026-09-21 | none found |
 | Cozy Lives | indie-game | black | 2026-09-21 | none found |
 | Petivity | pet-tech | black | 2026-09-21 | none found |
+| Transformer Explainer | ai-education | black | 2026-09-21 | none found |
+| Food Price Monitor | agri-data | orange | 2026-09-21 | Kisan Suvidha |
