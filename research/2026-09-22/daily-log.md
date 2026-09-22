@@ -448,3 +448,39 @@
 - India fit note: The model relies on high‑volume email workflows and integration with corporate tools, which are common in Indian enterprises, but data‑privacy concerns and slower adoption of AI‑driven automation in some sectors could limit immediate uptake.
 - Badge guess: orange
 
+## a16z Academy
+- Source article: [a16z is challenging Silicon Valley’s love for drop-outs by launching a school](https://techcrunch.com/2026/09/22/a16z-is-challenging-silicon-valleys-love-for-drop-outs-by-launching-a-school/) (TechCrunch)
+- Category: edtech
+- What it does: Provides a short‑term, intensive program for high‑school graduates that combines trade‑school style skill training, startup mentorship, and seed funding, aiming to launch founder‑led companies.
+- Likely revenue model: a16z likely takes equity stakes in the startups that graduate from the program, possibly supplemented by tuition or sponsorship fees.
+- India equivalent: Founder Institute India
+- India fit note: The model relies on a culture of early dropout entrepreneurship and ready access to venture capital and mentorship networks, which are less prevalent for high‑school grads in India; scaling would need stronger VC pipelines and acceptance of non‑traditional career paths.
+- Badge guess: orange
+
+## Obscura
+- Source article: [Obscura: The first VPN that can't log your activity](https://obscura.com/#faq-technical) (Hacker News (front page))
+- Category: vpn
+- What it does: Obscura offers a VPN service built with a technical architecture that prevents it from logging any user activity, aiming for provable privacy.
+- Likely revenue model: It likely charges users a recurring subscription fee for access to its privacy‑focused VPN service.
+- India equivalent: none found
+- India fit note: Widespread VPN adoption in India is high, but strict data‑localisation rules and occasional government bans on VPN services could hinder growth; additionally, users may prefer domestic providers that comply with local regulations.
+- Badge guess: black
+
+## Unreal Agent
+- Source article: [Unreal Agent](https://unreallabs.ai/blog/unreal-agent/) (Hacker News (front page))
+- Category: ai-agent
+- What it does: Unreal Agent is an open‑source framework that lets developers build autonomous LLM‑driven agents capable of planning, tool use, and web interaction to complete complex tasks.
+- Likely revenue model: The team likely monetises through paid enterprise support, hosted SaaS deployments, and custom integration services around the open‑source core.
+- India equivalent: none found
+- India fit note: The product relies on widespread high‑speed internet, cloud compute, and a developer community comfortable with LLM APIs—areas that are still maturing in many Indian regions, which could limit rapid adoption.
+- Badge guess: black
+
+## minimaxir
+- Source article: [Writing Rust code that's fast by asking agents to make the code faster](https://minimaxir.com/2026/09/agentic-iteration/) (Hacker News (front page))
+- Category: ai-agent
+- What it does: Leverages autonomous LLM agents to iteratively rewrite Rust code, automatically applying performance‑focused suggestions until the code runs faster.
+- Likely revenue model: The project appears to be a personal/blog experiment with no direct monetisation, possibly supported by consulting or sponsorships.
+- India equivalent: none found
+- India fit note: The approach relies on high‑cost LLM API access and a developer community comfortable with Rust; while both exist in India, widespread adoption may be limited by cost and the relatively smaller Rust talent pool.
+- Badge guess: black
+

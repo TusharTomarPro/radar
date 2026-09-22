@@ -874,3 +874,7 @@
 | Rabbit | AI-agent | orange | 2026-09-22 | Haptik |
 | Baselayer | fintech | orange | 2026-09-22 | Karza Technologies |
 | Sol | agentic-ai | orange | 2026-09-22 | Kapture |
+| a16z Academy | edtech | orange | 2026-09-22 | Founder Institute India |
+| Obscura | vpn | black | 2026-09-22 | none found |
+| Unreal Agent | ai-agent | black | 2026-09-22 | none found |
+| minimaxir | ai-agent | black | 2026-09-22 | none found |
