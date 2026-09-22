@@ -824,3 +824,5 @@
 | Petivity | pet-tech | black | 2026-09-21 | none found |
 | Transformer Explainer | ai-education | black | 2026-09-21 | none found |
 | Food Price Monitor | agri-data | orange | 2026-09-21 | Kisan Suvidha |
+| Spymarks | brand-protection | black | 2026-09-22 | none found |
+| Draftable | document-comparison | orange | 2026-09-22 | Zoho Docs (document compare feature) |
