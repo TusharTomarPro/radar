@@ -826,3 +826,44 @@
 | Food Price Monitor | agri-data | orange | 2026-09-21 | Kisan Suvidha |
 | Spymarks | brand-protection | black | 2026-09-22 | none found |
 | Draftable | document-comparison | orange | 2026-09-22 | Zoho Docs (document compare feature) |
+| Xem | email-marketing | orange | 2026-09-22 | Netcore |
+| Keet | edtech | orange | 2026-09-22 | Unacademy |
+| Reeno | language-learning | black | 2026-09-22 | none found |
+| ResumeContext | ai-agent | black | 2026-09-22 | none found |
+| Brev | productivity | black | 2026-09-22 | none found |
+| OneStream Live | live-streaming | black | 2026-09-22 | none found |
+| Edyt | ai-ocr | black | 2026-09-22 | none found |
+| PewCB | pcb-prototyping | black | 2026-09-22 | none found |
+| WeWeb | no-code | orange | 2026-09-22 | Zoho Creator |
+| Freebuff | dev-adtech | orange | 2026-09-22 | GeeksforGeeks |
+| Clueprint | system-monitoring | black | 2026-09-22 | none found |
+| WZRD | ai-docs | orange | 2026-09-22 | Zoho Writer (part of Zoho Office Suite) |
+| Robot Voice Bridge | ai-voice | black | 2026-09-22 | none found |
+| FeedsBar | news-ticker | black | 2026-09-22 | none found |
+| Anomalo | anomaly-detection | black | 2026-09-22 | none found |
+| Fulvid | markdown-editor | black | 2026-09-22 | none found |
+| Plane | ai-agent | orange | 2026-09-22 | Instabase |
+| gg-friggin-ez | content-moderation | black | 2026-09-22 | none found |
+| SereneDB | search-db | black | 2026-09-22 | none found |
+| ReallyFree | privacy-tech | black | 2026-09-22 | none found |
+| Pulsetic | uptime-monitoring | black | 2026-09-22 | none found |
+| PixelCrew | ai-design | black | 2026-09-22 | none found |
+| thestory.run | writing-coach | black | 2026-09-22 | none found |
+| QuietGlass | privacy-software | black | 2026-09-22 | none found |
+| Fez | ai-agent | black | 2026-09-22 | none found |
+| Shootsolo | creator-tools | black | 2026-09-22 | none found |
+| Hola AI | ai-voicemail | black | 2026-09-22 | none found |
+| Diurnal | productivity | orange | 2026-09-22 | Zoho Notebook |
+| VideoFlow Studio | video-generation | orange | 2026-09-22 | InVideo |
+| Jev Wrapped | social-analytics | black | 2026-09-22 | none found |
+| Contextberg | ai-knowledge-base | black | 2026-09-22 | none found |
+| Clueso | ai-video | orange | 2026-09-22 | InVideo |
+| Prowler Cloud | cloud-security | orange | 2026-09-22 | CloudSEK |
+| Walkie | voice-productivity | black | 2026-09-22 | none found |
+| vgpu | dev-tools | black | 2026-09-22 | none found |
+| 2BA.AI | ai-infrastructure | black | 2026-09-22 | none found |
+| Valori | ai-infrastructure | black | 2026-09-22 | none found |
+| Ring | home-security | black | 2026-09-22 | none found |
+| CloneAI | ai-agent | black | 2026-09-22 | none found |
+| Papyrus AI | ai-heritage | black | 2026-09-22 | none found |
+| Demoverse | co-creation | orange | 2026-09-22 | Designhill |
