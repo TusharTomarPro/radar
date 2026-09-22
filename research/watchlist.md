@@ -867,3 +867,10 @@
 | CloneAI | ai-agent | black | 2026-09-22 | none found |
 | Papyrus AI | ai-heritage | black | 2026-09-22 | none found |
 | Demoverse | co-creation | orange | 2026-09-22 | Designhill |
+| Noble Carbon | ev-charging | orange | 2026-09-22 | Schneider Electric India |
+| Pastely | productivity | black | 2026-09-22 | none found |
+| Drop | sandboxing | black | 2026-09-22 | none found |
+| Solitaire Alone Together | social-gaming | black | 2026-09-22 | none found |
+| Rabbit | AI-agent | orange | 2026-09-22 | Haptik |
+| Baselayer | fintech | orange | 2026-09-22 | Karza Technologies |
+| Sol | agentic-ai | orange | 2026-09-22 | Kapture |

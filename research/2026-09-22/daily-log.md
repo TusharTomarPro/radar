@@ -385,3 +385,66 @@
 - India fit note: India has a large, mobile‑first consumer base and a growing D2C ecosystem, which supports community‑driven design, but widespread adoption may be limited by the need for high‑speed internet, familiarity with AI design tools, and brands' willingness to shift from traditional R&D to open co‑creation.
 - Badge guess: orange
 
+## Noble Carbon
+- Source article: [Noble Carbon will show how it’s making EV charger installs painless at TechCrunch Disrupt](https://techcrunch.com/2026/09/22/noble-carbon-will-show-how-its-making-ev-charger-installs-painless-at-techcrunch-disrupt/) (TechCrunch)
+- Category: ev-charging
+- What it does: Offers a smart circuit breaker that lets homeowners add EV chargers without needing a costly main panel upgrade.
+- Likely revenue model: Sells the smart breaker hardware (and possibly a monitoring subscription) directly to consumers or through installers.
+- India equivalent: Schneider Electric India
+- India fit note: Indian homes often have limited panel capacity and EV penetration is still low, so while the technology is feasible, adoption may be slowed by cost sensitivity and the need for consumer awareness about EV charging infrastructure.
+- Badge guess: orange
+
+## Pastely
+- Source article: [Pastely](https://www.producthunt.com/products/pastely-2) (Product Hunt)
+- Category: productivity
+- What it does: Pastely is a smart clipboard manager that automatically adapts copied content to the formatting and style required by the destination application when you paste it.
+- Likely revenue model: Offers a freemium model with a paid subscription for premium features such as unlimited history, advanced formatting rules, and cross‑device sync.
+- India equivalent: none found
+- India fit note: The service relies on seamless integration with desktop and mobile operating systems and on user habits of copying/pasting across many apps, which are common in India, but the need for context‑aware formatting is still niche and may face slower adoption.
+- Badge guess: black
+
+## Drop
+- Source article: [Show HN: Drop – a rootless Linux sandbox with gVisor support](https://droprun.sh/) (Hacker News (front page))
+- Category: sandboxing
+- What it does: Drop provides a rootless, language‑agnostic Linux sandbox that isolates a program’s home directory and system resources using namespaces and optional gVisor support. It creates disposable environments similar to virtualenv but with enforced isolation.
+- Likely revenue model: The project is likely open‑source and may monetize through paid enterprise support, consulting, or a subscription for advanced features.
+- India equivalent: none found
+- India fit note: The solution relies on modern Linux kernel features (namespaces, cgroups) and gVisor, which are available on most developer workstations in India, but widespread adoption may be limited by the prevalence of non‑Linux development environments and limited awareness of rootless sandboxing among Indian developers.
+- Badge guess: black
+
+## Solitaire Alone Together
+- Source article: [Solitaire Alone Together](https://solitairealonetogether.com/) (Hacker News (front page))
+- Category: social-gaming
+- What it does: Offers an online multiplayer version of classic solitaire, letting users play together in real time with shared tables and chat.
+- Likely revenue model: Free-to-play supported by display ads and optional cosmetic or premium upgrades.
+- India equivalent: none found
+- India fit note: The service depends on reliable broadband and a habit of casual, synchronous online gaming, which exists in India, but the niche of multiplayer solitaire may not have strong demand.
+- Badge guess: black
+
+## Rabbit
+- Source article: [Rabbit Is Back, This Time With an AI Agent App](https://www.wired.com/story/rabbit-r1-os3-jesse-lyu/) (Wired)
+- Category: AI-agent
+- What it does: Rabbit OS3 is a cross‑platform AI agent that runs on existing devices, providing conversational assistance and task automation without requiring dedicated hardware.
+- Likely revenue model: Subscription‑based access to premium features and enterprise licensing for integration with brands.
+- India equivalent: Haptik
+- India fit note: India has high smartphone usage and familiarity with chat‑based assistants, but data‑privacy concerns and lower average data speeds could affect adoption of a heavy AI agent.
+- Badge guess: orange
+
+## Baselayer
+- Source article: [Exclusive: Can You Trust That AI Agent? Baselayer Raises $35M To Help Companies Decide](https://news.crunchbase.com/ai/verifying-ai-agents-baselayer-35m-raise/) (Crunchbase News)
+- Category: fintech
+- What it does: Baselayer offers an AI‑powered platform that verifies businesses and evaluates fraud risk for financial institutions, and is expanding its identity‑verification technology to secure AI agents.
+- Likely revenue model: It likely earns revenue through subscription licences and per‑verification fees charged to banks and other financial service providers.
+- India equivalent: Karza Technologies
+- India fit note: India’s strict KYC regulations and a mature fintech sector make such verification services viable, though the use of AI agents for business identity checks is still emerging and may face data‑privacy and adoption hurdles.
+- Badge guess: orange
+
+## Sol
+- Source article: [Proactive AI startup Sol raises $4 Mn from General Catalyst, Nexus VP, and others](https://entrackr.com/snippets/proactive-ai-startup-sol-raises-4-mn-from-general-catalyst-nexus-vp-and-others-12565411) (Entrackr)
+- Category: agentic-ai
+- What it does: Sol builds an AI assistant that scans a user's email, extracts commitments, and automatically executes related tasks such as research, document creation, scheduling, and drafting replies, while keeping the user in final approval loop.
+- Likely revenue model: Subscription‑based SaaS licensing to professionals and enterprises, possibly tiered by number of users or volume of processed emails.
+- India equivalent: Kapture
+- India fit note: The model relies on high‑volume email workflows and integration with corporate tools, which are common in Indian enterprises, but data‑privacy concerns and slower adoption of AI‑driven automation in some sectors could limit immediate uptake.
+- Badge guess: orange
+
