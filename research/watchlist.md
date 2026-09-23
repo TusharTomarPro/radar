@@ -878,3 +878,4 @@
 | Obscura | vpn | black | 2026-09-22 | none found |
 | Unreal Agent | ai-agent | black | 2026-09-22 | none found |
 | minimaxir | ai-agent | black | 2026-09-22 | none found |
+| Silence Laboratories | cybersecurity | orange | 2026-09-23 | Safe Security |
