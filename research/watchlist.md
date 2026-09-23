@@ -897,3 +897,12 @@
 | Nuvr | ecommerce-management | black | 2026-09-23 | none found |
 | Supernova | edtech | black | 2026-09-23 | none found |
 | Good Girl Snacks | snack-food | orange | 2026-09-23 | The Pickle Co. |
+| Una | wearables | orange | 2026-09-23 | Noise |
+| Remedy | gaming | black | 2026-09-23 | none found |
+| Strands | ai-agent | black | 2026-09-23 | none found |
+| Briefly | ai-summary | orange | 2026-09-23 | Inshorts |
+| Z80 REPL | dev-tools | black | 2026-09-23 | none found |
+| Paperman | display-tech | black | 2026-09-23 | none found |
+| AgentGuard | ai-security | black | 2026-09-23 | none found |
+| TimBuckDo | on-demand | orange | 2026-09-23 | Urban Company |
+| AgHeal | agri-tech | orange | 2026-09-23 | DeHaat |

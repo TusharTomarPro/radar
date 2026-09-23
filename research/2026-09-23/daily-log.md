@@ -169,3 +169,84 @@
 - India fit note: The model relies on TikTok‑driven viral marketing and placement in high‑end grocery chains, which are less common in India; however, a similar online‑first artisanal pickle brand could succeed given India's strong pickle culture.
 - Badge guess: orange
 
+## Una
+- Source article: [This $199 GPS sports watch is repairable, modular, and open-source](https://www.theverge.com/gadgets/999380/una-watch-sports-gps-modular) (The Verge)
+- Category: wearables
+- What it does: A modular, repairable, open‑source GPS sports watch that tracks fitness metrics and offers up to 10 days of battery life.
+- Likely revenue model: Sells the watch and optional modular accessories directly to consumers, possibly supplemented by premium software services.
+- India equivalent: Noise
+- India fit note: Indian consumers are price‑sensitive and value local service networks; while modular repairability aligns with cost‑conscious behavior, the open‑source ecosystem may see slower adoption due to limited developer community.
+- Badge guess: orange
+
+## Remedy
+- Source article: [Nobody does it like Remedy](https://www.theverge.com/games/999268/control-resonant-review-ps5-xbox) (The Verge)
+- Category: gaming
+- What it does: It is a video game that lets players manipulate gravity to flip, twist, and fly through a twisted version of New York City.
+- Likely revenue model: Revenue comes from selling the game as a premium title, with additional income from DLC and microtransactions.
+- India equivalent: none found
+- India fit note: The experience requires high-end PC or console hardware and a market for premium AAA titles, which are limited in India due to price sensitivity and lower console penetration.
+- Badge guess: black
+
+## Strands
+- Source article: [Strands Harness](https://strandsagents.com/blog/introducing-strands-harness/) (Hacker News (front page))
+- Category: ai-agent
+- What it does: Strands Harness is a developer platform that lets teams design, test, and deploy autonomous AI agents that can call APIs, retrieve data, and perform multi‑step workflows.
+- Likely revenue model: Subscription‑based SaaS pricing tiered by number of agents, API calls, and enterprise support.
+- India equivalent: none found
+- India fit note: The product relies on widespread cloud compute, robust API ecosystems, and a developer community comfortable with prompt engineering—areas that are growing in India but still lag behind major US markets, potentially limiting early adoption.
+- Badge guess: black
+
+## Briefly
+- Source article: [I don't want the details](https://michaelheap.com/i-dont-want-the-details/) (Hacker News (front page))
+- Category: ai-summary
+- What it does: Uses AI to generate ultra‑short TL;DR summaries of long articles, videos or reports so users can grasp the gist without reading the full content.
+- Likely revenue model: Charges users a monthly subscription for unlimited summaries and sells API access to publishers and enterprises.
+- India equivalent: Inshorts
+- India fit note: India already has a strong appetite for bite‑sized news via apps like Inshorts, and mobile internet penetration is high, so the model fits well; however, AI‑driven summarization for regional languages may need additional language model support.
+- Badge guess: orange
+
+## Z80 REPL
+- Source article: [Z80 REPL (2018)](https://abagames.github.io/z80-repl/index.html) (Hacker News (front page))
+- Category: dev-tools
+- What it does: Provides an in-browser REPL that lets users write, assemble, and execute Z80 assembly code instantly.
+- Likely revenue model: Free, likely sustained through personal funding or donations rather than direct sales.
+- India equivalent: none found
+- India fit note: The tool relies on a niche retro‑computing hobby that exists in India, but there is no comparable local platform; infrastructure (broadband, browsers) is sufficient, but demand may be limited.
+- Badge guess: black
+
+## Paperman
+- Source article: [This App Makes Your Laptop Screen Look Like Paper](https://www.wired.com/story/paperman-makes-your-laptop-screen-look-like-paper/) (Wired)
+- Category: display-tech
+- What it does: Paperman is a software app that overlays a subtle paper‑like texture onto your laptop screen to reduce glare and eye strain, especially during reading or writing tasks. It works by adjusting the screen's color profile and adding a faint grain pattern.
+- Likely revenue model: The app is likely sold as a one‑time purchase or a low‑cost subscription with a free trial period.
+- India equivalent: none found
+- India fit note: The product relies on users having high‑resolution LCD/LED laptops and being accustomed to installing third‑party display tweaks, which are common in India’s urban tech‑savvy segment, but widespread adoption may be limited by lower awareness of eye‑strain mitigation tools.
+- Badge guess: black
+
+## AgentGuard
+- Source article: [The Emerging M&A Map For AI Agent Security](https://news.crunchbase.com/ma/emerging-map-ai-agentic-security-sagie/) (Crunchbase News)
+- Category: ai-security
+- What it does: Provides granular permission controls, real‑time monitoring, and governance tools for autonomous AI agents that interact with enterprise data, systems and APIs.
+- Likely revenue model: Enterprise SaaS subscription with tiered pricing based on number of agents and data volume.
+- India equivalent: none found
+- India fit note: The solution relies on mature zero‑trust architectures and widespread adoption of AI agents in core business workflows, which are still nascent in India, limiting immediate market fit.
+- Badge guess: black
+
+## TimBuckDo
+- Source article: [On-demand convenience platform TimBuckDo raises bridge round at Rs 150 Cr valuation](https://entrackr.com/snippets/on-demand-convenience-platform-timbuckdo-raises-bridge-round-at-rs-150-cr-valuation-12568862) (Entrackr)
+- Category: on-demand
+- What it does: TimBuckDo runs an on-demand convenience marketplace that connects households and businesses with verified college students, called “Doers”, for services such as elder companionship, pet care, child support, and home‑business assistance. It aims to provide flexible earning opportunities for students while fulfilling everyday needs for customers.
+- Likely revenue model: The platform likely takes a commission or service fee on each transaction between the customer and the student Doer.
+- India equivalent: Urban Company
+- India fit note: The model relies on a large pool of college students willing to work part‑time and on trust mechanisms for safety, which exist in India but may require strong verification and insurance to gain user confidence. Payment and logistics infrastructure are already mature enough for such services.
+- Badge guess: orange
+
+## AgHeal
+- Source article: [DeFacto's AgHeal wants to turn India’s farm economy into a public health story](https://yourstory.com/2026/09/defacto-india-launches-agheal-farmer-public-health) (YourStory)
+- Category: agri-tech
+- What it does: AgHeal is a national platform that links farmer prosperity, agricultural practices, nutrition data and public‑health outcomes to create a unified ecosystem for better yields and healthier diets.
+- Likely revenue model: It likely earns by charging agribusinesses and insurers subscription fees for access to farmer data, taking commissions on input sales, and licensing aggregated health‑nutrition insights to government or NGOs.
+- India equivalent: DeHaat
+- India fit note: Success depends on widespread digital adoption by smallholders, reliable farm‑level data capture, and integration with public‑health databases—areas where connectivity and data‑sharing norms are still uneven across rural India.
+- Badge guess: orange
+
