@@ -250,3 +250,21 @@
 - India fit note: Success depends on widespread digital adoption by smallholders, reliable farm‑level data capture, and integration with public‑health databases—areas where connectivity and data‑sharing norms are still uneven across rural India.
 - Badge guess: orange
 
+## Modal Motors
+- Source article: [Modal Motors is trying to cut China out of electric motors entirely](https://techcrunch.com/2026/09/23/modal-motors-is-trying-to-cut-china-out-of-electric-motors-entirely/) (TechCrunch)
+- Category: electric-motors
+- What it does: Develops compact, lightweight electric motors that eliminate rare‑earth magnets, targeting drones, fans, and robotics applications.
+- Likely revenue model: Sells the motors directly to OEMs and device manufacturers, possibly supplemented by licensing the proprietary motor technology.
+- India equivalent: none found
+- India fit note: The product relies on advanced materials and manufacturing processes that are not yet widely adopted in India, and the domestic drone/robotics market still depends heavily on imported motor technology.
+- Badge guess: black
+
+## ForensicDbg
+- Source article: [Show HN: I built a post-mortem debugger for native Windows x64/x86 crashes](https://www.forensicdbg.com) (Hacker News (front page))
+- Category: dev-tools
+- What it does: ForensicDbg is a modern debugging platform for native Windows x64/x86 crashes that automatically analyzes, interprets, and interlinks crash data, offering a UI that reduces friction and supports AI‑assisted debugging.
+- Likely revenue model: Subscription‑based licensing (e.g., paid tiers after a free beta) for individuals and enterprises.
+- India equivalent: none found
+- India fit note: The product targets Windows native development, which exists in India but is a niche compared to web/mobile; adoption may be limited by the relatively small community of Windows‑centric low‑level developers and the need for high‑performance Windows workstations.
+- Badge guess: black
+

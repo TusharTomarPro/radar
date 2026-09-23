@@ -906,3 +906,5 @@
 | AgentGuard | ai-security | black | 2026-09-23 | none found |
 | TimBuckDo | on-demand | orange | 2026-09-23 | Urban Company |
 | AgHeal | agri-tech | orange | 2026-09-23 | DeHaat |
+| Modal Motors | electric-motors | black | 2026-09-23 | none found |
+| ForensicDbg | dev-tools | black | 2026-09-23 | none found |
