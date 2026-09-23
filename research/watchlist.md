@@ -879,3 +879,21 @@
 | Unreal Agent | ai-agent | black | 2026-09-22 | none found |
 | minimaxir | ai-agent | black | 2026-09-22 | none found |
 | Silence Laboratories | cybersecurity | orange | 2026-09-23 | Safe Security |
+| Jev State | ai-devtools | black | 2026-09-23 | none found |
+| Solid | ai-agent | black | 2026-09-23 | none found |
+| Speechka | voice-translation | black | 2026-09-23 | none found |
+| Linguo Translate | ai-translation | orange | 2026-09-23 | JioTranslate |
+| Lightmeter | film-camera | black | 2026-09-23 | none found |
+| GBrain | ai-platform | black | 2026-09-23 | none found |
+| ToneBird | ai-assistant | black | 2026-09-23 | none found |
+| Naise AI | ai-marketing | orange | 2026-09-23 | AdCreative.ai |
+| CodeSpotlight | developer-tools | black | 2026-09-23 | none found |
+| Koreshield | ai-security | black | 2026-09-23 | none found |
+| Dub | affiliate-marketplace | orange | 2026-09-23 | Cuelinks |
+| Pactto | creative-collab | orange | 2026-09-23 | Zoho Projects |
+| AgentScore | sales-analytics | orange | 2026-09-23 | Vymo |
+| SmartLabels | home-organizing | black | 2026-09-23 | none found |
+| TaskAI | ai-agent | black | 2026-09-23 | none found |
+| Nuvr | ecommerce-management | black | 2026-09-23 | none found |
+| Supernova | edtech | black | 2026-09-23 | none found |
+| Good Girl Snacks | snack-food | orange | 2026-09-23 | The Pickle Co. |
