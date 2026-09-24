@@ -250,3 +250,66 @@
 - India fit note: The model relies on widespread corporate adoption of advanced LLMs, high‑speed cloud compute, and integration with modern SaaS stacks, which are still maturing in many Indian enterprises.
 - Badge guess: black
 
+## Nexterity
+- Source article: [Nexterity wants to automate the hard, dangerous part of pipefitting](https://techcrunch.com/2026/09/24/nexterity-wants-to-automate-the-hard-dangerous-part-of-pipefitting/) (TechCrunch)
+- Category: construction-robotics
+- What it does: It offers a portable robot that can automatically tighten or loosen up to four pipefitting bolts at once, reducing manual labor and safety hazards.
+- Likely revenue model: The company likely sells or leases the robot units to contractors and pipefitting firms and charges for maintenance, training, and consumable accessories.
+- India equivalent: none found
+- India fit note: Pipefitting in India is highly fragmented with many small, informal contractors; inconsistent bolt standards and lower labor cost may slow adoption of expensive automation, and safety culture may not yet prioritize robotic solutions.
+- Badge guess: black
+
+## Opus
+- Source article: [Opus 5.5 is good at explainer videos](https://launchvideo.io) (Hacker News (front page))
+- Category: ai-video
+- What it does: It uses AI to turn scripts or text into fully animated explainer videos, handling voice‑over, visuals and editing automatically.
+- Likely revenue model: Subscription SaaS with tiered plans based on video length or credit usage.
+- India equivalent: Animaker
+- India fit note: The service relies on stable broadband and familiarity with AI‑driven content tools, both of which are increasingly available among Indian creators and agencies, making adoption realistic.
+- Badge guess: orange
+
+## Resobscura
+- Source article: [Using LLMs to trace alchemical knowledge and decode 17th century letters](https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical) (Hacker News (front page))
+- Category: historical-ai
+- What it does: Applies large language models to parse 17th‑century alchemical texts and decode historic letters, creating searchable knowledge graphs of early chemistry.
+- Likely revenue model: Subscription or licensing fees to universities, research institutes, and heritage organizations for access to the AI‑powered archive and analysis tools.
+- India equivalent: none found
+- India fit note: The model relies on extensive digitisation of fragile manuscripts and high‑quality OCR, which are still limited in India, and on a niche academic market that may not yet prioritize AI‑driven historical research.
+- Badge guess: black
+
+## Cursed Fonts
+- Source article: [Show HN: Make cursed fonts like Times New Bastard](https://bastardica.mitpit.com) (Hacker News (front page))
+- Category: font-tool
+- What it does: A web‑based tool that abuses OpenType ligatures to mash up existing typefaces, letting users create humorous “cursed” fonts instantly in the browser.
+- Likely revenue model: Likely offered for free with optional donations or a paid tier for premium font packs or API access.
+- India equivalent: none found
+- India fit note: The service runs entirely client‑side via WebAssembly, which works on modern browsers common in India, but its niche humor and reliance on users experimenting with typography may limit mass appeal.
+- Badge guess: black
+
+## Soaking Springs
+- Source article: [Geothermal heat map of US hot springs](https://www.soakingsprings.com/hot-springs/geothermal-map) (Hacker News (front page))
+- Category: travel-tech
+- What it does: Provides an interactive map of US hot springs with real‑time geothermal temperature data and visitor information.
+- Likely revenue model: Earns money through advertising, affiliate bookings for nearby accommodations, and paid API access for developers or tourism boards.
+- India equivalent: none found
+- India fit note: The service relies on extensive US geothermal data and a culture of hot‑spring tourism that is less prevalent in India; building a similar map would require comparable data sources and consumer interest, which may be limited.
+- Badge guess: black
+
+## AgentRun
+- Source article: [Show HN: AgentRun: DSL to turn agents into workflows](https://github.com/Parcha-ai/agentrun) (Hacker News (front page))
+- Category: ai-agent
+- What it does: AgentRun provides an open‑source DSL that lets developers convert repeatable parts of LLM‑agent work into structured, inspectable workflows, mixing tool calls, code and decision logic.
+- Likely revenue model: Open‑source core with a paid SaaS layer for hosted workflow execution, enterprise support, and custom integration services.
+- India equivalent: none found
+- India fit note: The product assumes widespread access to high‑throughput LLM APIs and a developer community comfortable with DSLs and CI/CD pipelines; while India has strong dev talent, enterprise readiness for LLM‑driven automation is still nascent and cloud bandwidth costs can be a barrier.
+- Badge guess: black
+
+## Rio Health
+- Source article: [Rio Health Raises $4.5 Mn To Scale Its Quick Pharmacy Network](https://inc42.com/buzz/rio-health-raises-4-5-mn-to-scale-its-quick-pharmacy-network/) (Inc42)
+- Category: quick-commerce
+- What it does: Operates a network of partner pharmacies that fulfill and deliver prescription and over‑the‑counter medicines within minutes through a mobile app.
+- Likely revenue model: Earns a commission on each order plus a delivery fee, and may offer subscription plans for free or discounted deliveries.
+- India equivalent: PharmEasy
+- India fit note: The model relies on dense urban pharmacy density, high smartphone penetration, and a regulatory environment that permits rapid e‑pharmacy deliveries—conditions that largely exist in Indian metros but face tighter drug‑sale regulations in some states.
+- Badge guess: orange
+

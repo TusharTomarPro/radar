@@ -936,3 +936,10 @@
 | F-Droid | open-source appstore | orange | 2026-09-24 | Aptoide |
 | Dextr AI | ai-agent | black | 2026-09-24 | none found |
 | Ema | enterprise-ai | black | 2026-09-24 | none found |
+| Nexterity | construction-robotics | black | 2026-09-24 | none found |
+| Opus | ai-video | orange | 2026-09-24 | Animaker |
+| Resobscura | historical-ai | black | 2026-09-24 | none found |
+| Cursed Fonts | font-tool | black | 2026-09-24 | none found |
+| Soaking Springs | travel-tech | black | 2026-09-24 | none found |
+| AgentRun | ai-agent | black | 2026-09-24 | none found |
+| Rio Health | quick-commerce | orange | 2026-09-24 | PharmEasy |
