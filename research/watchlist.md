@@ -908,3 +908,6 @@
 | AgHeal | agri-tech | orange | 2026-09-23 | DeHaat |
 | Modal Motors | electric-motors | black | 2026-09-23 | none found |
 | ForensicDbg | dev-tools | black | 2026-09-23 | none found |
+| Carbon | manufacturing-erp | orange | 2026-09-24 | Ramco Systems |
+| ByteAsk | ai-agent | black | 2026-09-24 | none found |
+| Canine Cancer Detection | health-tech | black | 2026-09-24 | none found |
