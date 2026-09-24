@@ -205,3 +205,48 @@
 - India fit note: The solution relies on widespread WhatsApp usage and voice call infrastructure, both of which are prevalent in India, but it assumes real‑estate agents are comfortable adopting AI‑driven automation, which may require training and trust building.
 - Badge guess: orange
 
+## Ando
+- Source article: [Ando wants to take on Slack with a team messaging app that lets humans and agents work together](https://techcrunch.com/2026/09/24/ando-eyes-slack-as-it-builds-team-messaging-platform-for-humans-and-agents-to-work-together/) (TechCrunch)
+- Category: team-messaging
+- What it does: Ando offers a team messaging platform that combines human chat with AI agents, allowing users to collaborate and automate tasks within the same app.
+- Likely revenue model: A subscription‑based SaaS model charging organizations per active user, with tiered pricing for advanced AI features.
+- India equivalent: Zoho Cliq
+- India fit note: The concept relies on widespread corporate adoption of AI assistants and stable high‑speed internet, which are growing but still uneven across Indian enterprises, especially among SMEs.
+- Badge guess: orange
+
+## AppStore QR
+- Source article: [QR Codes That Route to the Appropriate App Store](https://matthuggins.com/blog/posts/qr-codes-that-route-to-the-appropriate-app-store) (Hacker News (front page))
+- Category: qr-redirect
+- What it does: Generates QR codes that detect the user's device type and automatically redirect them to the correct app store (Apple App Store, Google Play, etc.) for downloading an app.
+- Likely revenue model: Subscription‑based SaaS offering dynamic QR code creation, analytics, and custom branding, possibly with a pay‑per‑scan tier.
+- India equivalent: QR Code India
+- India fit note: India has widespread smartphone usage and native QR scanning in camera apps, so device‑aware redirection would work, though iOS market share is lower than Android, affecting conversion rates.
+- Badge guess: orange
+
+## F-Droid
+- Source article: [F-Droid 2.0: A New Chapter for Android Freedom](https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html) (Hacker News (front page))
+- Category: open-source appstore
+- What it does: F-Droid provides a curated, free, and privacy‑focused repository of open‑source Android applications, allowing users to install apps without Google Play services.
+- Likely revenue model: It operates as a non‑profit funded primarily through donations, grants, and corporate sponsorships.
+- India equivalent: Aptoide
+- India fit note: India has a large Android user base and existing alternative stores like Aptoide and JioStore, but widespread adoption depends on users’ willingness to trust non‑Play sources and on reliable broadband for downloading open‑source apps.
+- Badge guess: orange
+
+## Dextr AI
+- Source article: [Exclusive: From Booking Calls To Late Check-Ins, Dextr AI Raises $6.7M For Hotel AI Agents](https://news.crunchbase.com/venture/dextr-ai-hospitality-agents-raises-seed-funding/) (Crunchbase News)
+- Category: ai-agent
+- What it does: It builds AI-powered agents that manage hotel reservations, guest requests, and staff coordination.
+- Likely revenue model: Subscription SaaS fees per hotel property, possibly with usage‑based add‑ons.
+- India equivalent: none found
+- India fit note: The model relies on widespread high‑speed internet, digital guest interactions, and hotel staff accustomed to AI tools, which are less common in many Indian hotels, especially mid‑tier properties.
+- Badge guess: black
+
+## Ema
+- Source article: [Ema Raises $77 Mn To Scale Its Universal AI Employee Platform Globally](https://inc42.com/buzz/ema-raises-77-mn-to-scale-its-universal-ai-employee-platform-globally/) (Inc42)
+- Category: enterprise-ai
+- What it does: Ema offers a universal AI employee platform that can be deployed as a digital worker to automate and augment tasks across various business functions.
+- Likely revenue model: Charges enterprises a SaaS subscription fee based on the number of AI employee seats or usage volume.
+- India equivalent: none found
+- India fit note: The model relies on widespread corporate adoption of advanced LLMs, high‑speed cloud compute, and integration with modern SaaS stacks, which are still maturing in many Indian enterprises.
+- Badge guess: black
+

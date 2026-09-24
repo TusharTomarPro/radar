@@ -931,3 +931,8 @@
 | Subscrr | subscription-management | black | 2026-09-24 | none found |
 | Starz | streaming | orange | 2026-09-24 | Disney+ Hotstar |
 | Gupshup | ai-agent | orange | 2026-09-24 | NoBroker |
+| Ando | team-messaging | orange | 2026-09-24 | Zoho Cliq |
+| AppStore QR | qr-redirect | orange | 2026-09-24 | QR Code India |
+| F-Droid | open-source appstore | orange | 2026-09-24 | Aptoide |
+| Dextr AI | ai-agent | black | 2026-09-24 | none found |
+| Ema | enterprise-ai | black | 2026-09-24 | none found |
