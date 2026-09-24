@@ -911,3 +911,23 @@
 | Carbon | manufacturing-erp | orange | 2026-09-24 | Ramco Systems |
 | ByteAsk | ai-agent | black | 2026-09-24 | none found |
 | Canine Cancer Detection | health-tech | black | 2026-09-24 | none found |
+| CtrlOps | ai-ops | orange | 2026-09-24 | OpsMx |
+| Scholé | edtech | orange | 2026-09-24 | WhiteHat Jr |
+| AutonomyAI | product-management | orange | 2026-09-24 | Zoho Sprints |
+| Maximem Synap | ai-infrastructure | black | 2026-09-24 | none found |
+| Floot | ai-devtools | orange | 2026-09-24 | Zoho Creator |
+| Storytailor | personalized-storytelling | black | 2026-09-24 | none found |
+| NOAN | ai-agent | black | 2026-09-24 | none found |
+| Hookest | video-marketing | black | 2026-09-24 | none found |
+| Minimi | productivity | black | 2026-09-24 | none found |
+| jev-seo | seo-tool | black | 2026-09-24 | none found |
+| Harness Manager | ai-devtools | black | 2026-09-24 | none found |
+| Opaline | ai-analytics | black | 2026-09-24 | none found |
+| Opencontroller | ai-agent | black | 2026-09-24 | none found |
+| Parall | productivity | black | 2026-09-24 | none found |
+| LockLines | design-tools | black | 2026-09-24 | none found |
+| ChoreDivider | home-management | black | 2026-09-24 | none found |
+| NotchPop | desktop-utility | black | 2026-09-24 | none found |
+| Subscrr | subscription-management | black | 2026-09-24 | none found |
+| Starz | streaming | orange | 2026-09-24 | Disney+ Hotstar |
+| Gupshup | ai-agent | orange | 2026-09-24 | NoBroker |
