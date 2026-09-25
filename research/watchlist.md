@@ -943,3 +943,5 @@
 | Soaking Springs | travel-tech | black | 2026-09-24 | none found |
 | AgentRun | ai-agent | black | 2026-09-24 | none found |
 | Rio Health | quick-commerce | orange | 2026-09-24 | PharmEasy |
+| Koi.rest | digital-wellness | black | 2026-09-25 | none found |
+| ApelegHQ | secure-file-sharing | black | 2026-09-25 | none found |
