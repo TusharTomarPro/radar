@@ -999,3 +999,19 @@
 | Tender247 | procurement platform | orange | 2026-09-25 | BidAssist |
 | Swadeza | semiconductor | orange | 2026-09-25 | Menta |
 | Sarvam AI | document-ai | black | 2026-09-25 | none found |
+| Meadow | wearable-tech | black | 2026-09-25 | none found |
+| Wand | ai-coding | orange | 2026-09-25 | Builder.ai |
+| Bleetz | ai-agent | black | 2026-09-25 | none found |
+| Donna | meeting-scheduling | orange | 2026-09-25 | Zoho Calendar |
+| Pinky Promise | commitment-tracking | black | 2026-09-25 | none found |
+| Fivemetrics | finops | black | 2026-09-25 | none found |
+| AgreeGuard | legal-tech | black | 2026-09-25 | none found |
+| InfraGrid3D | construction-tech | black | 2026-09-25 | none found |
+| Token Forecaster | ai-tools | black | 2026-09-25 | none found |
+| World Signal | anomaly-detection | orange | 2026-09-25 | Fractal Analytics |
+| Split | productivity | black | 2026-09-25 | none found |
+| Perfect Slice | kitchen-gadget | black | 2026-09-25 | none found |
+| Jevmem | ai-devtools | black | 2026-09-25 | none found |
+| Factorio Board Game | board-game | black | 2026-09-25 | none found |
+| git-bug | issue-tracker | orange | 2026-09-25 | Zoho BugTracker |
+| Dopamine | food-tech | orange | 2026-09-25 | Swiggy |

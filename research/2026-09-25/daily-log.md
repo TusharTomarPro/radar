@@ -502,3 +502,147 @@
 - India fit note: The product relies on widespread digitisation of paper records and the need for multilingual OCR, which are growing in India but may be limited by slower adoption of digital workflows in smaller firms.
 - Badge guess: black
 
+## Meadow
+- Source article: [Meadow lets you leave your smartphone at home without sacrificing the essentials](https://techcrunch.com/2026/09/25/meadow-lets-you-leave-your-smartphone-at-home-without-sacrificing-the-essentials/) (TechCrunch)
+- Category: wearable-tech
+- What it does: Meadow is a minimalist companion device that lets users leave their smartphones at home while still handling calls, texts, and essential notifications through a small wearable interface.
+- Likely revenue model: The company likely sells the hardware device outright and may charge a monthly subscription for cellular connectivity or premium services.
+- India equivalent: none found
+- India fit note: Success in India would require ubiquitous 4G/5G coverage and a cultural shift toward using a separate minimal device for essential communication, which may be limited by users' preference for an all‑in‑one smartphone experience.
+- Badge guess: black
+
+## Wand
+- Source article: [Wand](https://www.producthunt.com/products/wand-6) (Product Hunt)
+- Category: ai-coding
+- What it does: Wand is an AI‑powered development assistant that lets users describe functionality in natural language and generates code or full‑stack applications instantly.
+- Likely revenue model: Subscription‑based SaaS with tiered plans for individual developers and enterprise teams.
+- India equivalent: Builder.ai
+- India fit note: The model relies on high‑speed internet and familiarity with cloud‑based development tools, which are widely available in Indian tech hubs, so adoption should be feasible.
+- Badge guess: orange
+
+## Bleetz
+- Source article: [Bleetz Network](https://www.producthunt.com/products/bleetz-network) (Product Hunt)
+- Category: ai-agent
+- What it does: Bleetz Network uses AI agents that communicate with each other to source, evaluate, and connect startups with venture capitalists for fundraising and deal scouting.
+- Likely revenue model: It likely charges a success fee or percentage of capital raised and/or subscription fees for premium access to the AI scouting network.
+- India equivalent: none found
+- India fit note: The model relies on widespread adoption of AI‑driven agents and a highly digitized VC ecosystem, which may be limited in India due to lower trust in autonomous matchmaking and fragmented data on startups.
+- Badge guess: black
+
+## Donna
+- Source article: [Donna](https://www.producthunt.com/products/donna-4) (Product Hunt)
+- Category: meeting-scheduling
+- What it does: Donna lets users create a single link that aggregates multiple meeting types and time slots, allowing invitees to pick a convenient slot in one go. It streamlines the coordination of recurring or varied meetings without back‑and‑forth emails.
+- Likely revenue model: A freemium SaaS model where basic scheduling is free and advanced features (custom branding, analytics, team seats) are sold via monthly or annual subscriptions.
+- India equivalent: Zoho Calendar
+- India fit note: The concept relies on widespread digital calendar adoption and the habit of sharing URLs for bookings, which is common among Indian startups and SMBs using tools like Zoho. However, some small enterprises still prefer phone or WhatsApp coordination, which could limit rapid uptake.
+- Badge guess: orange
+
+## Pinky Promise
+- Source article: [Pinky Promise](https://www.producthunt.com/products/pinky-promise) (Product Hunt)
+- Category: commitment-tracking
+- What it does: A mobile/web app that lets friends record, track, and get reminders about promises they make to each other.
+- Likely revenue model: Freemium model with premium features (custom reminders, analytics, ad‑free experience) and possibly in‑app purchases or brand partnerships.
+- India equivalent: none found
+- India fit note: The concept relies on a culture of informal promise‑keeping and frequent mobile notifications, which may be less prevalent in India where social commitments are often managed via messaging apps rather than dedicated tracking tools.
+- Badge guess: black
+
+## Fivemetrics
+- Source article: [Fivemetrics](https://www.producthunt.com/products/fivemetrics) (Product Hunt)
+- Category: finops
+- What it does: Provides visibility into cloud and AI spend and helps teams investigate the drivers behind cost changes.
+- Likely revenue model: Charges enterprises a subscription fee for access to its spend analytics platform, possibly tiered by data volume or feature set.
+- India equivalent: none found
+- India fit note: The product relies on mature multi‑cloud adoption and detailed usage telemetry, which are growing but still limited among many Indian enterprises, so market uptake may be slower.
+- Badge guess: black
+
+## AgreeGuard
+- Source article: [AgreeGuard](https://www.producthunt.com/products/agreeguard-ai-terms-privacy-analyzer) (Product Hunt)
+- Category: legal-tech
+- What it does: AgreeGuard uses AI to scan and summarize the terms of service and privacy policies of websites and apps, presenting users with key points before they click "I Agree".
+- Likely revenue model: A subscription‑based SaaS model targeting consumers and businesses, possibly with tiered pricing for individual users, teams, and API access.
+- India equivalent: none found
+- India fit note: The product relies on widespread user habit of reviewing consent dialogs and on robust browser extension ecosystems, which are less prevalent in India; additionally, many Indian users may not prioritize reading legalese, limiting adoption.
+- Badge guess: black
+
+## InfraGrid3D
+- Source article: [InfraGrid3D](https://www.producthunt.com/products/infragrid3d-civil-engineering-design) (Product Hunt)
+- Category: construction-tech
+- What it does: Provides a full‑stack civil engineering design platform that runs entirely in the web browser, enabling engineers to create and edit detailed 3D models (LOD 400+) without desktop software.
+- Likely revenue model: Subscription‑based SaaS licensing per user or per project, possibly with tiered plans for enterprise features and cloud storage.
+- India equivalent: none found
+- India fit note: The product relies on high‑bandwidth, low‑latency internet and powerful browser‑based GPU rendering, which can be inconsistent in many Indian regions. Additionally, widespread adoption requires a shift from traditional desktop CAD tools to cloud workflows, which Indian engineering firms are only gradually embracing.
+- Badge guess: black
+
+## Token Forecaster
+- Source article: [Token Forecaster](https://www.producthunt.com/products/token-forecaster) (Product Hunt)
+- Category: ai-tools
+- What it does: Predicts how many tokens an LLM response will generate before the user hits Enter, helping users gauge response length and cost.
+- Likely revenue model: Subscription‑based SaaS with tiered plans (free tier for limited forecasts, paid tiers for higher usage and API access).
+- India equivalent: none found
+- India fit note: The tool relies on developers integrating with LLM APIs, which is feasible in India, but cost‑sensitivity and reliance on foreign API latency may limit adoption unless paired with local LLM providers.
+- Badge guess: black
+
+## World Signal
+- Source article: [World Signal](https://www.producthunt.com/products/world-signal) (Product Hunt)
+- Category: anomaly-detection
+- What it does: World Signal aggregates global data streams and visualizes regions where activity deviates from historical norms, helping users spot abnormal patterns worldwide.
+- Likely revenue model: Subscription‑based SaaS with tiered plans for enterprises and API access for developers.
+- India equivalent: Fractal Analytics
+- India fit note: The service relies on continuous access to worldwide data feeds and real‑time processing, which are available in India but may face restrictions on certain international data sources and privacy regulations.
+- Badge guess: orange
+
+## Split
+- Source article: [Split](https://www.producthunt.com/products/split-9) (Product Hunt)
+- Category: productivity
+- What it does: Split lets Mac users link multiple application windows so that resizing one window automatically resizes the others, maintaining live content alignment. It streamlines multitasking for designers, developers, and power users.
+- Likely revenue model: Probably a one‑time purchase or subscription sold through the Mac App Store or directly on its website.
+- India equivalent: none found
+- India fit note: The tool relies on macOS‑specific window management APIs, which limits its relevance to Indian users who primarily use Windows or mobile platforms. Adoption would be niche even among Indian Mac users.
+- Badge guess: black
+
+## Perfect Slice
+- Source article: [Perfect Slice](https://www.producthunt.com/products/perfect-slice) (Product Hunt)
+- Category: kitchen-gadget
+- What it does: Offers a tool or digital guide that enables users to achieve a perfect slice with a single cut, typically for pizza, cake, or similar foods.
+- Likely revenue model: Sells the physical slicing device or a companion app with premium features or a one‑time purchase price.
+- India equivalent: none found
+- India fit note: The product relies on precise cutting hardware and possibly a smartphone interface, which may not be widely adopted in Indian kitchens where traditional cutting methods dominate and demand for such niche gadgets is low.
+- Badge guess: black
+
+## Jevmem
+- Source article: [Jevmem – automatic project memory for Claude Code, built on Jev](https://github.com/Avinash-jetwani/jevmem) (Hacker News (front page))
+- Category: ai-devtools
+- What it does: Jevmem provides automatic, persistent memory for Claude Code projects, allowing the LLM to retain context across multiple coding sessions. It builds on the Jev framework to store and retrieve project state seamlessly.
+- Likely revenue model: Likely a freemium SaaS model where basic memory features are free and advanced storage, team collaboration, or enterprise integrations are paid subscriptions.
+- India equivalent: none found
+- India fit note: The product relies on Anthropic's Claude API, which may have limited latency or pricing constraints in India, and assumes developers have consistent high‑speed internet and are comfortable integrating third‑party LLM services.
+- Badge guess: black
+
+## Factorio Board Game
+- Source article: [Factorio that you can touch](https://factorio.com/blog/post/fff-447) (Hacker News (front page))
+- Category: board-game
+- What it does: Turns the factory‑building video game Factorio into a tabletop experience where players place tiles, manage resources and automate production lines.
+- Likely revenue model: Revenue comes from selling physical game copies and expansion packs through retail and online stores.
+- India equivalent: none found
+- India fit note: The concept relies on a niche community of strategy board‑game enthusiasts and a distribution network for hobby games, which exists in India but the highly technical factory‑automation theme may have limited mass‑market appeal.
+- Badge guess: black
+
+## git-bug
+- Source article: [Git-bug: Distributed, offline-first bug tracker embedded in Git](https://github.com/git-bug/git-bug) (Hacker News (front page))
+- Category: issue-tracker
+- What it does: git-bug is a distributed, offline‑first bug tracker that lives inside a Git repository, letting developers create, edit, and sync issues without a central server.
+- Likely revenue model: It is open‑source and likely monetises through sponsorships, paid support, or enterprise services.
+- India equivalent: Zoho BugTracker
+- India fit note: The tool relies on developers already using Git locally, which is common in India, and its offline‑first nature suits regions with intermittent connectivity. Adoption would depend on awareness among Indian dev teams accustomed to centralized tools like Jira.
+- Badge guess: orange
+
+## Dopamine
+- Source article: [What are Dopamine Sites? The order is fake, the craving is real- Indian founders bet on ‘digital consumption’](https://www.livemint.com/companies/start-ups/what-are-dopamine-sites-the-order-is-fake-the-craving-is-real-indian-founders-bet-on-digital-consumption-11790328955930.html) (LiveMint Companies)
+- Category: food-tech
+- What it does: Creates a gamified, virtual food‑ordering experience that lets users trigger the dopamine rush of ordering without necessarily receiving the meal, using fake menus, points, and social sharing.
+- Likely revenue model: Monetises through in‑app advertising, premium subscriptions for enhanced virtual menus, and affiliate fees when users are nudged to place real orders with partner restaurants.
+- India equivalent: Swiggy
+- India fit note: The model relies on high smartphone penetration, fast internet, and a culture of frequent food delivery, which are well‑established in urban India, so it can be replicated without major infrastructure changes.
+- Badge guess: orange
+
