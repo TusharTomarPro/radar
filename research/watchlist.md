@@ -1015,3 +1015,12 @@
 | Factorio Board Game | board-game | black | 2026-09-25 | none found |
 | git-bug | issue-tracker | orange | 2026-09-25 | Zoho BugTracker |
 | Dopamine | food-tech | orange | 2026-09-25 | Swiggy |
+| Muju Earth | agri-tech | black | 2026-09-25 | none found |
+| Halide | camera-app | black | 2026-09-25 | none found |
+| NexusAXI | workflow-automation | orange | 2026-09-25 | Zoho Flow |
+| Cooldown | behavioral-tech | black | 2026-09-25 | none found |
+| Polyglot | subtitle-translation | black | 2026-09-25 | none found |
+| Ollaya | ai-agent | black | 2026-09-25 | none found |
+| Doom or Bloom | ai-assessment | black | 2026-09-25 | none found |
+| Typst | typesetting | black | 2026-09-25 | none found |
+| Playbook AI | sports-analytics | black | 2026-09-25 | none found |

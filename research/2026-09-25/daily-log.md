@@ -646,3 +646,84 @@
 - India fit note: The model relies on high smartphone penetration, fast internet, and a culture of frequent food delivery, which are well‑established in urban India, so it can be replicated without major infrastructure changes.
 - Badge guess: orange
 
+## Muju Earth
+- Source article: [The Aeropod automates soil aeration without robotics — see it at TechCrunch Disrupt](https://techcrunch.com/2026/09/25/the-aeropod-automates-soil-aeration-without-robotics-see-it-at-techcrunch-disrupt/) (TechCrunch)
+- Category: agri-tech
+- What it does: Muju Earth’s Aeropod is a low‑tech pod that automatically aerates soil, improving root health and yields without the need for complex robotics. Farmers place the pods in fields and they release air over time to loosen compacted soil.
+- Likely revenue model: The company likely sells the pods directly to farmers on a per‑unit basis and may offer recurring revenue through replacement pods or a subscription service for ongoing soil‑health monitoring.
+- India equivalent: none found
+- India fit note: Indian smallholder farms often lack the capital and mechanisation to adopt new field‑installable hardware, and many operate on rain‑fed or mixed cropping systems where a one‑size‑fits‑all pod may be less effective. Adoption would require demonstration of clear ROI and possibly integration with existing extension services.
+- Badge guess: black
+
+## Halide
+- Source article: [These camera apps give you more control over the iPhone 18 Pro’s aperture](https://www.theverge.com/tech/1000729/moment-pro-blackmagic-camera-ii-ios-app-iphone-18-pro-max-aperature-camera) (The Verge)
+- Category: camera-app
+- What it does: Provides manual control over the iPhone 18 Pro's variable aperture, letting users select finer f‑stop values than the native camera app.
+- Likely revenue model: Charges a one‑time purchase price or subscription for the app, with optional in‑app upgrades for advanced features.
+- India equivalent: none found
+- India fit note: The app relies on the iPhone 18 Pro hardware and iOS ecosystem, which have relatively low market share in India, and premium pricing may limit adoption among Indian users.
+- Badge guess: black
+
+## NexusAXI
+- Source article: [NexusAXI](https://www.producthunt.com/products/nexusaxi) (Product Hunt)
+- Category: workflow-automation
+- What it does: A platform that lets users research, plan, create, and automate recurring work tasks across tools and teams.
+- Likely revenue model: Subscription‑based SaaS with tiered plans for individuals, teams, and enterprises.
+- India equivalent: Zoho Flow
+- India fit note: The model relies on stable internet and cloud adoption, which are widely available in Indian enterprises, but smaller MSMEs may lack the digital maturity to fully leverage complex automation workflows.
+- Badge guess: orange
+
+## Cooldown
+- Source article: [COOLDOWN](https://www.producthunt.com/products/cooldown-5) (Product Hunt)
+- Category: behavioral-tech
+- What it does: Adds a short, configurable waiting period before a user can confirm an online purchase, nudging them to reconsider impulse buys.
+- Likely revenue model: Freemium model where basic delay is free and advanced features or merchant integrations are offered via subscription or per‑user licensing.
+- India equivalent: none found
+- India fit note: The concept relies on users having the discipline to wait and on e‑commerce platforms allowing a pause; while internet connectivity is adequate, Indian shoppers are highly price‑sensitive and may bypass such delays, reducing effectiveness.
+- Badge guess: black
+
+## Polyglot
+- Source article: [Polyglot](https://www.producthunt.com/products/polyglot-5) (Product Hunt)
+- Category: subtitle-translation
+- What it does: Polyglot enables users to create and translate video subtitles directly on their Mac, handling the entire workflow without leaving the desktop.
+- Likely revenue model: A freemium model with paid subscription tiers for higher subtitle minutes, batch processing, and premium language packs.
+- India equivalent: none found
+- India fit note: The product assumes widespread Mac usage and a workflow centered on desktop editing, which is less common in India where Windows PCs and mobile-first tools dominate; additionally, support for many Indian regional languages would be needed for local relevance.
+- Badge guess: black
+
+## Ollaya
+- Source article: [Ollaya – Ollama for open-source, Jev-style decision models](https://ollaya.dev/) (Hacker News (front page))
+- Category: ai-agent
+- What it does: Ollaya provides an open‑source platform that lets developers run large language models with Jev‑style decision‑making workflows, enabling structured, rule‑based outputs from LLMs.
+- Likely revenue model: They likely monetize through paid cloud hosting, enterprise support subscriptions, and premium features or managed services on top of the open‑source core.
+- India equivalent: none found
+- India fit note: The product relies on robust cloud compute and high‑speed internet for running LLMs, which are still emerging in many Indian regions; adoption may be limited to tech‑savvy enterprises and startups with access to such infrastructure.
+- Badge guess: black
+
+## Doom or Bloom
+- Source article: [Show HN: Doom or Bloom, map your AI worldview](https://www.doom-or-bloom.com) (Hacker News (front page))
+- Category: ai-assessment
+- What it does: Offers a short questionnaire that maps a user's AI worldview and shows how it compares with others' responses.
+- Likely revenue model: Free and open‑source; likely sustained through donations, sponsorships, or developer consulting rather than direct sales.
+- India equivalent: none found
+- India fit note: The tool depends on widespread internet access and a community interested in nuanced AI futures discussions, which are still emerging in India and may limit rapid adoption.
+- Badge guess: black
+
+## Typst
+- Source article: [Typst makes big strides](https://lwn.net/Articles/1092993/) (Hacker News (front page))
+- Category: typesetting
+- What it does: Typst is a modern markup‑based typesetting tool that lets users write documents with a simple syntax and instantly preview high‑quality PDFs.
+- Likely revenue model: Freemium model with a free desktop editor and paid cloud compilation, collaboration, and premium feature subscriptions.
+- India equivalent: none found
+- India fit note: The product assumes widespread high‑speed internet for cloud rendering and a user base ready to switch from LaTeX to a new syntax; while Indian academia uses LaTeX, adoption may be slower due to infrastructure variability and resistance to changing tooling.
+- Badge guess: black
+
+## Playbook AI
+- Source article: [What happens when you analyze your favorite college football team like the CIA?](https://www.cultivatelabs.com/posts/what-happens-when-you-analyze-college-football-like-the-cia) (Hacker News (front page))
+- Category: sports-analytics
+- What it does: Delivers AI‑driven, intelligence‑style reports on college football teams, aggregating stats, news, social signals and scouting data into actionable insights for fans and bettors.
+- Likely revenue model: Tiered subscription SaaS, with premium plans offering deeper data, custom alerts and API access.
+- India equivalent: none found
+- India fit note: The service relies on the US college football ecosystem, extensive media coverage and a fan base that follows NCAA teams—elements that are virtually absent in India, making direct adoption difficult.
+- Badge guess: black
+
