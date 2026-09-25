@@ -945,3 +945,57 @@
 | Rio Health | quick-commerce | orange | 2026-09-24 | PharmEasy |
 | Koi.rest | digital-wellness | black | 2026-09-25 | none found |
 | ApelegHQ | secure-file-sharing | black | 2026-09-25 | none found |
+| Howseen AI | brand-analytics | black | 2026-09-25 | none found |
+| PixVerse | digital-twin | orange | 2026-09-25 | Tata Elxsi |
+| Once UI | dev-tools | black | 2026-09-25 | none found |
+| DEV·TV | developer-tools | black | 2026-09-25 | none found |
+| TourKit | product-tour | black | 2026-09-25 | none found |
+| SocialGPT | ai-video | orange | 2026-09-25 | InVideo |
+| Quiver GTM | dev-marketing | black | 2026-09-25 | none found |
+| Kaiku | ai-productivity | black | 2026-09-25 | none found |
+| 10xJoy | wellness-tech | black | 2026-09-25 | none found |
+| OmniNotch | mobile-accessory | black | 2026-09-25 | none found |
+| Pair2FA | auth-security | black | 2026-09-25 | none found |
+| RemoteConsole | remote-access | orange | 2026-09-25 | Zoho Assist |
+| Dictoterix | language-learning | orange | 2026-09-25 | Hello English |
+| JevForAgents | ai-agent | black | 2026-09-25 | none found |
+| LaterOn | ai-agent | black | 2026-09-25 | none found |
+| Turnstone | ai-agent | black | 2026-09-25 | none found |
+| Small Wins | digital-health | orange | 2026-09-25 | Physiotherapy on Call |
+| FinalFrame | photo-editing AI | black | 2026-09-25 | none found |
+| Shadow Planner | project-management | orange | 2026-09-25 | Zoho Projects |
+| Cutsio | video-management | black | 2026-09-25 | none found |
+| Layernote | visual-feedback | black | 2026-09-25 | none found |
+| Markly | markdown-editor | black | 2026-09-25 | none found |
+| Stimly | health-tech | black | 2026-09-25 | none found |
+| Hyperdream | ai-video | black | 2026-09-25 | none found |
+| WebDecoy | security | black | 2026-09-25 | none found |
+| FRCTL | visual-media | black | 2026-09-25 | none found |
+| Aks.ai | ai-coach | orange | 2026-09-25 | Wysa |
+| Tellwe | branding-tech | black | 2026-09-25 | none found |
+| Kairn | meeting-automation | black | 2026-09-25 | none found |
+| Fit Receipt | expense-tech | orange | 2026-09-25 | Zoho Expense |
+| HireOtto | ad-tech | orange | 2026-09-25 | AdCreative.ai |
+| ShroomPen | ai-writer | orange | 2026-09-25 | Peppertype.ai |
+| Squints | web-design | orange | 2026-09-25 | Zoho Sites |
+| Jango | ai-testing | orange | 2026-09-25 | Qyrus |
+| Designeer | design-platform | black | 2026-09-25 | none found |
+| Kelam | ai-agent | black | 2026-09-25 | none found |
+| Velocity Radar | dev-analytics | black | 2026-09-25 | none found |
+| Evvery | ai-assistant | orange | 2026-09-25 | Writesonic |
+| Kliva | fitness-tech | orange | 2026-09-25 | Fittr |
+| Memoire | writing-assist | black | 2026-09-25 | none found |
+| MIDIpad | music-tech | black | 2026-09-25 | none found |
+| Flybox | neuro-tech | black | 2026-09-25 | none found |
+| Relium | data-ops | black | 2026-09-25 | none found |
+| DokBot | ai-support | orange | 2026-09-25 | Zoho Desk (Zia) |
+| Kapshot | video-editing | black | 2026-09-25 | none found |
+| Decktly | presentation-tools | orange | 2026-09-25 | Zoho Show |
+| DemoScreen | video-saas | black | 2026-09-25 | none found |
+| Promptic | genai-ops | black | 2026-09-25 | none found |
+| MistoBox | coffee-subscription | orange | 2026-09-25 | The Indian Bean |
+| Arivihan | edtech | orange | 2026-09-25 | Doubtnut |
+| Rivet | dating-app | orange | 2026-09-25 | TrulyMadly |
+| Tender247 | procurement platform | orange | 2026-09-25 | BidAssist |
+| Swadeza | semiconductor | orange | 2026-09-25 | Menta |
+| Sarvam AI | document-ai | black | 2026-09-25 | none found |
