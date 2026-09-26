@@ -1031,3 +1031,21 @@
 | Ekselio | finance-automation | black | 2026-09-26 | none found |
 | Verkada | security-tech | orange | 2026-09-26 | Camcom |
 | Hacker Atlas | news-analytics | black | 2026-09-26 | none found |
+| eSUV e-bike (generic concept) | electric-bike | orange | 2026-09-26 | Biktrix |
+| MakerMap | maker-network | orange | 2026-09-26 | YourStory's Startup Map |
+| Kleanly | macOS-utility | black | 2026-09-26 | none found |
+| Sound | audio-utility | black | 2026-09-26 | none found |
+| Lisen | ai-voice | black | 2026-09-26 | none found |
+| Hemory | ai-agent | black | 2026-09-26 | none found |
+| Eclatira | conversational-ai | black | 2026-09-26 | none found |
+| Paragraph Notes | note-taking | orange | 2026-09-26 | Zoho Notebook |
+| Psst | shopping-list | black | 2026-09-26 | none found |
+| GoodSocials | ai-social | black | 2026-09-26 | none found |
+| Fewer | mobile-analytics | black | 2026-09-26 | none found |
+| Chit | ai-productivity | black | 2026-09-26 | none found |
+| CrbonFree | climate-tech | black | 2026-09-26 | none found |
+| Floci | cloud-emulation | black | 2026-09-26 | none found |
+| SafeNotSafe | db-migration | black | 2026-09-26 | none found |
+| LegacyDOS | legacy-modernization | orange | 2026-09-26 | TCS |
+| Tuck | tab-management | black | 2026-09-26 | none found |
+| AI Shopper | ai-agent | orange | 2026-09-26 | Niki.ai |
