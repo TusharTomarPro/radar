@@ -241,3 +241,48 @@
 - India fit note: India has a growing PC and mobile gaming audience and digital distribution platforms, but limited console penetration and payment hurdles could affect adoption.
 - Badge guess: orange
 
+## DeepSeek Elastic Compute (DSec)
+- Source article: [DeepSeek Elastic Compute (DSec)](https://arxiv.org/abs/2609.22978) (Hacker News (front page))
+- Category: ai-infra
+- What it does: Offers on‑demand, elastic compute resources optimized for large language model training and inference, automatically scaling GPU/TPU capacity as needed.
+- Likely revenue model: Pay‑as‑you‑go pricing based on compute usage (e.g., per GPU‑hour) with optional subscription tiers for reserved capacity.
+- India equivalent: none found
+- India fit note: The service relies on extensive high‑bandwidth data centers and large GPU farms, which are still limited in India; adoption may be constrained by current infrastructure and the nascent enterprise AI market.
+- Badge guess: black
+
+## Reladraw
+- Source article: [Show HN: Reladraw – A diagram language where you decide where to place things](https://github.com/reladraw/reladraw) (Hacker News (front page))
+- Category: diagramming
+- What it does: Reladraw offers a diagram-as-code language that lets users specify exact placement of diagram elements, blending the precision of code with manual layout control. It works via an npm package and integrates with AI agents like Claude for automated diagram generation.
+- Likely revenue model: Likely a freemium model: free open‑source core with paid enterprise licenses or premium features such as cloud hosting, collaboration tools, and advanced AI integration.
+- India equivalent: Creately
+- India fit note: The product relies on a developer‑centric workflow (npm, code‑based definitions) and AI‑agent integration, which are well‑supported in India's tech ecosystem, but widespread adoption may be limited to teams already using code‑first diagramming tools.
+- Badge guess: orange
+
+## Drawgent
+- Source article: [Drawgent: Coding agent on a live Excalidraw canvas](https://tangled.org/yanndegat.tngl.sh/drawgent) (Hacker News (front page))
+- Category: ai-agent
+- What it does: Drawgent is an AI-powered coding assistant that lets users write and edit code directly on a live Excalidraw canvas, visualizing program flow as sketches. It translates hand‑drawn diagrams into executable code and updates the canvas in real time.
+- Likely revenue model: A freemium SaaS model with paid tiers for higher API usage, team collaboration features, and integration with IDEs or cloud IDE platforms.
+- India equivalent: none found
+- India fit note: The product relies on widespread adoption of Excalidraw‑style collaborative sketching and seamless integration with cloud IDEs, which are still niche in many Indian development workflows, limiting immediate market fit.
+- Badge guess: black
+
+## Claude Chess Analyzer
+- Source article: [Show HN: A Claude Code skill to analyze your chess games](https://github.com/brumar/chess-postmortem-skills) (Hacker News (front page))
+- Category: ai-coach
+- What it does: Allows users to submit audio or text notes and a request like “analyze my last lichess game”, then uses Claude’s vision and Stockfish to generate a narrated, commented video of the game. It provides a more interactive teaching experience than manual engine analysis.
+- Likely revenue model: Charges users per token usage of the Anthropic Claude API, effectively a pay‑as‑you‑go model (or subscription covering a token quota).
+- India equivalent: Chessify
+- India fit note: The service relies on high‑speed internet, access to Anthropic’s API, and willingness to pay token fees, which may be less common in India; however, similar AI‑driven analysis platforms like Chessify already operate locally, indicating the core behavior is feasible.
+- Badge guess: orange
+
+## Home Assistant
+- Source article: [You can use your old laptop to make a smart home hub](https://www.engadget.com/2265491/you-can-use-your-old-laptop-to-make-a-smart-home-hub/) (Engadget)
+- Category: smart-home
+- What it does: Home Assistant lets you repurpose an old laptop or netbook into a central hub that integrates and automates disparate IoT devices.
+- Likely revenue model: The core software is free, but they monetize through a subscription‑based Home Assistant Cloud service and optional paid add‑ons.
+- India equivalent: Oakter
+- India fit note: India has a growing DIY maker community and widespread Wi‑Fi, but inconsistent broadband reliability and lower penetration of compatible legacy devices could limit adoption of a laptop‑based hub.
+- Badge guess: orange
+

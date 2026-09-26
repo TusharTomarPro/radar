@@ -1051,3 +1051,8 @@
 | AI Shopper | ai-agent | orange | 2026-09-26 | Niki.ai |
 | Avatar AI | ai-avatar | black | 2026-09-26 | none found |
 | Control Resonant | indie-game | orange | 2026-09-26 | Nodding Heads Games |
+| DeepSeek Elastic Compute (DSec) | ai-infra | black | 2026-09-26 | none found |
+| Reladraw | diagramming | orange | 2026-09-26 | Creately |
+| Drawgent | ai-agent | black | 2026-09-26 | none found |
+| Claude Chess Analyzer | ai-coach | orange | 2026-09-26 | Chessify |
+| Home Assistant | smart-home | orange | 2026-09-26 | Oakter |
