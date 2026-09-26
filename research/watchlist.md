@@ -1049,3 +1049,5 @@
 | LegacyDOS | legacy-modernization | orange | 2026-09-26 | TCS |
 | Tuck | tab-management | black | 2026-09-26 | none found |
 | AI Shopper | ai-agent | orange | 2026-09-26 | Niki.ai |
+| Avatar AI | ai-avatar | black | 2026-09-26 | none found |
+| Control Resonant | indie-game | orange | 2026-09-26 | Nodding Heads Games |

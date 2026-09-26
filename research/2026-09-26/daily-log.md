@@ -223,3 +223,21 @@
 - India fit note: Success hinges on high trust in autonomous purchasing and seamless integration with India's fragmented payment ecosystem; while chat‑based commerce exists, widespread adoption may be slowed by privacy concerns and the need for strong fraud protection.
 - Badge guess: orange
 
+## Avatar AI
+- Source article: [I created an interactive digital avatar of myself — and you can talk to it](https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/) (TechCrunch)
+- Category: ai-avatar
+- What it does: Creates a personalized digital avatar of a user that can converse via text or voice, using AI trained on the user's data and preferences.
+- Likely revenue model: Subscription‑based pricing for avatar creation and ongoing conversational access, with optional premium features.
+- India equivalent: none found
+- India fit note: The service relies on high‑quality video/audio capture, fast broadband, and user comfort with AI replicas, which are less common in many Indian markets today.
+- Badge guess: black
+
+## Control Resonant
+- Source article: [Control Resonant, rapidfire CEO turnovers and other new indie games worth checking out](https://www.engadget.com/2269434/control-resonant-rapidfire-ceo-turnovers-and-other-new-indie-games-worth-checking-out/) (Engadget)
+- Category: indie-game
+- What it does: A narrative-driven action-adventure game that blends supernatural powers with puzzle-solving mechanics.
+- Likely revenue model: Sells as a premium title on digital storefronts like Steam and consoles, possibly with optional DLCs.
+- India equivalent: Nodding Heads Games
+- India fit note: India has a growing PC and mobile gaming audience and digital distribution platforms, but limited console penetration and payment hurdles could affect adoption.
+- Badge guess: orange
+
