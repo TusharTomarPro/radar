@@ -1056,3 +1056,5 @@
 | Drawgent | ai-agent | black | 2026-09-26 | none found |
 | Claude Chess Analyzer | ai-coach | orange | 2026-09-26 | Chessify |
 | Home Assistant | smart-home | orange | 2026-09-26 | Oakter |
+| WapiSender | whatsapp-automation | orange | 2026-09-26 | Gupshup |
+| PipePipe | video-player | black | 2026-09-26 | none found |

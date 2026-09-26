@@ -286,3 +286,21 @@
 - India fit note: India has a growing DIY maker community and widespread Wi‑Fi, but inconsistent broadband reliability and lower penetration of compatible legacy devices could limit adoption of a laptop‑based hub.
 - Badge guess: orange
 
+## WapiSender
+- Source article: [WapiSender](https://www.producthunt.com/products/wapisender) (Product Hunt)
+- Category: whatsapp-automation
+- What it does: WapiSender provides a visual flow builder and AI-powered tools to automate WhatsApp conversations, enabling businesses to create chatbots, broadcast messages, and handle customer interactions at scale.
+- Likely revenue model: A subscription‑based SaaS model with tiered pricing based on the number of messages, active users or bots, possibly supplemented by pay‑per‑message fees.
+- India equivalent: Gupshup
+- India fit note: WhatsApp is ubiquitous in India and the WhatsApp Business API is available, so the core functionality can be replicated; however, success depends on businesses adopting automated chat workflows and complying with WhatsApp's strict commerce policies.
+- Badge guess: orange
+
+## PipePipe
+- Source article: [PipePipe: NewPipe hard fork implementing SponsorBlock](https://github.com/InfinityLoop1308/PipePipe) (Hacker News (front page))
+- Category: video-player
+- What it does: PipePipe is an Android app that streams YouTube videos without ads and automatically skips sponsor segments using the SponsorBlock community database.
+- Likely revenue model: It is an open‑source project that likely relies on donations or voluntary contributions rather than direct sales or ads.
+- India equivalent: none found
+- India fit note: The app requires users to sideload APKs and depend on a community‑maintained sponsor database, which may face adoption hurdles in India where many users rely on the Play Store and where community participation for SponsorBlock is limited.
+- Badge guess: black
+
