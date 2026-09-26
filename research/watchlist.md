@@ -1024,3 +1024,10 @@
 | Doom or Bloom | ai-assessment | black | 2026-09-25 | none found |
 | Typst | typesetting | black | 2026-09-25 | none found |
 | Playbook AI | sports-analytics | black | 2026-09-25 | none found |
+| UIDCaption | ai-captioning | black | 2026-09-26 | none found |
+| Forkest | dev-gamification | black | 2026-09-26 | none found |
+| TiddlyInstall | dev-tools | black | 2026-09-26 | none found |
+| FakeNews Game | media-literacy | black | 2026-09-26 | none found |
+| Ekselio | finance-automation | black | 2026-09-26 | none found |
+| Verkada | security-tech | orange | 2026-09-26 | Camcom |
+| Hacker Atlas | news-analytics | black | 2026-09-26 | none found |
