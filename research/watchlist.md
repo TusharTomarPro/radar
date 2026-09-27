@@ -1062,3 +1062,12 @@
 | FlashDecision | ai-decision | black | 2026-09-27 | none found |
 | Token Space Fonts | ai-font | black | 2026-09-27 | none found |
 | GPUx | hardware-resale | black | 2026-09-27 | none found |
+| Cuey | llm-comparison | black | 2026-09-27 | none found |
+| Harmony | ai-agent | orange | 2026-09-27 | Freshworks (Freshservice) |
+| KiwiDesk | desktop-tool | black | 2026-09-27 | none found |
+| Humalike | ai-npc | black | 2026-09-27 | none found |
+| Clicks | messaging | orange | 2026-09-27 | WhatsApp |
+| Superhuman Go | ai-assistant | black | 2026-09-27 | none found |
+| LightCloud | cloud-hosting | black | 2026-09-27 | none found |
+| Flip Fluid | display-tech | black | 2026-09-27 | none found |
+| Flipd | productivity | black | 2026-09-27 | none found |
