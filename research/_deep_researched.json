@@ -2880,5 +2880,113 @@
     "india_cost_estimate": "\u20b98\u201115\u202flakh for an MVP and small core team (2\u20114 developers/PM) for the first 6\u201112\u202fmonths, assuming cloud services, basic AI models and no paid marketing.",
     "risk_score": 6,
     "risk_reasoning": "A surviving competitor (Propstack) in the same AI\u2011driven proptech space makes differentiation hard, and the earlier Indian Parcelscope collapse signals market\u2011fit risk. Moderate regulatory exposure (RERA, data\u2011privacy) adds complexity, though low capital intensity keeps upfront burn manageable, resulting in an overall medium\u2011high risk rating."
+  },
+  "crumbbot::2026-09-07": {
+    "company": "CrumbBot",
+    "category": "home-robotics",
+    "revised_badge": "black",
+    "competitor_status": "no-real-competitor-found",
+    "regulatory_flag": "moderate \u2013 the Personal Data Protection Bill (2023) mandates localization of critical personal data and the Bureau of Indian Standards (BIS) requires safety certifications for consumer robotics, adding compliance overhead.",
+    "capital_intensity": "high \u2013 building, testing, and certifying physical robots demands substantial upfront R&D, tooling, and supply\u2011chain spend, far beyond a pure\u2011software, asset\u2011light model.",
+    "known_numbers": "no public numbers found",
+    "india_cost_estimate": "\u20b92\u20113\u202fcrore (\u2248\u202f\u20b920\u201130\u202fmillion) for 6\u201112\u202fmonths: includes a small hardware R&D team (4\u20115 engineers), prototype tooling, BIS certification fees, cloud/AI services, and limited pilot manufacturing run.",
+    "risk_score": 8,
+    "risk_reasoning": "Although no clear domestic competitor exists, the market is structurally weak and the product class is capital\u2011intensive. Moderate regulatory compliance (data localization and safety certification) adds overhead, and the fact that CrumbBot itself reportedly shut down in 2025 suggests poor product\u2011market fit. These factors combine to make the venture high\u2011risk."
+  },
+  "navigateai::2026-09-08": {
+    "company": "NavigateAI",
+    "category": "construction-tech",
+    "revised_badge": "black",
+    "competitor_status": "no-real-competitor-found",
+    "regulatory_flag": "moderate \u2013 construction\u2011tech tools intersect with the Real Estate (Regulation and Development) Act, 2016 (RERA) for disclosures and the IT Act 2021\u2019s data\u2011localisation mandates, creating compliance overhead but not a hard stop.",
+    "capital_intensity": "medium \u2013 the model is primarily software\u2011centric (AI/ML, cloud) but requires domain data, pilot integrations with contractors, and a modest engineering team, leading to a moderate cash burn before unit economics materialise.",
+    "known_numbers": "no public numbers found; the only concrete fact is that NavigateAI shut down in 2024 due to funding shortfall and market competition.",
+    "india_cost_estimate": "\u20b912\u201120\u202flakh for an MVP and a lean 3\u20114\u2011person team (engineers, product, ops) for the first 6\u201112\u202fmonths, covering cloud/API usage, salaries, and minimal legal/compliance costs.",
+    "risk_score": 7,
+    "risk_reasoning": "The space shows no clear local competitor, which is attractive, but the target startup\u2019s 2024 shutdown signals weak product\u2011market fit. Moderate regulatory friction (RERA, data localisation) adds compliance cost, and a medium capital intensity means the venture needs sustained funding before breakeven. Combined, these factors push the risk toward the higher side."
+  },
+  "d2lang-tala::2026-09-08": {
+    "company": "d2lang (TALA)",
+    "category": "ai-agent",
+    "revised_badge": "orange",
+    "competitor_status": "surviving",
+    "regulatory_flag": "moderate \u2013 RBI requires NBFC licensing (RBI Act 1934, NBFC Fair\u2011Practices Code) and compliance with KYC/AML and data\u2011localisation rules for digital lenders.",
+    "capital_intensity": "medium \u2013 the core AI\u2011agent software is asset\u2011light, but the business must fund loan disbursements or partner with capital\u2011backed lenders, raising the cash burn beyond pure SaaS.",
+    "known_numbers": "Revenue FY\u202f2023: $1.27\u202fM; Valuation 2024: $5.35\u202fM; Funding July\u202f2024: $6.48\u202fM; Total capital raised: $17.76\u202fM (as per CB\u202fInsights). No user\u2011count figures were found.",
+    "india_cost_estimate": "\u20b930\u201150\u202flakh for a 6\u201112\u202fmonth pilot (cloud/API usage ~\u20b95\u201110\u202flakh, a core team of 5\u20117 engineers/product/compliance staff ~\u20b920\u201135\u202flakh in salaries, minimal marketing).",
+    "risk_score": 6,
+    "risk_reasoning": "TALA faces established Indian rivals such as GreenSky, Lentra and Zyla, so market entry is competitive (orange badge). RBI\u2019s NBFC licensing and data\u2011localisation requirements add moderate regulatory friction. The model is medium\u2011capital\u2011intensive, needing loan funding or partnerships, which raises cash\u2011burn risk, pushing the overall risk to a mid\u2011range score."
+  },
+  "emacs-bedrock::2026-09-08": {
+    "company": "Emacs Bedrock",
+    "category": "dev-tools",
+    "revised_badge": "black",
+    "competitor_status": "no-real-competitor-found",
+    "regulatory_flag": "none",
+    "capital_intensity": "low",
+    "known_numbers": "Search evidence shows eMacs Technologies Private Limited (the company behind Emacs Bedrock) reported $67.7\u202fM annual revenue in 2026 and listed 7 employees. A separate report says a similarly named eMacs Technologies Private Limited shut down in 2025, but no direct revenue or user numbers for the Emacs Bedrock product itself were found.",
+    "india_cost_estimate": "\u20b910\u201115\u202flakh for a 6\u201112\u202fmonth MVP and a small team (2\u20114 engineers, basic cloud hosting, minimal marketing).",
+    "risk_score": 3,
+    "risk_reasoning": "There are no clear Indian competitors and the product faces negligible regulatory hurdles, keeping risk low. Capital needs are modest, but market demand for an Emacs\u2011centric dev\u2011tool in India is uncertain, which prevents a lower score."
+  },
+  "lyrimuse::2026-09-08": {
+    "company": "Lyrimuse",
+    "category": "music-tech",
+    "revised_badge": "orange",
+    "competitor_status": "surviving",
+    "regulatory_flag": "moderate \u2013 must secure music\u2011rights licences under the Indian Copyright Act, 1957 (public performance & mechanical licences) and comply with data\u2011localisation rules for user data.",
+    "capital_intensity": "medium \u2013 content\u2011licensing fees and cloud hosting are significant, but the model is asset\u2011light (no physical inventory or logistics).",
+    "known_numbers": "no public numbers found",
+    "india_cost_estimate": "\u20b930\u201150\u202flakh for 6\u201112\u202fmonths (cloud & CDN costs ~\u20b98\u201112\u202flakh, music\u2011licensing fees ~\u20b910\u201115\u202flakh, a lean team of 3\u20114 engineers/product staff ~\u20b912\u201123\u202flakh).",
+    "risk_score": 7,
+    "risk_reasoning": "A strong, well\u2011funded incumbent (JioSaavn) already dominates the market, making differentiation hard. Regulatory compliance for music licences adds moderate friction, and while the model is not capital\u2011heavy, licensing costs and user\u2011acquisition expenses can quickly erode margins. Combined with the founder's prior failure, the overall risk is relatively high."
+  },
+  "tables-so::2026-09-08": {
+    "company": "Tables.so",
+    "category": "lead-generation",
+    "revised_badge": "orange",
+    "competitor_status": "surviving",
+    "regulatory_flag": "moderate \u2013 compliance needed with India's Telecom Commercial Communication Regulations (TRAI) for outbound outreach and the pending Personal Data Protection Bill/IT Act for handling personal data",
+    "capital_intensity": "low \u2013 the model is a pure SaaS platform with minimal physical assets, so it can be bootstrapped with a small engineering and sales team",
+    "known_numbers": "no public numbers found",
+    "india_cost_estimate": "\u20b912\u201120\u202flakh for 6\u201112\u202fmonths (cloud & API usage ~\u20b93\u20115\u202flakh, 3\u20114 engineers & product manager ~\u20b97\u201112\u202flakh, basic legal/compliance ~\u20b92\u202flakh)",
+    "risk_score": 5,
+    "risk_reasoning": "LeadSquared is an active, well\u2011funded competitor, limiting upside; regulatory exposure is moderate due to tele\u2011marketing and data\u2011privacy rules; however, the business is asset\u2011light, keeping capital needs low, resulting in a medium overall risk."
+  },
+  "knockin::2026-09-08": {
+    "company": "Knockin'",
+    "category": "ai-agent",
+    "revised_badge": "black",
+    "competitor_status": "no-real-competitor-found",
+    "regulatory_flag": "moderate \u2013 compliance needed with India\u2019s IT Act (Section 43A) and the forthcoming Personal Data Protection Bill\u2019s data\u2011localisation requirements for personal data, plus any sector\u2011specific rules if the agent handles finance or health data.",
+    "capital_intensity": "low \u2013 the model is asset\u2011light, requiring mainly cloud compute and a small engineering team, so profitability can be approached without heavy upfront cash burn.",
+    "known_numbers": "no public numbers found",
+    "india_cost_estimate": "\u20b935\u201150\u202flakh for a 6\u201112\u202fmonth MVP and small team (2\u20114 engineers, 1 product lead) covering cloud/API usage, salaries, and minimal legal/compliance costs.",
+    "risk_score": 4,
+    "risk_reasoning": "The lack of direct competitors suggests a market entry opportunity, but moderate regulatory exposure around data privacy and localisation adds compliance overhead. Capital needs are modest, keeping cash\u2011burn low, but the nascent market means demand is still being proven, leading to a moderate overall risk."
+  },
+  "jupitrr::2026-09-08": {
+    "company": "Jupitrr",
+    "category": "video-tools",
+    "revised_badge": "orange",
+    "competitor_status": "surviving",
+    "regulatory_flag": "moderate \u2013 Indian IT (Intermediary Guidelines) Rules 2021 and upcoming Deep\u2011Fake/Synthetic Media guidelines require labeling and may restrict unlabelled AI\u2011generated video content.",
+    "capital_intensity": "low \u2013 the product is a SaaS video\u2011creation tool, largely software\u2011only, so it can be built and run with a small engineering team and modest cloud spend.",
+    "known_numbers": "no public numbers found",
+    "india_cost_estimate": "\u20b912\u201120\u202flakh for 6\u201112\u202fmonths (covers 2\u20113 senior engineers, 1 product designer, cloud/API usage, basic legal/compliance, and minimal office overhead).",
+    "risk_score": 5,
+    "risk_reasoning": "The market already has established players (TrueFan AI, MAGIX, Flora), so differentiation will be challenging. Regulatory exposure is moderate due to emerging deep\u2011fake rules, but the business is low\u2011capital\u2011intensive, keeping financial risk manageable. Overall the combination yields a medium risk profile."
+  },
+  "widgo::2026-09-08": {
+    "company": "Widgo",
+    "category": "ai-sales",
+    "revised_badge": "orange",
+    "competitor_status": "surviving",
+    "regulatory_flag": "none",
+    "capital_intensity": "low",
+    "known_numbers": "no public numbers found",
+    "india_cost_estimate": "\u20b912-25 lakh for a 6\u201112 month MVP (cloud/API usage, 2\u20114 engineers, basic sales\u2011AI tooling, no paid marketing)",
+    "risk_score": 5,
+    "risk_reasoning": "Verloop.io, a direct AI\u2011sales competitor, is still active (acquired in 2026), indicating a competitive market. The SaaS model faces minimal regulatory hurdles in India and is asset\u2011light, keeping capital needs low. These factors combine to give a moderate risk rating."
   }
 }
