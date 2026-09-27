@@ -115,3 +115,39 @@
 - India fit note: The app assumes users are comfortable installing system‑level lock tools and have consistent internet access for updates, which may be limited in some Indian regions and among users wary of restricting phone use.
 - Badge guess: black
 
+## Julia Evans (jvns.ca) - DIY Battery Replacement Guide
+- Source article: [Replacing the old battery on rechargeable bike lights](https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/) (Hacker News (front page))
+- Category: bike-accessories
+- What it does: Provides a step‑by‑step guide for swapping out the old battery in rechargeable bike lights, letting users extend the product’s life.
+- Likely revenue model: The author likely earns through sponsorships, affiliate links, ads, or reader donations (e.g., Patreon).
+- India equivalent: none found
+- India fit note: The guide assumes availability of specific lithium‑ion cells and basic soldering tools, which exist in India, but the DIY repair culture for bike lighting is not widespread, so adoption may be limited.
+- Badge guess: black
+
+## EqualWidth Font
+- Source article: [Font where each token is equal-width](https://twitter.com/amplifiedamp/status/2103535129503383700) (Hacker News (front page))
+- Category: font-tech
+- What it does: A typeface that forces every token (word or token) to occupy the same visual width, ensuring perfectly aligned columns without manual spacing.
+- Likely revenue model: Sells commercial licenses for the font and offers paid support/customization for enterprises.
+- India equivalent: none found
+- India fit note: Adoption hinges on design and developer habits rather than infrastructure, so it could be used in India, but awareness among Indian designers may be limited.
+- Badge guess: black
+
+## Fakecloud
+- Source article: [Fakecloud: Local AWS cloud emulator for integration tests](https://fakecloud.dev/) (Hacker News (front page))
+- Category: dev-tools
+- What it does: Fakecloud provides a local emulator that mimics AWS services, allowing developers to run integration tests without connecting to the real cloud. It replicates APIs of services like S3, DynamoDB, and Lambda for fast, offline testing.
+- Likely revenue model: The core product is likely open‑source with a paid tier for enterprise support, premium features, or hosted SaaS instances.
+- India equivalent: none found
+- India fit note: The product assumes widespread use of AWS and a dev culture that values fast, offline testing; both exist in India’s tech hubs, but limited broadband in some regions could affect large‑scale local emulation. Adoption would depend on teams’ willingness to integrate a local stack into CI pipelines.
+- Badge guess: black
+
+## Google Assistant
+- Source article: [Four out of five Indians to use AI assistants for festival shopping](https://www.business-standard.com/technology/artificial-intelligence/four-out-of-five-indians-to-use-ai-assistants-for-festival-shopping-126092700695_1.html) (Business Standard Tech)
+- Category: ai-assistant
+- What it does: Uses conversational AI to help users discover, compare and purchase festival gifts and apparel via voice or chat interactions.
+- Likely revenue model: Earns commissions on sales and charges advertising fees from retailers that get visibility through the assistant.
+- India equivalent: Myntra (AI shopping assistant)
+- India fit note: Success depends on high smartphone penetration, reliable internet, and consumer comfort with voice/chat interfaces, which are growing but still limited in some Tier‑II regions.
+- Badge guess: orange
+

@@ -1071,3 +1071,7 @@
 | LightCloud | cloud-hosting | black | 2026-09-27 | none found |
 | Flip Fluid | display-tech | black | 2026-09-27 | none found |
 | Flipd | productivity | black | 2026-09-27 | none found |
+| Julia Evans (jvns.ca) - DIY Battery Replacement Guide | bike-accessories | black | 2026-09-27 | none found |
+| EqualWidth Font | font-tech | black | 2026-09-27 | none found |
+| Fakecloud | dev-tools | black | 2026-09-27 | none found |
+| Google Assistant | ai-assistant | orange | 2026-09-27 | Myntra (AI shopping assistant) |
