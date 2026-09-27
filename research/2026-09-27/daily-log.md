@@ -151,3 +151,21 @@
 - India fit note: Success depends on high smartphone penetration, reliable internet, and consumer comfort with voice/chat interfaces, which are growing but still limited in some Tier‑II regions.
 - Badge guess: orange
 
+## Imp
+- Source article: [Imp is a full port of DSPy to the BEAM](https://github.com/deepfates/imp) (Hacker News (front page))
+- Category: ml-framework
+- What it does: Imp is a full port of the DSPy library to the BEAM, allowing developers to build and run language‑model pipelines using Erlang/Elixir.
+- Likely revenue model: Likely an open‑source project monetized through paid support, consulting, or enterprise licensing.
+- India equivalent: none found
+- India fit note: Success depends on the relatively niche adoption of the BEAM for AI/ML workloads in India and on the availability of developers skilled in Erlang/Elixir, which are less common than Python ecosystems.
+- Badge guess: black
+
+## Lofi Cities
+- Source article: [Show HN: Lofi Cities – Pixel-art city nights with browser-generated lofi](https://loficities.com/) (Hacker News (front page))
+- Category: generative-art
+- What it does: Generates pixel‑art city nightscapes in the browser and streams procedurally created lo‑fi music to accompany the visuals.
+- Likely revenue model: Free to use with optional donations, subscription for ad‑free or custom scenes, and occasional merch sales.
+- India equivalent: none found
+- India fit note: The service depends on reliable high‑speed internet and a niche culture of ambient lo‑fi streaming while working, which is still emerging in India, and monetisation via Patreon‑style donations may be less effective.
+- Badge guess: black
+

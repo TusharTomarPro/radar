@@ -1075,3 +1075,5 @@
 | EqualWidth Font | font-tech | black | 2026-09-27 | none found |
 | Fakecloud | dev-tools | black | 2026-09-27 | none found |
 | Google Assistant | ai-assistant | orange | 2026-09-27 | Myntra (AI shopping assistant) |
+| Imp | ml-framework | black | 2026-09-27 | none found |
+| Lofi Cities | generative-art | black | 2026-09-27 | none found |
