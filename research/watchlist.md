@@ -1058,3 +1058,7 @@
 | Home Assistant | smart-home | orange | 2026-09-26 | Oakter |
 | WapiSender | whatsapp-automation | orange | 2026-09-26 | Gupshup |
 | PipePipe | video-player | black | 2026-09-26 | none found |
+| PNOE | fitness-tech | black | 2026-09-27 | none found |
+| FlashDecision | ai-decision | black | 2026-09-27 | none found |
+| Token Space Fonts | ai-font | black | 2026-09-27 | none found |
+| GPUx | hardware-resale | black | 2026-09-27 | none found |
