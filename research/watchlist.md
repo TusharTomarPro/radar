@@ -1077,3 +1077,25 @@
 | Google Assistant | ai-assistant | orange | 2026-09-27 | Myntra (AI shopping assistant) |
 | Imp | ml-framework | black | 2026-09-27 | none found |
 | Lofi Cities | generative-art | black | 2026-09-27 | none found |
+| SaleSmartly | sales-automation | orange | 2026-09-28 | Zoho CRM |
+| Mochi | desktop-productivity | black | 2026-09-28 | none found |
+| Arc | ai-assistant | orange | 2026-09-28 | JioAssistant |
+| Harness | ai-orchestration | black | 2026-09-28 | none found |
+| CybeDefend | devsecops | orange | 2026-09-28 | Appknox |
+| Stash | mac-utility | black | 2026-09-28 | none found |
+| Zerg Router | ai-infra | black | 2026-09-28 | none found |
+| Vitals | productivity | black | 2026-09-28 | none found |
+| Sayble | ai-assistant | black | 2026-09-28 | none found |
+| MuM | markdown-editor | black | 2026-09-28 | none found |
+| Okara | ai-marketing | black | 2026-09-28 | none found |
+| Dina | screen-recording | black | 2026-09-28 | none found |
+| Statable | ai-analytics | orange | 2026-09-28 | MoEngage |
+| Shotcandy | design-tools | black | 2026-09-28 | none found |
+| Lattice | ai-translation | black | 2026-09-28 | none found |
+| vantage.ai | ai-agent | black | 2026-09-28 | none found |
+| Ryu Journal | wellness | black | 2026-09-28 | none found |
+| PIP | ai-assistant | black | 2026-09-28 | none found |
+| Parley | decentralized chat | black | 2026-09-28 | none found |
+| Mechanical Means | hardware | black | 2026-09-28 | none found |
+| Mimic | simulation-ai | black | 2026-09-28 | none found |
+| Alive App | experience-tech | orange | 2026-09-28 | Bucketlistt |
