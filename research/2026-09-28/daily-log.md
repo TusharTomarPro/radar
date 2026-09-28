@@ -196,3 +196,84 @@
 - India fit note: The model relies on high disposable income, internet usage and a culture of spending on curated experiences, which is strong in Indian metros but less developed in tier‑2/3 cities; supply of vetted creators also needs robust local networks.
 - Badge guess: orange
 
+## DetectifAI
+- Source article: [After a deepfake voice fooled her grandfather, this founder sprang into action](https://techcrunch.com/2026/09/28/after-a-deepfake-voice-fooled-her-grandfather-this-founder-sprang-into-action/) (TechCrunch)
+- Category: voice-authentication
+- What it does: DetectifAI builds ultra‑light AI models that run on smartphones to analyse incoming audio in real time and flag deep‑fake or synthetic voices.
+- Likely revenue model: B2B SaaS or API licensing to banks, telecom operators, and call‑center platforms that need to verify caller identity.
+- India equivalent: none found
+- India fit note: The solution relies on high‑end smartphones and real‑time processing, which are common in urban India, but widespread adoption may be limited by low awareness of voice‑deepfake scams and the need for integration with legacy telecom and banking systems.
+- Badge guess: black
+
+## Modulate
+- Source article: [Modulate raises $25M for its voice models and analysis suite](https://techcrunch.com/2026/09/28/modulate-raises-25m-for-its-voice-models-and-analysis-suite/) (TechCrunch)
+- Category: voice-security
+- What it does: Modulate provides AI models that analyze voice recordings to detect deepfakes, fraud, and scam attempts in real time.
+- Likely revenue model: It likely sells a SaaS platform with usage‑based pricing to enterprises such as call centers, fintechs, and social media platforms.
+- India equivalent: Uniphore
+- India fit note: India has a large call‑center and fintech ecosystem that already uses voice AI, but widespread adoption may be limited by data‑privacy regulations and the need for high‑quality audio infrastructure.
+- Badge guess: orange
+
+## Outmarket
+- Source article: [Insurtech Outmarket raises $34.5M just months after prior round](https://techcrunch.com/2026/09/28/insuretech-outmarket-raises-34-5m-just-months-after-prior-round/) (TechCrunch)
+- Category: insurtech
+- What it does: Outmarket uses AI to automate the tedious paperwork and data entry tasks that insurance agencies and brokers handle daily.
+- Likely revenue model: It likely charges agencies and brokers a subscription or usage‑based SaaS fee for access to its automation platform.
+- India equivalent: none found
+- India fit note: The model relies on widespread digital adoption and standardized insurance documentation workflows, which are still fragmented in many Indian regions, limiting immediate scalability.
+- Badge guess: black
+
+## OpenScience
+- Source article: [OpenScience](https://www.producthunt.com/products/openscience) (Product Hunt)
+- Category: ai-research
+- What it does: OpenScience offers an open‑source AI workbench that lets scientists design, train, and deploy machine‑learning models for research projects in a collaborative, reproducible environment.
+- Likely revenue model: They likely monetize through paid enterprise subscriptions, premium support, and hosted managed services while keeping the core platform free and open‑source.
+- India equivalent: none found
+- India fit note: The model relies on widespread access to high‑performance compute resources and a culture of open‑source collaboration, which are still emerging in many Indian research institutions, potentially limiting immediate adoption.
+- Badge guess: black
+
+## Jeff
+- Source article: [Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms](https://github.com/firelex/jeff) (Hacker News (front page))
+- Category: ai-models
+- What it does: Provides open‑source 0.8 billion‑parameter decision models that can be trained on a home machine and run inference in about 30 ms.
+- Likely revenue model: Offers the models for free and monetises through paid enterprise support, consulting, or custom model training services.
+- India equivalent: none found
+- India fit note: Running large‑scale decision models locally requires high‑end GPUs and low‑latency network infrastructure, which are not yet widespread among Indian developers and enterprises.
+- Badge guess: black
+
+## PLC (Public Ledger of Credentials)
+- Source article: [First Steps of the PLC Organization – Independent Public Ledger of Credentials](https://blog.plcred.org/3mwlphq42d227) (Hacker News (front page))
+- Category: decentralized-identity
+- What it does: Provides an independent, tamper‑proof public ledger for issuing, storing and verifying digital credentials such as diplomas, certifications, and professional licenses.
+- Likely revenue model: Charges enterprises and credential issuers subscription or per‑verification API fees for access to the ledger and verification services.
+- India equivalent: CredAble
+- India fit note: The model relies on widespread issuance of verifiable digital credentials and trust in blockchain‑based records; while India has strong digital ID infrastructure (Aadhaar) and growing blockchain interest, adoption in education and corporate credentialing is still nascent, which could slow uptake.
+- Badge guess: orange
+
+## MicroLLM Lab
+- Source article: [MicroLLM Lab – Try 7 tiny LLM's in the browser](https://stateofutopia.com/experiments/microllmlab/) (Hacker News (front page))
+- Category: browser-llm
+- What it does: Provides a web interface that lets users run seven tiny language models directly in their browser without server calls.
+- Likely revenue model: Offers a free tier with optional paid subscription for premium models, higher usage limits, or enterprise integration.
+- India equivalent: none found
+- India fit note: The product relies on modern browsers with WebGPU/WebAssembly support and relatively fast broadband, which are still limited in many parts of India, especially rural areas.
+- Badge guess: black
+
+## Biom
+- Source article: [I made a visual workspace for AI Automations](https://www.biom.dev/) (Hacker News (front page))
+- Category: ai-automation
+- What it does: Biom offers a drag‑and‑drop visual workspace to design, run and monitor AI‑powered automation workflows without writing code.
+- Likely revenue model: A subscription‑based SaaS model with tiered plans for individuals, teams, and enterprises.
+- India equivalent: Kissflow
+- India fit note: The product relies on stable cloud infrastructure and widespread API access, both of which exist in India, but adoption may be slower due to higher price sensitivity and data‑privacy concerns around AI models.
+- Badge guess: orange
+
+## Vespper
+- Source article: [Launch HN: Vespper (YC F24) – SOTA Docx MCP](https://www.vespper.com/blog/launching-vespper-docx-mcp) (Hacker News (front page))
+- Category: ai-agent
+- What it does: Vespper offers a model‑centric platform that lets AI agents edit Microsoft Word documents by converting DOCX to HTML, applying find‑and‑replace edits, and reconciling the changes back to the original file with a fine‑tuned model.
+- Likely revenue model: Subscription SaaS with tiered pricing based on the number of document edits or usage minutes, plus a free tier for limited edits.
+- India equivalent: none found
+- India fit note: The service relies on cloud‑based processing of proprietary DOCX files and assumes widespread use of AI agents for document workflows, which may face data‑privacy concerns and lower adoption of such agents in Indian enterprises. Additionally, high‑speed internet and integration with Office.js are needed, which are not uniformly available across all Indian firms.
+- Badge guess: black
+

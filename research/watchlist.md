@@ -1099,3 +1099,12 @@
 | Mechanical Means | hardware | black | 2026-09-28 | none found |
 | Mimic | simulation-ai | black | 2026-09-28 | none found |
 | Alive App | experience-tech | orange | 2026-09-28 | Bucketlistt |
+| DetectifAI | voice-authentication | black | 2026-09-28 | none found |
+| Modulate | voice-security | orange | 2026-09-28 | Uniphore |
+| Outmarket | insurtech | black | 2026-09-28 | none found |
+| OpenScience | ai-research | black | 2026-09-28 | none found |
+| Jeff | ai-models | black | 2026-09-28 | none found |
+| PLC (Public Ledger of Credentials) | decentralized-identity | orange | 2026-09-28 | CredAble |
+| MicroLLM Lab | browser-llm | black | 2026-09-28 | none found |
+| Biom | ai-automation | orange | 2026-09-28 | Kissflow |
+| Vespper | ai-agent | black | 2026-09-28 | none found |
