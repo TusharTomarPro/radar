@@ -1114,3 +1114,39 @@
 | Scrimba | ai-video | orange | 2026-09-29 | InVideo |
 | CO2 Battery Capture | carbon-tech | orange | 2026-09-29 | Carbon Clean Solutions |
 | Nexedge | wealthtech | black | 2026-09-29 | none found |
+| ShipHappens | app-store-optimization | black | 2026-09-29 | none found |
+| Timeless Code | meeting-notetaker | black | 2026-09-29 | none found |
+| Arsaze | ai-video | orange | 2026-09-29 | InVideo |
+| Hopscotch AI | ai-model-marketplace | black | 2026-09-29 | none found |
+| Curie | ai-assistant | black | 2026-09-29 | none found |
+| LUCI Desktop | ai-assistant | black | 2026-09-29 | none found |
+| Semos.ai | ai-assistant | black | 2026-09-29 | none found |
+| iFixAi | ai-audit | black | 2026-09-29 | none found |
+| Clink | mobile-keyboard | black | 2026-09-29 | none found |
+| Supertake | fintech | black | 2026-09-29 | none found |
+| FFFFinder | media-browser | black | 2026-09-29 | none found |
+| ColdIQ | sales-automation | orange | 2026-09-29 | Zoho CRM |
+| Pokébinder | collectibles-tech | black | 2026-09-29 | none found |
+| Imejis | ai-marketing | orange | 2026-09-29 | AdCreative.ai |
+| Engine Room Media | ad-tech | black | 2026-09-29 | none found |
+| Tipword | translation-tool | black | 2026-09-29 | none found |
+| Codex Remote | ai-devtools | black | 2026-09-29 | none found |
+| Ricly | productivity | black | 2026-09-29 | none found |
+| Gladys Assistant | home-automation | black | 2026-09-29 | none found |
+| Declutr | desktop-cleanup | black | 2026-09-29 | none found |
+| ooon.ai | ai-assistant | orange | 2026-09-29 | Verloop.io |
+| Flotnote | note-taking | orange | 2026-09-29 | Zoho Notebook |
+| Enter Space | cloud-storage | black | 2026-09-29 | none found |
+| Timeful | low-code | orange | 2026-09-29 | Zoho Creator |
+| GhostDeck | music-visualizer | black | 2026-09-29 | none found |
+| Would You Pay | pricing-tool | orange | 2026-09-29 | Zoho Survey |
+| GroupShelf | productivity | black | 2026-09-29 | none found |
+| Szept | voice-CRM | orange | 2026-09-29 | Exotel |
+| ZenABM | adtech | black | 2026-09-29 | none found |
+| Jeeves | ai-agent | orange | 2026-09-29 | AutomationEdge |
+| 0x0SojalSec | cyber-osint | orange | 2026-09-29 | Innefu Labs |
+| Phyllotaxis | audio-visual | black | 2026-09-29 | none found |
+| FIG Living | home-furnishings | orange | 2026-09-29 | Urban Ladder |
+| Checkout Designs | home-tech | orange | 2026-09-29 | Livspace |
+| WealthAI | wealth-tech | black | 2026-09-29 | none found |
+| Bharat Housing Network | green-fintech | orange | 2026-09-29 | Oorjan |
