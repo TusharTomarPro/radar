@@ -376,3 +376,84 @@
 - India fit note: The model relies on widespread rooftop solar adoption and EV purchases, which are growing but still limited by upfront cost sensitivity and financing awareness, especially in smaller cities.
 - Badge guess: orange
 
+## Wabi
+- Source article: [AI-powered app maker Wabi pivots to a messaging experience](https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience/) (TechCrunch)
+- Category: ai-agent
+- What it does: Wabi offers a prompt‑driven platform that acts as a personal AI agent, letting users generate app interfaces, run workflows and manage ongoing tasks through a conversational chat experience.
+- Likely revenue model: A subscription‑based SaaS model with tiered plans (plus possible usage‑based fees for high‑volume API calls).
+- India equivalent: Appy Pie
+- India fit note: Success hinges on widespread high‑speed internet and user comfort with chat‑first AI interactions, which are still emerging in many Indian tier‑2 and tier‑3 markets.
+- Badge guess: orange
+
+## America.gov
+- Source article: [Can a chatbot fix the government maze? The White House is about to find out](https://techcrunch.com/2026/09/29/can-a-chatbot-fix-the-government-maze-the-white-house-is-about-to-find-out/) (TechCrunch)
+- Category: govtech
+- What it does: An AI‑powered chatbot that helps U.S. citizens navigate federal services and find the right government agency for their needs.
+- Likely revenue model: Funded by the federal government as a public service, with cost‑saving goals rather than direct revenue.
+- India equivalent: MyGov (Ask MyGov chatbot)
+- India fit note: India has similar digital portals, but widespread multilingual support, varying internet penetration, and lower trust in automated advice could limit adoption compared to the U.S.
+- Badge guess: orange
+
+## Uhura Bionics
+- Source article: [After losing his voice to cancer, this founder is building ‘glasses for voice’](https://techcrunch.com/2026/09/29/after-losing-his-voice-to-cancer-this-founder-is-building-glasses-for-voice/) (TechCrunch)
+- Category: wearable-voice
+- What it does: Uhura Bionics is developing smart glasses that generate a synthetic voice with emotional nuance for people who have lost their natural voice. The device captures facial movements and translates them into expressive speech in real time.
+- Likely revenue model: Revenue will likely come from selling the hardware glasses and charging a subscription for the AI-driven voice synthesis and emotion‑enhancement service.
+- India equivalent: none found
+- India fit note: The product relies on high‑speed mobile data, user comfort with wearing smart glasses, and regulatory clearance for medical‑grade voice prosthetics—factors that are still limited in many Indian markets.
+- Badge guess: black
+
+## Dazzle
+- Source article: [With Dazzle, Marissa Mayer bets your camera roll has more info on your life than your inbox](https://techcrunch.com/2026/09/29/with-dazzle-marissa-mayer-bets-your-camera-roll-has-more-info-on-your-life-than-your-inbox/) (TechCrunch)
+- Category: ai-personalization
+- What it does: Analyzes a user's camera roll to infer hobbies, interests, food, style and social patterns, then delivers personalized recommendations and insights.
+- Likely revenue model: Subscription or licensing of user insights to brands for targeted advertising, affiliate commissions, or premium recommendation services.
+- India equivalent: none found
+- India fit note: The model requires users to grant deep access to personal photos and depends on high‑quality AI infrastructure; privacy concerns and lower willingness to share photo data in India could limit adoption.
+- Badge guess: black
+
+## Iris
+- Source article: [Iris](https://www.producthunt.com/products/ihermes) (Product Hunt)
+- Category: ai-agent
+- What it does: Iris provides customizable AI agents that automate and manage various internal business processes, acting as virtual assistants for operations teams.
+- Likely revenue model: A subscription‑based SaaS model with tiered pricing based on the number of agents, integrations, and usage volume.
+- India equivalent: none found
+- India fit note: Successful deployment relies on mature data pipelines, API integrations, and a culture of AI‑driven decision‑making, which are still limited in many Indian SMEs and mid‑size firms.
+- Badge guess: black
+
+## Without the Hot Air
+- Source article: [Without the Hot Air](https://www.withouthotair.com/) (Hacker News (front page))
+- Category: writing-assistant
+- What it does: An AI‑powered web tool that rewrites any piece of text to strip out filler words, buzz‑speak and unnecessary fluff, delivering a concise, clear version.
+- Likely revenue model: Freemium SaaS with a paid subscription for higher word limits, API access, and team collaboration features.
+- India equivalent: none found
+- India fit note: The service relies on high English proficiency and a willingness to pay for productivity tools, which are growing in India but still limited to professional and student segments; internet bandwidth is sufficient for a web‑based app.
+- Badge guess: black
+
+## Jevstiller
+- Source article: [Show HN: Jevstiller – Distill Jev into a local model, with a disagreement bound](https://jevstiller.pages.dev/posts/the-guarantee/) (Hacker News (front page))
+- Category: ai-model
+- What it does: Jevstiller distills the Jev language model into a smaller, locally runnable model while providing a theoretical bound on the model's disagreement with the original. It enables private, on‑device inference without sending data to the cloud.
+- Likely revenue model: Likely a freemium model: free open‑source core with paid enterprise licensing, support, or hosted distillation services.
+- India equivalent: none found
+- India fit note: The product relies on high‑performance GPU compute and expertise in model compression, which are limited to larger tech hubs in India; adoption may be slower where such infrastructure is scarce.
+- Badge guess: black
+
+## Tiny Health
+- Source article: [Tiny Health Raises $33M To Explore What Gut Data Can Reveal About Future Health](https://news.crunchbase.com/venture/tiny-health-33m-microbiome-tests-sew-hoy/) (Crunchbase News)
+- Category: health-tech
+- What it does: Offers at-home microbiome testing kits that sequence gut bacteria and provide personalized health insights and risk predictions.
+- Likely revenue model: Charges consumers per test kit and may offer subscription plans for repeat testing and data analytics services.
+- India equivalent: none found
+- India fit note: Success depends on consumer awareness of gut health, willingness to pay for preventive testing, reliable cold-chain logistics for stool samples, and a regulatory framework for at‑home genetic diagnostics, which are still emerging in India.
+- Badge guess: black
+
+## Arovia Consumer
+- Source article: [Ex-Soulfull MD Prashant Parameswaran Launches Arovia To Build Regional Food Brands Portfolio](https://inc42.com/buzz/ex-soulfull-md-prashant-parameswaran-launches-arovia-to-build-regional-food-brands-portfolio/) (Inc42)
+- Category: food-rollup
+- What it does: Arovia Consumer acquires regional food brands and scales them through a centralized ecommerce platform and supply chain.
+- Likely revenue model: Makes money by buying brands at low valuations, expanding their online distribution, and capturing margins on direct‑to‑consumer sales.
+- India equivalent: none found
+- India fit note: The approach depends on a fragmented regional brand ecosystem and a highly efficient ecommerce logistics network, which are less mature in many Indian tier‑2 and tier‑3 markets, potentially slowing roll‑up execution.
+- Badge guess: black
+

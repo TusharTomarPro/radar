@@ -1150,3 +1150,12 @@
 | Checkout Designs | home-tech | orange | 2026-09-29 | Livspace |
 | WealthAI | wealth-tech | black | 2026-09-29 | none found |
 | Bharat Housing Network | green-fintech | orange | 2026-09-29 | Oorjan |
+| Wabi | ai-agent | orange | 2026-09-29 | Appy Pie |
+| America.gov | govtech | orange | 2026-09-29 | MyGov (Ask MyGov chatbot) |
+| Uhura Bionics | wearable-voice | black | 2026-09-29 | none found |
+| Dazzle | ai-personalization | black | 2026-09-29 | none found |
+| Iris | ai-agent | black | 2026-09-29 | none found |
+| Without the Hot Air | writing-assistant | black | 2026-09-29 | none found |
+| Jevstiller | ai-model | black | 2026-09-29 | none found |
+| Tiny Health | health-tech | black | 2026-09-29 | none found |
+| Arovia Consumer | food-rollup | black | 2026-09-29 | none found |
