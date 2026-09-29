@@ -1108,3 +1108,9 @@
 | MicroLLM Lab | browser-llm | black | 2026-09-28 | none found |
 | Biom | ai-automation | orange | 2026-09-28 | Kissflow |
 | Vespper | ai-agent | black | 2026-09-28 | none found |
+| Bluegraph | climate-tech | black | 2026-09-29 | none found |
+| LolChat | retro-social | black | 2026-09-29 | none found |
+| ESP32S3 LLM Cluster | edge-ai | black | 2026-09-29 | none found |
+| Scrimba | ai-video | orange | 2026-09-29 | InVideo |
+| CO2 Battery Capture | carbon-tech | orange | 2026-09-29 | Carbon Clean Solutions |
+| Nexedge | wealthtech | black | 2026-09-29 | none found |
