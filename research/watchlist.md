@@ -1164,3 +1164,45 @@
 | Green Mountain Power | virtual-power-plant | orange | 2026-09-30 | Tata Power |
 | NSL | dev-tools | black | 2026-09-30 | none found |
 | Casetext | legal-tech | black | 2026-09-30 | none found |
+| Rinkata | knowledge-management | orange | 2026-09-30 | Zoho Wiki |
+| Lurk | lead-gen | black | 2026-09-30 | none found |
+| Foglio | ai-docs | black | 2026-09-30 | none found |
+| Campfire | ai-devtools | black | 2026-09-30 | none found |
+| Upsolve AI | ai-analytics | black | 2026-09-30 | none found |
+| Speek | voice-assistant | orange | 2026-09-30 | Haptik |
+| Styx | ai-agent | black | 2026-09-30 | none found |
+| Bruto | dev-tools | black | 2026-09-30 | none found |
+| Freddy | ai-health | black | 2026-09-30 | none found |
+| Zumbo | speech-to-text | black | 2026-09-30 | none found |
+| RxFilmStudio | ai-video | orange | 2026-09-30 | InVideo |
+| Agent Identity | ai-agent | orange | 2026-09-30 | Haptik |
+| Autonomyware | on-demand manufacturing | orange | 2026-09-30 | Printo |
+| GitBot | ai-agent | black | 2026-09-30 | none found |
+| Squint | ai-assistant | black | 2026-09-30 | none found |
+| Ship It | idle-game | black | 2026-09-30 | none found |
+| Macaly | ai-website-builder | orange | 2026-09-30 | Builder.ai |
+| Aktar | file-sharing | orange | 2026-09-30 | Zoho WorkDrive |
+| Overpath | revenue-tech | orange | 2026-09-30 | Vymo |
+| OpenShip | paas | black | 2026-09-30 | none found |
+| WhisperBrain | meeting-assistant | black | 2026-09-30 | none found |
+| Bevell | cad-automation | black | 2026-09-30 | none found |
+| Evlat | ai-agent | black | 2026-09-30 | none found |
+| Flocker | ai-agent | black | 2026-09-30 | none found |
+| Cyluma | desktop-utility | black | 2026-09-30 | none found |
+| m'kay | voice-ai | black | 2026-09-30 | none found |
+| Notely | ai-productivity | orange | 2026-09-30 | Zoho Notebook |
+| CrawlRaven MCP | seo-ai | black | 2026-09-30 | none found |
+| Pexo | video-marketing | orange | 2026-09-30 | Animaker |
+| Ace | ai-agent | black | 2026-09-30 | none found |
+| NotchDodo | mobile-ui | black | 2026-09-30 | none found |
+| Dental Scope | healthtech | black | 2026-09-30 | none found |
+| Jambuild | collab-coding | black | 2026-09-30 | none found |
+| Voice Memo | productivity | black | 2026-09-30 | none found |
+| GetCTA | ai-teleprompter | black | 2026-09-30 | none found |
+| WebinarFlow | webinar-automation | orange | 2026-09-30 | Zoho Meeting |
+| CoIsland | devops-platform | black | 2026-09-30 | none found |
+| Datastory | data-visualization | orange | 2026-09-30 | Zoho Analytics |
+| Ferndesk | knowledge-base | orange | 2026-09-30 | Freshdesk |
+| PSSA | ml-framework | black | 2026-09-30 | none found |
+| lfm.xiffy.nl | music-tech | black | 2026-09-30 | none found |
+| Pronto | home-services | orange | 2026-09-30 | Urban Company (formerly UrbanClap) |
