@@ -1206,3 +1206,14 @@
 | PSSA | ml-framework | black | 2026-09-30 | none found |
 | lfm.xiffy.nl | music-tech | black | 2026-09-30 | none found |
 | Pronto | home-services | orange | 2026-09-30 | Urban Company (formerly UrbanClap) |
+| Destro AI | human-robot collaboration | orange | 2026-09-30 | GreyOrange |
+| Restate | ai-agent | black | 2026-09-30 | none found |
+| Charter Space | space-insurance | black | 2026-09-30 | none found |
+| Optimizer | newsletter | orange | 2026-09-30 | The Ken |
+| Bild AI | generative-ai | black | 2026-09-30 | none found |
+| Moist-Electric Wallpaper | building-tech | black | 2026-09-30 | none found |
+| Ledge.sh | dev-tools | black | 2026-09-30 | none found |
+| WillJini | legal-tech | orange | 2026-09-30 | LegalWiz |
+| Gravity | home-interiors | orange | 2026-09-30 | Livspace |
+| Sekoia | ai-cybersecurity | orange | 2026-09-30 | Lucideus (now Safe Security) |
+| Shahani Institute | edtech | orange | 2026-09-30 | UpGrad |

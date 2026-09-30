@@ -421,3 +421,102 @@
 - India fit note: The model relies on widespread smartphone adoption, digital payments, and a cultural shift toward hiring domestic help through apps—behaviors that are already common in Indian metros, so the model fits well.
 - Badge guess: orange
 
+## Destro AI
+- Source article: [Destro AI’s secret sauce is getting robots and humans on the same page](https://techcrunch.com/2026/09/30/destro-ais-secret-sauce-is-getting-robots-and-humans-on-the-same-page/) (TechCrunch)
+- Category: human-robot collaboration
+- What it does: Provides an AI platform that synchronises robots and human workers in shared workspaces, enabling seamless task hand‑offs and coordinated operations.
+- Likely revenue model: Charges enterprises a SaaS subscription or usage‑based licensing fee per robot or per coordinated workflow.
+- India equivalent: GreyOrange
+- India fit note: Success depends on high‑density, tech‑enabled warehouses, reliable low‑latency connectivity and a workforce comfortable with collaborative robots—conditions that are still emerging in many Indian logistics hubs.
+- Badge guess: orange
+
+## Restate
+- Source article: [Restate lands $20M as the need for durable infrastructure increases with AI agents](https://techcrunch.com/2026/09/30/restate-lands-20m-as-the-need-for-durable-infrastructure-increases-with-ai-agents/) (TechCrunch)
+- Category: ai-agent
+- What it does: Restate provides a durable execution engine for AI agents, built with its own storage, replication, and redundancy layers for high speed and lightweight performance.
+- Likely revenue model: Subscription or usage‑based SaaS pricing for developers and enterprises that run AI agents on its platform.
+- India equivalent: none found
+- India fit note: The product relies on ultra‑low latency, high‑throughput infrastructure and a mature AI‑agent developer ecosystem, which are still emerging in India, potentially limiting immediate adoption.
+- Badge guess: black
+
+## Charter Space
+- Source article: [Charter Space raises $5M to bring insurance to the stars](https://techcrunch.com/2026/09/30/charter-space-raises-5m-to-bring-insurance-to-the-stars/) (TechCrunch)
+- Category: space-insurance
+- What it does: Charter Space offers specialized insurance products for spaceflight operators, covering launch, satellite deployment, and related risks. It aims to make underwriting easier for companies that traditional insurers avoid.
+- Likely revenue model: The company earns revenue by charging premiums on its space insurance policies and possibly taking a percentage of claim settlements as underwriting fees.
+- India equivalent: none found
+- India fit note: India's commercial launch sector is still emerging, with limited private launch activity and regulatory constraints, so demand for dedicated space insurance is currently low. The necessary risk data and actuarial models are also less mature locally.
+- Badge guess: black
+
+## Optimizer
+- Source article: [This blog could help you poop better](https://www.theverge.com/column/1002625/optimizer-fibermaxxing-wellness-health) (The Verge)
+- Category: newsletter
+- What it does: Optimizer is a weekly newsletter that curates, reviews, and humorously critiques the latest health, wellness, and lifestyle gadgets and products. It aims to help readers discover items that could improve everyday life, even down to bathroom habits.
+- Likely revenue model: Revenue likely comes from paid subscriptions combined with affiliate commissions and sponsored placements for the products it reviews.
+- India equivalent: The Ken
+- India fit note: The model relies on a digitally savvy audience comfortable with subscription-based content and niche product recommendations, which exists in India’s urban metros. However, cultural sensitivities around discussing bathroom topics may limit engagement compared to the US.
+- Badge guess: orange
+
+## Bild AI
+- Source article: [Bild AI (YC W25) Is Hiring a Founding Product Engineer](https://www.ycombinator.com/companies/bild-ai/jobs/dAbC3Gd-founding-product-engineer) (Hacker News (front page))
+- Category: generative-ai
+- What it does: Bild AI offers an AI-powered platform that creates, edits, and enhances images for creators and businesses. It likely provides tools for rapid visual content generation using diffusion models.
+- Likely revenue model: Subscription SaaS plans for individuals and enterprises, plus usage‑based API fees for high‑volume image generation.
+- India equivalent: none found
+- India fit note: The product relies on high‑speed cloud GPU infrastructure and a market of digital creators accustomed to AI‑generated visuals, which are still emerging in India but growing rapidly.
+- Badge guess: black
+
+## Moist-Electric Wallpaper
+- Source article: [Moist-Electric Wallpaper for Indoor Energy Harvesting and Humidity Management](https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71603) (Hacker News (front page))
+- Category: building-tech
+- What it does: A wall covering that harvests indoor humidity to generate electricity while simultaneously regulating moisture levels in the space.
+- Likely revenue model: Direct sales of the wallpaper panels to developers, architects, and homeowners, possibly supplemented by licensing the technology to manufacturers.
+- India equivalent: none found
+- India fit note: Adoption may be limited by slower renovation cycles in Indian residential markets and the need for reliable indoor humidity levels, which vary widely across climates; widespread use would require awareness among architects and building code acceptance.
+- Badge guess: black
+
+## Ledge.sh
+- Source article: [Show HN: Ledge.sh – Runnable Markdown Notes](https://ledge.sh) (Hacker News (front page))
+- Category: dev-tools
+- What it does: Ledge is a markdown notebook that lets you embed and execute shell commands, code snippets, SQL queries, and other scripts directly within your notes. It runs a real shell locally or via a remote SSH‑backed server.
+- Likely revenue model: The core product is open‑source and free, with revenue likely coming from paid hosted ledge‑server instances, enterprise support, or a SaaS subscription for managed deployments.
+- India equivalent: none found
+- India fit note: The concept relies on developers being comfortable with SSH‑based remote execution and having reliable broadband for server connectivity, which are available in India but may limit adoption among non‑technical users. Mobile SSH usage is still niche, so the mobile component could face slower uptake.
+- Badge guess: black
+
+## WillJini
+- Source article: [WillJini raises first round at $3.5M valuation, without pitching a single VC](https://yourstory.com/2026/09/willjini-raises-first-round-35m-valuation-without-pitching-single-vc) (YourStory)
+- Category: legal-tech
+- What it does: WillJini is a digital platform that helps individuals create and manage estate planning documents such as wills, trusts, and power of attorney.
+- Likely revenue model: Charges a fee per document or a subscription for ongoing estate‑planning services, possibly earning a small percentage on assets managed through the platform.
+- India equivalent: LegalWiz
+- India fit note: Estate planning is still a niche in India with cultural reluctance to discuss inheritance, so user adoption may be slower despite good digital penetration. Trust in online legal services and awareness of the need for wills are required for scaling.
+- Badge guess: orange
+
+## Gravity
+- Source article: [Home interiors startup Gravity raises $15M led by 3one4 Capital and Info Edge Ventures](https://yourstory.com/2026/09/home-interiors-startup-gravity-raises-15-million-led-by-3one4-capital-and-info-edge-ventures) (YourStory)
+- Category: home-interiors
+- What it does: Gravity is an online platform that connects homeowners with interior designers and suppliers, offering end‑to‑end design services and curated furniture solutions.
+- Likely revenue model: It likely earns revenue through a commission on each project sale plus a service fee or subscription from designers and suppliers.
+- India equivalent: Livspace
+- India fit note: The model relies on digital adoption for design consultations and a robust logistics network for product delivery, both of which are well‑established in Indian metros but may face challenges in tier‑2/3 cities due to fragmented supply chains and price sensitivity.
+- Badge guess: orange
+
+## Sekoia
+- Source article: [France's Sekoia rolls out AI cybersecurity platform to its clients](https://economictimes.indiatimes.com/tech/artificial-intelligence/frances-sekoia-rolls-out-ai-cybersecurity-platform-to-its-clients/articleshow/134593763.cms) (Economic Times Tech)
+- Category: ai-cybersecurity
+- What it does: Sekoia's Elevate is an AI‑driven platform that continuously monitors client environments, automatically detects threats and orchestrates response actions. It acts as an autonomous cyber‑security agent that reduces manual analyst workload.
+- Likely revenue model: Subscription‑based SaaS pricing, likely tiered by number of assets or data volume, with optional professional services for integration and tuning.
+- India equivalent: Lucideus (now Safe Security)
+- India fit note: The model relies on mature SOCs, high‑frequency data ingestion and willingness to hand over telemetry to an AI engine—capabilities that large Indian enterprises are building but are still uneven across the market.
+- Badge guess: orange
+
+## Shahani Institute
+- Source article: [From software to 17,000 students: How Akhil Shahani built an employability business through peer learning](https://www.livemint.com/companies/from-software-to-17-000-students-how-akhil-shahani-built-an-employability-business-through-peer-learning-11790786697888.html) (LiveMint Companies)
+- Category: edtech
+- What it does: Offers peer‑learning based upskilling programs that measure and certify employability skills for students, connecting them with recruiters.
+- Likely revenue model: Charges students subscription or course fees and earns placement commissions from hiring partners.
+- India equivalent: UpGrad
+- India fit note: The model relies on widespread internet access and a culture of peer‑learning, both of which exist in India, but success hinges on strong corporate tie‑ups for placements.
+- Badge guess: orange
+
