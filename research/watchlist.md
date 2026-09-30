@@ -1159,3 +1159,8 @@
 | Jevstiller | ai-model | black | 2026-09-29 | none found |
 | Tiny Health | health-tech | black | 2026-09-29 | none found |
 | Arovia Consumer | food-rollup | black | 2026-09-29 | none found |
+| Vibe | ai-webdesign | orange | 2026-09-30 | Appy Pie |
+| SpaceBL2 | space-visualization | black | 2026-09-30 | none found |
+| Green Mountain Power | virtual-power-plant | orange | 2026-09-30 | Tata Power |
+| NSL | dev-tools | black | 2026-09-30 | none found |
+| Casetext | legal-tech | black | 2026-09-30 | none found |
