@@ -1217,3 +1217,11 @@
 | Gravity | home-interiors | orange | 2026-09-30 | Livspace |
 | Sekoia | ai-cybersecurity | orange | 2026-09-30 | Lucideus (now Safe Security) |
 | Shahani Institute | edtech | orange | 2026-09-30 | UpGrad |
+| Flow Engineering | ai-hardware | black | 2026-09-30 | none found |
+| Gitea | devops | black | 2026-09-30 | none found |
+| Halfspace | cad | black | 2026-09-30 | none found |
+| EDG | compiler | black | 2026-09-30 | none found |
+| Modular Dash | industrial-iot | orange | 2026-09-30 | L&T i-Plant |
+| CHOMPI | music-tech | black | 2026-09-30 | none found |
+| Magnitude | ai-inference | black | 2026-09-30 | none found |
+| SAMMMM | self-care | orange | 2026-09-30 | Mamaearth |

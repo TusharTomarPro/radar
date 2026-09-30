@@ -520,3 +520,75 @@
 - India fit note: The model relies on widespread internet access and a culture of peer‑learning, both of which exist in India, but success hinges on strong corporate tie‑ups for placements.
 - Badge guess: orange
 
+## Flow Engineering
+- Source article: [Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation](https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/) (TechCrunch)
+- Category: ai-hardware
+- What it does: Builds AI agents that automate hardware design tasks such as schematic generation, layout, and verification, accelerating chip development cycles.
+- Likely revenue model: Enterprise SaaS/licensing model where chip manufacturers pay subscription or usage fees for access to the AI design platform.
+- India equivalent: none found
+- India fit note: Success depends on a mature semiconductor design ecosystem, high‑performance compute infrastructure, and willingness of chip firms to adopt AI‑driven workflows, which are still emerging in India.
+- Badge guess: black
+
+## Gitea
+- Source article: [Gitea 28.0](https://blog.gitea.com/release-of-28.0.0/) (Hacker News (front page))
+- Category: devops
+- What it does: Gitea is an open‑source, self‑hosted Git service that provides repository management, code review, issue tracking, and CI/CD integration. It lets teams run their own GitHub‑like platform on-premise or in the cloud.
+- Likely revenue model: Revenue likely comes from paid enterprise support, hosted SaaS offerings, and optional premium features or consulting services.
+- India equivalent: none found
+- India fit note: Self‑hosting a Git platform requires reliable server infrastructure and teams comfortable managing their own DevOps stack, which many Indian tech firms already have, but the market is dominated by SaaS solutions like GitHub and GitLab, so adoption may be slower.
+- Badge guess: black
+
+## Halfspace
+- Source article: [Halfspace experimental IDE for solid modeling with distance fields](https://www.mattkeeter.com/projects/halfspace/) (Hacker News (front page))
+- Category: cad
+- What it does: An experimental integrated development environment that lets users create and edit solid 3D models using distance fields, primarily via code.
+- Likely revenue model: Open‑source project with no direct revenue; may rely on donations or sponsorships.
+- India equivalent: none found
+- India fit note: The tool targets a niche of developers comfortable with programmatic 3D modeling and assumes access to high‑performance GPUs, which are not yet common in mainstream Indian design workflows.
+- Badge guess: black
+
+## EDG
+- Source article: [EDG C++ front-end goes public](https://edgcpp.org/#transition) (Hacker News (front page))
+- Category: compiler
+- What it does: Provides a standards‑compliant C++ front‑end used by many commercial compilers to parse and analyze C++ code.
+- Likely revenue model: Licenses the front‑end to compiler vendors and offers paid support and custom integration services.
+- India equivalent: none found
+- India fit note: Success depends on a mature ecosystem of downstream compiler vendors and deep C++ expertise, which is limited in India compared to established global players.
+- Badge guess: black
+
+## Modular Dash
+- Source article: [Before pixels: Modular industrial dashboards](https://unsung.aresluna.org/before-pixels-modular-industrial-dashboards/) (Hacker News (front page))
+- Category: industrial-iot
+- What it does: Provides plug‑and‑play hardware and software modules that can be assembled into custom industrial dashboards for real‑time monitoring of factory equipment and processes.
+- Likely revenue model: Sells the modular hardware units and charges a recurring subscription for cloud data aggregation, analytics, and dashboard customization.
+- India equivalent: L&T i-Plant
+- India fit note: The model relies on widespread high‑speed connectivity and a culture of data‑driven plant operations, which are growing but still uneven across Indian factories, especially in smaller, legacy plants.
+- Badge guess: orange
+
+## CHOMPI
+- Source article: [CHOMPI portable sampler instrument is now open-source (hardware and software)](https://www.chompiclub.com/opensource) (Hacker News (front page))
+- Category: music-tech
+- What it does: CHOMPI is a portable, open‑source sampler instrument that lets users record, edit, and trigger audio loops on the go. Both the hardware and software are released under open‑source licenses.
+- Likely revenue model: They likely sell the physical sampler units (or kits) and possibly accessories or premium firmware, while keeping the designs free for the community.
+- India equivalent: none found
+- India fit note: The product assumes a community of hobbyist musicians comfortable with DIY hardware and open‑source firmware, which is still niche in India; limited local manufacturing and distribution channels could hinder rapid adoption.
+- Badge guess: black
+
+## Magnitude
+- Source article: [Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents](https://github.com/magnitudedev/magnitude) (Hacker News (front page))
+- Category: ai-inference
+- What it does: Magnitude is an open‑source inference engine that self‑optimizes to run large language‑model agents locally on any desktop hardware. It tunes kernels on‑the‑fly, dynamically manages memory, and supports concurrent agent sessions.
+- Likely revenue model: They likely monetize via a freemium model: free open‑source core with paid enterprise licenses, support contracts, or premium cloud‑hosted services for larger deployments.
+- India equivalent: none found
+- India fit note: The product assumes users have high‑end GPUs or Apple silicon, which are still scarce for many Indian developers and enterprises. Additionally, the culture of running heavy LLM workloads locally on personal machines is less common in India, where cloud‑based inference is more prevalent.
+- Badge guess: black
+
+## SAMMMM
+- Source article: [From  ₹10 crore seed funding to 17x sales growth: How a 16-year-old founder sold 1 unit every 2 minutes | Startup story](https://www.livemint.com/companies/start-ups/from-10-crore-seed-funding-to-17x-sales-growth-how-16-year-old-founder-sold-1-unit-every-2-minutes-startup-story-11790786080726.html) (LiveMint Companies)
+- Category: self-care
+- What it does: SAMMMM offers a range of personal care and wellness products aimed at Gen Z and Gen Alpha, sold primarily through online channels. The brand emphasizes trendy, affordable items that appeal to younger consumers.
+- Likely revenue model: Revenue is generated by direct sales of its self‑care products via e‑commerce and retail partners, often using a D2C model with occasional promotional bundles.
+- India equivalent: Mamaearth
+- India fit note: The model relies on strong digital marketing, influencer outreach, and fast delivery logistics, which are well‑established in India’s e‑commerce ecosystem, so it should translate well. However, price sensitivity and regional distribution challenges could affect scaling.
+- Badge guess: orange
+
