@@ -1231,3 +1231,38 @@
 | Lathoa | edtech | black | 2026-10-01 | none found |
 | Boutique Consulting Rivals | consulting | black | 2026-10-01 | none found |
 | Betting Data India | sports-data | black | 2026-10-01 | none found |
+| Bracket | knowledge-management | orange | 2026-10-01 | Zoho Wiki |
+| Cura | travel-ai | black | 2026-10-01 | none found |
+| Starlie | dev-tools | black | 2026-10-01 | none found |
+| Monospace | api-management | black | 2026-10-01 | none found |
+| Helo | email-api | orange | 2026-10-01 | Pepipost |
+| Clarity | audio-tech | black | 2026-10-01 | none found |
+| Omnia | ai-agent | black | 2026-10-01 | none found |
+| ShareCube | sales-enablement | orange | 2026-10-01 | Zoho CRM |
+| JevGPT | ai-chatbot | orange | 2026-10-01 | Haptik |
+| OpenCompanion | dev-tools | black | 2026-10-01 | none found |
+| Vitra.ai | ai-content | black | 2026-10-01 | none found |
+| Semitexa | ai-devtools | black | 2026-10-01 | none found |
+| Kholo | 3d-visualization | black | 2026-10-01 | none found |
+| AuthMonster | auth-tech | black | 2026-10-01 | none found |
+| Formalini | ai-data-extraction | orange | 2026-10-01 | Docsumo |
+| Chat.sh | customer-support | orange | 2026-10-01 | Zoho Desk |
+| Twin | ai-assistant | black | 2026-10-01 | none found |
+| Otter Vault | secrets-management | black | 2026-10-01 | none found |
+| Rate.fm | music-discovery | orange | 2026-10-01 | JioSaavn |
+| statusbar | dev-tools | black | 2026-10-01 | none found |
+| Lume | productivity | orange | 2026-10-01 | Zoho Notebook |
+| Utter In | ai-assistant | black | 2026-10-01 | none found |
+| rhun | code-editor | black | 2026-10-01 | none found |
+| ChainSnip | crypto-audit | black | 2026-10-01 | none found |
+| Phare | home-safety | orange | 2026-10-01 | Syska |
+| Typestream | voice-typing | black | 2026-10-01 | none found |
+| NotchMind | productivity | black | 2026-10-01 | none found |
+| StayLokal | privacy-tech | black | 2026-10-01 | none found |
+| Scape | dev-tools | black | 2026-10-01 | none found |
+| Firetower | ai-agent | black | 2026-10-01 | none found |
+| Stardrift | ai-travel | orange | 2026-10-01 | MakeMyTrip |
+| DSH Desktop | ai-agent | black | 2026-10-01 | none found |
+| Polylane | ai-agent | black | 2026-10-01 | none found |
+| Yedric | ai-assistant | black | 2026-10-01 | none found |
+| StreetComplete | civic-tech | black | 2026-10-01 | none found |
