@@ -367,3 +367,120 @@
 - India fit note: The model relies on widespread smartphone usage and a strong volunteer mapping culture, which exists in India but may be limited by lower awareness of OpenStreetMap contributions and inconsistent internet connectivity in rural areas.
 - Badge guess: black
 
+## MyMonthlyCar
+- Source article: [This startup wants to turn idle car inventory into rental revenue](https://techcrunch.com/2026/10/01/this-startup-wants-to-turn-idle-car-inventory-into-rental-revenue/) (TechCrunch)
+- Category: car-subscription
+- What it does: Provides a platform that lets car dealerships rent out idle inventory on a short‑term or monthly basis, turning unsold cars into revenue streams.
+- Likely revenue model: Charges dealerships a listing/subscription fee and takes a commission on each rental transaction.
+- India equivalent: Myles
+- India fit note: The model depends on dealerships having excess stock and consumers embracing subscription rentals; India's fragmented dealer network and lower subscription adoption could be hurdles, though services like Myles show some market appetite.
+- Badge guess: orange
+
+## Photon
+- Source article: [Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents.](https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/) (TechCrunch)
+- Category: ai-agent
+- What it does: Photon offers a platform that lets developers create AI-powered agents that run inside messaging channels such as iMessage, SMS/RCS, and email, enabling users to accomplish tasks without installing native apps.
+- Likely revenue model: It likely charges developers a subscription or usage‑based fee for access to its agent‑building SDK and may take a transaction commission on services delivered through the agents.
+- India equivalent: Haptik
+- India fit note: India’s messaging landscape is dominated by WhatsApp and other OTT apps, and while SMS and email are widespread, the shift to RCS and iMessage‑style agents may be slower due to fragmented platforms and varying data costs.
+- Badge guess: orange
+
+## Brink
+- Source article: [Brink](https://www.producthunt.com/products/brink) (Product Hunt)
+- Category: productivity-tool
+- What it does: Brink adds a hover‑activated overlay on macOS that surfaces your Notion pages and tasks directly on the desktop, letting you view and interact with them without opening Notion.
+- Likely revenue model: A freemium model with a paid subscription for advanced features such as deeper Notion integration, team collaboration, and priority support.
+- India equivalent: none found
+- India fit note: The product relies heavily on widespread Mac usage and deep Notion adoption, both of which are lower in India compared to markets like the US, potentially limiting traction.
+- Badge guess: black
+
+## Vorker
+- Source article: [Vorker](https://www.producthunt.com/products/vorker-ai) (Product Hunt)
+- Category: ai-assistant
+- What it does: Vorker provides an AI‑powered virtual coworker that automates routine operations for small businesses, handling tasks like scheduling, bookkeeping, customer outreach and basic decision support.
+- Likely revenue model: A subscription‑based SaaS model with tiered pricing based on the number of users and feature access.
+- India equivalent: none found
+- India fit note: The service assumes widespread high‑speed internet, digital payment integration and a culture of delegating core tasks to AI, which may be slower to adopt in many Indian SMBs that still rely on manual processes.
+- Badge guess: black
+
+## Inflection AI
+- Source article: [Pi 1.0](https://earendil.com/posts/pi-1-0/) (Hacker News (front page))
+- Category: ai-assistant
+- What it does: Pi 1.0 is a conversational AI chatbot that offers personalized, context‑aware assistance across a range of topics. It runs on a lightweight model designed to work on mobile devices.
+- Likely revenue model: The service is free at launch with plans to monetize through premium subscription tiers and enterprise licensing for advanced features.
+- India equivalent: none found
+- India fit note: The product relies on high‑speed mobile data and on‑device compute that are increasingly common in urban India, but widespread adoption may be limited by data costs and varying levels of AI literacy outside major metros.
+- Badge guess: black
+
+## Terminal Email
+- Source article: [Terminal Email: terminal email clients for every system](https://terminalemail.com/) (Hacker News (front page))
+- Category: cli-email
+- What it does: Provides a terminal‑based email client that runs on all major operating systems, offering a lightweight, keyboard‑driven interface for sending and receiving email.
+- Likely revenue model: Charges a subscription or one‑time license fee for the client software, possibly with tiered pricing for personal vs. enterprise use.
+- India equivalent: none found
+- India fit note: The product assumes a sizable user base comfortable with command‑line tools and consistent internet connectivity; while developers in India use CLI tools, broader consumer adoption may be limited due to preference for GUI mail apps.
+- Badge guess: black
+
+## Bez
+- Source article: [Bez: Generating a browser engine from specs and tests](https://tangled.org/burrito.space/bez) (Hacker News (front page))
+- Category: browser-engine
+- What it does: Bez automatically generates a web browser rendering engine from formal specifications and test suites, turning standards into runnable code.
+- Likely revenue model: Offers enterprise licensing or paid support for companies that need custom or optimized browser engines.
+- India equivalent: none found
+- India fit note: The approach relies on extensive standards expertise and a mature ecosystem of test suites, which are scarce in India; adoption would require specialized talent and a market for custom browsers, which currently is limited.
+- Badge guess: black
+
+## Papero PDF Text Extractor
+- Source article: [Lightweight PDF parser with layout, tables, formulas and bounding boxes](https://github.com/beatrizalmeidaf/papero-pdf-text-extractor) (Hacker News (front page))
+- Category: pdf-parser
+- What it does: A lightweight open‑source library that extracts text, layout information, tables, formulas and bounding boxes from PDF documents.
+- Likely revenue model: Free open‑source tool with potential revenue from paid support, custom integration services, or a hosted SaaS offering.
+- India equivalent: iText
+- India fit note: The technology relies on standard PDF specifications and developer adoption, which are readily available in India; no unique infrastructure or consumer behavior constraints.
+- Badge guess: orange
+
+## AgenticID
+- Source article: [Identity Management for Agentic AI [pdf] (2025)](https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf) (Hacker News (front page))
+- Category: identity-management
+- What it does: Provides a decentralized identity layer that lets autonomous AI agents authenticate, authorize and prove provenance across platforms.
+- Likely revenue model: Enterprise SaaS subscription with per‑agent transaction fees for identity verification and audit logs.
+- India equivalent: none found
+- India fit note: Relies on widespread adoption of decentralized identity standards and continuous AI‑agent interactions, which are still nascent in India’s enterprise ecosystem.
+- Badge guess: black
+
+## Espressif
+- Source article: [Various Projects Find Hidden SDR Capabilities in ESP32 Microcontrollers](https://www.rtl-sdr.com/various-projects-independently-find-hidden-sdr-capabilities-in-esp32-microcontrollers/) (Hacker News (front page))
+- Category: iot-hardware
+- What it does: Shows that the ESP32 microcontroller can be leveraged as a low‑cost software‑defined radio for receiving a variety of RF signals. The discovery enables hobbyists and developers to build cheap SDR projects.
+- Likely revenue model: Espressif generates revenue by selling ESP32 chips, development boards, and related SDKs to OEMs and hobbyists.
+- India equivalent: none found
+- India fit note: The concept relies on a strong maker community, open‑source toolchains, and relatively permissive RF experimentation norms; India's stricter licensing for SDR use and limited access to cheap development boards could hinder rapid adoption.
+- Badge guess: black
+
+## Polyedergarten
+- Source article: [Polyedergarten: Garden of Paper Polyhedron Models](https://www.polyedergarten.de/e_index.htm) (Hacker News (front page))
+- Category: edu-toys
+- What it does: Offers downloadable and printable paper models of geometric polyhedra for educational and hobbyist use.
+- Likely revenue model: Sells digital PDF kits or physical paper model kits directly to consumers, possibly via one‑off purchases or subscription bundles.
+- India equivalent: none found
+- India fit note: The model relies on users having access to printers and a DIY hobby culture, which are growing in India but may limit mass adoption compared to markets with higher home‑printing penetration.
+- Badge guess: black
+
+## Stratego AI
+- Source article: [With most information hidden, the game Stratego had stumped AI—until now](https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/) (Ars Technica)
+- Category: game AI
+- What it does: Employs a dual‑neural‑network architecture that both plays Stratego and predicts the identity of hidden opponent pieces, achieving superhuman performance.
+- Likely revenue model: Licenses the AI engine to online board‑game platforms and offers a subscription API for developers who want to integrate advanced hidden‑information opponents.
+- India equivalent: none found
+- India fit note: The solution relies on massive compute resources and a niche market of sophisticated board‑game enthusiasts, both of which are limited in India, making adoption slower.
+- Badge guess: black
+
+## Homeward
+- Source article: [Exclusive: Homeward Raises $120M To Help Homeowners Buy And Sell More Quickly As Housing Market Stalls](https://news.crunchbase.com/real-estate-property-tech/startup-homeward-raises-120m-buy-sell-homes-ai-financing/) (Crunchbase News)
+- Category: proptech
+- What it does: Homeward provides homeowners with bridge financing to purchase a new home before selling their current one, and also offers cash offers for properties to speed up sales.
+- Likely revenue model: It likely earns revenue through interest on bridge loans, transaction fees on cash offers, and commissions on successful buy‑sell deals.
+- India equivalent: none found
+- India fit note: The model relies on a mature secondary mortgage market and readily available bridge financing, which are less developed in India, and consumer behavior around selling before buying is not as common.
+- Badge guess: black
+

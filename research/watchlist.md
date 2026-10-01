@@ -1266,3 +1266,16 @@
 | Polylane | ai-agent | black | 2026-10-01 | none found |
 | Yedric | ai-assistant | black | 2026-10-01 | none found |
 | StreetComplete | civic-tech | black | 2026-10-01 | none found |
+| MyMonthlyCar | car-subscription | orange | 2026-10-01 | Myles |
+| Photon | ai-agent | orange | 2026-10-01 | Haptik |
+| Brink | productivity-tool | black | 2026-10-01 | none found |
+| Vorker | ai-assistant | black | 2026-10-01 | none found |
+| Inflection AI | ai-assistant | black | 2026-10-01 | none found |
+| Terminal Email | cli-email | black | 2026-10-01 | none found |
+| Bez | browser-engine | black | 2026-10-01 | none found |
+| Papero PDF Text Extractor | pdf-parser | orange | 2026-10-01 | iText |
+| AgenticID | identity-management | black | 2026-10-01 | none found |
+| Espressif | iot-hardware | black | 2026-10-01 | none found |
+| Polyedergarten | edu-toys | black | 2026-10-01 | none found |
+| Stratego AI | game AI | black | 2026-10-01 | none found |
+| Homeward | proptech | black | 2026-10-01 | none found |
