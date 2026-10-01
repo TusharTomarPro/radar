@@ -1225,3 +1225,9 @@
 | CHOMPI | music-tech | black | 2026-09-30 | none found |
 | Magnitude | ai-inference | black | 2026-09-30 | none found |
 | SAMMMM | self-care | orange | 2026-09-30 | Mamaearth |
+| Yantra | dev-tools | black | 2026-10-01 | none found |
+| Jevotron | dev-tools | black | 2026-10-01 | none found |
+| 56k.rip | retro-web | black | 2026-10-01 | none found |
+| Lathoa | edtech | black | 2026-10-01 | none found |
+| Boutique Consulting Rivals | consulting | black | 2026-10-01 | none found |
+| Betting Data India | sports-data | black | 2026-10-01 | none found |
