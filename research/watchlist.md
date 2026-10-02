@@ -1279,3 +1279,6 @@
 | Polyedergarten | edu-toys | black | 2026-10-01 | none found |
 | Stratego AI | game AI | black | 2026-10-01 | none found |
 | Homeward | proptech | black | 2026-10-01 | none found |
+| Locate Rodeo | utility-tech | orange | 2026-10-02 | MapmyIndia |
+| Aweb | ai-agent | black | 2026-10-02 | none found |
+| CSS Bed | css-framework | black | 2026-10-02 | none found |
