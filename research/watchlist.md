@@ -1282,3 +1282,38 @@
 | Locate Rodeo | utility-tech | orange | 2026-10-02 | MapmyIndia |
 | Aweb | ai-agent | black | 2026-10-02 | none found |
 | CSS Bed | css-framework | black | 2026-10-02 | none found |
+| Never Boring AI | ai-agent | black | 2026-10-02 | none found |
+| GitSync | dev-tools | black | 2026-10-02 | none found |
+| Teachoo | edtech | orange | 2026-10-02 | Byju's |
+| Syllaby AI Avatar 2.0 | ai-avatar | black | 2026-10-02 | none found |
+| Veltrix AI | e-commerce-ai | orange | 2026-10-02 | Unbxd |
+| Anthroposcaper | urban-tech | orange | 2026-10-02 | MapmyIndia |
+| Slash Editor | developer-tools | black | 2026-10-02 | none found |
+| Finbar | fintech | orange | 2026-10-02 | Finbox |
+| Globestudio | design-tools | orange | 2026-10-02 | MapmyIndia |
+| esigna | email-signature | orange | 2026-10-02 | MailSign |
+| Lloyal | ai-app-builder | black | 2026-10-02 | none found |
+| Earlyn | knowledge-management | black | 2026-10-02 | none found |
+| CodeAF | dev-tools | black | 2026-10-02 | none found |
+| Codync | ai-assistant | black | 2026-10-02 | none found |
+| JarvisCore | ai-agent | black | 2026-10-02 | none found |
+| Open Inspector | design-inspector | black | 2026-10-02 | none found |
+| Sayonic | voice-assistant | black | 2026-10-02 | none found |
+| WeftCut | ai-video | orange | 2026-10-02 | InVideo |
+| ShipHQ | no-code | orange | 2026-10-02 | Zoho Creator |
+| Mintlify | ai-docs | orange | 2026-10-02 | Docsify |
+| Gauth | edtech | black | 2026-10-02 | none found |
+| Communicate | ai-agent | orange | 2026-10-02 | Freshworks |
+| WMail | email-client | black | 2026-10-02 | none found |
+| Pastily | productivity | black | 2026-10-02 | none found |
+| Halo | desktop-utility | black | 2026-10-02 | none found |
+| Cue | ai-agent | orange | 2026-10-02 | Niki.ai |
+| Audryo | ai-agent | orange | 2026-10-02 | Hiver |
+| Wu | code-editor | black | 2026-10-02 | none found |
+| Famulor | ai-agent | orange | 2026-10-02 | Haptik |
+| Moxie | ai-agent | black | 2026-10-02 | none found |
+| Firezone | zero-trust | orange | 2026-10-02 | LoginRadius |
+| DeepSeek | ai-assistant | black | 2026-10-02 | none found |
+| FirstDate | dating | black | 2026-10-02 | none found |
+| Frog and Toad | ai-agent | black | 2026-10-02 | none found |
+| SORRY SUGAR | coffee retail | orange | 2026-10-02 | Blue Tokai |
