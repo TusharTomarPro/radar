@@ -340,3 +340,66 @@
 - India fit note: Success hinges on a health‑conscious consumer base and reliable supply of monk‑fruit sweetener, which are still niche in many Indian markets and may limit rapid adoption.
 - Badge guess: orange
 
+## Circuit Breaker Labs
+- Source article: [Circuit Breaker Labs hopes to make AI safer for your kids (and you)](https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/) (TechCrunch)
+- Category: ai-safety
+- What it does: Circuit Breaker Labs builds simulated child avatars—"crash test dummies"—that interact with AI systems to surface harmful, psychologically damaging responses. The platform lets developers test and harden their AI products before release.
+- Likely revenue model: Subscription‑based SaaS licensing for AI developers, with tiered pricing for testing volume and compliance consulting add‑ons.
+- India equivalent: none found
+- India fit note: The model relies on widespread parental concern and corporate compliance cultures that are still emerging in India; limited AI‑regulation enforcement and lower adoption of formal safety testing could hinder rapid uptake.
+- Badge guess: black
+
+## Agentic
+- Source article: [The Four Horsemen of Agentic Coding](https://distantprovince.substack.com/p/the-four-horsemen-of-agentic-coding) (Hacker News (front page))
+- Category: ai-agent
+- What it does: Agentic provides autonomous AI agents that can generate, test, debug, and deploy code end‑to‑end with minimal human prompting.
+- Likely revenue model: A subscription‑based SaaS tier for developers and enterprises, plus usage‑based API fees for large‑scale automation.
+- India equivalent: none found
+- India fit note: The model relies on high‑speed cloud compute and a developer culture accustomed to continuous integration pipelines, which are still maturing in many Indian SMEs.
+- Badge guess: black
+
+## Audionaut
+- Source article: [Show HN: Audionaut – an open-source cross-platform multitrack audio editor](https://github.com/kvoltmer/Audionaut) (Hacker News (front page))
+- Category: audio-editing
+- What it does: Audionaut is an open‑source, cross‑platform multitrack audio editor that lets users record, edit, and mix multiple audio tracks on Windows, macOS, and Linux.
+- Likely revenue model: Likely relies on donations, sponsorships, or paid support/services for enterprises rather than direct product sales.
+- India equivalent: none found
+- India fit note: The tool assumes users have reliable desktop hardware and a willingness to adopt open‑source software, which may be limited among Indian hobbyist musicians who often prefer free, pre‑installed apps or cloud‑based editors. However, the basic infrastructure (PCs, internet) exists, so adoption is possible with community outreach.
+- Badge guess: black
+
+## Stillwet
+- Source article: [Show HN: Giving Opus 5.5 a simulated paint canvas](https://stillwet.art/) (Hacker News (front page))
+- Category: ai-art
+- What it does: Provides a web‑based simulated paint canvas that lets users interactively create images using the Opus 5.5 generative model. It blends traditional brush‑stroke controls with AI‑generated output.
+- Likely revenue model: Subscription‑based access with tiered plans for higher‑resolution renders and API usage, possibly supplemented by per‑image credits.
+- India equivalent: none found
+- India fit note: The service relies on fast, low‑latency internet and on‑demand GPU compute, which are less ubiquitous in many Indian regions; user adoption may also be limited by lower awareness of niche AI‑art tools.
+- Badge guess: black
+
+## Tiny Brutalism
+- Source article: [Tiny Brutalism](https://placeholders.itch.io/tiny-brutalism) (Hacker News (front page))
+- Category: indie-game
+- What it does: A minimalist, brutalist‑styled video game that offers short, experimental gameplay experiences.
+- Likely revenue model: Sells a copy (or uses a pay‑what‑you‑want model) on itch.io, possibly with optional donations.
+- India equivalent: none found
+- India fit note: The game targets a niche PC‑gaming audience that is still relatively small in India, and its success relies on a community that values indie aesthetics and experimental design, which may limit traction.
+- Badge guess: black
+
+## Balcony Solar
+- Source article: [Balcony solar installations will soon be legal in America's most populous state](https://www.engadget.com/2275466/california-legalizes-balcony-plug-in-solar/) (Engadget)
+- Category: solar-tech
+- What it does: Provides modular solar panel kits that can be mounted on apartment balconies, letting renters generate electricity without structural changes.
+- Likely revenue model: Sells or leases the panels and takes a subscription or revenue‑share from the electricity produced.
+- India equivalent: none found
+- India fit note: Indian apartments often lack dedicated balcony space and have stricter building codes, making widespread balcony solar adoption challenging.
+- Badge guess: black
+
+## BorderPlus
+- Source article: [Can BorderPlus Is Turning India’s Talent Surplus Into A Global Workforce?](https://inc42.com/startups/can-borderplus-is-turning-indias-talent-surplus-into-a-global-workforce/) (Inc42)
+- Category: global-talent
+- What it does: BorderPlus is a platform that helps Indian professionals secure remote, full‑time roles with overseas companies, handling visas, payroll, compliance and benefits.
+- Likely revenue model: It likely charges a placement fee or a percentage of the employee’s salary plus subscription fees for enterprise clients using its compliance and payroll services.
+- India equivalent: Talent500
+- India fit note: The model relies on widespread high‑speed internet, a cultural shift toward remote work, and robust cross‑border payroll/legal infrastructure, which are still maturing in many Indian tier‑2 and tier‑3 cities.
+- Badge guess: orange
+

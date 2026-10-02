@@ -1317,3 +1317,10 @@
 | FirstDate | dating | black | 2026-10-02 | none found |
 | Frog and Toad | ai-agent | black | 2026-10-02 | none found |
 | SORRY SUGAR | coffee retail | orange | 2026-10-02 | Blue Tokai |
+| Circuit Breaker Labs | ai-safety | black | 2026-10-02 | none found |
+| Agentic | ai-agent | black | 2026-10-02 | none found |
+| Audionaut | audio-editing | black | 2026-10-02 | none found |
+| Stillwet | ai-art | black | 2026-10-02 | none found |
+| Tiny Brutalism | indie-game | black | 2026-10-02 | none found |
+| Balcony Solar | solar-tech | black | 2026-10-02 | none found |
+| BorderPlus | global-talent | orange | 2026-10-02 | Talent500 |
