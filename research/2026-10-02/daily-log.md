@@ -403,3 +403,39 @@
 - India fit note: The model relies on widespread high‑speed internet, a cultural shift toward remote work, and robust cross‑border payroll/legal infrastructure, which are still maturing in many Indian tier‑2 and tier‑3 cities.
 - Badge guess: orange
 
+## PackUp
+- Source article: [Everyone's Packing Up](https://widdershins.verja.net/everyones-packing-up/) (Hacker News (front page))
+- Category: relocation-tech
+- What it does: Provides on‑demand moving boxes, packing supplies, and logistics coordination so users can quickly pack and relocate.
+- Likely revenue model: Charges a per‑box kit fee plus service fees for pick‑up, delivery, and optional packing assistance.
+- India equivalent: none found
+- India fit note: The model depends on a well‑developed e‑commerce logistics network and a consumer habit of using professional moving services, which are less prevalent in India where informal movers dominate.
+- Badge guess: black
+
+## Muse Gadgets
+- Source article: [Muse Gadgets](https://gadgets.muse.ai) (Hacker News (front page))
+- Category: ai-hardware
+- What it does: Muse Gadgets builds consumer electronics that embed generative AI to personalize functionality, such as smart speakers, wearables, and IoT devices that learn user habits.
+- Likely revenue model: Revenue comes from direct hardware sales plus recurring subscriptions for premium AI-driven features and data analytics.
+- India equivalent: none found
+- India fit note: Success depends on widespread high‑speed broadband, a consumer base comfortable with continuous AI data collection, and a willingness to pay a premium for smart‑device subscriptions—factors that are still emerging in many Indian markets.
+- Badge guess: black
+
+## Dwarfstar (ds4)
+- Source article: [From the creator of Redis; run LLM locally with ds4](https://dwarfstar.sh/) (Hacker News (front page))
+- Category: local-llm
+- What it does: ds4 lets users run large language models directly on their own hardware, offering privacy, low latency, and offline capability.
+- Likely revenue model: Charges a subscription or license fee for the software and offers paid enterprise support and premium model packs.
+- India equivalent: none found
+- India fit note: Success relies on users having relatively powerful GPUs and sufficient local storage, which are less common in many Indian households, and on a market that values on‑device privacy.
+- Badge guess: black
+
+## Mighty Studios
+- Source article: [Batomon Showdown is the hottest new auto battler on the block](https://www.engadget.com/2276267/batomon-showdown-is-the-hottest-new-auto-battler-on-the-block/) (Engadget)
+- Category: gaming
+- What it does: Batomon Showdown is a mobile auto‑battler where players collect and evolve creature teams that fight automatically, combining Pokémon‑style collection with Super Auto Pets‑style strategy.
+- Likely revenue model: Free‑to‑play with in‑app purchases for creature packs, cosmetics, and a battle‑pass subscription.
+- India equivalent: Nazara Games
+- India fit note: The model relies on widespread smartphone usage and a culture of micro‑transactions, both of which are strong in India, though the auto‑battler niche may need education to reach mass adoption.
+- Badge guess: orange
+

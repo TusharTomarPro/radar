@@ -1324,3 +1324,7 @@
 | Tiny Brutalism | indie-game | black | 2026-10-02 | none found |
 | Balcony Solar | solar-tech | black | 2026-10-02 | none found |
 | BorderPlus | global-talent | orange | 2026-10-02 | Talent500 |
+| PackUp | relocation-tech | black | 2026-10-02 | none found |
+| Muse Gadgets | ai-hardware | black | 2026-10-02 | none found |
+| Dwarfstar (ds4) | local-llm | black | 2026-10-02 | none found |
+| Mighty Studios | gaming | orange | 2026-10-02 | Nazara Games |
