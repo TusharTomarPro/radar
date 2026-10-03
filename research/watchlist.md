@@ -1365,3 +1365,4 @@
 | FTL | cloud-os | black | 2026-10-03 | none found |
 | Pi pod | ai-agent | black | 2026-10-03 | none found |
 | CableX | network-hardware | orange | 2026-10-03 | Ubiquiti |
+| Reassign | productivity | black | 2026-10-03 | none found |

@@ -331,3 +331,12 @@
 - India fit note: PoE adoption in India is still concentrated in enterprise and new‑construction smart‑home projects; older buildings lack the necessary infrastructure, so market uptake may be slower outside metros.
 - Badge guess: orange
 
+## Reassign
+- Source article: [Reassign](https://www.producthunt.com/products/reassign) (Product Hunt)
+- Category: productivity
+- What it does: Reassign is a story‑driven daily planner that helps makers organize their tasks by turning the day into a narrative flow.
+- Likely revenue model: A subscription‑based SaaS model with monthly or annual plans, possibly tiered with premium features.
+- India equivalent: none found
+- India fit note: The concept relies on users adopting a narrative planning habit, which may be less common in India where traditional to‑do list apps dominate, though the required digital infrastructure is widely available.
+- Badge guess: black
+
