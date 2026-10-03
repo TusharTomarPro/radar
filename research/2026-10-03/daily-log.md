@@ -268,3 +268,66 @@
 - India fit note: The game relies on licensing of the Star Wars IP and high‑speed mobile internet for multiplayer, which are less common in India’s indie scene.
 - Badge guess: black
 
+## ElonMuskMails
+- Source article: [Elon Musk Emails](https://elonmuskmails.com/) (Hacker News (front page))
+- Category: email-archive
+- What it does: Provides a searchable collection of publicly released Elon Musk emails, allowing users to read and explore his communications across his companies.
+- Likely revenue model: Monetises through display advertising, premium subscriptions for advanced search features, and possibly data licensing to media outlets.
+- India equivalent: none found
+- India fit note: The concept relies on a niche audience interested in Elon Musk and on the ability to legally republish scraped emails, which may face stricter copyright and privacy enforcement in India.
+- Badge guess: black
+
+## Cloudflare
+- Source article: [We want you to build the next Git platform on Cloudflare](https://blog.cloudflare.com/next-git-platform-on-cloudflare/) (Hacker News (front page))
+- Category: dev-platform
+- What it does: Cloudflare is inviting developers to build a Git hosting platform that runs on its edge network using Workers, KV, R2 and other services. The idea is to create a fast, globally distributed Git service.
+- Likely revenue model: Charges for the underlying Cloudflare services (compute, storage, bandwidth) based on usage tiers.
+- India equivalent: none found
+- India fit note: The model relies on a pervasive edge network and developer familiarity with Cloudflare Workers, which are still emerging in India. Limited edge infrastructure in tier‑2 cities and slower adoption of serverless Git hosting could hinder immediate traction.
+- Badge guess: black
+
+## AI Midwife
+- Source article: [Our AI Midwife](https://www.astralcodexten.com/p/our-ai-midwife) (Hacker News (front page))
+- Category: ai-health
+- What it does: An AI‑driven virtual assistant that answers pregnancy‑related questions, tracks symptoms, and triages care for expectant mothers.
+- Likely revenue model: Monthly or annual subscription for users, with additional B2B licensing fees for clinics or insurers.
+- India equivalent: Practo
+- India fit note: Success in India would require widespread broadband access, strong trust in AI medical advice, and compliance with local tele‑medicine regulations, which are still evolving for pregnancy care.
+- Badge guess: orange
+
+## Vx
+- Source article: [Vx – One Language, Every Chip](https://vxlang.org/) (Hacker News (front page))
+- Category: hardware-language
+- What it does: Vx is a unified programming language that lets developers write code once and compile it to run on any chip architecture, abstracting away hardware differences. It targets both software developers and hardware designers to simplify cross‑chip development.
+- Likely revenue model: The project likely follows an open‑source core with paid enterprise licensing, support contracts, and tooling subscriptions for large chip designers.
+- India equivalent: none found
+- India fit note: Adoption hinges on a mature RISC‑V and heterogeneous chip ecosystem, which is still nascent in India; limited local fab capacity and fragmented tooling could slow uptake.
+- Badge guess: black
+
+## FTL
+- Source article: [FTL: A new operating system for clouds](https://ftl-os.org/) (Hacker News (front page))
+- Category: cloud-os
+- What it does: FTL is an open‑source operating system that abstracts and manages cloud resources, letting developers treat cloud infrastructure like a local OS.
+- Likely revenue model: Monetized through enterprise support subscriptions, consulting, and possibly a hosted managed service.
+- India equivalent: none found
+- India fit note: Success depends on mature container‑native workloads, high‑speed networking, and developer familiarity with OS‑level cloud abstractions, which are still evolving in many Indian data‑center environments.
+- Badge guess: black
+
+## Pi pod
+- Source article: [Show HN: Pi pod – Run your pi coding agent in sandboxes on your own server](https://pipod.dev/) (Hacker News (front page))
+- Category: ai-agent
+- What it does: Pi pod lets teams run the Pi coding agent in isolated, composable sandbox environments (pods) on servers they control. It provides a self‑hosted, token‑agnostic platform for agentic engineering.
+- Likely revenue model: Subscription or license fees for access to the self‑hosted platform, possibly tiered by number of pods or seats.
+- India equivalent: none found
+- India fit note: The solution assumes teams can provision and maintain their own compute infrastructure and have the expertise to manage sandboxed environments, which may be less common in Indian SMEs that rely on fully managed cloud services.
+- Badge guess: black
+
+## CableX
+- Source article: [Ethernet cables can do more than just improve home internet](https://www.engadget.com/2273746/ethernet-cables-can-do-more-than-just-improve-home-internet/) (Engadget)
+- Category: network-hardware
+- What it does: CableX creates add‑on modules that turn standard Ethernet cables into dual‑purpose links, providing both high‑speed data and power (PoE) to devices like cameras, LED strips, and IoT sensors.
+- Likely revenue model: Sells the hardware adapters and specialty cables directly to consumers and B2B customers, with optional SaaS for remote power‑management and monitoring.
+- India equivalent: Ubiquiti
+- India fit note: PoE adoption in India is still concentrated in enterprise and new‑construction smart‑home projects; older buildings lack the necessary infrastructure, so market uptake may be slower outside metros.
+- Badge guess: orange
+

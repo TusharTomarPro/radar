@@ -1358,3 +1358,10 @@
 | Kolibri | generative-ai | black | 2026-10-03 | none found |
 | Offrun | ai-coding | black | 2026-10-03 | none found |
 | Star Wars: Galactic Racer | indie-game | black | 2026-10-03 | none found |
+| ElonMuskMails | email-archive | black | 2026-10-03 | none found |
+| Cloudflare | dev-platform | black | 2026-10-03 | none found |
+| AI Midwife | ai-health | orange | 2026-10-03 | Practo |
+| Vx | hardware-language | black | 2026-10-03 | none found |
+| FTL | cloud-os | black | 2026-10-03 | none found |
+| Pi pod | ai-agent | black | 2026-10-03 | none found |
+| CableX | network-hardware | orange | 2026-10-03 | Ubiquiti |
