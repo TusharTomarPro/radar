@@ -1331,3 +1331,26 @@
 | Where Is the Planet | space-edtech | black | 2026-10-03 | none found |
 | Quantum World Ventures | quantum-health | black | 2026-10-03 | none found |
 | MycoTechnology | food-tech | black | 2026-10-03 | none found |
+| Deskcord | customer-support | black | 2026-10-03 | none found |
+| SCMD | ai-memory | black | 2026-10-03 | none found |
+| Miso | travel-booking | orange | 2026-10-03 | MakeMyTrip |
+| FoundrRadio | audio-platform | orange | 2026-10-03 | RadioJockey (RJ) |
+| ZooWork | ai-agent | black | 2026-10-03 | none found |
+| Agent Activity | ai-agent | black | 2026-10-03 | none found |
+| Prefer | trade-tech | black | 2026-10-03 | none found |
+| Bevel Software | tokenized-equity | black | 2026-10-03 | none found |
+| FeelMyMac | haptic-tech | black | 2026-10-03 | none found |
+| OTPfill | productivity | black | 2026-10-03 | none found |
+| WattMate | energy-management | black | 2026-10-03 | none found |
+| Notchware | ai-agent | black | 2026-10-03 | none found |
+| Sapien | ai-research | orange | 2026-10-03 | Fractal Analytics |
+| Cubicle | ai-agent | black | 2026-10-03 | none found |
+| Thanor AI | ai-design | black | 2026-10-03 | none found |
+| Singularity | ai-agent | black | 2026-10-03 | none found |
+| Yubi | voice-typing | black | 2026-10-03 | none found |
+| Kilo | ai-fitness | orange | 2026-10-03 | Fittr |
+| Una Mano | mobile-keyboard | black | 2026-10-03 | none found |
+| Crowny | ai-assistant | black | 2026-10-03 | none found |
+| bmux | ai-agent | black | 2026-10-03 | none found |
+| bawkterm | dev-tools | black | 2026-10-03 | none found |
+| AutoGPT | ai-agent | black | 2026-10-03 | none found |
