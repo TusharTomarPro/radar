@@ -1354,3 +1354,7 @@
 | bmux | ai-agent | black | 2026-10-03 | none found |
 | bawkterm | dev-tools | black | 2026-10-03 | none found |
 | AutoGPT | ai-agent | black | 2026-10-03 | none found |
+| Aleph Alpha | llm | orange | 2026-10-03 | AI4Bharat |
+| Kolibri | generative-ai | black | 2026-10-03 | none found |
+| Offrun | ai-coding | black | 2026-10-03 | none found |
+| Star Wars: Galactic Racer | indie-game | black | 2026-10-03 | none found |

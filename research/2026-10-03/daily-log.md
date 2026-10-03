@@ -232,3 +232,39 @@
 - India fit note: The model relies on constant high‑speed internet, access to costly GPT‑4 API credits, and a culture of formal email outreach in academia, which are present in India but the API cost and data‑privacy concerns could limit adoption.
 - Badge guess: black
 
+## Aleph Alpha
+- Source article: [Kolibri is an open-weight LLM from Aleph Alpha for German and English](https://tej.as/blog/aleph-alpha-kolibri) (Hacker News (front page))
+- Category: llm
+- What it does: Aleph Alpha released Kolibri, an open‑weight large language model that supports German and English, allowing developers to fine‑tune and run the model locally or in the cloud.
+- Likely revenue model: Charges enterprises and developers for API access, custom model licensing, and premium support subscriptions.
+- India equivalent: AI4Bharat
+- India fit note: India has the cloud infrastructure and talent to run open‑weight LLMs, but demand for a German‑focused model is limited; the English capability aligns well with local needs, while data‑privacy regulations may affect adoption in regulated sectors.
+- Badge guess: orange
+
+## Kolibri
+- Source article: [Kolibri Has Landed: A Sovereign Open-Weight Model](https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/) (Hacker News (front page))
+- Category: generative-ai
+- What it does: Kolibri is a sovereign, open‑weight large language model that can be run locally or in‑house, offering customizable AI capabilities with full data privacy.
+- Likely revenue model: Enterprise licensing or subscription fees for on‑prem deployment, API access, and custom model fine‑tuning services.
+- India equivalent: none found
+- India fit note: Running a high‑performance open‑weight LLM locally requires substantial GPU infrastructure and expertise, which are still limited for most Indian enterprises, and data‑privacy regulations may slow adoption.
+- Badge guess: black
+
+## Offrun
+- Source article: [Show HN: Offrun – manage every coding agent from one workspace](https://offrun.dev/) (Hacker News (front page))
+- Category: ai-coding
+- What it does: Provides a unified workspace to run, monitor, and switch between multiple AI coding agents such as Claude Code, Codex, AGY, and Grok.
+- Likely revenue model: Subscription‑based SaaS tiered by number of agents, seats, and usage limits.
+- India equivalent: none found
+- India fit note: The product assumes reliable, low‑latency access to several foreign AI APIs and a developer culture comfortable with juggling multiple agents, which may be limited in India due to higher API costs and bandwidth constraints.
+- Badge guess: black
+
+## Star Wars: Galactic Racer
+- Source article: [Photography adventures, chaotic sheepherding and other new indie games worth checking out](https://www.engadget.com/2276442/photography-adventures-chaotic-sheepherding-and-other-new-indie-games-worth-checking-out/) (Engadget)
+- Category: indie-game
+- What it does: A fan‑made Star Wars themed racing game where players compete in futuristic tracks using iconic ships.
+- Likely revenue model: Free-to-play with in‑app purchases and ads.
+- India equivalent: none found
+- India fit note: The game relies on licensing of the Star Wars IP and high‑speed mobile internet for multiplayer, which are less common in India’s indie scene.
+- Badge guess: black
+
