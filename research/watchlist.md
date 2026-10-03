@@ -1328,3 +1328,6 @@
 | Muse Gadgets | ai-hardware | black | 2026-10-02 | none found |
 | Dwarfstar (ds4) | local-llm | black | 2026-10-02 | none found |
 | Mighty Studios | gaming | orange | 2026-10-02 | Nazara Games |
+| Where Is the Planet | space-edtech | black | 2026-10-03 | none found |
+| Quantum World Ventures | quantum-health | black | 2026-10-03 | none found |
+| MycoTechnology | food-tech | black | 2026-10-03 | none found |
