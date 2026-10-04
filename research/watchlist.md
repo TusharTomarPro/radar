@@ -1366,3 +1366,5 @@
 | Pi pod | ai-agent | black | 2026-10-03 | none found |
 | CableX | network-hardware | orange | 2026-10-03 | Ubiquiti |
 | Reassign | productivity | black | 2026-10-03 | none found |
+| BinRange | waste-tech | orange | 2026-10-04 | SmartBin (SmartBin Technologies) |
+| Liao AI | ai-agent | black | 2026-10-04 | none found |
