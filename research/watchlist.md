@@ -1368,3 +1368,36 @@
 | Reassign | productivity | black | 2026-10-03 | none found |
 | BinRange | waste-tech | orange | 2026-10-04 | SmartBin (SmartBin Technologies) |
 | Liao AI | ai-agent | black | 2026-10-04 | none found |
+| Qarunbook | qa-automation | orange | 2026-10-04 | QMetry |
+| ChatGPT Space | ai-collab | black | 2026-10-04 | none found |
+| NotchMate | mobile-ui | black | 2026-10-04 | none found |
+| Smooth Recorder | screen-recording | black | 2026-10-04 | none found |
+| CoreSpeed | ai-agent | orange | 2026-10-04 | Haptik |
+| Blenny | productivity | black | 2026-10-04 | none found |
+| Snapset | workspace-management | black | 2026-10-04 | none found |
+| Blume | doc-framework | black | 2026-10-04 | none found |
+| Control My Mac | automation | black | 2026-10-04 | none found |
+| Poddle | gaming-controller | black | 2026-10-04 | none found |
+| LaunchReel | ai-video | orange | 2026-10-04 | InVideo |
+| Eat Train Feel | health-tech | orange | 2026-10-04 | Cure.fit |
+| FlexChords | music-tech | black | 2026-10-04 | none found |
+| Aperture | ai-devtools | black | 2026-10-04 | none found |
+| Sorcrr | recruitment-tech | black | 2026-10-04 | none found |
+| Pixel Soup | creative-tools | black | 2026-10-04 | none found |
+| Capybara Court | legal-tech | black | 2026-10-04 | none found |
+| Quven | media-server | black | 2026-10-04 | none found |
+| Angebotsmeister | quote-automation | black | 2026-10-04 | none found |
+| Translate Like Me | ai-translation | orange | 2026-10-04 | JioTranslate |
+| Rival Workshop | knowledge-management | black | 2026-10-04 | none found |
+| Sente | ai-coding | black | 2026-10-04 | none found |
+| Art4 | digital-art | black | 2026-10-04 | none found |
+| Sellio | ai-support | orange | 2026-10-04 | Freshworks (Freshdesk) |
+| Octri | dev-tools | black | 2026-10-04 | none found |
+| TinyFolder | productivity | black | 2026-10-04 | none found |
+| OpenSend | email-platform | black | 2026-10-04 | none found |
+| Cursor Remote Lite | remote-desktop | orange | 2026-10-04 | Zoho Assist |
+| Thinking Orbs | ui-components | black | 2026-10-04 | none found |
+| WikiFix | knowledge-management | orange | 2026-10-04 | Zoho Wiki |
+| Jogak | video-editing | black | 2026-10-04 | none found |
+| Clair | ai-assistant | black | 2026-10-04 | none found |
+| VGHF | digital-archive | black | 2026-10-04 | none found |
