@@ -1408,3 +1408,4 @@
 | Scimigo | edtech | black | 2026-10-04 | none found |
 | Fog-Bank | media-archiving | black | 2026-10-04 | none found |
 | Second Chances | fintech | orange | 2026-10-04 | KreditBee |
+| VB6IDE | dev-tools | black | 2026-10-04 | none found |

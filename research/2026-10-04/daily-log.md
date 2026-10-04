@@ -376,3 +376,12 @@
 - India fit note: The model depends on digital KYC, credit‑bureau data and a market comfortable with high‑interest credit, all of which exist in India, though consumer risk‑aversion may affect adoption.
 - Badge guess: orange
 
+## VB6IDE
+- Source article: [A browser-native classic Visual Basic VB6 IDE](https://wieslawsoltes.github.io/VB6/) (Hacker News (front page))
+- Category: dev-tools
+- What it does: Provides a classic Visual Basic 6 Integrated Development Environment that runs natively in a web browser, letting users write, edit, and execute VB6 code without installing Windows.
+- Likely revenue model: Open‑source project likely monetized through donations, sponsorships, or paid support services.
+- India equivalent: none found
+- India fit note: The product relies on stable broadband and modern browsers with WebAssembly support, which are available in urban India, but demand for legacy VB6 development is limited, reducing immediate market relevance.
+- Badge guess: black
+
