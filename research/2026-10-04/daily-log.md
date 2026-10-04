@@ -313,3 +313,39 @@
 - India fit note: The service depends on a niche retro‑gaming community and on digitizing copyrighted magazines, which may encounter stricter IP enforcement and limited demand in India.
 - Badge guess: black
 
+## OhSnap
+- Source article: [This toolless modular lever-action wallet is the coolest I’ve stuck to my phone](https://www.theverge.com/gadgets/1004360/this-toolless-modular-lever-action-wallet-is-the-coolest-ive-stuck-to-my-phone) (The Verge)
+- Category: phone-accessories
+- What it does: A magnetic, lever-action card wallet that attaches to a smartphone and can be stacked with the OhSnap Snap Grip Stand.
+- Likely revenue model: Direct-to-consumer sales of the hardware wallet through its website and online retailers.
+- India equivalent: none found
+- India fit note: The product relies on users carrying a phone case compatible with magnetic attachment and a culture of modular phone accessories, which are less common in India where phone cases are often non-magnetic and consumers favor simpler wallets.
+- Badge guess: black
+
+## Strata
+- Source article: [Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s](https://github.com/Niko1221/Strata) (Hacker News (front page))
+- Category: ai-inference
+- What it does: Provides an optimized software stack that lets users run the 125B‑parameter Qwen 3.8 Flash Next model on a single consumer‑grade RTX 4090 GPU with high throughput.
+- Likely revenue model: Offers paid enterprise support, custom integration services, or a subscription for premium features while keeping the core code open‑source.
+- India equivalent: none found
+- India fit note: Running a 125B model on a consumer GPU requires a high‑end RTX 4090, stable power supply and fast storage, which are less common in Indian households and small businesses; the market may favor cloud‑based inference rather than on‑premise hardware.
+- Badge guess: black
+
+## SCM
+- Source article: [Show HN: AI search for every photo and every frame of video on macOS](https://github.com/allenv0/SCM) (Hacker News (front page))
+- Category: ai-search
+- What it does: SCM indexes every photo and every frame of video on macOS and lets users search them with natural‑language queries, returning the exact image or video moment that matches.
+- Likely revenue model: A freemium model with a paid Pro tier that unlocks faster indexing, larger libraries, and enterprise licensing.
+- India equivalent: none found
+- India fit note: The product relies on macOS users and local GPU/CPU resources for on‑device AI indexing, which limits adoption in India where Windows and Android dominate and high‑end Mac hardware is less common.
+- Badge guess: black
+
+## CarDataGuard
+- Source article: [Why you shouldn't sync your phone to a rental car](https://www.engadget.com/2273912/why-shouldnt-sync-phone-to-rental-car/) (Engadget)
+- Category: car-tech
+- What it does: Provides an automated solution that detects and wipes any personal data synced from a phone to a rental car’s infotainment system after the rental ends.
+- Likely revenue model: Charges rental car companies a subscription per vehicle for the data‑wipe software and integration service.
+- India equivalent: none found
+- India fit note: The service relies on rental fleets having OTA‑updatable infotainment systems and standardized Bluetooth protocols, which are less common in India’s fragmented rental market.
+- Badge guess: black
+

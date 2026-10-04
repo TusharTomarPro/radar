@@ -1401,3 +1401,7 @@
 | Jogak | video-editing | black | 2026-10-04 | none found |
 | Clair | ai-assistant | black | 2026-10-04 | none found |
 | VGHF | digital-archive | black | 2026-10-04 | none found |
+| OhSnap | phone-accessories | black | 2026-10-04 | none found |
+| Strata | ai-inference | black | 2026-10-04 | none found |
+| SCM | ai-search | black | 2026-10-04 | none found |
+| CarDataGuard | car-tech | black | 2026-10-04 | none found |
