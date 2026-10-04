@@ -349,3 +349,30 @@
 - India fit note: The service relies on rental fleets having OTA‑updatable infotainment systems and standardized Bluetooth protocols, which are less common in India’s fragmented rental market.
 - Badge guess: black
 
+## Scimigo
+- Source article: [Show HN: Build with Python – a beginner course where your code draws](https://scimigo.com/en/learn/build-with-python/01-draw-with-python) (Hacker News (front page))
+- Category: edtech
+- What it does: Offers a browser‑based Python beginner course where code runs via Pyodide and instantly renders visual output, with free foundation modules and paid guided labs for advanced modules.
+- Likely revenue model: Charges a one‑time fee of $49 for access to the guided labs covering modules 7‑13.
+- India equivalent: none found
+- India fit note: The model relies on stable broadband and modern browsers to run WebAssembly; limited internet speeds in many Indian regions could hinder the seamless experience, and awareness of such self‑paced visual coding tools is still low.
+- Badge guess: black
+
+## Fog-Bank
+- Source article: [Fog-Bank: Archiving the oldest webcam feed](https://fog-bank.org/net) (Hacker News (front page))
+- Category: media-archiving
+- What it does: Fog-Bank captures, stores, and makes searchable the historic feed from the world’s oldest webcam, preserving the visual record for future reference.
+- Likely revenue model: It appears to be a hobbyist/open‑source project funded by donations or grants rather than a direct revenue stream.
+- India equivalent: none found
+- India fit note: The concept relies on continuous internet connectivity and a community interested in niche historical data, which may have limited demand in India without a dedicated archival institution.
+- Badge guess: black
+
+## Second Chances
+- Source article: [Second Chances](https://www.nybooks.com/articles/2026/10/22/second-chances-office-politics-wilfrid-sheed/) (Hacker News (front page))
+- Category: fintech
+- What it does: Offers short‑term credit cards or loans to consumers with poor or no credit history, giving them a way to rebuild their credit score.
+- Likely revenue model: Makes money from interest and fees on the credit line, plus merchant interchange fees.
+- India equivalent: KreditBee
+- India fit note: The model depends on digital KYC, credit‑bureau data and a market comfortable with high‑interest credit, all of which exist in India, though consumer risk‑aversion may affect adoption.
+- Badge guess: orange
+

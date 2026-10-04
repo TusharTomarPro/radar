@@ -1405,3 +1405,6 @@
 | Strata | ai-inference | black | 2026-10-04 | none found |
 | SCM | ai-search | black | 2026-10-04 | none found |
 | CarDataGuard | car-tech | black | 2026-10-04 | none found |
+| Scimigo | edtech | black | 2026-10-04 | none found |
+| Fog-Bank | media-archiving | black | 2026-10-04 | none found |
+| Second Chances | fintech | orange | 2026-10-04 | KreditBee |
