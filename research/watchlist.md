@@ -1439,3 +1439,9 @@
 | Shanna Dige | film-scanning | black | 2026-10-05 | none found |
 | Verifact Markets | prediction-market | black | 2026-10-05 | none found |
 | Scooter | recruitment-tech | orange | 2026-10-05 | Talview |
+| Reflection | enterprise-ai | black | 2026-10-05 | none found |
+| Hot Girl Hotline | ai-advice | black | 2026-10-05 | none found |
+| Lola Vision Systems | ai-infrastructure | black | 2026-10-05 | none found |
+| Nolla Health | teledermatology | orange | 2026-10-05 | Practo |
+| Kalshi | prediction-market | black | 2026-10-05 | none found |
+| Reflection AI | generative-ai | black | 2026-10-05 | none found |
