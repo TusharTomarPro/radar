@@ -1409,3 +1409,4 @@
 | Fog-Bank | media-archiving | black | 2026-10-04 | none found |
 | Second Chances | fintech | orange | 2026-10-04 | KreditBee |
 | VB6IDE | dev-tools | black | 2026-10-04 | none found |
+| Tippett Studios | media-archive | black | 2026-10-05 | none found |
