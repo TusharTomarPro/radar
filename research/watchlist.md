@@ -1410,3 +1410,32 @@
 | Second Chances | fintech | orange | 2026-10-04 | KreditBee |
 | VB6IDE | dev-tools | black | 2026-10-04 | none found |
 | Tippett Studios | media-archive | black | 2026-10-05 | none found |
+| Safeworld | robotics-safety | black | 2026-10-05 | none found |
+| Xtracticle | doc-conversion | black | 2026-10-05 | none found |
+| Reactive Resume | resume-builder | orange | 2026-10-05 | Naukri.com Resume Builder |
+| devpit | ai-agent | black | 2026-10-05 | none found |
+| Spira AI | ai-video | orange | 2026-10-05 | InVideo |
+| Siteprint | design-ai | black | 2026-10-05 | none found |
+| Opengeni | ai-agent | black | 2026-10-05 | none found |
+| Dots UI | ui-library | black | 2026-10-05 | none found |
+| Unscary AI | edtech | orange | 2026-10-05 | Unacademy |
+| SpeechShield | interview-coach | black | 2026-10-05 | none found |
+| Jarq | ai-writing | black | 2026-10-05 | none found |
+| HyperFrames Studio | video-editor | orange | 2026-10-05 | InVideo |
+| Invofox | document-automation | orange | 2026-10-05 | Docsumo |
+| Netra | productivity | black | 2026-10-05 | none found |
+| DailyHelm | analytics | black | 2026-10-05 | none found |
+| Crosswalk | agent-platform | black | 2026-10-05 | none found |
+| FastRouter.ai | llm-orchestration | black | 2026-10-05 | none found |
+| Reviu | ai-code-review | black | 2026-10-05 | none found |
+| Oogwai | seo-tool | black | 2026-10-05 | none found |
+| Reason | dev-tools | black | 2026-10-05 | none found |
+| Pilot5 Legal | legal-tech | black | 2026-10-05 | none found |
+| Bentomux | dev-tools | black | 2026-10-05 | none found |
+| CirclePanel | user-research | orange | 2026-10-05 | Zoho Survey |
+| Marv | ai-assistant | black | 2026-10-05 | none found |
+| iLand | desktop-productivity | black | 2026-10-05 | none found |
+| Chain Exchange | crypto-bridge | black | 2026-10-05 | none found |
+| Shanna Dige | film-scanning | black | 2026-10-05 | none found |
+| Verifact Markets | prediction-market | black | 2026-10-05 | none found |
+| Scooter | recruitment-tech | orange | 2026-10-05 | Talview |
