@@ -1445,3 +1445,9 @@
 | Nolla Health | teledermatology | orange | 2026-10-05 | Practo |
 | Kalshi | prediction-market | black | 2026-10-05 | none found |
 | Reflection AI | generative-ai | black | 2026-10-05 | none found |
+| iChat | video-conferencing | orange | 2026-10-06 | JioMeet |
+| Photosuite | design-tools | black | 2026-10-06 | none found |
+| Samon | puzzle-game | black | 2026-10-06 | none found |
+| Ephemeral | devops testing | orange | 2026-10-06 | TestSigma |
+| Jazz Pianist Style AI | ai-music | black | 2026-10-06 | none found |
+| FlattenSF | mobility | orange | 2026-10-06 | MapmyIndia |
