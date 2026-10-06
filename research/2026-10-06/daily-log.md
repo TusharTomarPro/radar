@@ -421,3 +421,84 @@
 - India fit note: India has a growing deep‑tech ecosystem, but coordinated policy lobbying is still nascent; success would depend on the willingness of founders to engage with regulators and on government openness to industry input.
 - Badge guess: orange
 
+## Hark
+- Source article: [Hark releases an AI personal assistant with a focus on privacy](https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/) (TechCrunch)
+- Category: ai-assistant
+- What it does: Hark offers a privacy‑first AI personal assistant that functions as an operating system for everyday tasks, positioning itself against rivals like Muse, Dots, and Instinct.
+- Likely revenue model: The service likely follows a subscription‑based model with a free tier and premium paid plans for advanced features and higher usage limits.
+- India equivalent: Haptik
+- India fit note: Haptik provides AI‑driven conversational assistants for consumers and enterprises, but it does not emphasize privacy as a core selling point, which may limit direct comparability.
+- Badge guess: orange
+
+## Mirror Particle
+- Source article: [Mirror Particle is building a ‘world model’ of human behavior](https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/) (TechCrunch)
+- Category: behavioral-ai
+- What it does: Mirror Particle builds a comprehensive "world model" that simulates and predicts human behavior, aiming to replace LLM role‑play for market research and brand strategy. The model is trained from scratch on diverse behavioral data to forecast consumer actions and preferences.
+- Likely revenue model: They likely sell a SaaS platform or API subscription to brands, agencies, and market‑research firms that need predictive insights and scenario planning.
+- India equivalent: none found
+- India fit note: The approach relies on massive, high‑quality behavioral datasets and compute‑intensive training pipelines that are less common in India, plus it assumes consumer consent frameworks and privacy norms that may be under‑developed locally.
+- Badge guess: black
+
+## Wajo
+- Source article: [Vinod Khosla believes ex-DeepMind engineer’s Wajo will win agent market on trust](https://techcrunch.com/2026/10/06/vinod-khosla-believes-ex-deepmind-engineers-wajo-will-win-agent-market-on-trust/) (TechCrunch)
+- Category: ai-agent
+- What it does: Wajo’s Fo agent uses AI to autonomously hire human workers to complete tasks on behalf of users.
+- Likely revenue model: Charges a commission or fee per completed task and may offer subscription plans for enterprise users.
+- India equivalent: Urban Company
+- India fit note: India has a large gig workforce and platforms like Urban Company, but widespread trust in AI‑driven agents and seamless integration with payment and verification systems may still be limited.
+- Badge guess: orange
+
+## Glimpse
+- Source article: [Glimpse wants to give hardware companies an X-ray view of every critical part](https://techcrunch.com/2026/10/06/glimpse-wants-to-give-hardware-companies-an-x-ray-view-of-every-critical-part/) (TechCrunch)
+- Category: manufacturing-tech
+- What it does: Glimpse offers Explore, an image‑processing platform that automates quality‑control inspections by analyzing CT‑scan data of hardware components.
+- Likely revenue model: Subscription‑based SaaS licensing per scanner or per volume of parts processed, possibly with tiered pricing for enterprise features.
+- India equivalent: none found
+- India fit note: The solution relies on high‑cost industrial CT scanners and skilled image‑analysis expertise, which are limited to large manufacturers in India; many SMEs lack the capital and infrastructure to adopt such technology at scale.
+- Badge guess: black
+
+## Flai
+- Source article: [Flai’s AI dealership software is booking 50,000 appointments per month](https://techcrunch.com/2026/10/06/flais-ai-dealership-software-is-booking-50000-appointments-per-month/) (TechCrunch)
+- Category: auto-tech
+- What it does: Flai provides an AI‑powered platform for car dealerships that automates lead handling, schedules test‑drive and service appointments, and streamlines customer communication.
+- Likely revenue model: Subscription‑based SaaS fees per dealership, often tiered by volume of appointments or leads processed.
+- India equivalent: Cars24
+- India fit note: Indian dealers are increasingly digitising but many still rely on manual booking and price‑haggling; adoption may be slower where internet connectivity and CRM usage are limited, though rising smartphone penetration helps.
+- Badge guess: orange
+
+## Darkplug
+- Source article: [Show HN: I turned my iPhone and a $20 smart plug into an f-stop timer](https://peterszentkiralyi.eu/darkplug/) (Hacker News (front page))
+- Category: photography-tech
+- What it does: Turns a cheap smart plug into a controllable power switch for enlargers, letting a mobile app handle precise f‑stop and test‑strip timing for darkroom printing.
+- Likely revenue model: Sells the app (one‑time purchase or subscription) and possibly a bundled smart‑plug kit.
+- India equivalent: none found
+- India fit note: The solution relies on a niche darkroom community and stable home electricity; both exist in India but are limited, and the required cheap smart plugs are not widely marketed for photographic use.
+- Badge guess: black
+
+## Parseable
+- Source article: [Show HN: Parseable, an open observability datalake, handles 100M time-series/min](https://www.parseable.com) (Hacker News (front page))
+- Category: observability
+- What it does: Parseable offers an open‑source observability data lake that ingests, stores, and queries massive streams of time‑series logs and metrics for real‑time monitoring.
+- Likely revenue model: They likely monetize via a paid SaaS/managed‑service tier, enterprise support contracts, and premium features on top of the open‑source core.
+- India equivalent: SigNoz
+- India fit note: The model relies on high‑throughput data pipelines and cloud storage, which are available in India’s major cloud providers, but adoption may be limited by the still‑growing observability culture in Indian enterprises.
+- Badge guess: orange
+
+## ArsPro
+- Source article: [Support Ars and get a better reading experience in return](https://arstechnica.com/staff/2026/10/make-ars-better-with-an-arspro-subscription/) (Ars Technica)
+- Category: media-subscription
+- What it does: ArsPro is a paid membership program that offers readers enhanced ways to consume Ars Technica content, such as ad‑free browsing, exclusive newsletters, and early access to articles. It also channels subscriber fees directly to support the newsroom.
+- Likely revenue model: Revenue comes from recurring subscription fees paid by members on a monthly or annual basis.
+- India equivalent: Scroll.in
+- India fit note: The model relies on readers' willingness to pay for premium news, which is growing in India but still limited compared to the US. Internet access and digital payment infrastructure are adequate, but cultural habits around free content may slow adoption.
+- Badge guess: orange
+
+## Doom on Vectrex
+- Source article: [Doom on the Vectrex turns the classic shooter into Tron-like vector art](https://www.engadget.com/2279239/doom-on-the-vectrex-turns-the-classic-shooter-into-tron-like-vector-art/) (Engadget)
+- Category: retro-gaming
+- What it does: Ports the classic Doom shooter to the 1980s Vectrex console, rendering the game as vector‑style graphics reminiscent of Tron.
+- Likely revenue model: The project appears to be a hobbyist, free‑distribution effort with no direct monetization.
+- India equivalent: none found
+- India fit note: The niche relies on owning a rare Vectrex console and interest in retro hardware, which are scarce in India, limiting adoption.
+- Badge guess: black
+

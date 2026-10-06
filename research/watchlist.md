@@ -1492,3 +1492,12 @@
 | Kinetic Age | healthtech | orange | 2026-10-06 | Portea Medical |
 | Wipro AI Inference Cloud | ai-inference | orange | 2026-10-06 | Infosys Nia |
 | DeepVerse | policy-tech | orange | 2026-10-06 | NASSCOM DeepTech Council |
+| Hark | ai-assistant | orange | 2026-10-06 | Haptik |
+| Mirror Particle | behavioral-ai | black | 2026-10-06 | none found |
+| Wajo | ai-agent | orange | 2026-10-06 | Urban Company |
+| Glimpse | manufacturing-tech | black | 2026-10-06 | none found |
+| Flai | auto-tech | orange | 2026-10-06 | Cars24 |
+| Darkplug | photography-tech | black | 2026-10-06 | none found |
+| Parseable | observability | orange | 2026-10-06 | SigNoz |
+| ArsPro | media-subscription | orange | 2026-10-06 | Scroll.in |
+| Doom on Vectrex | retro-gaming | black | 2026-10-06 | none found |
