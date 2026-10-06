@@ -1451,3 +1451,44 @@
 | Ephemeral | devops testing | orange | 2026-10-06 | TestSigma |
 | Jazz Pianist Style AI | ai-music | black | 2026-10-06 | none found |
 | FlattenSF | mobility | orange | 2026-10-06 | MapmyIndia |
+| BougeRV | camping-tech | black | 2026-10-06 | none found |
+| Cosmic | ai-support | orange | 2026-10-06 | Freshworks Freddy |
+| OpenBot | ai-chatbot | black | 2026-10-06 | none found |
+| Banger | email-automation | orange | 2026-10-06 | Zoho Campaigns |
+| Ranktune | ai-analytics | black | 2026-10-06 | none found |
+| Lecta | edtech-gaming | orange | 2026-10-06 | Playablo |
+| Pheebs | ai-analytics | black | 2026-10-06 | none found |
+| The Sentient World | ai-simulation | black | 2026-10-06 | none found |
+| Etsy AI Customer Service | ecommerce-ai | black | 2026-10-06 | none found |
+| Floani | ai-diagrams | black | 2026-10-06 | none found |
+| EasyCut | ai-video | orange | 2026-10-06 | InVideo |
+| Chunk | productivity-app | black | 2026-10-06 | none found |
+| Extrovert | sales-automation | black | 2026-10-06 | none found |
+| ruOS | ai-desktop | black | 2026-10-06 | none found |
+| mcpgawk | cybersecurity | black | 2026-10-06 | none found |
+| GeckIt | ai-productivity | black | 2026-10-06 | none found |
+| Brnch | dev-tools | black | 2026-10-06 | none found |
+| Doco | music-tech | black | 2026-10-06 | none found |
+| Rill | ai-browser | black | 2026-10-06 | none found |
+| Fuse AI | martech | orange | 2026-10-06 | CleverTap |
+| Incredible | voice-control | black | 2026-10-06 | none found |
+| Coddy | edtech | orange | 2026-10-06 | Coding Ninjas |
+| Willow | personal-ai | black | 2026-10-06 | none found |
+| OrgComputers | ai-agent | black | 2026-10-06 | none found |
+| iPhone Use | ai-agent | black | 2026-10-06 | none found |
+| Patchcord | audio-tech | black | 2026-10-06 | none found |
+| Review | ai-code-review | orange | 2026-10-06 | DeepSource |
+| StayCharted | no-code AI | black | 2026-10-06 | none found |
+| NoteWorthy | ai-note | orange | 2026-10-06 | Zoho Notebook |
+| Ari Helper | ai-assistant | black | 2026-10-06 | none found |
+| Ghostifier | privacy-tech | black | 2026-10-06 | none found |
+| Appto | no-code | orange | 2026-10-06 | Builder.ai |
+| Notch Radio | audio-streaming | black | 2026-10-06 | none found |
+| Kishi Notch | hardware-accessory | black | 2026-10-06 | none found |
+| Awakado | productivity | black | 2026-10-06 | none found |
+| Scumble | ai-editor | black | 2026-10-06 | none found |
+| CodeCrab | dev-tools | black | 2026-10-06 | none found |
+| CureMeAbroad | medical tourism | orange | 2026-10-06 | Vaidam Health |
+| Kinetic Age | healthtech | orange | 2026-10-06 | Portea Medical |
+| Wipro AI Inference Cloud | ai-inference | orange | 2026-10-06 | Infosys Nia |
+| DeepVerse | policy-tech | orange | 2026-10-06 | NASSCOM DeepTech Council |
