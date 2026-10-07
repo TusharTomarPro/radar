@@ -1501,3 +1501,9 @@
 | Parseable | observability | orange | 2026-10-06 | SigNoz |
 | ArsPro | media-subscription | orange | 2026-10-06 | Scroll.in |
 | Doom on Vectrex | retro-gaming | black | 2026-10-06 | none found |
+| Melius | ad-tech | orange | 2026-10-07 | AdCreative.ai |
+| Underdog | ai-assistant | black | 2026-10-07 | none found |
+| Musubi | content-moderation | black | 2026-10-07 | none found |
+| Penguin Mail | email-client | black | 2026-10-07 | none found |
+| Vibecoding | creative-tools | black | 2026-10-07 | none found |
+| Berthd | parking-reservation | orange | 2026-10-07 | Park+ |
