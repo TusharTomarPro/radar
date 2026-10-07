@@ -1507,3 +1507,52 @@
 | Penguin Mail | email-client | black | 2026-10-07 | none found |
 | Vibecoding | creative-tools | black | 2026-10-07 | none found |
 | Berthd | parking-reservation | orange | 2026-10-07 | Park+ |
+| Unprompt | ai-analytics | black | 2026-10-07 | none found |
+| Velozity | ai-collaboration | orange | 2026-10-07 | Zoho |
+| Albie | edtech | orange | 2026-10-07 | Doubtnut |
+| Alkera | ai-agent | black | 2026-10-07 | none found |
+| ParakeetAI | interview-ai | orange | 2026-10-07 | Talview |
+| Figma Agent | design-ai | black | 2026-10-07 | none found |
+| Ana | ai-agent | black | 2026-10-07 | none found |
+| Rool | ai-workspace | black | 2026-10-07 | none found |
+| Manus | video-editing | orange | 2026-10-07 | InVideo |
+| DevAlly | ai-agent | black | 2026-10-07 | none found |
+| Thalia | ai-agent | black | 2026-10-07 | none found |
+| Ownfeed | social-commerce | orange | 2026-10-07 | Udaan |
+| Featherweight Dictation | speech-to-text | black | 2026-10-07 | none found |
+| SunSed | no-code | orange | 2026-10-07 | Appsmith |
+| Vresk | ai-workspace | black | 2026-10-07 | none found |
+| Zavi | growth-tech | orange | 2026-10-07 | CleverTap |
+| Temp Mail | disposable-email | black | 2026-10-07 | none found |
+| Redlamp | photo-editing | black | 2026-10-07 | none found |
+| Lofi Desk | focus-app | black | 2026-10-07 | none found |
+| Knuff | family-safety | black | 2026-10-07 | none found |
+| Plugins Radar | ai-analytics | black | 2026-10-07 | none found |
+| Viibeo | ai-video | orange | 2026-10-07 | InVideo |
+| Postquel | db-tools | black | 2026-10-07 | none found |
+| DailyHub | productivity | orange | 2026-10-07 | Zoho Projects |
+| Proofsource | ai-seo | black | 2026-10-07 | none found |
+| ImageFlow | ai-image-editing | black | 2026-10-07 | none found |
+| Takweem | ai-calendar | black | 2026-10-07 | none found |
+| Walrus Console | data-management | orange | 2026-10-07 | Zoho WorkDrive |
+| IrisGo | workflow-automation | orange | 2026-10-07 | Automate.io |
+| Kitbar | dev-tools | black | 2026-10-07 | none found |
+| Reika | ai-agent | black | 2026-10-07 | none found |
+| Linda | ai-assistant | black | 2026-10-07 | none found |
+| Flowo | productivity | black | 2026-10-07 | none found |
+| GenPage | ai-website | orange | 2026-10-07 | Zoho Sites |
+| Supademo | ai-agent | black | 2026-10-07 | none found |
+| Aura | no-code | orange | 2026-10-07 | Appy Pie |
+| StudyQuest | edtech | orange | 2026-10-07 | Unacademy |
+| Shader Effects Inc | web-graphics | black | 2026-10-07 | none found |
+| Yggstore | decentralized-storage | black | 2026-10-07 | none found |
+| NanoMuse | AI-agent | orange | 2026-10-07 | Niki.ai |
+| Strands Decider | decision-engine | black | 2026-10-07 | none found |
+| ESP32-C3 Adblock | ad-blocker | black | 2026-10-07 | none found |
+| Treg | ai-agent | black | 2026-10-07 | none found |
+| Wired | civic-tech | orange | 2026-10-07 | MyNeta |
+| Organic Lit | content-authentication | black | 2026-10-07 | none found |
+| Credfix | debt-tech | orange | 2026-10-07 | FREED |
+| Desible.ai | ai-agent | orange | 2026-10-07 | Haptik |
+| byteXL | edtech | orange | 2026-10-07 | Skill-Lync |
+| Zomint | wealth-tech | orange | 2026-10-07 | Scripbox |
