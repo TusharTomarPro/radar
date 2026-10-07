@@ -493,3 +493,129 @@
 - India fit note: The model relies on digital adoption and trust in online financial advice, which is growing in India but still faces cultural hesitation toward delegating wealth decisions to tech‑driven advisors; however, a large content‑driven audience can mitigate this.
 - Badge guess: orange
 
+## Greenairy
+- Source article: [Greenairy is building smart plant towers to clean the air in your office](https://techcrunch.com/2026/10/07/greenairy-is-building-smart-plant-towers-to-clean-the-air-in-your-office/) (TechCrunch)
+- Category: air-purification
+- What it does: Greenairy designs and sells smart plant towers that combine living greenery with sensors to monitor and actively clean indoor office air.
+- Likely revenue model: They likely generate revenue by selling or leasing the towers and charging a subscription for ongoing plant care, sensor data analytics, and maintenance services.
+- India equivalent: none found
+- India fit note: Success in India would depend on office managers prioritizing indoor air quality and being willing to allocate budget for plant maintenance; cultural acceptance of indoor greenery and reliable service networks are also needed.
+- Badge guess: black
+
+## Healthleap
+- Source article: [Healthleap raises $38M for its AI that flags hospital patients who may need a closer look](https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look/) (TechCrunch)
+- Category: health-tech
+- What it does: Healthleap uses AI to continuously monitor hospital patients' data and flag those who may need closer clinical attention.
+- Likely revenue model: Subscription‑based SaaS licensing to hospitals and health systems, possibly tiered by patient volume or feature set.
+- India equivalent: Qure.ai
+- India fit note: Success depends on widespread electronic health record integration and real‑time data feeds, which are still uneven across Indian hospitals, and on regulatory clearance for AI decision‑support tools.
+- Badge guess: orange
+
+## Bloom
+- Source article: [Bloom raises $3.6M to become the ‘Alibaba’ of American manufacturing](https://techcrunch.com/2026/10/07/bloom-raises-3-6m-to-become-the-alibaba-of-american-manufacturing/) (TechCrunch)
+- Category: manufacturing-marketplace
+- What it does: Bloom operates a digital platform that connects drone, robotics and other hardware companies with U.S.-based manufacturers, shippers and related service providers.
+- Likely revenue model: The company likely earns revenue through transaction commissions, subscription fees for premium access to its supplier network, and possibly listing or lead‑generation fees.
+- India equivalent: IndiaMART
+- India fit note: The model relies on a mature domestic manufacturing base and logistics infrastructure that can guarantee short lead times and quality compliance, which are less developed for high‑tech hardware in India; Indian buyers also tend to prioritize cost over rapid domestic sourcing, which could limit adoption.
+- Badge guess: orange
+
+## Tab
+- Source article: [Another personal AI assistant has launched — Meet Tab, which emerged from stealth with a $300M valuation](https://techcrunch.com/2026/10/07/another-personal-ai-assistant-has-launched-meet-tab-which-emerged-from-stealth-with-a-300m-valuation/) (TechCrunch)
+- Category: personal-ai
+- What it does: Tab is a conversational AI assistant that helps users manage tasks, schedule events, answer queries, and interact with apps via natural language.
+- Likely revenue model: Tab likely monetizes through a subscription tier for premium features and possibly enterprise licensing for business integrations.
+- India equivalent: Niki.ai
+- India fit note: The model relies on widespread smartphone usage, high-speed internet, and deep integration with Western SaaS tools, which are less uniformly available in India, potentially limiting adoption outside urban centers.
+- Badge guess: orange
+
+## Bigwords.page
+- Source article: [Show HN: Bigwords.page – Turn any screen into a sign. The URL is the app](https://bigwords.page/) (Hacker News (front page))
+- Category: digital-signage
+- What it does: Bigwords.page lets users create a full‑screen page that displays custom large text simply by encoding the message in the URL, turning any internet‑connected screen into a sign.
+- Likely revenue model: Provides a free basic tier and charges a subscription or per‑sign fee for custom branding, analytics, and API access.
+- India equivalent: none found
+- India fit note: The service depends on reliable internet and the habit of repurposing spare screens for signage, which exists in Indian offices but is not yet a widespread practice; adoption may be limited by lower awareness and preference for physical signs or messaging apps.
+- Badge guess: black
+
+## ascii.rest
+- Source article: [Animated ASCII Art for Web Pages](https://ascii.rest/) (Hacker News (front page))
+- Category: creative-tech
+- What it does: Provides an embeddable service that renders animated ASCII art directly on web pages via a simple script or API.
+- Likely revenue model: Offers a freemium tier with usage limits and charges a subscription or pay‑per‑request fee for higher traffic and premium features.
+- India equivalent: none found
+- India fit note: The concept relies on niche internet culture and low‑bandwidth visual appeal, which may have limited demand in India where mainstream visual content dominates; however, the low data usage could appeal to bandwidth‑constrained users if marketed well.
+- Badge guess: black
+
+## WikiMuseum
+- Source article: [Show HN: A walkable 3D art history museum built from Wikipedia](https://artmuseum.artfrompixels.com/) (Hacker News (front page))
+- Category: cultural-tech
+- What it does: Creates a walkable 3D museum that visualizes art history using content sourced from Wikipedia, letting users explore artworks in a virtual space.
+- Likely revenue model: Offers a free core experience with premium features or licensing deals for educational institutions and museums.
+- India equivalent: none found
+- India fit note: The product relies on high‑speed broadband and capable browsers or VR hardware for smooth 3D navigation, which are less common in many Indian regions, limiting immediate mass adoption.
+- Badge guess: black
+
+## Telegraphese AI
+- Source article: [Write Like It's 1866: LLMs Relearn Telegraphese](https://fiveminutesforward.com/post/2026-10-04-telegraph-test/) (Hacker News (front page))
+- Category: ai-writing
+- What it does: Uses large language models to generate text in the concise, clipped style of 19th‑century telegraph messages. Users can input prompts and receive vintage‑style copy for novelty, marketing or creative projects.
+- Likely revenue model: Subscription‑based SaaS with tiered plans for individual writers and enterprise API access.
+- India equivalent: none found
+- India fit note: The service relies on high‑speed internet and a niche fascination with historical writing styles, which may have limited appeal in India where short‑form content is dominated by memes and regional languages rather than Victorian telegraphese.
+- Badge guess: black
+
+## Mistral AI
+- Source article: [Mistral says "Le Chonk" can challenge the best AI models](https://arstechnica.com/ai/2026/10/mistral-says-le-chonk-can-challenge-the-best-ai-models/) (Ars Technica)
+- Category: ai-model
+- What it does: Mistral released Le Chonk, an open‑weight large language model that claims to match the performance of top closed‑source AI models. It is offered for developers to run and fine‑tune themselves.
+- Likely revenue model: Monetisation likely comes from API access fees, enterprise licensing, and paid support or custom‑model services.
+- India equivalent: none found
+- India fit note: Success depends on access to high‑end GPU compute and a developer ecosystem comfortable with self‑hosting large models, which are still limited in India despite growing cloud services.
+- Badge guess: black
+
+## Atoco
+- Source article: [A Startup Has a Plan to Make Water From Air Using Data Centers’ Waste Heat](https://www.wired.com/story/startup-atoco-makes-water-from-air-using-data-centers/) (Wired)
+- Category: water-tech
+- What it does: Atoco builds machines that capture moisture from very dry air using the waste heat generated by data centers, producing potable water without additional electricity.
+- Likely revenue model: They likely sell or lease the water‑generation units to data‑center operators, municipalities or enterprises and charge a service/maintenance fee or per‑cubic‑meter water fee.
+- India equivalent: Atmospheric Water Solutions
+- India fit note: The model depends on abundant waste heat from large data centers and a willingness of operators to integrate water‑generation hardware; while India has a growing data‑center ecosystem, many facilities lack the scale or reliability of waste‑heat streams needed, and water‑distribution regulations could add friction.
+- Badge guess: orange
+
+## Breach Prevention
+- Source article: [From Ballet To Breach Prevention: How A Magician’s Son Raised $4.2M In Seed Funding For His Cybersecurity Startup](https://news.crunchbase.com/cybersecurity/from-ballet-to-breach-prevention-ai-startup-hilt-cielen/) (Crunchbase News)
+- Category: cybersecurity
+- What it does: Develops software that monitors, detects, and blocks potential data breaches for enterprise customers. The platform combines automated threat hunting with real‑time response tools.
+- Likely revenue model: Enterprise SaaS subscription with tiered pricing based on number of users and data volume.
+- India equivalent: Lucideus
+- India fit note: The solution relies on mature security budgets and a culture of proactive breach monitoring that is common in large Indian enterprises, but adoption may be slower among SMEs due to limited awareness and budget constraints.
+- Badge guess: orange
+
+## Ionage
+- Source article: [Energy management platform Ionage raises $1.3 Mn in pre Series A round](https://entrackr.com/snippets/energy-management-platform-ionage-raises-13-mn-in-pre-series-a-round-12633801) (Entrackr)
+- Category: ev-charging
+- What it does: Ionage provides an AI‑enabled operating system that connects EV charge point operators, manufacturers, real‑estate owners and drivers, enabling discovery, access and payment across multiple charging networks. It also offers tools for load balancing, energy trading and CPO management.
+- Likely revenue model: The startup likely earns revenue through transaction fees on each charging session, SaaS subscriptions for CPOs and API/SDK usage fees.
+- India equivalent: ChargeGrid
+- India fit note: Success depends on widespread adoption of interoperable payment methods and roaming agreements, which are still fragmented in many Indian cities, especially Tier‑2 and Tier‑3 areas. Additionally, reliable grid capacity for load‑balancing AI may be limited in regions with weak power infrastructure.
+- Badge guess: orange
+
+## UPZY
+- Source article: [Majority of food delivery, quick commerce riders seek clean restrooms, eating spaces: Report](https://economictimes.indiatimes.com/tech/technology/majority-of-food-delivery-quick-commerce-riders-seek-clean-restrooms-eating-spaces-report/articleshow/134764158.cms) (Economic Times Tech)
+- Category: gig-wellness
+- What it does: UPZY provides a platform that maps and grants gig‑workers access to clean restrooms and designated eating spaces while they are on the road. It partners with venues to list their facilities and lets riders locate and book them via an app.
+- Likely revenue model: The startup likely earns money through B2B subscription fees from venue partners and a per‑use commission or subscription fee from riders for premium access.
+- India equivalent: Toilet First
+- India fit note: India’s gig‑worker ecosystem faces similar restroom scarcity, but public toilet infrastructure is uneven and cultural attitudes toward shared facilities can limit adoption; success would depend on strong venue partnerships and rider willingness to pay for guaranteed clean spaces.
+- Badge guess: orange
+
+## Originality.AI
+- Source article: [What happens when AI learns from info increasingly shaped by AI itself?](https://www.business-standard.com/technology/artificial-intelligence/what-happens-when-ai-learns-from-info-increasingly-shaped-by-ai-itself-126100700708_1.html) (Business Standard Tech)
+- Category: ai-detection
+- What it does: Originality.AI scans text to identify whether it was generated by AI and flags content that has been repeatedly rewritten by machine models, preserving source authenticity.
+- Likely revenue model: It sells a subscription‑based SaaS plan to publishers, enterprises, and educational institutions for bulk content checks.
+- India equivalent: none found
+- India fit note: The service depends on high internet penetration and a market that values content provenance; while India has a large digital audience, awareness of AI‑generated content risks is still low, which could slow adoption.
+- Badge guess: black
+

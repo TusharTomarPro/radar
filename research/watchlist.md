@@ -1556,3 +1556,17 @@
 | Desible.ai | ai-agent | orange | 2026-10-07 | Haptik |
 | byteXL | edtech | orange | 2026-10-07 | Skill-Lync |
 | Zomint | wealth-tech | orange | 2026-10-07 | Scripbox |
+| Greenairy | air-purification | black | 2026-10-07 | none found |
+| Healthleap | health-tech | orange | 2026-10-07 | Qure.ai |
+| Bloom | manufacturing-marketplace | orange | 2026-10-07 | IndiaMART |
+| Tab | personal-ai | orange | 2026-10-07 | Niki.ai |
+| Bigwords.page | digital-signage | black | 2026-10-07 | none found |
+| ascii.rest | creative-tech | black | 2026-10-07 | none found |
+| WikiMuseum | cultural-tech | black | 2026-10-07 | none found |
+| Telegraphese AI | ai-writing | black | 2026-10-07 | none found |
+| Mistral AI | ai-model | black | 2026-10-07 | none found |
+| Atoco | water-tech | orange | 2026-10-07 | Atmospheric Water Solutions |
+| Breach Prevention | cybersecurity | orange | 2026-10-07 | Lucideus |
+| Ionage | ev-charging | orange | 2026-10-07 | ChargeGrid |
+| UPZY | gig-wellness | orange | 2026-10-07 | Toilet First |
+| Originality.AI | ai-detection | black | 2026-10-07 | none found |
