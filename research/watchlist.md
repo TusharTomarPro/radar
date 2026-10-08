@@ -1620,3 +1620,12 @@
 | TailBlaze Longevity | pet-food | orange | 2026-10-08 | Right4Paws |
 | Groww | stock-broking | orange | 2026-10-08 | Zerodha |
 | Eloelo | ai-video | orange | 2026-10-08 | InVideo |
+| Commissary Club | reentry-tech | black | 2026-10-08 | none found |
+| Goodfire | ai-monitoring | black | 2026-10-08 | none found |
+| Cal AI | ai-agent | orange | 2026-10-08 | Haptik |
+| Recruitr.ai | recruitment-tech | black | 2026-10-08 | none found |
+| Whistle | speech-to-text | orange | 2026-10-08 | Vernacular.ai |
+| Interop Rank | dev-tools | black | 2026-10-08 | none found |
+| Stylophone | musical-instrument | black | 2026-10-08 | none found |
+| Vesta | mortgage-tech | black | 2026-10-08 | none found |
+| Gudea | media-analytics | black | 2026-10-08 | none found |

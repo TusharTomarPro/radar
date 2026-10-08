@@ -448,3 +448,84 @@
 - India fit note: The model relies on widespread high‑speed internet and a growing demand for short‑form video content, both of which are already strong in India, so adoption barriers are low.
 - Badge guess: orange
 
+## Commissary Club
+- Source article: [A startup founder who served time in prison is looking to court an untapped market: ex-cons](https://techcrunch.com/2026/10/08/a-startup-founder-who-served-time-in-prison-is-looking-to-court-an-untapped-market-ex-cons/) (TechCrunch)
+- Category: reentry-tech
+- What it does: An AI‑powered platform that helps people exiting prison locate jobs, housing, community support and even dating opportunities.
+- Likely revenue model: Charges a subscription or service fee to users and takes referral commissions from employers, landlords and partner service providers.
+- India equivalent: none found
+- India fit note: Success depends on digital literacy among ex‑offenders and a network of employers willing to hire them, both of which are limited in India; plus the stigma and lack of a unified ex‑convict data ecosystem could hinder adoption.
+- Badge guess: black
+
+## Goodfire
+- Source article: [Goodfire says its new ‘inside-out’ monitors catch rogue AI agents at a fraction of the cost](https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost/) (TechCrunch)
+- Category: ai-monitoring
+- What it does: Goodfire provides inside‑out monitors that observe AI agents’ internal states in real time and trigger alerts or backup checks when anomalous behavior is detected.
+- Likely revenue model: Subscription SaaS licensing to enterprises that deploy AI agents, likely tiered by number of monitored agents or usage volume.
+- India equivalent: none found
+- India fit note: The approach requires deep integration with proprietary model internals and assumes widespread deployment of autonomous AI agents, which are still limited in India’s enterprise ecosystem and may face data‑privacy and infrastructure hurdles.
+- Badge guess: black
+
+## Cal AI
+- Source article: [Cal AI’s 19-year-old founder just raised $10M for his new AI startup](https://techcrunch.com/2026/10/08/cal-ais-19-year-old-founder-just-raised-10m-for-his-new-ai-startup/) (TechCrunch)
+- Category: ai-agent
+- What it does: Offers a personal AI agent that assists users with daily tasks, recommendations, and information, competing with Instinct, Muse, and Bee.
+- Likely revenue model: Subscription‑based SaaS model charging users a monthly fee for premium AI assistant features.
+- India equivalent: Haptik
+- India fit note: The model relies on widespread smartphone adoption and high‑speed data, which exist in India, but consumer willingness to pay for a personal AI assistant and data‑privacy concerns may limit rapid uptake.
+- Badge guess: orange
+
+## Recruitr.ai
+- Source article: [The Deeply Impersonal Personalized Recruiter Mail](https://blog.pentlander.com/the-deeply-impersonal-personalized-recruiter-mail/) (Hacker News (front page))
+- Category: recruitment-tech
+- What it does: Uses generative AI to craft large‑scale, seemingly personalized recruiter outreach emails that adapt to each candidate’s profile.
+- Likely revenue model: Subscription SaaS pricing per recruiter seat or per thousand emails sent.
+- India equivalent: none found
+- India fit note: The model relies on high‑quality, structured professional data (LinkedIn, GitHub) and a culture of cold email outreach, which are less uniformly available or accepted in many Indian hiring contexts.
+- Badge guess: black
+
+## Whistle
+- Source article: [Whistle: Speech to Text in 16.9 MB](https://cactuscompute.com/blog/whistle) (Hacker News (front page))
+- Category: speech-to-text
+- What it does: Whistle provides an ultra‑compact speech‑to‑text model (≈16.9 MB) that can run locally on edge devices, converting spoken audio into written text without needing cloud services.
+- Likely revenue model: Charges developers or enterprises a subscription or usage‑based fee for API access or on‑premise licensing of the model.
+- India equivalent: Vernacular.ai
+- India fit note: India has strong demand for low‑latency, offline voice solutions due to intermittent connectivity and data‑cost concerns, but widespread adoption may require smartphones with sufficient processing power and user familiarity with voice‑first interfaces.
+- Badge guess: orange
+
+## Interop Rank
+- Source article: [2027 Web Platform Feature Ranking](https://interop-rank.fxdx.dev/) (Hacker News (front page))
+- Category: dev-tools
+- What it does: Provides a ranking of web platform features based on browser support, usage statistics, and interoperability across browsers.
+- Likely revenue model: Offers a free public interface and charges for premium API access, data licensing, or enterprise dashboards.
+- India equivalent: none found
+- India fit note: The service relies on global browser telemetry and developer adoption, which exist in India, but monetisation via paid API may be limited by lower willingness to pay for niche developer data.
+- Badge guess: black
+
+## Stylophone
+- Source article: [The new Stylophone Mini packs in iconic sounds and comes in three nifty colors](https://www.engadget.com/2279055/the-new-stylophone-mini-packs-in-iconic-sounds-and-comes-in-three-nifty-colors/) (Engadget)
+- Category: musical-instrument
+- What it does: The Stylophone Mini is a pocket-sized electronic keyboard that lets users play iconic synth sounds using a stylus. It comes in three colors and targets casual musicians and novelty‑seeking consumers.
+- Likely revenue model: Revenue is generated primarily through one‑off sales of the hardware device via online stores and retail partners.
+- India equivalent: none found
+- India fit note: The product relies on a niche retro‑gadget culture and discretionary spending on novelty music gear, which is limited in many Indian markets; distribution channels for such small‑batch electronics are also less developed.
+- Badge guess: black
+
+## Vesta
+- Source article: [Vesta raises $30M to bring swarms of agents to mortgage lenders](https://techcrunch.com/2026/10/08/vesta-raises-30m-as-lenders-adopt-ai-agents/) (TechCrunch Startups)
+- Category: mortgage-tech
+- What it does: Vesta provides AI‑driven software agents that automate and streamline the mortgage origination process for lenders, handling tasks from data collection to underwriting.
+- Likely revenue model: Charges lenders a subscription fee or per‑mortgage transaction fee for access to its AI platform.
+- India equivalent: none found
+- India fit note: India's mortgage market is still heavily paper‑based and faces stricter regulatory and documentation requirements, so the AI‑agent model may need significant adaptation and slower adoption.
+- Badge guess: black
+
+## Gudea
+- Source article: [Exclusive: Gudea Lands $7M To Predict Which Online Narratives Will Go Viral](https://news.crunchbase.com/venture/gudea-lands-funding-predict-viral-online-narratives/) (Crunchbase News)
+- Category: media-analytics
+- What it does: Gudea uses AI to forecast which online narratives are likely to go viral and identifies the key influencers driving those narratives. It provides brands and agencies with early warnings and strategic insights to shape their communication tactics.
+- Likely revenue model: Subscription‑based SaaS platform where enterprises pay recurring fees for access to predictive dashboards, alerts, and influencer analytics.
+- India equivalent: none found
+- India fit note: The model relies on large‑scale real‑time data from global social platforms and sophisticated AI that may be limited by data access restrictions and lower adoption of predictive narrative tools among Indian marketers.
+- Badge guess: black
+
