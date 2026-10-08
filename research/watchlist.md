@@ -1570,3 +1570,5 @@
 | Ionage | ev-charging | orange | 2026-10-07 | ChargeGrid |
 | UPZY | gig-wellness | orange | 2026-10-07 | Toilet First |
 | Originality.AI | ai-detection | black | 2026-10-07 | none found |
+| Mecka AI | robotics-data | black | 2026-10-08 | none found |
+| Armature | ai-agent | black | 2026-10-08 | none found |
