@@ -1572,3 +1572,51 @@
 | Originality.AI | ai-detection | black | 2026-10-07 | none found |
 | Mecka AI | robotics-data | black | 2026-10-08 | none found |
 | Armature | ai-agent | black | 2026-10-08 | none found |
+| tunnl.gg | dev-tools | black | 2026-10-08 | none found |
+| Leanback | ai-assistant | black | 2026-10-08 | none found |
+| Moonwalkers | personal-mobility | black | 2026-10-08 | none found |
+| Hallmonitor | developer-tools | black | 2026-10-08 | none found |
+| Termaxa | ai-safety | black | 2026-10-08 | none found |
+| Drunken Penguins | social-gaming | black | 2026-10-08 | none found |
+| Semwright | ai-agent | black | 2026-10-08 | none found |
+| pmtui | ai-agent | black | 2026-10-08 | none found |
+| Typeling | translation-keyboard | black | 2026-10-08 | none found |
+| Aegis | safety-app | orange | 2026-10-08 | Safetipin |
+| Revela | photo-app | black | 2026-10-08 | none found |
+| Simo | ai-guardrails | black | 2026-10-08 | none found |
+| Clippo | ai-agent | black | 2026-10-08 | none found |
+| Griffin | ai-avatar | black | 2026-10-08 | none found |
+| NOVA CLI | ai-devtools | black | 2026-10-08 | none found |
+| ChickyTutor | edtech | black | 2026-10-08 | none found |
+| Markdoc | markdown-editor | orange | 2026-10-08 | Docsify |
+| Isle Notch | desktop-ui | black | 2026-10-08 | none found |
+| Cekura | voice-ai | orange | 2026-10-08 | Vernacular.ai |
+| offstage | ai-agent | black | 2026-10-08 | none found |
+| SineFrame | dev-tools | black | 2026-10-08 | none found |
+| Chime | privacy-tech | orange | 2026-10-08 | Truecaller |
+| ProcBoss | devops | black | 2026-10-08 | none found |
+| Simple Workout Log | fitness-app | orange | 2026-10-08 | Fittr |
+| Tide | video-conferencing | black | 2026-10-08 | none found |
+| Off the Record | privacy-tech | black | 2026-10-08 | none found |
+| Judged | support-api | black | 2026-10-08 | none found |
+| ClawCall | ai-agent | orange | 2026-10-08 | Exotel |
+| KloudMate | observability | black | 2026-10-08 | none found |
+| Side | ai-assistant | black | 2026-10-08 | none found |
+| Strac Comply | regtech | black | 2026-10-08 | none found |
+| Ahem | productivity | black | 2026-10-08 | none found |
+| OpenSwarm | ai-agent | black | 2026-10-08 | none found |
+| BotBus | ai-agent | black | 2026-10-08 | none found |
+| Liquid Inference | ai-marketplace | black | 2026-10-08 | none found |
+| OpenSEO | seo-tools | orange | 2026-10-08 | RankWatch |
+| Udon | ai-ops | black | 2026-10-08 | none found |
+| Tonefold | ai-music | black | 2026-10-08 | none found |
+| Tractionwave | ad-tech | black | 2026-10-08 | none found |
+| Paw-Paw | desktop-pet | black | 2026-10-08 | none found |
+| Dat Ecosystem | decentralized-data | black | 2026-10-08 | none found |
+| Demoscene Recomp | web-assembly | black | 2026-10-08 | none found |
+| ts-rust | dev-tools | black | 2026-10-08 | none found |
+| As We Become Cameras | crowd-sourced video | black | 2026-10-08 | none found |
+| Palestinian Driver Safety Telegram | community-mapping | black | 2026-10-08 | none found |
+| TailBlaze Longevity | pet-food | orange | 2026-10-08 | Right4Paws |
+| Groww | stock-broking | orange | 2026-10-08 | Zerodha |
+| Eloelo | ai-video | orange | 2026-10-08 | InVideo |
