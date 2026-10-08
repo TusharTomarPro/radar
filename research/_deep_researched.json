@@ -4176,5 +4176,113 @@
     "india_cost_estimate": "\u20b912\u201120\u202flakh for 6\u201112\u202fmonths (covers product design, prototype tooling, a first batch of 2\u20113\u202fk units, a 2\u2011person core team, basic cloud services and minimal marketing).",
     "risk_score": 6,
     "risk_reasoning": "The market shows no clear competitors, which could be an advantage, but the structural nature of the niche limits growth potential. Capital needs are moderate, and there are no major regulatory hurdles, yet hardware execution and scaling inventory pose execution risk, leading to a mid\u2011range risk score."
+  },
+  "idscan::2026-09-10": {
+    "company": "IDScan",
+    "category": "identity-security",
+    "revised_badge": "orange",
+    "competitor_status": "surviving",
+    "regulatory_flag": "moderate \u2013 biometric/KYC services in India are subject to the Aadhaar (UIDAI) regulations and the pending Personal Data Protection Bill, which impose data\u2011localisation and consent requirements.",
+    "capital_intensity": "low \u2013 the model is primarily SaaS/API\u2011based, requiring modest cloud spend and a small engineering team, so it can be bootstrapped to profitability.",
+    "known_numbers": "Revenue: $277.4\u202fM in 2026 (IDscan Biometrics Ltd). Employees: 5\u20118 people (2026). No public valuation, funding round, or user\u2011count disclosed.",
+    "india_cost_estimate": "\u20b940\u201170\u202flakh for the first 6\u201112\u202fmonths (\u2248\u202f\u20b95\u201110\u202flakh for cloud/API usage + \u20b935\u201160\u202flakh for a lean team of 2\u20113 engineers and a product manager, assuming no paid marketing).",
+    "risk_score": 4,
+    "risk_reasoning": "An existing competitor (Karza) is still active, indicating a non\u2011empty market but also competitive pressure. Regulatory exposure is moderate due to biometric and data\u2011privacy rules, yet the SaaS nature keeps capital needs low, making the overall risk moderate rather than high."
+  },
+  "google-gemini::2026-09-10": {
+    "company": "Google Gemini",
+    "category": "ai-assistant",
+    "revised_badge": "orange",
+    "competitor_status": "surviving",
+    "regulatory_flag": "moderate \u2013 India\u2019s Personal Data Protection Bill (PDPB) mandates that \u201ccritical personal data\u201d be stored and processed within the country, and the upcoming AI Governance Framework may impose model\u2011audit and transparency obligations.",
+    "capital_intensity": "high \u2013 Building or licensing a large\u2011language model, securing India\u2011based compute (GPU/TPU), hiring specialized ML talent, and meeting data\u2011localisation compliance all require substantial upfront cash burn before any unit\u2011economic breakeven.",
+    "known_numbers": "Mid\u20112026 Google reported >950\u202fmillion monthly active users for the Gemini app, >2.5\u202fbillion monthly users for AI Overviews, and >8\u202fmillion paid Gemini Enterprise seats across 2,800+ companies. Vertex AI pricing cited $0.10 per 1\u202fM tokens for Gemini API usage.",
+    "india_cost_estimate": "\u20b94\u20116\u202fcrore (\u2248\u202f$480\u2011720\u202fk) for a 6\u201112\u202fmonth pilot: \u2022 Cloud compute (GPU/TPU)\u202f\u2248\u202f\u20b91.5\u20112\u202fcrore; \u2022 Core team (4\u20115 senior ML engineers, product & ops)\u202f\u2248\u202f\u20b91.5\u20112\u202fcrore; \u2022 Data acquisition, annotation, and compliance tooling\u202f\u2248\u202f\u20b90.5\u20111\u202fcrore; \u2022 Miscellaneous (legal, office, modest marketing)\u202f\u2248\u202f\u20b90.5\u202fcrore.",
+    "risk_score": 7,
+    "risk_reasoning": "The market already hosts strong global alternatives (ChatGPT, Claude, Copilot, etc.), making differentiation hard (orange badge). Indian data\u2011localisation rules add moderate regulatory friction, and the venture demands high compute and talent spend, driving a high capital intensity. Combined, these factors raise the overall risk to a 7/10."
+  },
+  "acoustic-fire-extinguisher::2026-09-11": {
+    "company": "Acoustic Fire Extinguisher",
+    "category": "fire-safety",
+    "revised_badge": "orange",
+    "competitor_status": "surviving",
+    "regulatory_flag": "moderate \u2013 fire\u2011safety hardware must obtain BIS certification (e.g., IS\u202f1640) and comply with the Indian Fire Services Act and state fire\u2011code approvals, adding a licensing hurdle but not a prohibitive barrier",
+    "capital_intensity": "medium \u2013 the product is hardware\u2011centric (R&D, tooling, small\u2011batch manufacturing, certification) but can be launched with a lean team and limited inventory before scaling",
+    "known_numbers": "no public numbers found",
+    "india_cost_estimate": "\u20b930\u201150\u202flakh for the first 6\u201112\u202fmonths (prototype tooling, small\u2011batch production, BIS testing, 2\u20113 engineers, basic office & cloud costs, no paid marketing)",
+    "risk_score": 5,
+    "risk_reasoning": "The market already has established local players (Aska Equipments, Kanex, Ceasefire Industries), creating competitive pressure. Regulatory compliance is moderate but manageable with BIS certification. Capital needs are medium, allowing a bootstrapped entry, but hardware development and certification timelines add execution risk, placing the overall risk at a mid\u2011range level."
+  },
+  "yue2::2026-09-11": {
+    "company": "YuE2",
+    "category": "ai-music",
+    "revised_badge": "black",
+    "competitor_status": "no-real-competitor-found",
+    "regulatory_flag": "moderate \u2013 Indian Copyright Act (Section 13) and the upcoming AI policy impose licensing and IP compliance for generated music, creating a moderate compliance burden.",
+    "capital_intensity": "low \u2013 the product can be built on top of existing generative\u2011AI APIs and requires only cloud compute and a small software team, not heavy asset investment.",
+    "known_numbers": "no public numbers found",
+    "india_cost_estimate": "\u20b935\u201150\u202flakh for a 6\u201112\u202fmonth MVP and initial operations (cloud/API usage \u20b95\u201110\u202flakh, 4\u20115 core staff salaries \u20b930\u201140\u202flakh, minimal marketing).",
+    "risk_score": 3,
+    "risk_reasoning": "With no direct competitor identified, the opportunity is relatively open. Moderate regulatory risk around music copyright and AI usage adds some caution, but the low capital intensity keeps the financial barrier modest, resulting in a low\u2011to\u2011moderate overall risk."
+  },
+  "runway::2026-09-11": {
+    "company": "Runway",
+    "category": "ai-production",
+    "revised_badge": "black",
+    "competitor_status": "no-real-competitor-found",
+    "regulatory_flag": "none",
+    "capital_intensity": "low",
+    "known_numbers": "Feb\u202f2026: Runway closed a $315\u202fM Series\u202fE round at a $5.3\u202fB post\u2011money valuation. No public revenue or MAU figures were disclosed.",
+    "india_cost_estimate": "\u20b940\u201170\u202flakh for 6\u201112\u202fmonths (cloud GPU compute for generative video, a core team of 3\u20114 engineers/product, minimal marketing).",
+    "risk_score": 3,
+    "risk_reasoning": "Runway faces virtually no direct Indian competitor in AI\u2011video generation, and the business model is software\u2011only with low regulatory exposure. The main risk is the high compute cost needed to run generative models, but a modest MVP can be built within a few hundred thousand rupees, keeping overall risk low."
+  },
+  "tim-pg::2026-09-11": {
+    "company": "TIM PG",
+    "category": "privacy-tech",
+    "revised_badge": "black",
+    "competitor_status": "no-real-competitor-found",
+    "regulatory_flag": "moderate",
+    "capital_intensity": "low",
+    "known_numbers": "no public numbers found",
+    "india_cost_estimate": "\u20b98-15 lakh for an MVP with a small team (2-4 engineers) and basic cloud/infrastructure costs over 6-12 months",
+    "risk_score": 3,
+    "risk_reasoning": "No direct competitors were found, suggesting a potential opening, but India's privacy regulatory environment (DPDPA 2023) imposes moderate compliance costs. The business model is asset\u2011light, keeping capital needs low, which together keep overall risk relatively low."
+  },
+  "anysite::2026-09-11": {
+    "company": "Anysite",
+    "category": "lead-gen",
+    "revised_badge": "orange",
+    "competitor_status": "surviving",
+    "regulatory_flag": "none",
+    "capital_intensity": "low",
+    "known_numbers": "no public numbers found",
+    "india_cost_estimate": "\u20b930\u201150\u202flakh for 6\u201112\u202fmonths (cloud & API fees, 2\u20113 engineers, 1 product manager, basic sales/marketing ops, no paid acquisition)",
+    "risk_score": 5,
+    "risk_reasoning": "LeadSquared is an active, well\u2011funded Indian lead\u2011gen platform, so competition is real (orange badge). The business model is largely software\u2011only, facing minimal regulatory hurdles in India, and requires modest capital to launch an MVP. While the market is competitive, the low capital intensity and regulatory exposure keep overall risk at a moderate level."
+  },
+  "spaces::2026-09-11": {
+    "company": "Spaces",
+    "category": "ai-collaboration",
+    "revised_badge": "black",
+    "competitor_status": "no-real-competitor-found",
+    "regulatory_flag": "moderate \u2013 Indian data\u2011localisation rules under the Personal Data Protection Bill (still pending) and Section\u202f43A of the IT Act impose reasonable security and storage requirements for user data, but they do not block a SaaS AI product.",
+    "capital_intensity": "low \u2013 the model is asset\u2011light SaaS, requiring cloud compute, API usage and a small engineering team; profitability can be reached without heavy upfront capital.",
+    "known_numbers": "no public numbers found",
+    "india_cost_estimate": "\u20b91.5\u20113\u202fcrore for the first 6\u201112\u202fmonths (cloud & AI\u2011API spend \u20b910\u201120\u202flakh, salaries for 2\u20114 engineers & product staff \u20b91.2\u20112.5\u202fcrore, minimal marketing).",
+    "risk_score": 3,
+    "risk_reasoning": "With no direct Indian AI\u2011collaboration competitor identified, market entry faces low competitive pressure. Regulatory exposure is only moderate due to data\u2011localisation expectations, and the capital\u2011intensive requirements are low, making the venture relatively low\u2011risk but still dependent on rapid AI adoption in Indian enterprises."
+  },
+  "cadenya::2026-09-11": {
+    "company": "Cadenya",
+    "category": "ai-agent",
+    "revised_badge": "black",
+    "competitor_status": "no-real-competitor-found",
+    "regulatory_flag": "moderate \u2013 India\u2019s Personal Data Protection Bill (and related data\u2011localisation rules) may require storing user data on Indian servers and obtaining consent for AI\u2011driven profiling.",
+    "capital_intensity": "medium \u2013 the model is asset\u2011light software, but heavy reliance on cloud compute/API calls (e.g., large\u2011language\u2011model usage) drives noticeable monthly burn.",
+    "known_numbers": "no public numbers found",
+    "india_cost_estimate": "\u20b920\u201130\u202flakh for a 6\u201112\u202fmonth pilot (\u2248\u20b98\u201112\u202flakh for cloud/API compute, \u20b912\u201118\u202flakh for a small team of 2\u20113 engineers and product staff, no paid marketing).",
+    "risk_score": 6,
+    "risk_reasoning": "The lack of identified competitors suggests a first\u2011mover advantage but also uncertainty about market demand. Moderate regulatory exposure around data protection adds compliance cost, while medium capital intensity means the venture needs modest but sustained funding for compute and talent. Combined, these factors place the overall risk at a mid\u2011range level."
   }
 }
