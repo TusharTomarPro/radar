@@ -1635,3 +1635,33 @@
 | SVG Spark | design-tool | orange | 2026-10-09 | Designhill |
 | Spinal | ai-devtools | black | 2026-10-09 | none found |
 | Neon T-Shirt | wearable-tech | black | 2026-10-09 | none found |
+| Zernio | martech | orange | 2026-10-09 | LeadSquared |
+| Opposable | ai-automation | orange | 2026-10-09 | Automate.io |
+| OpenVids | ai-video | orange | 2026-10-09 | InVideo |
+| BrightBean Studio | social-media | orange | 2026-10-09 | Social Champ |
+| Busabase | ai-agent | black | 2026-10-09 | none found |
+| Together AI | ai-platform | black | 2026-10-09 | none found |
+| Odyssey 3 | simulation | black | 2026-10-09 | none found |
+| Staffcoder | dev-tools | orange | 2026-10-09 | Scaler |
+| HeyPi | dev-tools | black | 2026-10-09 | none found |
+| De Stash | mac-utility | black | 2026-10-09 | none found |
+| Pine Computer | ai-infra | black | 2026-10-09 | none found |
+| OpenCharm | ai-agent | black | 2026-10-09 | none found |
+| Phonable | call-management | orange | 2026-10-09 | Exotel |
+| Comcent | voice-infra | orange | 2026-10-09 | Exotel |
+| Porch | ai-devtools | black | 2026-10-09 | none found |
+| VocaScript | ai-transcription | black | 2026-10-09 | none found |
+| OpenPilot | ai-agent | black | 2026-10-09 | none found |
+| Request Eagle | api-testing | black | 2026-10-09 | none found |
+| iwant | ai-infrastructure | black | 2026-10-09 | none found |
+| Sorted | ai-productivity | black | 2026-10-09 | none found |
+| Trophy | ai-integration | black | 2026-10-09 | none found |
+| Murmur | voice-notetaking | black | 2026-10-09 | none found |
+| AgentSDR | ai-sales | orange | 2026-10-09 | Vymo |
+| Regunow | regtech | black | 2026-10-09 | none found |
+| Melete | ai-assistant | orange | 2026-10-09 | Zoho Zia |
+| Cakie | ai-agent | black | 2026-10-09 | none found |
+| Thravik | desktop-browser | black | 2026-10-09 | none found |
+| Refs | ai-assistant | black | 2026-10-09 | none found |
+| Voicera | speech-to-text | orange | 2026-10-09 | Vernacular.ai |
+| Authkey | conversational-ai | orange | 2026-10-09 | Gupshup |
