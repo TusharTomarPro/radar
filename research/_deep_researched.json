@@ -4284,5 +4284,113 @@
     "india_cost_estimate": "\u20b920\u201130\u202flakh for a 6\u201112\u202fmonth pilot (\u2248\u20b98\u201112\u202flakh for cloud/API compute, \u20b912\u201118\u202flakh for a small team of 2\u20113 engineers and product staff, no paid marketing).",
     "risk_score": 6,
     "risk_reasoning": "The lack of identified competitors suggests a first\u2011mover advantage but also uncertainty about market demand. Moderate regulatory exposure around data protection adds compliance cost, while medium capital intensity means the venture needs modest but sustained funding for compute and talent. Combined, these factors place the overall risk at a mid\u2011range level."
+  },
+  "wisry::2026-09-11": {
+    "company": "Wisry",
+    "category": "ad-tech",
+    "revised_badge": "black",
+    "competitor_status": "no-real-competitor-found",
+    "regulatory_flag": "moderate \u2013 Indian Personal Data Protection Bill (PDPB) / data\u2011localisation rules require storing personal data on Indian servers and obtaining explicit consent for user tracking, which adds compliance overhead for ad\u2011tech platforms.",
+    "capital_intensity": "low \u2013 the model is primarily software\u2011only (DSP/SSP integrations, analytics dashboards) with cloud hosting and a small engineering/ops team, so cash burn is modest.",
+    "known_numbers": "no public numbers found",
+    "india_cost_estimate": "\u20b912\u201120\u202flakh for 6\u201112\u202fmonths (cloud & API usage ~\u20b93\u20115\u202flakh, 3\u20114 senior engineers & product manager ~\u20b97\u201112\u202flakh, basic legal/compliance ~\u20b92\u202flakh).",
+    "risk_score": 5,
+    "risk_reasoning": "The search evidence shows no existing Indian competitor, which is a potential advantage, but moderate regulatory friction around data\u2011protection and consent adds compliance cost. Capital needs are low, keeping financial risk modest, leading to a mid\u2011range risk score."
+  },
+  "chat-recall::2026-09-11": {
+    "company": "Chat Recall",
+    "category": "ai-productivity",
+    "revised_badge": "black",
+    "competitor_status": "no-real-competitor-found",
+    "regulatory_flag": "moderate \u2013 must comply with India\u2019s Personal Data Protection Bill (PDPB) and data\u2011localisation rules for storing user chat logs.",
+    "capital_intensity": "low \u2013 a pure\u2011software SaaS product can be built asset\u2011light and reach profitability with modest cloud and staffing costs.",
+    "known_numbers": "no public numbers found",
+    "india_cost_estimate": "\u20b912\u201120\u202flakh for 6\u201112\u202fmonths (cloud hosting ~\u20b93\u20115\u202flakh, 2\u20113 engineers & product lead ~\u20b98\u201115\u202flakh, minimal marketing).",
+    "risk_score": 3,
+    "risk_reasoning": "With no obvious competitors, the market appears open, but compliance with PDPB adds moderate regulatory overhead. The business is capital\u2011light, reducing financial risk, leading to a relatively low overall risk score."
+  },
+  "loqua::2026-09-11": {
+    "company": "Loqua",
+    "category": "ai-assistant",
+    "revised_badge": "black",
+    "competitor_status": "no-real-competitor-found",
+    "regulatory_flag": "moderate \u2013 must comply with India's Personal Data Protection Bill (expected) and data\u2011localisation provisions under the IT Act, plus any sector\u2011specific rules if the assistant handles finance or health data.",
+    "capital_intensity": "medium \u2013 the model can be built on top of existing LLM APIs (cloud compute and API usage) rather than training proprietary models, but ongoing compute and talent costs are non\u2011trivial.",
+    "known_numbers": "no public numbers found",
+    "india_cost_estimate": "\u20b915\u201125\u202flakh for a 6\u201112\u202fmonth pilot (cloud/LLM API usage \u20b94\u20118\u202flakh, a core team of 3\u20114 engineers & product lead \u20b98\u201112\u202flakh, minimal marketing).",
+    "risk_score": 4,
+    "risk_reasoning": "The lack of identified competitors suggests a market gap, but moderate regulatory risk around data privacy and localisation adds uncertainty. Capital needs are manageable (medium intensity), keeping the venture feasible for a modestly funded startup. Overall risk is moderate, yielding a score of 4 out of 10."
+  },
+  "cline::2026-09-11": {
+    "company": "Cline",
+    "category": "ai-tools",
+    "revised_badge": "black",
+    "competitor_status": "no-real-competitor-found",
+    "regulatory_flag": "none",
+    "capital_intensity": "low \u2013 Cline is an asset\u2011light VS\u202fCode extension that relies on cloud APIs and open\u2011source code, so it can reach profitability with modest staffing and no heavy infrastructure spend.",
+    "known_numbers": "Cline has raised $37\u202fM total funding; its VS\u202fCode Marketplace installs grew from 1\u202fM (Mar\u202f2025) to >5\u202fM (Jan\u202f2026); GitHub stars \u224858.6\u202fk; free individual tier, Teams plan priced at $20/user/month (first 10 seats free) after Q1\u202f2026. No public revenue or valuation figures were found.",
+    "india_cost_estimate": "\u20b920\u201130\u202flakh for a 6\u201112\u202fmonth pilot \u2013 covering cloud/API usage (~\u20b94\u202flakh), salaries for 2\u20113 engineers & a product manager (~\u20b912\u201120\u202flakh), and minimal overhead.",
+    "risk_score": 3,
+    "risk_reasoning": "The space shows no direct Indian competitor, regulatory exposure is negligible, and the business model is low\u2011capital\u2011intensity, making entry relatively inexpensive. The main risk is the temporal nature of the competitive gap \u2013 larger global players could localize quickly, but the short\u2011term upside appears strong."
+  },
+  "raycast::2026-09-11": {
+    "company": "Raycast",
+    "category": "productivity",
+    "revised_badge": "orange",
+    "competitor_status": "surviving",
+    "regulatory_flag": "none",
+    "capital_intensity": "low \u2013 Raycast is a pure\u2011software SaaS (freemium subscription) with no inventory, logistics or heavy hardware, so it can be built and scaled on modest cloud spend.",
+    "known_numbers": "Revenue ~ $392K (2026), total funding $47.9M (incl. $30M Series\u202fB in 2024), pricing $10\u202fUSD/month for Pro, $12\u202fUSD/user/month for Teams Pro. No explicit ARR or MAU disclosed.",
+    "india_cost_estimate": "\u20b912\u201120\u202flakh for 6\u201112\u202fmonths: ~\u20b96\u201110\u202flakh for a 2\u2011person engineering team (\u20b93\u20115\u202flakh each for 6\u202fmonths), \u20b92\u20113\u202flakh for cloud/API usage (AI model calls, storage, CDN), and \u20b94\u20117\u202flakh for basic ops, legal, and minimal marketing.",
+    "risk_score": 4,
+    "risk_reasoning": "The market already has several active competitors (Keylabs AI, i10X, Trigger, etc.), reducing the upside of a localized version. However, regulatory exposure is minimal for a SaaS productivity tool, and the capital intensity is low, meaning the venture can be tested cheaply. The combination yields a moderate risk level."
+  },
+  "easyspecs-ai::2026-09-11": {
+    "company": "easyspecs.ai",
+    "category": "ai-docs",
+    "revised_badge": "black",
+    "competitor_status": "dead",
+    "regulatory_flag": "none",
+    "capital_intensity": "low",
+    "known_numbers": "no public numbers found; the only traceable easyspecs.ai was an Indian startup founded in 2014 and shut down in 2015 with no disclosed revenue or funding.",
+    "india_cost_estimate": "\u20b912\u201120\u202flakh for a 6\u201112\u202fmonth MVP (cloud compute, API usage, 2\u20113 engineers, basic UI/UX, minimal marketing).",
+    "risk_score": 5,
+    "risk_reasoning": "While there is no active competitor (black badge) and the SaaS model is low\u2011capital, the market for AI\u2011generated documents in India is still nascent and the original easyspecs.ai failed in 2015, indicating execution risk. Regulatory exposure is minimal, but uncertain demand and past failure raise the overall risk to a moderate level."
+  },
+  "sizeless::2026-09-11": {
+    "company": "sizeless",
+    "category": "spatial-ai",
+    "revised_badge": "black",
+    "competitor_status": "no-real-competitor-found",
+    "regulatory_flag": "none",
+    "capital_intensity": "low",
+    "known_numbers": "no public numbers found",
+    "india_cost_estimate": "\u20b93-6 lakh for an MVP + small team",
+    "risk_score": 3,
+    "risk_reasoning": "The search evidence shows sizeless has raised $500K in seed funding but no revealed revenue, user metrics, or direct competitors in India. As an asset-light spatial AI startup, it likely requires minimal regulatory approval or capital intensity in India. The primary risk is market adoption timing and competition from global players entering the Indian AI infrastructure space."
+  },
+  "chathop::2026-09-11": {
+    "company": "ChatHop",
+    "category": "cross-messaging",
+    "revised_badge": "black",
+    "competitor_status": "no-real-competitor-found",
+    "regulatory_flag": "moderate - India's DPDP Act 2023 imposes data localization and consent compliance on messaging platforms processing Indian user data.",
+    "capital_intensity": "low: software-margin, asset-light model; backend and small team suffice for initial India launch.",
+    "known_numbers": "no public numbers found",
+    "india_cost_estimate": "\u20b98-15 lakh for an MVP and 2-4 person team for 6-12 months (cloud/API costs, salaries, no paid marketing).",
+    "risk_score": 6,
+    "risk_reasoning": "The search evidence found no information on ChatHop itself, but revealed that Hike Messenger, a prior Indian cross-messaging startup, shut down its core service by 2021 due to difficulty competing with entrenched international platforms. No public revenue, valuation, or user data for ChatHop was found, indicating the venture is unproven. While the lack of direct competitors suggests a potentially open market, the established dominance of platforms like WhatsApp and Telegram, combined with regulatory requirements under India's DPDP Act 2023, presents significant entry barriers. The low capital intensity model mitigates financial risk, but commercial viability hinges on user migration behavior."
+  },
+  "sliick::2026-09-11": {
+    "company": "Sliick",
+    "category": "design-tools",
+    "revised_badge": "black",
+    "competitor_status": "no-real-competitor-found",
+    "regulatory_flag": "none",
+    "capital_intensity": "low \u2013 a SaaS design\u2011tool is asset\u2011light and can be built by a small engineering team with modest cloud spend, allowing profitability without heavy cash burn.",
+    "known_numbers": "no public numbers found",
+    "india_cost_estimate": "\u20b910\u201115\u202flakh for 6\u201112\u202fmonths (covers cloud/API usage, 2\u20114 engineers, basic UI/UX design, and minimal overhead; no paid marketing or large infrastructure).",
+    "risk_score": 7,
+    "risk_reasoning": "The evidence shows Sliick itself failed in India (lack of product\u2011market fit), indicating a tough market despite no direct competitor. Regulatory risk is negligible, but the historical failure and uncertainty about demand raise the risk, while the low capital intensity keeps the downside modest."
   }
 }
