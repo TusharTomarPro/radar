@@ -1670,3 +1670,8 @@
 | Ambiguous Workspace | ai-productivity | orange | 2026-10-09 | Zoho |
 | Big Arrow on the Screen | ai-agent | black | 2026-10-09 | none found |
 | once | dev-tools | black | 2026-10-09 | none found |
+| Island | travel-tech | orange | 2026-10-09 | TravelBuddy |
+| Carrier-Explode | telecom-tools | black | 2026-10-09 | none found |
+| ReadRare | digital-library | black | 2026-10-09 | none found |
+| Triple-A Minesweeper | casual-gaming | orange | 2026-10-09 | Nazara Technologies |
+| AI Archive Explorer | ai-archive | black | 2026-10-09 | none found |

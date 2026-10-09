@@ -367,3 +367,48 @@
 - India fit note: The tool relies on widespread CLI usage and stable development environments, which exist in India, but adoption may be limited by the preference for free open‑source utilities rather than paid support models.
 - Badge guess: black
 
+## Island
+- Source article: [No Man Is an Island](https://borretti.me/article/no-man-is-an-island) (Hacker News (front page))
+- Category: travel-tech
+- What it does: Island is a platform that matches solo travelers with local hosts or fellow travelers for shared accommodations, activities, and on‑the‑ground support.
+- Likely revenue model: The company takes a commission on each booking and offers premium subscription tiers for enhanced matching and concierge services.
+- India equivalent: TravelBuddy
+- India fit note: The model relies on a strong culture of solo travel and trust in peer‑to‑peer arrangements, which are still niche in many Indian cities; however, growing internet penetration and digital payments make the service technically feasible.
+- Badge guess: orange
+
+## Carrier-Explode
+- Source article: [Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded](https://carrierexplode.com/) (Hacker News (front page))
+- Category: telecom-tools
+- What it does: Continuously archives carrier settings for major phone brands (iPhone, Pixel, Galaxy) and provides decoders and explanations for common baseband configurations.
+- Likely revenue model: Likely a freemium model offering free basic access with paid API subscriptions or enterprise licensing for deeper data and integration.
+- India equivalent: none found
+- India fit note: The service relies on crowdsourced carrier configuration data and technical enthusiasts, which exist in India, but there is no known local platform offering a comparable, continuously updated archive and decoder.
+- Badge guess: black
+
+## ReadRare
+- Source article: [Show HN: The rarest tech books and docs you've probably never read](https://readrare.com/) (Hacker News (front page))
+- Category: digital-library
+- What it does: ReadRare curates and offers a searchable collection of hard‑to‑find technical books and documentation, letting users discover and access rare tech literature online.
+- Likely revenue model: Likely a subscription or pay‑per‑download model where users pay for access to individual titles or a monthly membership for unlimited reading.
+- India equivalent: none found
+- India fit note: The concept relies on a niche audience of tech professionals willing to pay for obscure content, which may be limited in India where price sensitivity is high and awareness of such rare resources is low; however, internet penetration and digital reading habits are sufficient.
+- Badge guess: black
+
+## Triple-A Minesweeper
+- Source article: [Triple-A Minesweeper](https://minesweeper.mikelacher.com/) (Hacker News (front page))
+- Category: casual-gaming
+- What it does: Provides an online, AI‑enhanced version of the classic Minesweeper puzzle that can auto‑solve boards and offers premium features for enthusiasts.
+- Likely revenue model: Free to play with ad support and a paid premium tier that removes ads and unlocks advanced solving tools.
+- India equivalent: Nazara Technologies
+- India fit note: Minesweeper requires minimal bandwidth and works on low‑end devices, so the core gameplay fits well in India; however, ad‑based monetisation depends on a robust digital ad ecosystem and user willingness to pay for premium features, which can vary across regions.
+- Badge guess: orange
+
+## AI Archive Explorer
+- Source article: [Pointing AI at archives found a forgotten meteorite, lost rhinos, and more](https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/) (Hacker News (front page))
+- Category: ai-archive
+- What it does: Uses large language models to scan and query centuries‑old newspaper and archival collections, surfacing hidden stories such as a forgotten meteorite or lost rhinos.
+- Likely revenue model: Subscription or pay‑per‑search licensing for libraries, museums, media outlets and research institutions.
+- India equivalent: none found
+- India fit note: Success depends on large‑scale digitisation of historical records and a culture of paying for curated research insights, both of which are still emerging in India.
+- Badge guess: black
+
