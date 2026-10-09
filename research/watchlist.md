@@ -1629,3 +1629,9 @@
 | Stylophone | musical-instrument | black | 2026-10-08 | none found |
 | Vesta | mortgage-tech | black | 2026-10-08 | none found |
 | Gudea | media-analytics | black | 2026-10-08 | none found |
+| Theranos Desk Explorer | legal-tech | orange | 2026-10-09 | Indian Kanoon |
+| Rek | combat-robot | black | 2026-10-09 | none found |
+| Edi Life OS | life-dashboard | black | 2026-10-09 | none found |
+| SVG Spark | design-tool | orange | 2026-10-09 | Designhill |
+| Spinal | ai-devtools | black | 2026-10-09 | none found |
+| Neon T-Shirt | wearable-tech | black | 2026-10-09 | none found |
