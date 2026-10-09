@@ -1665,3 +1665,8 @@
 | Refs | ai-assistant | black | 2026-10-09 | none found |
 | Voicera | speech-to-text | orange | 2026-10-09 | Vernacular.ai |
 | Authkey | conversational-ai | orange | 2026-10-09 | Gupshup |
+| LumenUs | legal-tech | orange | 2026-10-09 | LegalWiz |
+| Orkut (revival) | social-media | orange | 2026-10-09 | ShareChat |
+| Ambiguous Workspace | ai-productivity | orange | 2026-10-09 | Zoho |
+| Big Arrow on the Screen | ai-agent | black | 2026-10-09 | none found |
+| once | dev-tools | black | 2026-10-09 | none found |

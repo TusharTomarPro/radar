@@ -322,3 +322,48 @@
 - India fit note: India already has massive WhatsApp and SMS usage, but RCS adoption is still low and AI‑driven chatbots require robust data‑privacy compliance and reliable internet connectivity, which may limit full rollout in tier‑2/3 markets.
 - Badge guess: orange
 
+## LumenUs
+- Source article: [LumenUs helps automate tedious paperwork in times of grief](https://techcrunch.com/2026/10/09/lumenus-helps-automate-tedious-paperwork-in-times-of-grief/) (TechCrunch)
+- Category: legal-tech
+- What it does: LumenUs digitizes and automates the paperwork required after a loved one dies, handling tasks like probate forms, death certificates, and asset transfers. It guides families through the process with a step‑by‑step workflow to reduce stress and errors.
+- Likely revenue model: Charges a per‑case fee or subscription to families and partners (e.g., funeral homes or insurers) for access to the platform and document filing services.
+- India equivalent: LegalWiz
+- India fit note: India has a fragmented, paper‑heavy death‑registration system and many families still rely on manual processes; while digital legal services are growing, cultural reluctance to discuss death and limited integration with government portals could slow adoption.
+- Badge guess: orange
+
+## Orkut (revival)
+- Source article: [Remember Orkut? Its founder wants to bring it back](https://techcrunch.com/2026/10/09/remember-orkut-its-founder-wants-to-bring-it-back/) (TechCrunch)
+- Category: social-media
+- What it does: Re-launches the classic Orkut social network with new algorithmic feeds and tools to detect and limit AI‑generated content.
+- Likely revenue model: Ad‑supported with optional premium subscriptions for an ad‑free experience and advanced privacy controls.
+- India equivalent: ShareChat
+- India fit note: India already has home‑grown social platforms, but success will hinge on user willingness to migrate from entrenched apps and on robust AI‑content moderation infrastructure, which is still maturing locally.
+- Badge guess: orange
+
+## Ambiguous Workspace
+- Source article: [Ambiguous Workspace](https://www.producthunt.com/products/ambiguous-workspace) (Product Hunt)
+- Category: ai-productivity
+- What it does: Offers a suite of 18 productivity applications that can be used by both AI agents and human users for tasks like note‑taking, task management, and collaboration.
+- Likely revenue model: Probably a freemium model with tiered subscription plans for advanced features and team collaboration.
+- India equivalent: Zoho
+- India fit note: Success depends on widespread adoption of AI‑assistant workflows and reliable high‑speed internet, which are still emerging in many Indian workplaces.
+- Badge guess: orange
+
+## Big Arrow on the Screen
+- Source article: [Show HN: Let your AI agents paint big arrows, boxes and text on your screen](https://github.com/franzenzenhofer/big-arrow-on-the-screen) (Hacker News (front page))
+- Category: ai-agent
+- What it does: Provides a library that lets AI agents draw arrows, boxes and text overlays directly on a user's screen to highlight UI elements. It enables visual guidance for autonomous agents interacting with graphical interfaces.
+- Likely revenue model: Open‑source core with paid enterprise support, licensing, or hosted SaaS for teams that need secure, managed deployments.
+- India equivalent: none found
+- India fit note: The product relies on low‑level screen‑drawing APIs and permission models that are not uniformly supported across Indian‑market devices, especially on locked‑down corporate or mobile environments, which could limit adoption.
+- Badge guess: black
+
+## once
+- Source article: [Once: Cache CLI Commands](https://github.com/alex0ptr/once) (Hacker News (front page))
+- Category: dev-tools
+- What it does: once caches the output of CLI commands and returns the stored result on subsequent runs, speeding up repetitive tasks for developers.
+- Likely revenue model: open‑source core with paid enterprise support or licensing for advanced features.
+- India equivalent: none found
+- India fit note: The tool relies on widespread CLI usage and stable development environments, which exist in India, but adoption may be limited by the preference for free open‑source utilities rather than paid support models.
+- Badge guess: black
+
