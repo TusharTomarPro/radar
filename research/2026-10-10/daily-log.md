@@ -340,3 +340,12 @@
 - India fit note: The model relies on widespread internet connectivity, AI adoption and a dense local mentor network; while India has strong startup ecosystems in metros, tier‑2/3 towns may lack sufficient mentors and reliable high‑speed internet, which could limit scalability.
 - Badge guess: black
 
+## Tiny Core Linux
+- Source article: [50MB operating system can resurrect your old PC](https://www.makeuseof.com/this-50mb-operating-system-can-resurrect-your-old-pc/) (Hacker News (front page))
+- Category: lightweight-os
+- What it does: Provides a minimal 50 MB operating system that can run on very old or low‑spec PCs, giving them a usable desktop environment.
+- Likely revenue model: Primarily funded through donations, sponsorships, and optional paid support or custom builds.
+- India equivalent: none found
+- India fit note: The model relies on users having legacy hardware and sufficient internet bandwidth to download the ISO, which can be a barrier in many Indian regions where old PCs are common but connectivity is spotty.
+- Badge guess: black
+
