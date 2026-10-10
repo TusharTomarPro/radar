@@ -1675,3 +1675,6 @@
 | ReadRare | digital-library | black | 2026-10-09 | none found |
 | Triple-A Minesweeper | casual-gaming | orange | 2026-10-09 | Nazara Technologies |
 | AI Archive Explorer | ai-archive | black | 2026-10-09 | none found |
+| REA Reverse | dev-tools | orange | 2026-10-10 | Keen Security Labs |
+| Eurydice | dev-tools | black | 2026-10-10 | none found |
+| Jane Street | synthetic-data | black | 2026-10-10 | none found |
