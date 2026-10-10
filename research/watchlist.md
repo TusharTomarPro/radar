@@ -1678,3 +1678,35 @@
 | REA Reverse | dev-tools | orange | 2026-10-10 | Keen Security Labs |
 | Eurydice | dev-tools | black | 2026-10-10 | none found |
 | Jane Street | synthetic-data | black | 2026-10-10 | none found |
+| Skreno | video-editing | orange | 2026-10-10 | InVideo |
+| Onepin | ai-voiceover | black | 2026-10-10 | none found |
+| PocketWebTools | ai-tools | black | 2026-10-10 | none found |
+| ReSO AI | ai-discovery | black | 2026-10-10 | none found |
+| AgentDock | dev-tools | black | 2026-10-10 | none found |
+| Hypervibe | ai-agent | black | 2026-10-10 | none found |
+| Fluence | audio-docs | black | 2026-10-10 | none found |
+| put·here | note-taking | orange | 2026-10-10 | Zoho Notebook |
+| GitGlow | code-review | black | 2026-10-10 | none found |
+| Isly | laptop-accessory | black | 2026-10-10 | none found |
+| Letra | productivity | black | 2026-10-10 | none found |
+| TapNoise | desktop-gadget | black | 2026-10-10 | none found |
+| Maildun | email-design | orange | 2026-10-10 | Zoho Campaigns |
+| Naarchy | desktop-utility | black | 2026-10-10 | none found |
+| Lune | ai-search | black | 2026-10-10 | none found |
+| Rank Kiwi | social-analytics | black | 2026-10-10 | none found |
+| Baby Desk | parenting-accessory | black | 2026-10-10 | none found |
+| PixRater | photo-management | black | 2026-10-10 | none found |
+| Underplane | sports-gaming | black | 2026-10-10 | none found |
+| Buffer | clipboard-manager | black | 2026-10-10 | none found |
+| History Monk | browser-extension | black | 2026-10-10 | none found |
+| The Computer Game | simulation-game | black | 2026-10-10 | none found |
+| Toolaby | developer-tools | black | 2026-10-10 | none found |
+| ej | edge-ai | black | 2026-10-10 | none found |
+| KernelAI | mobile-ai | black | 2026-10-10 | none found |
+| Pawse | wellness-tech | black | 2026-10-10 | none found |
+| Museum of Models | ai-comparison | black | 2026-10-10 | none found |
+| AdsNotch | ad-tech | black | 2026-10-10 | none found |
+| Buda | ai-agent | black | 2026-10-10 | none found |
+| Notchzy | desktop-enhancement | black | 2026-10-10 | none found |
+| Talorys | ai-agent | black | 2026-10-10 | none found |
+| Pikio Labs | bike-helmet | black | 2026-10-10 | none found |
