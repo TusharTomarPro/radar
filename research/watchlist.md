@@ -1710,3 +1710,6 @@
 | Notchzy | desktop-enhancement | black | 2026-10-10 | none found |
 | Talorys | ai-agent | black | 2026-10-10 | none found |
 | Pikio Labs | bike-helmet | black | 2026-10-10 | none found |
+| Rampart | privacy-tech | black | 2026-10-10 | none found |
+| ScamBait | cyber-security | black | 2026-10-10 | none found |
+| ShuruKar | founder-platform | black | 2026-10-10 | none found |

@@ -313,3 +313,30 @@
 - India fit note: Widespread helmet adoption in India is low due to cultural attitudes, price sensitivity, and weak enforcement of safety regulations, which could limit market uptake for a premium, high‑tech helmet.
 - Badge guess: black
 
+## Rampart
+- Source article: [Rampart: Browser native on-device PII radaction](https://ndstudio.gov/posts/say-hello-to-rampart) (Hacker News (front page))
+- Category: privacy-tech
+- What it does: Rampart is a browser-native, on-device solution that automatically detects and redacts personally identifiable information (PII) from web pages before it leaves the user’s device.
+- Likely revenue model: It likely sells enterprise licences or subscription plans to businesses that need to protect user data in their web applications.
+- India equivalent: none found
+- India fit note: The product relies on modern browser APIs and widespread user consent for on-device processing, which are available in India, but adoption may be limited by lower corporate awareness of PII redaction requirements.
+- Badge guess: black
+
+## ScamBait
+- Source article: [AI Is Getting Really Good at Messing With Cybercriminals](https://www.wired.com/story/ai-is-getting-really-good-at-messing-with-cybercriminals/) (Wired)
+- Category: cyber-security
+- What it does: ScamBait deploys AI‑driven conversational bots that mimic real victims, engaging scammers in realistic dialogue to waste their time and harvest intelligence.
+- Likely revenue model: Subscription‑based SaaS platform sold to enterprises, ISPs, and law‑enforcement agencies, possibly with tiered pricing per number of engagements.
+- India equivalent: none found
+- India fit note: The model relies on high‑quality large‑language models and widespread broadband connectivity for real‑time chat, which are less pervasive in many Indian regions and may face regulatory scrutiny around data privacy.
+- Badge guess: black
+
+## ShuruKar
+- Source article: [ShuruKar: Your next business could start in your hometown](https://yourstory.com/2026/10/shurukar-bihar-patna-district-entrepreneurship-startup-india) (YourStory)
+- Category: founder-platform
+- What it does: ShuruKar offers AI‑driven tools, mentorship and local network support to guide aspiring entrepreneurs from problem discovery to landing their first customer.
+- Likely revenue model: Revenue likely comes from corporate sponsorships, premium mentorship subscriptions and possibly a success‑fee or equity stake on startups that graduate from the program.
+- India equivalent: none found
+- India fit note: The model relies on widespread internet connectivity, AI adoption and a dense local mentor network; while India has strong startup ecosystems in metros, tier‑2/3 towns may lack sufficient mentors and reliable high‑speed internet, which could limit scalability.
+- Badge guess: black
+
