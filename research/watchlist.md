@@ -1721,3 +1721,27 @@
 | Housing Over Pizza | simulation-game | black | 2026-10-11 | none found |
 | DirectorRunner | gaming-emulation | black | 2026-10-11 | none found |
 | Nix | dev-tools | black | 2026-10-11 | none found |
+| kōdlo | sales-enablement | orange | 2026-10-11 | LeadSquared |
+| Farol | ai-agent | black | 2026-10-11 | none found |
+| EdgeVolume | productivity | black | 2026-10-11 | none found |
+| Kooler | cocktail-app | black | 2026-10-11 | none found |
+| FloorGen | proptech | black | 2026-10-11 | none found |
+| Agibot | ai-agent | black | 2026-10-11 | none found |
+| MePersona | ai-voice | black | 2026-10-11 | none found |
+| Tori | language-edtech | black | 2026-10-11 | none found |
+| Ayven | productivity | orange | 2026-10-11 | Meeteor |
+| Foley | voice-productivity | black | 2026-10-11 | none found |
+| OpenScreen | ai-video | orange | 2026-10-11 | InVideo |
+| Ghost Core | edge-ai | black | 2026-10-11 | none found |
+| Unboom | audio-software | black | 2026-10-11 | none found |
+| Shippedit | launch-platform | black | 2026-10-11 | none found |
+| KarmaBoard | digital-signage | black | 2026-10-11 | none found |
+| Pickle Sensei | sports-tech | black | 2026-10-11 | none found |
+| NewMinecraftServers | gaming-platform | black | 2026-10-11 | none found |
+| NotchPit | ui-tool | black | 2026-10-11 | none found |
+| DevTerminal | dev-tools | black | 2026-10-11 | none found |
+| HireKey | ai-recruitment | black | 2026-10-11 | none found |
+| Poke Finder | gaming | black | 2026-10-11 | none found |
+| SimpleSpread | office-software | orange | 2026-10-11 | Zoho Sheet |
+| FocusWrite | productivity | black | 2026-10-11 | none found |
+| Offline | digital-detox | black | 2026-10-11 | none found |
