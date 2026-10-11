@@ -1,7 +1,7 @@
 # Top 20 Shortlist
-_Generated 2026-10-10 07:52 UTC -- auto-updated after every deep-research pass._
+_Generated 2026-10-11 07:58 UTC -- auto-updated after every deep-research pass._
 
-Ranked by risk score (lower = more promising) out of 388 companies deep-researched so far, 1661 tracked total.
+Ranked by risk score (lower = more promising) out of 398 companies deep-researched so far, 1704 tracked total.
 
 ---
 
@@ -95,7 +95,25 @@ Ranked by risk score (lower = more promising) out of 388 companies deep-research
 
 ---
 
-## 6. Tweet.app -- LOW RISK (3/10)
+## 6. UnsloP -- LOW RISK (2/10)
+
+**Category:** curated-news  
+**Badge:** black  
+**Competitor status:** dead  
+**Regulatory:** none  
+**Capital intensity:** low  
+**Known numbers:** UnsloP had 50-100 employees, raised less than $1M in funding, and ceased operations in 2016.  
+**India cost estimate:** ₹8-15 lakh for an MVP and small team (2-4 people) for the first 6-12 months.  
+
+**AI reasoning:** UnsloP is defunct with no surviving competitor, faces no evident regulatory barriers, and requires minimal capital, making the venture low risk.
+
+**Your notes:** _(none added yet -- click through from the dashboard to add your take)_
+
+[Full research file](companies/unslop/2026-09-11-research.md) -- [Add notes](companies/unslop/your-notes.md)
+
+---
+
+## 7. Tweet.app -- LOW RISK (3/10)
 
 **Category:** microblogging  
 **Badge:** black  
@@ -113,7 +131,7 @@ Ranked by risk score (lower = more promising) out of 388 companies deep-research
 
 ---
 
-## 7. Snitch -- LOW RISK (3/10)
+## 8. Snitch -- LOW RISK (3/10)
 
 **Category:** hr-tech  
 **Badge:** black  
@@ -131,7 +149,7 @@ Ranked by risk score (lower = more promising) out of 388 companies deep-research
 
 ---
 
-## 8. Sidebranch -- LOW RISK (3/10)
+## 9. Sidebranch -- LOW RISK (3/10)
 
 **Category:** dev-tools  
 **Badge:** black  
@@ -149,7 +167,7 @@ Ranked by risk score (lower = more promising) out of 388 companies deep-research
 
 ---
 
-## 9. cmmnts -- LOW RISK (3/10)
+## 10. cmmnts -- LOW RISK (3/10)
 
 **Category:** comment-platform  
 **Badge:** black  
@@ -167,7 +185,7 @@ Ranked by risk score (lower = more promising) out of 388 companies deep-research
 
 ---
 
-## 10. Grove -- LOW RISK (3/10)
+## 11. Grove -- LOW RISK (3/10)
 
 **Category:** developer-tools  
 **Badge:** black  
@@ -185,7 +203,7 @@ Ranked by risk score (lower = more promising) out of 388 companies deep-research
 
 ---
 
-## 11. Thaw -- LOW RISK (3/10)
+## 12. Thaw -- LOW RISK (3/10)
 
 **Category:** productivity  
 **Badge:** black  
@@ -203,7 +221,7 @@ Ranked by risk score (lower = more promising) out of 388 companies deep-research
 
 ---
 
-## 12. Roadie -- LOW RISK (3/10)
+## 13. Roadie -- LOW RISK (3/10)
 
 **Category:** audio-utility  
 **Badge:** black  
@@ -221,7 +239,7 @@ Ranked by risk score (lower = more promising) out of 388 companies deep-research
 
 ---
 
-## 13. BrickForgerAI -- LOW RISK (3/10)
+## 14. BrickForgerAI -- LOW RISK (3/10)
 
 **Category:** generative-ai  
 **Badge:** black  
@@ -239,7 +257,7 @@ Ranked by risk score (lower = more promising) out of 388 companies deep-research
 
 ---
 
-## 14. at8pm -- LOW RISK (3/10)
+## 15. at8pm -- LOW RISK (3/10)
 
 **Category:** journaling  
 **Badge:** black  
@@ -257,7 +275,7 @@ Ranked by risk score (lower = more promising) out of 388 companies deep-research
 
 ---
 
-## 15. Ponytail -- LOW RISK (3/10)
+## 16. Ponytail -- LOW RISK (3/10)
 
 **Category:** low-code  
 **Badge:** black  
@@ -275,7 +293,7 @@ Ranked by risk score (lower = more promising) out of 388 companies deep-research
 
 ---
 
-## 16. Userlens -- LOW RISK (3/10)
+## 17. Userlens -- LOW RISK (3/10)
 
 **Category:** ai-agent  
 **Badge:** black  
@@ -293,7 +311,7 @@ Ranked by risk score (lower = more promising) out of 388 companies deep-research
 
 ---
 
-## 17. Remote Work as a Worm -- LOW RISK (3/10)
+## 18. Remote Work as a Worm -- LOW RISK (3/10)
 
 **Category:** indie-game  
 **Badge:** black  
@@ -311,7 +329,7 @@ Ranked by risk score (lower = more promising) out of 388 companies deep-research
 
 ---
 
-## 18. Niyo -- LOW RISK (3/10)
+## 19. Niyo -- LOW RISK (3/10)
 
 **Category:** travel-fintech  
 **Badge:** black  
@@ -329,7 +347,7 @@ Ranked by risk score (lower = more promising) out of 388 companies deep-research
 
 ---
 
-## 19. Entrackr -- LOW RISK (3/10)
+## 20. Entrackr -- LOW RISK (3/10)
 
 **Category:** media-analytics  
 **Badge:** black  
@@ -344,23 +362,5 @@ Ranked by risk score (lower = more promising) out of 388 companies deep-research
 **Your notes:** _(none added yet -- click through from the dashboard to add your take)_
 
 [Full research file](companies/entrackr/2026-09-05-research.md) -- [Add notes](companies/entrackr/your-notes.md)
-
----
-
-## 20. AI Literacy Platform -- LOW RISK (3/10)
-
-**Category:** edtech  
-**Badge:** black  
-**Competitor status:** no-real-competitor-found  
-**Regulatory:** moderate – Indian data‑localisation rules under the draft Personal Data Protection Bill (and sector‑specific guidelines for online education from the Ministry of Education) impose compliance costs.  
-**Capital intensity:** low – the model is software‑only, asset‑light and can reach profitability with modest cloud and staffing spend.  
-**Known numbers:** no public numbers found  
-**India cost estimate:** ₹12‑20 lakh for 6‑12 months (covers cloud/API usage, a core team of 3‑4 engineers/educators, basic content creation and minimal legal/compliance spend; no paid user‑acquisition budget).  
-
-**AI reasoning:** With no clear incumbent competitor, the market appears open, and the business is low‑capital and asset‑light, reducing financial risk. Moderate regulatory exposure around data localisation and education licensing adds some uncertainty, but not enough to outweigh the upside, resulting in a relatively low overall risk score.
-
-**Your notes:** _(none added yet -- click through from the dashboard to add your take)_
-
-[Full research file](companies/ai-literacy-platform/2026-09-05-research.md) -- [Add notes](companies/ai-literacy-platform/your-notes.md)
 
 ---
