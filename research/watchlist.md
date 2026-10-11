@@ -1745,3 +1745,9 @@
 | SimpleSpread | office-software | orange | 2026-10-11 | Zoho Sheet |
 | FocusWrite | productivity | black | 2026-10-11 | none found |
 | Offline | digital-detox | black | 2026-10-11 | none found |
+| Richualist | beauty-tech | orange | 2026-10-11 | Mamaearth |
+| Nanolathe | game-remaster | black | 2026-10-11 | none found |
+| Playgrnd | creative-tools | black | 2026-10-11 | none found |
+| Gamma | ai-presentation | orange | 2026-10-11 | Zoho Show |
+| BetterWispr | speech-to-text | black | 2026-10-11 | none found |
+| Readme Tester | dev-tools | black | 2026-10-11 | none found |

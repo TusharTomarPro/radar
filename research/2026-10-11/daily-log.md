@@ -277,3 +277,57 @@
 - India fit note: Success depends on reliable last‑mile logistics for physical deliveries and a consumer mindset willing to pay for curated offline experiences, both of which are still emerging in India.
 - Badge guess: black
 
+## Richualist
+- Source article: [Dawn Myers is making it easier to style, detangle, and care for curly hair](https://techcrunch.com/2026/10/11/dawn-myers-is-making-it-easier-to-style-detangle-and-care-for-curly-hair/) (TechCrunch)
+- Category: beauty-tech
+- What it does: Richualist offers a line of tools and products designed to style, detangle, and maintain curly hair, simplifying the routine for consumers.
+- Likely revenue model: The company likely sells its hair‑care tools and products directly to consumers via an online D2C storefront, possibly supplemented by subscription bundles.
+- India equivalent: Mamaearth
+- India fit note: India has a growing market for specialized hair‑care, but widespread adoption may be limited by lower awareness of curly‑hair specific routines and limited availability of premium styling tools in tier‑2/3 cities.
+- Badge guess: orange
+
+## Nanolathe
+- Source article: [Total Annihilation, rebuilt for modern computers](https://nanolathe.gg) (Hacker News (front page))
+- Category: game-remaster
+- What it does: Recreates the classic real-time strategy game Total Annihilation using modern engines and tools so it runs natively on current Windows, macOS, and Linux systems.
+- Likely revenue model: Sells the remastered game directly to consumers, likely via platforms like Steam or itch.io, possibly with a one‑time purchase or early‑access pricing.
+- India equivalent: none found
+- India fit note: Success relies on a mature PC‑gaming and modding community, stable broadband for large game downloads, and a niche audience that values retro RTS titles—areas that are still developing in India.
+- Badge guess: black
+
+## Playgrnd
+- Source article: [Playgrnd – tiny tools for making weird, beautiful things](https://www.playgrnd.tools/) (Hacker News (front page))
+- Category: creative-tools
+- What it does: Playgrnd offers a collection of lightweight, web‑based utilities that let users generate quirky, visual and interactive content without coding.
+- Likely revenue model: Probably a freemium model with paid premium tools or a subscription for advanced features and ad‑free experience.
+- India equivalent: none found
+- India fit note: The product relies only on a modern browser and broadband connectivity, both widely available in urban India, so adoption would hinge more on cultural interest in experimental digital art than on infrastructure constraints.
+- Badge guess: black
+
+## Gamma
+- Source article: [I'm sorry, but you still have to think](https://itsallaboutthebit.com/i-am-sorry-but-you-still-have-to-think/) (Hacker News (front page))
+- Category: ai-presentation
+- What it does: Gamma uses generative AI to turn plain text prompts into fully designed slide decks, handling layout, visuals and copy automatically.
+- Likely revenue model: A subscription SaaS model with tiered plans (free tier, paid Pro/Team subscriptions) that unlocks higher export limits and collaboration features.
+- India equivalent: Zoho Show
+- India fit note: The service relies on fast, reliable internet and AI compute in the cloud, which are available in urban India but may be slower in rural areas; also, the product assumes users are comfortable creating content in English, which could limit adoption among non‑English speakers.
+- Badge guess: orange
+
+## BetterWispr
+- Source article: [Show HN: BetterWispr – Free, open-source dictation for Mac](https://betterwispr.com/) (Hacker News (front page))
+- Category: speech-to-text
+- What it does: BetterWispr is a free, open‑source dictation tool that lets Mac users convert spoken words into text in real time. It runs locally on macOS, offering offline speech recognition without a subscription.
+- Likely revenue model: The project likely relies on donations, sponsorships, or paid support/consulting services rather than direct sales.
+- India equivalent: none found
+- India fit note: Mac penetration in India is relatively low, and many users rely on Windows or Android devices, so adoption may be limited. Additionally, the need for a locally‑run, offline dictation engine may be less critical where cloud‑based services are widely used.
+- Badge guess: black
+
+## Readme Tester
+- Source article: [I paid people to try and follow my README](https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/) (Hacker News (front page))
+- Category: dev-tools
+- What it does: Provides a paid crowd‑testing service where developers can have real users follow their README files step‑by‑step and report where they get stuck. The feedback is used to improve documentation clarity and onboarding speed.
+- Likely revenue model: Charges teams a subscription or per‑test fee for each README usability test run.
+- India equivalent: none found
+- India fit note: The model relies on a large pool of freelance technical testers who are comfortable with command‑line tools and open‑source workflows; such a crowd‑sourced tester ecosystem is still nascent in India, and many developers may not have the habit of paying for documentation validation.
+- Badge guess: black
+
