@@ -1714,3 +1714,10 @@
 | ScamBait | cyber-security | black | 2026-10-10 | none found |
 | ShuruKar | founder-platform | black | 2026-10-10 | none found |
 | Tiny Core Linux | lightweight-os | black | 2026-10-10 | none found |
+| DecompileAI | ai-agent | black | 2026-10-11 | none found |
+| WallHop | paywall-bypass | black | 2026-10-11 | none found |
+| PSPi | retro-gaming | black | 2026-10-11 | none found |
+| Veda | ai-agent | black | 2026-10-11 | none found |
+| Housing Over Pizza | simulation-game | black | 2026-10-11 | none found |
+| DirectorRunner | gaming-emulation | black | 2026-10-11 | none found |
+| Nix | dev-tools | black | 2026-10-11 | none found |
