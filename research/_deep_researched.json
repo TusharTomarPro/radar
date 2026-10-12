@@ -4632,5 +4632,113 @@
     "india_cost_estimate": "\u20b915\u201130\u202flakh for a 6\u201112\u202fmonth pilot (team of 3\u20114 local staff, cloud/API fees, basic legal/compliance work, and modest budget for pilot ad\u2011placements and partner onboarding)",
     "risk_score": 7,
     "risk_reasoning": "The market shows no clear local competitor, which is a positive, but entry is constrained by municipal advertising permits and zoning rules (moderate regulatory risk). Capital needs are medium because the model is partly asset\u2011light but still requires physical ad\u2011placement logistics. Combined with limited public traction and no funding, the overall risk is relatively high."
+  },
+  "resolvehq::2026-09-11": {
+    "company": "ResolveHQ",
+    "category": "helpdesk",
+    "revised_badge": "orange",
+    "competitor_status": "surviving",
+    "regulatory_flag": "moderate \u2013 Indian data\u2011localisation expectations under the draft Personal Data Protection Bill may require storing customer\u2011support data on servers in India, adding compliance overhead.",
+    "capital_intensity": "low \u2013 the model is pure SaaS (ticketing, knowledge\u2011base, chat) with cloud hosting and a small engineering team, so unit economics can be positive with modest spend.",
+    "known_numbers": "no public numbers found",
+    "india_cost_estimate": "\u20b912\u201120\u202flakh for 6\u201112\u202fmonths (cloud & API usage ~\u20b93\u20115\u202flakh, 2\u20113 engineers + product lead ~\u20b97\u201112\u202flakh, minimal marketing).",
+    "risk_score": 4,
+    "risk_reasoning": "A viable competitor (Freshdesk) is alive, but the market is not saturated and the SaaS helpdesk model is low\u2011capex. Regulatory exposure is limited to data\u2011localisation compliance, which is manageable. Hence the overall risk is moderate\u2011low."
+  },
+  "txt::2026-09-11": {
+    "company": "Txt",
+    "category": "developer-tools",
+    "revised_badge": "black",
+    "competitor_status": "no-real-competitor-found",
+    "regulatory_flag": "none",
+    "capital_intensity": "low \u2013 the product appears to be a SaaS/developer\u2011tool with no physical assets, so it can be built with a small engineering team and modest cloud spend.",
+    "known_numbers": "no public numbers found",
+    "india_cost_estimate": "\u20b912\u201120\u202flakh for 6\u201112\u202fmonths (covers 2\u20114 engineers, cloud/hosting, basic dev\u2011ops, and minimal office/administrative costs; no paid marketing budget).",
+    "risk_score": 4,
+    "risk_reasoning": "With no identified competitor, the market gap is real but could close as the Indian dev ecosystem matures. Regulatory exposure is negligible for a SaaS tool, and capital needs are low, keeping the venture relatively safe. The main risk is timing \u2013 entering before the market demand solidifies could limit early traction."
+  },
+  "litelm::2026-09-11": {
+    "company": "Litelm",
+    "category": "ai-infra",
+    "revised_badge": "orange",
+    "competitor_status": "surviving",
+    "regulatory_flag": "none",
+    "capital_intensity": "low",
+    "known_numbers": "no public numbers found",
+    "india_cost_estimate": "\u20b98\u201112\u202flakh for a 6\u2011month MVP (cloud compute, managed DB, load balancer, observability, and a 2\u20114\u2011person engineering team).",
+    "risk_score": 6,
+    "risk_reasoning": "LiteLLM faces several well\u2011funded alternatives (Portkey, Helicone, Kong AI Gateway, etc.), so market differentiation is modest. However, the model is software\u2011only, incurs low infrastructure spend, and faces no major Indian regulatory hurdles, keeping capital risk low. The lack of any disclosed revenue or user metrics adds uncertainty, pushing the overall risk to a moderate level."
+  },
+  "graphify::2026-09-12": {
+    "company": "Graphify",
+    "category": "dev-tools",
+    "revised_badge": "orange",
+    "competitor_status": "surviving",
+    "regulatory_flag": "none",
+    "capital_intensity": "low \u2013 the product is pure software/knowledge\u2011graph tooling, asset\u2011light and can be built with a small engineering team without heavy infrastructure spend.",
+    "known_numbers": "no public numbers found",
+    "india_cost_estimate": "\u20b912\u201120\u202flakh for 6\u201112\u202fmonths (covers 2\u20114 engineers, cloud compute & storage, basic dev\u2011ops, and minimal SaaS API usage; no paid marketing).",
+    "risk_score": 5,
+    "risk_reasoning": "Graphify faces direct competition from established tools like Harmony MCP and enterprise offerings (Greptile, Sourcegraph, Cody), which reduces its moat. The business is low\u2011regulation and asset\u2011light, but the lack of disclosed traction or revenue makes market validation uncertain, placing it at a moderate risk level."
+  },
+  "querybrew::2026-09-12": {
+    "company": "QueryBrew",
+    "category": "sql-optimizer",
+    "revised_badge": "black",
+    "competitor_status": "no-real-competitor-found",
+    "regulatory_flag": "moderate \u2013 Indian data\u2011localisation requirements under the pending Personal Data Protection Bill may require hosting query logs and execution data within India.",
+    "capital_intensity": "low \u2013 the product is software\u2011only, asset\u2011light and can be built on cloud infrastructure with a small engineering team.",
+    "known_numbers": "no public numbers found",
+    "india_cost_estimate": "\u20b930\u201145\u202flakh for the first 6\u201112\u202fmonths (cloud compute ~\u20b94\u20116\u202flakh, 2\u20113 senior engineers ~\u20b920\u201130\u202flakh, misc/ops ~\u20b95\u20119\u202flakh).",
+    "risk_score": 3,
+    "risk_reasoning": "The lack of identified competitors suggests a clear market gap, and the SaaS model is low\u2011capital and asset\u2011light. The main uncertainties are regulatory compliance for data residency and the absence of any disclosed traction or revenue, which keeps the risk moderate rather than low."
+  },
+  "relic::2026-09-12": {
+    "company": "Relic",
+    "category": "productivity",
+    "revised_badge": "black",
+    "competitor_status": "no-real-competitor-found",
+    "regulatory_flag": "moderate \u2013 Indian data\u2011localisation rules (e.g., the Personal Data Protection Bill and RBI/IT Act requirements for storing personal data on servers in India) apply to SaaS products handling user data.",
+    "capital_intensity": "low \u2013 the model is asset\u2011light SaaS, requiring mainly engineering talent and cloud hosting, which can reach profitability with modest spend.",
+    "known_numbers": "no public numbers found",
+    "india_cost_estimate": "\u20b912\u201125\u202flakh for a 6\u201112\u202fmonth MVP and small team (2\u20113 engineers, cloud/hosting, basic legal/compliance), assuming no paid marketing or large sales ops.",
+    "risk_score": 4,
+    "risk_reasoning": "The space has no clear India\u2011specific competitor, which is a positive, but moderate regulatory risk from data\u2011localisation adds uncertainty. Capital needs are low, making the venture relatively cheap to test, but the lack of public traction data makes market validation harder, resulting in a moderate overall risk."
+  },
+  "work-life-panda::2026-09-12": {
+    "company": "Work Life Panda",
+    "category": "productivity",
+    "revised_badge": "orange",
+    "competitor_status": "surviving",
+    "regulatory_flag": "none",
+    "capital_intensity": "low",
+    "known_numbers": "no public numbers found \u2013 the only concrete data is that Work Life Panda shut down in 2016 after raising <\u202f$1\u202fM and never achieving product\u2011market fit.",
+    "india_cost_estimate": "\u20b912\u201120\u202flakh for a 6\u201112\u202fmonth MVP (cloud hosting, 2\u20113 engineers, basic UI/UX, minimal marketing).",
+    "risk_score": 6,
+    "risk_reasoning": "Zoho\u2019s AI\u2011enabled project and calendar tools are active and well\u2011funded, creating a clear competitive threat (orange badge). The startup previously failed, indicating product\u2011market fit challenges. Regulatory exposure is minimal for a SaaS productivity tool, and the capital needed is low, but the strong incumbent and past failure raise the overall risk to a moderate level."
+  },
+  "linkflick::2026-09-12": {
+    "company": "LinkFlick",
+    "category": "peripheral-management",
+    "revised_badge": "orange",
+    "competitor_status": "surviving",
+    "regulatory_flag": "none",
+    "capital_intensity": "low",
+    "known_numbers": "no public numbers found",
+    "india_cost_estimate": "\u20b915-30 lakh for MVP + 2-4 person team for 6-12 months (cloud, salaries, basic ops)",
+    "risk_score": 4,
+    "risk_reasoning": "Search evidence confirms three surviving competitors (Gumroad, Stan Store, Instamojo) but highlights their gaps for Indian creators \u2014 notably lack of UPI support and local payment gateways. The model is a low-capital, asset-light SaaS tool with minimal regulatory hurdles (no FDI, RBI, or labor-law triggers). Primary risks are distribution in a crowded creator-tool market and proving sufficient differentiation to win Indian creators who already use global alternatives."
+  },
+  "kabza::2026-09-12": {
+    "company": "Kabza",
+    "category": "location-gaming",
+    "revised_badge": "black",
+    "competitor_status": "no-real-competitor-found",
+    "regulatory_flag": "none",
+    "capital_intensity": "low \u2013 the model is primarily software\u2011only (mobile app, cloud backend) and can be built with a small engineering team without heavy inventory or logistics spend.",
+    "known_numbers": "no public numbers found",
+    "india_cost_estimate": "\u20b912\u201120\u202flakh for 6\u201112\u202fmonths (covers 2\u20113 senior engineers, 1 product designer, cloud hosting, basic analytics and modest office/remote expenses; no paid user\u2011acquisition budget).",
+    "risk_score": 3,
+    "risk_reasoning": "The search evidence shows no existing Indian competitor and no regulatory hurdles, making the market relatively open. The business is asset\u2011light, so capital needs are modest, reducing financial risk. The only uncertainty is market adoption timing, but that is a temporal factor rather than a structural barrier."
   }
 }
