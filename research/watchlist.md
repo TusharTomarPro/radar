@@ -1774,3 +1774,15 @@
 | ps2-web-recomp | gaming-emulation | black | 2026-10-12 | none found |
 | Doory | design-tool | black | 2026-10-12 | none found |
 | Pensieve | ai-infrastructure | black | 2026-10-12 | none found |
+| WindBorne | weather-tech | black | 2026-10-12 | none found |
+| Honeyjar | pr-tech | orange | 2026-10-12 | BuzzMango |
+| Blueprints AI | construction-tech | black | 2026-10-12 | none found |
+| Mona | ai-assistant | black | 2026-10-12 | none found |
+| Mechanism | gaming-accessories | black | 2026-10-12 | none found |
+| OpenFatigue | safety-tech | black | 2026-10-12 | none found |
+| REA | ai-agent | black | 2026-10-12 | none found |
+| GLM-Legal | legal-tech | black | 2026-10-12 | none found |
+| w1700k-sdr | sdr | black | 2026-10-12 | none found |
+| SkinAge | cosmeceutical | black | 2026-10-12 | none found |
+| XSCACE | audio-tech | black | 2026-10-12 | none found |
+| Zocket | ai-marketing | black | 2026-10-12 | none found |
