@@ -1753,3 +1753,24 @@
 | Readme Tester | dev-tools | black | 2026-10-11 | none found |
 | Cartographers NK | mapping | orange | 2026-10-12 | MapmyIndia |
 | Archive Hunt | collectibles marketplace | orange | 2026-10-12 | eBay India |
+| Guilds | ai-agent | black | 2026-10-12 | none found |
+| Milepost | auto-telemetry | orange | 2026-10-12 | DriveMate (by CarDekho) |
+| SquadRoom | ai-agent | orange | 2026-10-12 | Yellow.ai |
+| Manifold MCP | proptech | orange | 2026-10-12 | Magicbricks (Agent lead platform) |
+| ExcaliClaw | ai-design | black | 2026-10-12 | none found |
+| Kudos | fintech | black | 2026-10-12 | none found |
+| Ancher | ai-productivity | black | 2026-10-12 | none found |
+| Strawberry | ai-browser | black | 2026-10-12 | none found |
+| Understory Notes | note-taking | orange | 2026-10-12 | Zoho Notebook |
+| Dropstone CLI | ai-agent | black | 2026-10-12 | none found |
+| Invited | productivity | black | 2026-10-12 | none found |
+| Knocket | live-chat | orange | 2026-10-12 | Freshchat (Freshworks) or Zoho SalesIQ |
+| ngram | ai-video | orange | 2026-10-12 | InVideo |
+| Bearconnect | ai-marketing | black | 2026-10-12 | none found |
+| Codemind | ai-coding | black | 2026-10-12 | none found |
+| SalesRep.com | ai-sales | black | 2026-10-12 | none found |
+| Cube Forms | form-builder | orange | 2026-10-12 | Zoho Forms |
+| Base | low-code | orange | 2026-10-12 | Zoho Creator |
+| ps2-web-recomp | gaming-emulation | black | 2026-10-12 | none found |
+| Doory | design-tool | black | 2026-10-12 | none found |
+| Pensieve | ai-infrastructure | black | 2026-10-12 | none found |
