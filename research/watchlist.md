@@ -1751,3 +1751,5 @@
 | Gamma | ai-presentation | orange | 2026-10-11 | Zoho Show |
 | BetterWispr | speech-to-text | black | 2026-10-11 | none found |
 | Readme Tester | dev-tools | black | 2026-10-11 | none found |
+| Cartographers NK | mapping | orange | 2026-10-12 | MapmyIndia |
+| Archive Hunt | collectibles marketplace | orange | 2026-10-12 | eBay India |
