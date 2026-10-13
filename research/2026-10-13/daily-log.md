@@ -349,3 +349,66 @@
 - India fit note: The solution relies on consistent power supply, high-speed internet for AI processing, and farmer willingness to adopt automated grading, which can be challenging in regions with fragmented smallholder farms and limited digital infrastructure.
 - Badge guess: orange
 
+## XY Music Notation
+- Source article: [Show HN: XY Music Notation](https://music.xy.dev/) (Hacker News (front page))
+- Category: music-tech
+- What it does: Offers a custom music‑score rendering backend that displays notes as base‑12 pitch classes for an isomorphic keyboard, using MuseScore with bespoke note heads.
+- Likely revenue model: Currently a hobby/open‑source project, but could monetize through licensing the rendering engine, premium plugins, or a subscription SaaS for custom notation services.
+- India equivalent: none found
+- India fit note: Adoption depends on a niche community of musicians willing to use a non‑standard base‑12 keyboard, which is limited in India where traditional Western notation dominates and specialized hardware is scarce.
+- Badge guess: black
+
+## Coris
+- Source article: [Coris (YC S22) Is Hiring Back End Engineer](https://www.ycombinator.com/companies/coris/jobs/h0nDly8-backend-engineer-ai-native-risk-infrastructure-integrations) (Hacker News (front page))
+- Category: risk-tech
+- What it does: Coris builds AI‑native infrastructure that integrates risk data and analytics into enterprise workflows, helping companies detect, assess, and mitigate operational and financial risks in real time.
+- Likely revenue model: Enterprise SaaS subscription with tiered pricing based on data volume, integration complexity, and support level.
+- India equivalent: Credgenics
+- India fit note: The model relies on mature data pipelines, regulatory compliance frameworks, and a culture of proactive risk management that large Indian enterprises are increasingly adopting, but smaller firms may lack the data maturity and budget for such AI‑driven solutions.
+- Badge guess: orange
+
+## Rigged Draw
+- Source article: [Show HN: How Random Are You?](https://lab.specr.net/rigged-draw/) (Hacker News (front page))
+- Category: randomness-tool
+- What it does: Provides an interactive web interface to simulate draws and statistically assess how random they are, letting users upload or generate sequences and view distribution metrics.
+- Likely revenue model: Likely a hobby or open‑source project with no direct revenue, possibly supported by donations or ads.
+- India equivalent: none found
+- India fit note: The tool relies only on basic internet access and statistical curiosity, which are present in India, but there is no comparable local service targeting the same niche.
+- Badge guess: black
+
+## Thunderbird
+- Source article: [Thunderbird for iOS](https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/) (Hacker News (front page))
+- Category: email-client
+- What it does: Develops a native iOS email application that brings Thunderbird's open‑source email features to iPhone users.
+- Likely revenue model: Free, open‑source software funded through donations, sponsorships and possibly integration partnerships.
+- India equivalent: Zoho Mail
+- India fit note: The app relies on iOS adoption and a preference for standalone email clients; Indian users heavily favor Gmail and integrated services, so market traction may be limited without strong brand awareness.
+- Badge guess: orange
+
+## AI GameDev Harness
+- Source article: [How to engineer an AI harness for game development](https://kylekukshtel.com/ai-harness-engineering-game-development-claude-code) (Hacker News (front page))
+- Category: ai-game-dev
+- What it does: Offers a framework that lets game developers plug large language models like Claude into their pipelines to generate code, assets, and design suggestions.
+- Likely revenue model: Charges a subscription or usage‑based fee for access to the harness platform and API credits.
+- India equivalent: none found
+- India fit note: The model assumes reliable high‑speed internet, familiarity with LLM APIs, and a willingness to pay for AI usage, which may be limited among many Indian indie developers.
+- Badge guess: black
+
+## EmbeddingGemma Speech
+- Source article: [We turned EmbeddingGemma 2 into a speech-to-text model](https://eg2.haku.sh/) (Hacker News (front page))
+- Category: speech-to-text
+- What it does: Offers an open‑source speech‑to‑text model built by adapting EmbeddingGemma 2, allowing developers to transcribe audio locally or via an API.
+- Likely revenue model: Charges for API usage or hosted transcription services on a subscription or pay‑per‑use basis.
+- India equivalent: Vernacular.ai
+- India fit note: Success depends on reliable high‑speed internet and access to GPU compute for low‑latency transcription, which may be limited in rural Indian regions, but urban markets with cloud infrastructure can adopt it readily.
+- Badge guess: orange
+
+## AI Voice Clone
+- Source article: [In a first, AI helps UK lawmaker find her voice in parliament](https://economictimes.indiatimes.com/tech/artificial-intelligence/in-a-first-ai-helps-uk-lawmaker-find-her-voice-in-parliament/articleshow/134922285.cms) (Economic Times Tech)
+- Category: voice-tech
+- What it does: Provides AI-generated voice synthesis that can recreate a person’s past or current voice to read text, enabling speakers to deliver speeches in their own voice without speaking live.
+- Likely revenue model: Charges a subscription or per‑minute licensing fee for creating and using custom voice models, with additional enterprise pricing for large organisations.
+- India equivalent: none found
+- India fit note: Adoption may be limited by Indian parliamentary norms and public skepticism about AI‑generated speech, and requires high‑quality audio infrastructure and reliable internet, which are uneven across regions.
+- Badge guess: black
+

@@ -1825,3 +1825,10 @@
 | Balisto | agri-tech | orange | 2026-10-13 | Mahindra & Mahindra (e‑tractor) |
 | ImmunitoAI | ai-biotech | black | 2026-10-13 | none found |
 | Segritech | agritech | orange | 2026-10-13 | Intello Labs |
+| XY Music Notation | music-tech | black | 2026-10-13 | none found |
+| Coris | risk-tech | orange | 2026-10-13 | Credgenics |
+| Rigged Draw | randomness-tool | black | 2026-10-13 | none found |
+| Thunderbird | email-client | orange | 2026-10-13 | Zoho Mail |
+| AI GameDev Harness | ai-game-dev | black | 2026-10-13 | none found |
+| EmbeddingGemma Speech | speech-to-text | orange | 2026-10-13 | Vernacular.ai |
+| AI Voice Clone | voice-tech | black | 2026-10-13 | none found |
