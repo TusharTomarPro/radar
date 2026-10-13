@@ -1786,3 +1786,8 @@
 | SkinAge | cosmeceutical | black | 2026-10-12 | none found |
 | XSCACE | audio-tech | black | 2026-10-12 | none found |
 | Zocket | ai-marketing | black | 2026-10-12 | none found |
+| Blokkily | music-tech | black | 2026-10-13 | none found |
+| Janas | ai-infra | black | 2026-10-13 | none found |
+| Phreak.ing | voip-switch | orange | 2026-10-13 | Knowlarity |
+| Brickbrag | social-gaming | black | 2026-10-13 | none found |
+| Mesa School of Business | edtech | orange | 2026-10-13 | upGrad |
