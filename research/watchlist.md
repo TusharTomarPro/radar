@@ -1791,3 +1791,37 @@
 | Phreak.ing | voip-switch | orange | 2026-10-13 | Knowlarity |
 | Brickbrag | social-gaming | black | 2026-10-13 | none found |
 | Mesa School of Business | edtech | orange | 2026-10-13 | upGrad |
+| Vibes Monitor | logistics-tech | orange | 2026-10-13 | LogiNext |
+| Music Dawn | music-tech | black | 2026-10-13 | none found |
+| Takes | ai-video | orange | 2026-10-13 | InVideo |
+| MentionBird | ai-seo | orange | 2026-10-13 | RankWatch |
+| OpenFlowKit | ai-agent | black | 2026-10-13 | none found |
+| Genchi | project-management | orange | 2026-10-13 | Zoho Projects |
+| Remocn Studio | video-editing | orange | 2026-10-13 | InVideo |
+| Servor | devops | black | 2026-10-13 | none found |
+| Fina | accounting-software | orange | 2026-10-13 | Zoho Books |
+| Kai | ai-assistant | black | 2026-10-13 | none found |
+| Mi Speaks | text-to-speech | black | 2026-10-13 | none found |
+| Toby | ai-recruitment | black | 2026-10-13 | none found |
+| MausBot | ai-agent | black | 2026-10-13 | none found |
+| GotEmail | email-client | black | 2026-10-13 | none found |
+| PostNitro | ai-agent | black | 2026-10-13 | none found |
+| CLI Manager | ai-agent | orange | 2026-10-13 | AutomationEdge |
+| OpenCode | ai-coding | black | 2026-10-13 | none found |
+| OpenWhispr | speech-to-text | black | 2026-10-13 | none found |
+| HarnessHive | design-software | black | 2026-10-13 | none found |
+| The Drive AI | ai-agent | black | 2026-10-13 | none found |
+| Agent Craft | social-automation | orange | 2026-10-13 | Zoho Social |
+| Vincentt | visual-ai | black | 2026-10-13 | none found |
+| AdHelm CLI | ad-tech | black | 2026-10-13 | none found |
+| Xiryn | ai-assistant | black | 2026-10-13 | none found |
+| Unsiloed | legal-tech | black | 2026-10-13 | none found |
+| SolidCraft | parametric-cad | black | 2026-10-13 | none found |
+| wudhomes | furniture tech | orange | 2026-10-13 | Livspace |
+| NuSynth | chem-tech | black | 2026-10-13 | none found |
+| WinterWear | fashion-rental | orange | 2026-10-13 | Flyrobe |
+| Kubo Care | healthtech | black | 2026-10-13 | none found |
+| Attox | diagnostics | black | 2026-10-13 | none found |
+| Balisto | agri-tech | orange | 2026-10-13 | Mahindra & Mahindra (e‑tractor) |
+| ImmunitoAI | ai-biotech | black | 2026-10-13 | none found |
+| Segritech | agritech | orange | 2026-10-13 | Intello Labs |
