@@ -1837,3 +1837,48 @@
 | AlphaNIST | compliance-tech | black | 2026-10-14 | none found |
 | Parsimony | ai-benchmark | black | 2026-10-14 | none found |
 | Guitoro | music-tech | black | 2026-10-14 | none found |
+| RoleFit | resume-tech | orange | 2026-10-14 | Resumaker (by Naukri) |
+| WriterzRoom | regtech‑ai | black | 2026-10-14 | none found |
+| Elocuenti | messenger-commerce | orange | 2026-10-14 | WATI |
+| Epherem | ai-security | orange | 2026-10-14 | Appknox |
+| Tiden | ai-agent | black | 2026-10-14 | none found |
+| OpenCouncil | ai-collaboration | black | 2026-10-14 | none found |
+| AdAnt | ai-marketing | orange | 2026-10-14 | AdCreative.ai |
+| AirJelly | knowledge-management | black | 2026-10-14 | none found |
+| Hindsight | ai-agent | black | 2026-10-14 | none found |
+| Blade | sales-tech | orange | 2026-10-14 | LeadSquared |
+| Specreel | demo-automation | orange | 2026-10-14 | Whatfix |
+| FamRelay | ai-knowledge | black | 2026-10-14 | none found |
+| LegacyFixer | devsecops | black | 2026-10-14 | none found |
+| Acyclic | ai-agent | black | 2026-10-14 | none found |
+| Diagramly | diagramming | orange | 2026-10-14 | Creately |
+| Screenwell | recruitment-tech | orange | 2026-10-14 | Talview |
+| CSuite | ai-content | black | 2026-10-14 | none found |
+| NoteHouse | fintech | orange | 2026-10-14 | RupeeCircle |
+| Make0 Brain | ai-agent | black | 2026-10-14 | none found |
+| Winq | reading | black | 2026-10-14 | none found |
+| Cloud Releases | devops | black | 2026-10-14 | none found |
+| Aurora Lifeline | disaster-tech | orange | 2026-10-14 | Skymet Weather |
+| Spinachi AI | health-tech | orange | 2026-10-14 | HealthifyMe |
+| Table Canon | ttrpg-tools | black | 2026-10-14 | none found |
+| Dashrendr | data-visualization | orange | 2026-10-14 | Zoho Analytics |
+| Payload Peek | dev-tools | black | 2026-10-14 | none found |
+| Rambox | productivity | orange | 2026-10-14 | Zoho Workplace |
+| Retriever AI | ai-agent | black | 2026-10-14 | none found |
+| PixLate | translation | black | 2026-10-14 | none found |
+| CraveLens | visual-commerce | orange | 2026-10-14 | Myntra |
+| Mira Tours | travel-tech | black | 2026-10-14 | none found |
+| Pancake | gtm-platform | orange | 2026-10-14 | CleverTap |
+| T-Scriptor | ai-transcription | black | 2026-10-14 | none found |
+| Keysi | productivity | black | 2026-10-14 | none found |
+| EditUI | ai-devtools | black | 2026-10-14 | none found |
+| Inferock | ai-inference | black | 2026-10-14 | none found |
+| Orbora | wellness-tech | orange | 2026-10-14 | Cult.fit |
+| SupoClip | video-ai | black | 2026-10-14 | none found |
+| daily.dev | ai-agent | orange | 2026-10-14 | Hashnode |
+| Etchv | watermark-tech | black | 2026-10-14 | none found |
+| The People's Bookshelf | community-library | black | 2026-10-14 | none found |
+| RocketPay | fintech | orange | 2026-10-14 | FinBox |
+| Spill Games | gaming-ai | orange | 2026-10-14 | PlaySimple Games |
+| RevRag AI | ai-agent | orange | 2026-10-14 | Haptik |
+| Circle | resale | orange | 2026-10-14 | Olx |
