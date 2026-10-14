@@ -1897,3 +1897,9 @@
 | Neckbeard | ai-agent | black | 2026-10-14 | none found |
 | Graphicle | ai-agent | black | 2026-10-14 | none found |
 | QAWolf | qa-automation | orange | 2026-10-14 | BrowserStack |
+| CedarDB | hybrid-database | black | 2026-10-14 | none found |
+| TimeTeller | healthtech | black | 2026-10-14 | none found |
+| McKinsey & Company | recruitment-tech | orange | 2026-10-14 | Talview |
+| FutureMail | ai-email | orange | 2026-10-14 | Zoho Mail |
+| Tiny Little Office | micro-office | orange | 2026-10-14 | Awfis |
+| AI-Designed Proteases | protein-engineering | black | 2026-10-14 | none found |

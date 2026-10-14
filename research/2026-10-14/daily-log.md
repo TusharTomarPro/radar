@@ -583,3 +583,57 @@
 - India fit note: The solution relies on stable, high‑speed cloud VM provisioning and Windows licensing, which are available in India via major cloud providers, but cost and latency could be higher for smaller teams.
 - Badge guess: orange
 
+## CedarDB
+- Source article: [CedarDB wants one database to handle both transactions and analytics, as AI agents raise the stakes](https://techcrunch.com/2026/10/14/cedardb-wants-one-database-to-handle-both-transactions-and-analytics-as-ai-agents-raise-the-stakes/) (TechCrunch)
+- Category: hybrid-database
+- What it does: CedarDB provides a single database engine that can handle both transactional (OLTP) and analytical (OLAP) workloads, optimized for AI‑driven applications and agents.
+- Likely revenue model: It likely sells a cloud‑based SaaS subscription with usage‑based pricing tiers for storage, compute, and query volume.
+- India equivalent: none found
+- India fit note: Success depends on enterprises having unified data pipelines, low‑latency cloud infrastructure, and AI‑agent integration—capabilities that are still maturing in many Indian firms, especially those tied to legacy on‑prem systems.
+- Badge guess: black
+
+## TimeTeller
+- Source article: [TimeTeller puts our internal clocks at the center of personalized medicine](https://techcrunch.com/2026/10/14/timeteller-puts-our-internal-clocks-at-the-center-of-personalized-medicine/) (TechCrunch)
+- Category: healthtech
+- What it does: Offers a saliva‑based test kit that maps an individual's circadian rhythm, enabling clinicians to schedule treatments—especially chemotherapy—at optimal times to minimize side effects.
+- Likely revenue model: Sells the test kits and associated analytics platform to hospitals, clinics, and pharmaceutical companies, possibly with a per‑test or subscription fee.
+- India equivalent: none found
+- India fit note: Success depends on routine circadian testing and integration into oncology protocols, which are not yet common in India due to limited awareness, specialized lab capacity, and fragmented healthcare delivery.
+- Badge guess: black
+
+## McKinsey & Company
+- Source article: [McKinsey is making job applicants spar with a fake AI client](https://www.theverge.com/news/1011654/mckinsey-ai-client-interview) (The Verge)
+- Category: recruitment-tech
+- What it does: McKinsey uses an AI‑driven simulation of a client to conduct 10‑minute conversational interviews with entry‑level candidates, evaluating how they handle typical consulting scenarios.
+- Likely revenue model: The firm likely monetises the platform by licensing the AI interview technology to other consultancies or corporate HR departments.
+- India equivalent: Talview
+- India fit note: The model relies on stable broadband and candidates' comfort with AI‑based assessments; while Indian graduates are generally tech‑savvy, cultural acceptance of AI‑driven hiring and the need for localized scenario content could be challenges.
+- Badge guess: orange
+
+## FutureMail
+- Source article: [FutureMail](https://www.producthunt.com/products/futuremail-2) (Product Hunt)
+- Category: ai-email
+- What it does: FutureMail offers domain‑based email addresses that are optimized for both human users and AI agents, providing AI‑driven features like smart sorting, summarisation and automated replies. It aims to make email more actionable for people and their personal AI assistants.
+- Likely revenue model: A subscription‑based SaaS model, charging per mailbox or per domain tier with premium AI features unlocked at higher plans.
+- India equivalent: Zoho Mail
+- India fit note: The service relies on widespread AI‑assistant usage and high‑speed internet for real‑time AI processing, which are still emerging in India; however, the core domain email functionality aligns well with existing Indian business practices.
+- Badge guess: orange
+
+## Tiny Little Office
+- Source article: [Tiny Little Office](https://tinylittleoffice.com/) (Hacker News (front page))
+- Category: micro-office
+- What it does: Offers on‑demand, small private office pods that can be booked by the hour or day for freelancers and remote workers.
+- Likely revenue model: Charges users a pay‑per‑use fee (hourly/daily) or a subscription for a set number of bookings.
+- India equivalent: Awfis
+- India fit note: India’s price‑sensitive market may prefer larger coworking desks over ultra‑small pods, and many tier‑2 cities lack the high‑density office real‑estate needed for micro‑offices.
+- Badge guess: orange
+
+## AI-Designed Proteases
+- Source article: [Researchers use AI to design proteins that cut up other proteins](https://arstechnica.com/science/2026/10/researchers-use-ai-to-design-proteins-that-cut-up-other-proteins/) (Ars Technica)
+- Category: protein-engineering
+- What it does: Uses generative AI models to create novel protease enzymes that can cleave extremely stable protein bonds, enabling new applications in biotech and waste processing.
+- Likely revenue model: Licensing the engineered enzymes or custom design services to pharmaceutical, industrial or waste‑treatment firms.
+- India equivalent: none found
+- India fit note: The approach relies on cutting‑edge AI compute and high‑throughput protein screening infrastructure that are scarce in India, and commercial deployment would need extensive regulatory clearances for novel enzymes.
+- Badge guess: black
+
