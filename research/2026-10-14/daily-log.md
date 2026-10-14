@@ -520,3 +520,66 @@
 - India fit note: The model relies on widespread internet penetration, digital payments, and a cultural shift toward trusting strangers' homes, which are still emerging in many Indian tier‑2 and tier‑3 cities; regulatory clarity around short‑term rentals also varies across states.
 - Badge guess: orange
 
+## Mosqitter
+- Source article: [Mosqitter is turning its mosquito traps into an AI-powered surveillance network](https://techcrunch.com/2026/10/14/mosqitter-is-turning-its-mosquito-traps-into-an-ai-powered-surveillance-network/) (TechCrunch)
+- Category: healthtech
+- What it does: Mosqitter equips mosquito traps with AI vision to identify species, track population dynamics, and issue early warnings of mosquito‑borne disease outbreaks.
+- Likely revenue model: Sells the smart traps and charges a subscription fee for access to the cloud‑based analytics and alert platform, targeting governments, NGOs and public‑health agencies.
+- India equivalent: none found
+- India fit note: Successful rollout would need reliable power and cellular connectivity for each trap, plus strong coordination with India's fragmented public‑health system—both of which can be challenging in many rural and peri‑urban areas.
+- Badge guess: black
+
+## Prismm
+- Source article: [Prismm helps banks keep inherited money in-house](https://techcrunch.com/2026/10/14/prismm-helps-banks-keep-inherited-money-in-house/) (TechCrunch)
+- Category: estate-tech
+- What it does: Prismm lets account holders pre‑designate family members who can access their bank accounts and related documents after death, helping banks retain inherited assets in‑house.
+- Likely revenue model: Prismm likely charges banks a SaaS subscription or per‑user licensing fee for integrating its inheritance‑management platform.
+- India equivalent: none found
+- India fit note: The model relies on banks offering a built‑in, legally‑recognized heir‑access feature, which is uncommon in India where inheritance processes are still largely manual and governed by separate legal services.
+- Badge guess: black
+
+## Zenzap
+- Source article: [Zenzap raises $44M for its AI chat app that aims to replace WhatsApp in the workplace](https://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace/) (TechCrunch)
+- Category: enterprise-messaging
+- What it does: Zenzap offers an AI‑powered chat platform designed for workplace communication, aiming to replace consumer apps like WhatsApp with integrated automation and assistant features.
+- Likely revenue model: A subscription‑based SaaS model charging enterprises per user or per active seat.
+- India equivalent: Zoho Cliq
+- India fit note: The concept relies on widespread corporate adoption of AI assistants and high‑speed internet, which are growing in India but may face slower uptake in smaller firms and concerns around data privacy.
+- Badge guess: orange
+
+## Floqer
+- Source article: [Floqer’s AI agents research sales prospects so teams don’t have to](https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers/) (TechCrunch)
+- Category: ai-sales
+- What it does: Floqer builds AI agents that automatically research and enrich sales prospects, delivering ready‑to‑contact leads to revenue teams. The agents scrape public data, verify contact details, and surface relevant insights without manual effort.
+- Likely revenue model: A subscription‑based SaaS model, charging teams per user or per number of leads processed each month.
+- India equivalent: LeadSquared
+- India fit note: India has a large B2B sales ecosystem and widespread use of CRM tools, so the need for automated prospecting exists. However, reliance on high‑quality public web data and acceptance of AI‑generated outreach may be slower in regions with limited digital footprints.
+- Badge guess: orange
+
+## Neckbeard
+- Source article: [Neckbeard – a DevOps/platform/SRE plugin for your agent](https://github.com/bealesh/neckbeard) (Hacker News (front page))
+- Category: ai-agent
+- What it does: Neckbeard is an open‑source plugin that lets AI agents interact with DevOps, platform and SRE tooling to automate infrastructure, monitoring and incident‑response tasks.
+- Likely revenue model: The project is likely free‑core with revenue coming from paid support, custom integrations, or a hosted SaaS version for enterprises.
+- India equivalent: none found
+- India fit note: The solution assumes widespread use of modern CI/CD pipelines, cloud‑native stacks and a culture of AI‑augmented operations, which are still emerging in many Indian enterprises, so adoption may be slower without strong internal DevOps maturity.
+- Badge guess: black
+
+## Graphicle
+- Source article: [Show HN: Graphicle, a Rust port of Graphify with memory for coding agents](https://github.com/graphicle-ai/graphicle) (Hacker News (front page))
+- Category: ai-agent
+- What it does: Graphicle is a Rust implementation of Graphify that adds persistent memory capabilities for coding agents, enabling them to retain and retrieve context across interactions.
+- Likely revenue model: Likely an open‑source core with paid enterprise licensing, support contracts, or hosted SaaS for advanced memory management features.
+- India equivalent: none found
+- India fit note: Success depends on widespread Rust adoption and a developer ecosystem comfortable with building AI coding assistants, which is still nascent in India compared to Python‑centric tools.
+- Badge guess: black
+
+## QAWolf
+- Source article: [Running Windows desktop tests from Linux with disposable VMs](https://www.qawolf.com/blog/how-we-solved-windows-desktop-automation) (Hacker News (front page))
+- Category: qa-automation
+- What it does: Provides a framework to run Windows desktop UI tests from Linux by spinning up disposable Windows VMs in the cloud and integrating them into CI pipelines.
+- Likely revenue model: Subscription‑based SaaS pricing for access to the automation platform and cloud VM orchestration.
+- India equivalent: BrowserStack
+- India fit note: The solution relies on stable, high‑speed cloud VM provisioning and Windows licensing, which are available in India via major cloud providers, but cost and latency could be higher for smaller teams.
+- Badge guess: orange
+

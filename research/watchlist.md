@@ -1890,3 +1890,10 @@
 | Strafe | decentralized-messaging | black | 2026-10-14 | none found |
 | Marklo AI | ai-marketing | orange | 2026-10-14 | AdCreative.ai |
 | Airbnb | holiday-rentals | orange | 2026-10-14 | OYO Vacation Homes |
+| Mosqitter | healthtech | black | 2026-10-14 | none found |
+| Prismm | estate-tech | black | 2026-10-14 | none found |
+| Zenzap | enterprise-messaging | orange | 2026-10-14 | Zoho Cliq |
+| Floqer | ai-sales | orange | 2026-10-14 | LeadSquared |
+| Neckbeard | ai-agent | black | 2026-10-14 | none found |
+| Graphicle | ai-agent | black | 2026-10-14 | none found |
+| QAWolf | qa-automation | orange | 2026-10-14 | BrowserStack |
