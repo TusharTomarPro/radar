@@ -1882,3 +1882,11 @@
 | Spill Games | gaming-ai | orange | 2026-10-14 | PlaySimple Games |
 | RevRag AI | ai-agent | orange | 2026-10-14 | Haptik |
 | Circle | resale | orange | 2026-10-14 | Olx |
+| NTangible | sports-analytics | black | 2026-10-14 | none found |
+| Timescale | vector-search | black | 2026-10-14 | none found |
+| Pulsar | dev-tools | black | 2026-10-14 | none found |
+| Museum of Ages | virtual-museum | black | 2026-10-14 | none found |
+| Iosevka | font | orange | 2026-10-14 | Ek Type (Indian Type Foundry) – offers open‑source Indian language fonts and custom typefaces. |
+| Strafe | decentralized-messaging | black | 2026-10-14 | none found |
+| Marklo AI | ai-marketing | orange | 2026-10-14 | AdCreative.ai |
+| Airbnb | holiday-rentals | orange | 2026-10-14 | OYO Vacation Homes |

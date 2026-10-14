@@ -448,3 +448,75 @@
 - India fit note: The model relies on widespread smartphone adoption and a culture of peer‑to‑peer selling, both of which are well‑established in India, so scaling beyond Bengaluru should face few behavioral or infrastructure hurdles.
 - Badge guess: orange
 
+## NTangible
+- Source article: [NTangible bets it can predict how athletes will perform under pressure](https://techcrunch.com/2026/10/14/ntangible-bets-it-can-predict-how-athletes-will-perform-under-pressure/) (TechCrunch)
+- Category: sports-analytics
+- What it does: NTangible offers a platform that quantifies an athlete’s "clutch" factor by analyzing performance data under high‑pressure situations. It serves collegiate teams and clubs with dashboards and predictive metrics.
+- Likely revenue model: Subscription‑based SaaS licensing to sports programs, with tiered pricing for data depth and predictive insights.
+- India equivalent: none found
+- India fit note: The model relies on extensive video and sensor data from well‑structured college leagues, which are less prevalent in India, and on a cultural shift toward data‑driven coaching that is still emerging.
+- Badge guess: black
+
+## Timescale
+- Source article: [Pg_vectorsearch: An index that is faster than pgvector's IVFFlat and HNSW](https://github.com/timescale/pg_vectorsearch) (Hacker News (front page))
+- Category: vector-search
+- What it does: Provides a PostgreSQL extension that creates a fast index for high‑dimensional vector similarity search, outperforming pgvector's IVFFlat and HNSW.
+- Likely revenue model: Timescale monetizes via its managed TimescaleDB Cloud service and enterprise support subscriptions for the extension.
+- India equivalent: none found
+- India fit note: Vector search depends on widespread PostgreSQL adoption and high‑performance compute resources; while cloud infrastructure exists in India, many enterprises still rely on legacy databases, which may slow adoption.
+- Badge guess: black
+
+## Pulsar
+- Source article: [Pulsar at ESUG 2026 (new Smalltalk IDE)](https://blog.lorenzano.eu/pulsar-at-esug-2026/) (Hacker News (front page))
+- Category: dev-tools
+- What it does: Pulsar is a modern Integrated Development Environment (IDE) for the Smalltalk programming language, showcased at ESUG 2026. It provides code editing, debugging, and project management features tailored to Smalltalk developers.
+- Likely revenue model: The project is likely open‑source with revenue generated through paid support contracts, enterprise licensing, or premium plugins.
+- India equivalent: none found
+- India fit note: Smalltalk has a very small developer community in India, and the ecosystem lacks the tooling and training infrastructure needed for widespread adoption, making a niche IDE like Pulsar less likely to gain traction without dedicated community building.
+- Badge guess: black
+
+## Museum of Ages
+- Source article: [Show HN: A guided 3D Leonardo da Vinci museum, built in code](https://museumofages.org/w/vinci) (Hacker News (front page))
+- Category: virtual-museum
+- What it does: Provides a free, web‑based 3D guided tour of Leonardo da Vinci’s works, machines and house, accessible in multiple languages. The experience runs on WebGPU/WebGL2 and is pre‑rendered for low‑end devices.
+- Likely revenue model: As a nonprofit, it likely relies on donations, grants, and sponsorships rather than direct sales.
+- India equivalent: none found
+- India fit note: The model depends on reliable broadband and modern browsers, which are uneven across India, though the fallback to WebGL2 and pre‑rendered tours mitigates the barrier for many users.
+- Badge guess: black
+
+## Iosevka
+- Source article: [Iosevka is an open-source, sans-serif and slab-serif, monospace font](https://typeof.net/Iosevka/) (Hacker News (front page))
+- Category: font
+- What it does: Iosevka is an open‑source, highly configurable monospace typeface that offers both sans‑serif and slab‑serif styles with many weight and width variants.
+- Likely revenue model: The project likely relies on donations, sponsorships (e.g., GitHub Sponsors, Patreon) and occasional paid custom font services.
+- India equivalent: Ek Type (Indian Type Foundry) – offers open‑source Indian language fonts and custom typefaces.
+- India fit note: Success depends on a developer community that values highly customizable, free fonts and on reliable internet access for downloading and building the font, both of which are increasingly common in India but may still be limited in some regions.
+- Badge guess: orange
+
+## Strafe
+- Source article: [Strafe: A new open-source, E2E Encrypted, and federated alternative to Discord](https://strafe.chat/) (Hacker News (front page))
+- Category: decentralized-messaging
+- What it does: Strafe is an open‑source, end‑to‑end encrypted, federated chat platform that mimics Discord’s channels, voice, and community features.
+- Likely revenue model: Monetises through paid hosted instances, enterprise support plans, and optional premium add‑ons.
+- India equivalent: none found
+- India fit note: Widespread adoption may be hampered by limited awareness of federated, self‑hosted chat solutions in Indian enterprises and by data‑center latency concerns for real‑time voice/video.
+- Badge guess: black
+
+## Marklo AI
+- Source article: [Exclusive: Stella & Dot Founder Raises $5M For Her Next Act, AI Marketing Startup Marklo](https://news.crunchbase.com/venture/founder-raises-5m-next-act-ai-marketing-startup-marklo-herrin/) (Crunchbase News)
+- Category: ai-marketing
+- What it does: Marklo AI provides an AI‑powered platform that creates, optimizes and automates marketing campaigns and copy for brands.
+- Likely revenue model: Subscription SaaS with tiered plans based on usage or number of campaigns.
+- India equivalent: AdCreative.ai
+- India fit note: The solution relies on high‑speed internet and digital ad spend, which are widely available in Indian metros, but adoption may be slower among small businesses that lack digital marketing expertise.
+- Badge guess: orange
+
+## Airbnb
+- Source article: [India’s holiday rentals scale up as hotel supply lags](https://www.livemint.com/companies/news/india-domestic-travel-holiday-rentals-hotel-room-supply-tourism-india-11791957607420.html) (LiveMint Companies)
+- Category: holiday-rentals
+- What it does: Airbnb operates an online marketplace that connects property owners with travelers seeking short‑term accommodation, ranging from apartments to entire homes.
+- Likely revenue model: It takes a commission on each booking, typically a percentage from both the host and the guest.
+- India equivalent: OYO Vacation Homes
+- India fit note: The model relies on widespread internet penetration, digital payments, and a cultural shift toward trusting strangers' homes, which are still emerging in many Indian tier‑2 and tier‑3 cities; regulatory clarity around short‑term rentals also varies across states.
+- Badge guess: orange
+
