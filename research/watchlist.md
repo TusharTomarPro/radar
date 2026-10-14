@@ -1832,3 +1832,8 @@
 | AI GameDev Harness | ai-game-dev | black | 2026-10-13 | none found |
 | EmbeddingGemma Speech | speech-to-text | orange | 2026-10-13 | Vernacular.ai |
 | AI Voice Clone | voice-tech | black | 2026-10-13 | none found |
+| Niobia | quality-control | black | 2026-10-14 | none found |
+| cphiri.dev | developer-education | black | 2026-10-14 | none found |
+| AlphaNIST | compliance-tech | black | 2026-10-14 | none found |
+| Parsimony | ai-benchmark | black | 2026-10-14 | none found |
+| Guitoro | music-tech | black | 2026-10-14 | none found |
