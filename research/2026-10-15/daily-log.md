@@ -421,3 +421,39 @@
 - India fit note: The product relies on users owning smartphones and having reliable internet connectivity for AI updates, which may be limited in rural India. Additionally, price sensitivity among senior citizens could affect adoption compared to higher‑income urban markets.
 - Badge guess: orange
 
+## Bluesky
+- Source article: [Bluesky expands its AI-powered Attie app to let anyone build websites, games, and more](https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/) (TechCrunch)
+- Category: no-code
+- What it does: Attie is an AI‑powered platform that lets anyone create interactive experiences—websites, games, quizzes—directly tied to the Bluesky social network.
+- Likely revenue model: A freemium model with paid tiers for advanced templates, higher usage limits, and enterprise API access.
+- India equivalent: Appy Pie
+- India fit note: Success depends on a sizable Bluesky user base, which is currently limited in India, and on creators being comfortable with AI‑generated code; however, the underlying no‑code demand and internet connectivity are present.
+- Badge guess: orange
+
+## Sygal
+- Source article: [Show HN: Sygal – Convert PDFs, scans and web pages to Markdown, locally](https://sygal.app) (Hacker News (front page))
+- Category: doc-conversion
+- What it does: Sygal is a local tool that transforms PDFs, scanned documents, and web pages into clean Markdown files, preserving formatting and structure.
+- Likely revenue model: Probably a freemium model with a free basic version and a paid Pro tier or one‑time license for advanced features and priority support.
+- India equivalent: none found
+- India fit note: The product runs locally, so it doesn't rely on high‑speed internet, but its OCR and conversion quality are tuned for English documents; handling Indian languages or scripts may be limited, which could affect adoption in multilingual contexts.
+- Badge guess: black
+
+## Krea AI
+- Source article: [Krea 3 – An image model built for editing at scale](https://www.krea.ai/krea-3) (Hacker News (front page))
+- Category: generative-ai
+- What it does: Krea 3 is a large‑scale image generation model that lets users edit and transform images through text prompts, supporting high‑resolution outputs and batch operations.
+- Likely revenue model: They likely charge for API access on a pay‑per‑image or subscription basis, with higher‑tier enterprise plans for large‑scale editing workloads.
+- India equivalent: none found
+- India fit note: The model relies on massive GPU infrastructure and low‑latency cloud APIs, which are less common in India’s current AI ecosystem, and user adoption may be limited by lower awareness of AI‑driven creative tools.
+- Badge guess: black
+
+## Proa
+- Source article: [Show HN: Proa – A Rust web framework with fast SSR and multi-target rendering](https://proa.so/) (Hacker News (front page))
+- Category: web-framework
+- What it does: Proa is a Rust-based web framework that delivers fast server‑side rendering and supports multi‑target rendering for client, server and edge environments.
+- Likely revenue model: Open‑source core with paid enterprise support, consulting, or hosted SaaS offerings for performance‑critical deployments.
+- India equivalent: none found
+- India fit note: Success depends on widespread Rust adoption and high‑performance server/edge infrastructure, which are still emerging in India; the developer talent pool for Rust is smaller compared to more established languages.
+- Badge guess: black
+

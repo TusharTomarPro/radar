@@ -1950,3 +1950,7 @@
 | Maka | kids-streaming | orange | 2026-10-15 | Voot Kids |
 | Chariot | legal-tech | black | 2026-10-15 | none found |
 | STAMBHA | assistive-tech | orange | 2026-10-15 | Sankalp Innovations' SmartCane |
+| Bluesky | no-code | orange | 2026-10-15 | Appy Pie |
+| Sygal | doc-conversion | black | 2026-10-15 | none found |
+| Krea AI | generative-ai | black | 2026-10-15 | none found |
+| Proa | web-framework | black | 2026-10-15 | none found |
