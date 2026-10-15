@@ -1904,3 +1904,38 @@
 | Tiny Little Office | micro-office | orange | 2026-10-14 | Awfis |
 | AI-Designed Proteases | protein-engineering | black | 2026-10-14 | none found |
 | Liquid AI | ai-agent | black | 2026-10-15 | none found |
+| Kerno | ai-testing | orange | 2026-10-15 | Qyrus |
+| Brussle | mlops | black | 2026-10-15 | none found |
+| Atticus | voice-assistant | black | 2026-10-15 | none found |
+| Chatway | ai-support | orange | 2026-10-15 | Freshworks (Freshdesk) |
+| Superdraft | email-marketing | orange | 2026-10-15 | Zoho Campaigns |
+| Dreamscale Labs | ai-robot | black | 2026-10-15 | none found |
+| Backdrop | ai-agent | orange | 2026-10-15 | Haptik |
+| Afterparty | meeting-automation | black | 2026-10-15 | none found |
+| SaidTrace | voice-ai | black | 2026-10-15 | none found |
+| Z.ai | legal-tech | black | 2026-10-15 | none found |
+| Daddy Issues | parenting-tech | black | 2026-10-15 | none found |
+| siliXon | pcb-design | black | 2026-10-15 | none found |
+| NestJS Observe | observability | black | 2026-10-15 | none found |
+| Audio Lip Sync Pro | ai-animation | black | 2026-10-15 | none found |
+| Actually Asked | ai-faq | orange | 2026-10-15 | Yellow.ai |
+| withHuman | human-in-the-loop | black | 2026-10-15 | none found |
+| Fwrd | messaging-integration | black | 2026-10-15 | none found |
+| CinemaLut | color-grading | black | 2026-10-15 | none found |
+| Lleverage | back-office | orange | 2026-10-15 | Unicommerce |
+| Talanoa | email-tech | black | 2026-10-15 | none found |
+| Audimate | ai-assistant | orange | 2026-10-15 | Haptik |
+| Nostaliga | music-nostalgia | black | 2026-10-15 | none found |
+| Rushilo | ai-video-editing | black | 2026-10-15 | none found |
+| OpenMuse | ai-assistant | black | 2026-10-15 | none found |
+| Shrine | ai-agent | black | 2026-10-15 | none found |
+| Navige | ai-agent | black | 2026-10-15 | none found |
+| Reelbird | screen-recording | black | 2026-10-15 | none found |
+| Flipflop | p2p-file-sharing | black | 2026-10-15 | none found |
+| Ito | dev-tools | black | 2026-10-15 | none found |
+| Donaldson Futuro House | prefab housing | orange | 2026-10-15 | Godrej Habitat |
+| Confido Health | healthtech | orange | 2026-10-15 | Practo |
+| Ubiqedge | industrial-iot | orange | 2026-10-15 | Altizon |
+| Shamrock AI | ai-agent | black | 2026-10-15 | none found |
+| Only What’s Needed | food-tech | orange | 2026-10-15 | The Whole Truth |
+| Freelance Vetting Platform | background-check | black | 2026-10-15 | none found |
