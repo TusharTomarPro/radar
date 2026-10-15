@@ -1939,3 +1939,14 @@
 | Shamrock AI | ai-agent | black | 2026-10-15 | none found |
 | Only What’s Needed | food-tech | orange | 2026-10-15 | The Whole Truth |
 | Freelance Vetting Platform | background-check | black | 2026-10-15 | none found |
+| Shelly | smart-home | black | 2026-10-15 | none found |
+| SnoutCover | pet-accessories | black | 2026-10-15 | none found |
+| Uraeus AI Reverse Engineer | hardware-ai | orange | 2026-10-15 | Tata Elxsi |
+| DEsk | desktop-environment | black | 2026-10-15 | none found |
+| GridSnap | window-management | black | 2026-10-15 | none found |
+| Libreboot | open-source firmware | black | 2026-10-15 | none found |
+| Unfenced | proptech | black | 2026-10-15 | none found |
+| Garmin MCP Bridge | wearable-tech | black | 2026-10-15 | none found |
+| Maka | kids-streaming | orange | 2026-10-15 | Voot Kids |
+| Chariot | legal-tech | black | 2026-10-15 | none found |
+| STAMBHA | assistive-tech | orange | 2026-10-15 | Sankalp Innovations' SmartCane |

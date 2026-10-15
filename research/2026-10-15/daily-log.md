@@ -322,3 +322,102 @@
 - India fit note: The model relies on digital KYC infrastructure and a culture of formal background checks, which are still emerging among Indian gig platforms, so adoption may be slower.
 - Badge guess: black
 
+## Shelly
+- Source article: [Shelly’s new presence sensor simultaneously detects up to 10 people without a camera](https://www.theverge.com/tech/1011967/shellys-new-presence-sensor-simultaneously-detects-up-to-ten-people-without-a-camera) (The Verge)
+- Category: smart-home
+- What it does: The Shelly Presence Gen4 sensor uses mmWave radar to detect and count up to 10 people moving through a room or large space without recording video.
+- Likely revenue model: Sells the hardware device directly to consumers at a one‑time price, with no subscription fees.
+- India equivalent: none found
+- India fit note: The sensor depends on reliable broadband Wi‑Fi, consistent power supply, and a consumer base comfortable with smart‑home automation—factors that are still emerging in many Indian households, potentially limiting adoption.
+- Badge guess: black
+
+## SnoutCover
+- Source article: [I designed a nose guard for my dog and gave it away. Now 500 dogs wear one](https://snoutcover.com/one-year) (Hacker News (front page))
+- Category: pet-accessories
+- What it does: SnoutCover designs and sells a protective nose guard for dogs to prevent injuries while digging or playing. The device straps around the dog's snout and is made from flexible, breathable material.
+- Likely revenue model: Direct‑to‑consumer e‑commerce sales of the nose guard, possibly with optional custom sizes or colors.
+- India equivalent: none found
+- India fit note: Pet ownership is growing in India, but most owners focus on basic needs; a niche product like a dog nose guard may face low awareness and limited demand, especially given the large stray dog population and hot climate that could affect comfort.
+- Badge guess: black
+
+## Uraeus AI Reverse Engineer
+- Source article: [Using AI to reverse engineer hardware](https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/) (Hacker News (front page))
+- Category: hardware-ai
+- What it does: An AI-powered tool that analyzes physical hardware, captures signals and images, and automatically generates schematics, firmware code, and component lists to recreate or modify the device.
+- Likely revenue model: Subscription‑based SaaS with tiered pricing for enterprise teams plus optional consulting and custom model training services.
+- India equivalent: Tata Elxsi
+- India fit note: Successful adoption requires high‑performance GPU infrastructure and a culture of open‑hardware reverse engineering, which are less prevalent in India; however, the country's strong engineering talent and growing cloud compute market could mitigate these gaps.
+- Badge guess: orange
+
+## DEsk
+- Source article: [Wayland desktop for Linux with skeuomorphic design](https://github.com/fyzugx/DEsk) (Hacker News (front page))
+- Category: desktop-environment
+- What it does: DEsk is an open‑source Wayland‑based desktop environment for Linux that uses a skeuomorphic design language to mimic real‑world objects. It provides window management, panels, and theming with a retro‑style UI.
+- Likely revenue model: The project is likely funded through donations, sponsorships, or corporate backing rather than direct sales.
+- India equivalent: none found
+- India fit note: Linux desktop adoption in India remains niche and many users rely on Windows/macOS, so a skeuomorphic Wayland desktop would face limited market traction. Additionally, the required hardware and Wayland‑compatible drivers are available, but user familiarity with Linux GUIs is low.
+- Badge guess: black
+
+## GridSnap
+- Source article: [GridSnap – an open-source Divvy-style window snapper for macOS](https://github.com/konieczkow/gridsnap) (Hacker News (front page))
+- Category: window-management
+- What it does: GridSnap is an open‑source macOS utility that lets users snap application windows to a customizable grid, similar to Divvy. It streamlines multitasking by enabling precise window placement with keyboard shortcuts or mouse drags.
+- Likely revenue model: The project is free and open‑source, likely monetized through donations, sponsorships, or paid support rather than direct sales.
+- India equivalent: none found
+- India fit note: Adoption depends on a sizable macOS user base and a culture of installing third‑party desktop utilities, both of which are relatively limited in India compared to Windows or mobile ecosystems.
+- Badge guess: black
+
+## Libreboot
+- Source article: [Libreboot 26.10 "Ominous Olive" released with UEFI, Chromebook support](https://libreboot.org/news/libreboot2610.html) (Hacker News (front page))
+- Category: open-source firmware
+- What it does: Libreboot provides a free, deblobbed BIOS/UEFI replacement that can run on supported PCs and Chromebooks, removing proprietary firmware.
+- Likely revenue model: It is a community‑driven project funded primarily through donations, sponsorships and possibly merchandise sales.
+- India equivalent: none found
+- India fit note: Adoption requires hardware that is compatible with open‑source firmware and a user base comfortable flashing BIOS, both of which are limited in India where most devices ship with locked proprietary firmware.
+- Badge guess: black
+
+## Unfenced
+- Source article: [Show HN: Unfenced – Land for sale that borders public land](https://unfenced.land/) (Hacker News (front page))
+- Category: proptech
+- What it does: Unfenced is an online marketplace that lists private land parcels that directly border public land, helping buyers discover and purchase such properties for recreation, conservation, or development.
+- Likely revenue model: The platform likely earns revenue through transaction commissions or listing fees paid by sellers or brokers.
+- India equivalent: none found
+- India fit note: India's land record digitization and clear demarcation of public versus private land are uneven, which could hinder the discovery and verification of such border parcels; additionally, buyer interest in land adjacent to public spaces is less established.
+- Badge guess: black
+
+## Garmin MCP Bridge
+- Source article: [Creating a Garmin "MCP"](https://jackantico.io/garmin-mcp) (Hacker News (front page))
+- Category: wearable-tech
+- What it does: A DIY hardware/software bridge that emulates Garmin’s Multi‑Connector Protocol, allowing third‑party sensors and apps to sync data with Garmin watches.
+- Likely revenue model: Sells the bridge kit (hardware) and offers optional subscription for firmware updates and support.
+- India equivalent: none found
+- India fit note: The solution depends on Garmin’s proprietary protocol and a user base that already owns Garmin devices; Garmin’s market share in India is modest, and many users prefer cheaper local wearables, limiting immediate adoption.
+- Badge guess: black
+
+## Maka
+- Source article: [Kids’ Content Is Deeply Broken. A New Platform Wants to Fix It](https://www.wired.com/story/maka-streaming-platform-for-kids-fighting-against-ai-slop/) (Wired)
+- Category: kids-streaming
+- What it does: Maka is a streaming platform that curates high‑quality, child‑development‑focused video content, offering parents an ad‑free library of safe shows and educational videos for kids.
+- Likely revenue model: It likely operates on a subscription model, charging families a monthly fee for unlimited access to the curated library.
+- India equivalent: Voot Kids
+- India fit note: Success depends on parents willing to pay a recurring subscription for premium, ad‑free kids content and on reliable broadband connectivity, which is growing but still uneven across India, especially in tier‑2/3 regions.
+- Badge guess: orange
+
+## Chariot
+- Source article: [Exclusive: Chariot Raises $10M To Help Consumers Fight Back Against Hidden Fees And Hard-To-Cancel Subscriptions](https://news.crunchbase.com/ai/legal-tech-chariot-raise-stop-hidden-fees-subscriptions-hang/) (Crunchbase News)
+- Category: legal-tech
+- What it does: A platform that helps consumers file claims and pursue refunds against hidden fees, hard‑to‑cancel subscriptions and privacy violations.
+- Likely revenue model: Charges a success‑based fee or a percentage of any recovered amount from the merchant.
+- India equivalent: none found
+- India fit note: The model depends on a mature ecosystem of subscription billing, credit‑card disputes and a small‑claims legal process, which are less developed in India, making consumer enforcement harder.
+- Badge guess: black
+
+## STAMBHA
+- Source article: [This 11-year-old built an AI smart cane for ₹10,000 and took it to the UN](https://yourstory.com/2026/10/aaradhya-jain-11-year-old-ai-smart-cane-stambha-un) (YourStory)
+- Category: assistive-tech
+- What it does: STAMBHA is an AI‑powered smart cane that helps elderly and visually impaired users navigate obstacles and receive voice prompts. It integrates sensors, GPS and a mobile app for real‑time assistance.
+- Likely revenue model: Direct sales of the cane at around ₹10,000 with optional subscription fees for premium AI features and cloud updates.
+- India equivalent: Sankalp Innovations' SmartCane
+- India fit note: The product relies on users owning smartphones and having reliable internet connectivity for AI updates, which may be limited in rural India. Additionally, price sensitivity among senior citizens could affect adoption compared to higher‑income urban markets.
+- Badge guess: orange
+
