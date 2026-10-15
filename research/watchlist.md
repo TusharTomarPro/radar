@@ -1903,3 +1903,4 @@
 | FutureMail | ai-email | orange | 2026-10-14 | Zoho Mail |
 | Tiny Little Office | micro-office | orange | 2026-10-14 | Awfis |
 | AI-Designed Proteases | protein-engineering | black | 2026-10-14 | none found |
+| Liquid AI | ai-agent | black | 2026-10-15 | none found |
