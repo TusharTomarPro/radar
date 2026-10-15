@@ -4980,5 +4980,101 @@
     "india_cost_estimate": "\u20b935\u201155\u202flakh for a 6\u201112\u202fmonth MVP and small team (cloud/API fees \u20b95\u201110\u202flakh, 2\u20113 engineers & 1 product manager salaries \u20b930\u201145\u202flakh).",
     "risk_score": 3,
     "risk_reasoning": "The lack of identified Indian competitors suggests a clear market gap, but moderate regulatory exposure from data\u2011localisation rules adds some uncertainty. The low capital intensity keeps financial risk low, resulting in an overall modest risk profile."
+  },
+  "cubacadabra::2026-09-12": {
+    "company": "Cubacadabra",
+    "category": "3d-visualization",
+    "revised_badge": "black",
+    "competitor_status": "no-real-competitor-found",
+    "regulatory_flag": "none",
+    "capital_intensity": "low \u2013 the model is primarily software\u2011only (cloud GPU rendering, API delivery) and can be built with a small engineering team without heavy inventory or logistics spend.",
+    "known_numbers": "no public numbers found",
+    "india_cost_estimate": "\u20b912\u201120\u202flakh for 6\u201112\u202fmonths (covers 2\u20113 senior engineers, 1\u20112 junior developers, cloud GPU/CPU usage, basic SaaS tooling, and minimal office overhead).",
+    "risk_score": 4,
+    "risk_reasoning": "With no identified Indian competitors and negligible regulatory hurdles, the opportunity looks open, but the absence of any disclosed traction or revenue for Cubacadabra makes market demand uncertain. The low capital intensity keeps cash\u2011burn risk modest, yet the lack of data pushes the risk to a moderate level."
+  },
+  "interim-computer-museum::2026-09-13": {
+    "company": "Interim Computer Museum",
+    "category": "digital-museum",
+    "revised_badge": "black",
+    "competitor_status": "no-real-competitor-found",
+    "regulatory_flag": "none",
+    "capital_intensity": "medium \u2013 you need cloud hosting, digitisation of artifacts, and a small curatorial/tech team, but no heavy inventory or logistics burn.",
+    "known_numbers": "no public numbers found",
+    "india_cost_estimate": "\u20b915\u201130\u202flakh for the first 6\u201112\u202fmonths (cloud & CDN \u20b95\u20118\u202flakh, 2\u20113 staff salaries \u20b98\u201120\u202flakh, basic marketing & legal \u20b92\u20114\u202flakh).",
+    "risk_score": 4,
+    "risk_reasoning": "The market shows no direct Indian competitor, keeping competitive risk low. Regulatory exposure is minimal for a non\u2011profit digital museum. Capital needs are moderate, so the venture can be bootstrapped, but demand uncertainty and niche appeal keep the overall risk at a modest level."
+  },
+  "agentsdock::2026-09-13": {
+    "company": "AgentsDock",
+    "category": "ai-ide",
+    "revised_badge": "black",
+    "competitor_status": "no-real-competitor-found",
+    "regulatory_flag": "none",
+    "capital_intensity": "medium \u2013 building an AI\u2011IDE requires a small engineering team and cloud/GPU compute, but no heavy asset or inventory costs.",
+    "known_numbers": "no public numbers found",
+    "india_cost_estimate": "\u20b940\u201160\u202flakh for the first 6\u201112\u202fmonths (\u2248\u202f\u20b95\u201110\u202flakh for cloud/GPU usage, \u20b930\u201145\u202flakh for a 3\u2011person core team of engineers and product staff, minimal marketing spend).",
+    "risk_score": 4,
+    "risk_reasoning": "AgentsDock faces little immediate competition in India, which is a positive signal, and the SaaS model carries low regulatory risk. The main exposure is the medium capital requirement for engineering and compute resources, and the market is still nascent, so execution risk remains moderate."
+  },
+  "p-doom::2026-09-13": {
+    "company": "P(doom)",
+    "category": "dev-tools",
+    "revised_badge": "black",
+    "competitor_status": "no-real-competitor-found",
+    "regulatory_flag": "none",
+    "capital_intensity": "low \u2013 the offering appears to be a software\u2011only analytics/forecasting tool, requiring only talent and cloud compute, not heavy inventory or logistics.",
+    "known_numbers": "no public numbers found",
+    "india_cost_estimate": "\u20b910\u201120\u202flakh for 6\u201112\u202fmonths (cloud compute, data storage, and a small team of 2\u20114 engineers/analysts, assuming no paid marketing or large\u2011scale infrastructure).",
+    "risk_score": 3,
+    "risk_reasoning": "The search evidence shows no existing Indian competitor and no regulatory hurdles, and the product seems low\u2011capital\u2011intensive, making entry relatively inexpensive. The main uncertainty is market demand for a niche AI\u2011risk metric, but from a risk\u2011assessment perspective the combination of low competition, low regulation, and low capital needs yields a modest risk score."
+  },
+  "kirokune::2026-09-13": {
+    "company": "Kirokune",
+    "category": "incident-management",
+    "revised_badge": "black",
+    "competitor_status": "no-real-competitor-found",
+    "regulatory_flag": "moderate \u2013 Indian data\u2011localisation rules (e.g., Personal Data Protection Bill, RBI guidelines for critical data) may require storing incident logs on Indian servers.",
+    "capital_intensity": "low \u2013 the model is SaaS\u2011only, asset\u2011light and can be built with a small engineering team and cloud services.",
+    "known_numbers": "no public numbers found",
+    "india_cost_estimate": "\u20b912\u201125\u202flakh for 6\u201112\u202fmonths (covers 2\u20113 senior engineers, a product manager, cloud hosting, basic compliance tooling, and minimal office overhead).",
+    "risk_score": 5,
+    "risk_reasoning": "The lack of identified competitors suggests a potential first\u2011mover advantage, but the gap is likely temporal and could be filled by existing global incumbents. Regulatory exposure is moderate due to data\u2011localisation requirements, while the capital needs are low, keeping the overall risk moderate."
+  },
+  "epilude::2026-09-13": {
+    "company": "Epilude",
+    "category": "note-taking",
+    "revised_badge": "black",
+    "competitor_status": "no-real-competitor-found",
+    "regulatory_flag": "moderate \u2013 India\u2019s Personal Data Protection Bill (and related data\u2011localisation rules) requires personal data of Indian users to be stored within the country, adding compliance overhead.",
+    "capital_intensity": "low \u2013 the business is pure SaaS, asset\u2011light and can reach profitability with modest cloud spend and a small engineering team.",
+    "known_numbers": "no public numbers found",
+    "india_cost_estimate": "\u20b930\u201140\u202flakh for 6\u201112\u202fmonths (cloud/API hosting ~\u20b91.5\u20112\u202flakh, 2\u20113 engineers and a product manager ~\u20b925\u201135\u202flakh, plus miscellaneous overhead).",
+    "risk_score": 5,
+    "risk_reasoning": "The market appears unserved today, which is an opportunity but also a sign of low demand or high entry barriers; regulatory compliance is moderate due to data\u2011localisation rules, while capital needs are low. Combined, these factors give a medium risk profile."
+  },
+  "screencursor::2026-09-13": {
+    "company": "ScreenCursor",
+    "category": "screen-recording",
+    "revised_badge": "black",
+    "competitor_status": "no-real-competitor-found",
+    "regulatory_flag": "moderate \u2013 Indian data\u2011localisation rules (e.g., the Personal Data Protection Bill draft and RBI/IT Act requirements for storing user\u2011generated video data domestically) could add compliance overhead.",
+    "capital_intensity": "low \u2013 the model is asset\u2011light SaaS (cloud storage, video transcoding, a small dev/ops team) and can reach profitability without heavy upfront cash burn.",
+    "known_numbers": "no public numbers found",
+    "india_cost_estimate": "\u20b912\u201120\u202flakh for 6\u201112\u202fmonths (cloud/video\u2011processing credits, storage, 2\u20113 engineers, minimal marketing).",
+    "risk_score": 4,
+    "risk_reasoning": "ScreenCursor faces virtually no direct Indian competitor, but modest regulatory friction around data localisation adds some risk. The business is low\u2011capital\u2011intensity and can be bootstrapped, keeping the overall risk moderate. Hence a risk score of 4 out of 10."
+  },
+  "demotv::2026-09-13": {
+    "company": "DemoTV",
+    "category": "demo-platform",
+    "revised_badge": "orange",
+    "competitor_status": "dead",
+    "regulatory_flag": "none",
+    "capital_intensity": "low -- software-only demo platform, asset-light, no inventory or fleet; can reach profitability on modest capital with a small team",
+    "known_numbers": "DemoTV (India) founded 2014, raised <$1M, employed 50-100, shut down 2016 due to lack of product-market fit; no public revenue, valuation, or MAU figures found for any current entity",
+    "india_cost_estimate": "\u20b915-30 lakh for a 6-12 month MVP with a 2-4 person team (engineers/designers at \u20b950k-1L/month each) plus cloud/API costs",
+    "risk_score": 6,
+    "risk_reasoning": "A prior Indian incarnation of DemoTV failed in 2016 after two years due to lack of product-market fit despite a team of 50-100 and <$1M funding, signaling potential adoption challenges for the category. No regulatory barriers exist for a pure software demo platform, and capital intensity is low, but the historical failure warrants thorough validation of demand and differentiation before committing resources."
   }
 }
