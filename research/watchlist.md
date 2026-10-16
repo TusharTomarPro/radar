@@ -1954,3 +1954,5 @@
 | Sygal | doc-conversion | black | 2026-10-15 | none found |
 | Krea AI | generative-ai | black | 2026-10-15 | none found |
 | Proa | web-framework | black | 2026-10-15 | none found |
+| Sill | remote-desktop | orange | 2026-10-16 | Zoho Assist |
+| BeBox | os-emulation | black | 2026-10-16 | none found |
