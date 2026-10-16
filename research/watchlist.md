@@ -1962,3 +1962,36 @@
 | Pomerado | web-scraping | orange | 2026-10-16 | Scrapeasy |
 | Skylight | digital-calendar | black | 2026-10-16 | none found |
 | RapidCanvas | enterprise-ai | orange | 2026-10-16 | Fractal Analytics |
+| Tressfecta | beauty-tech | black | 2026-10-16 | none found |
+| Apple | mobile-accessories | orange | 2026-10-16 | Mivi |
+| Taim | ai-assistant | black | 2026-10-16 | none found |
+| Muse Spark Open | generative-ai | black | 2026-10-16 | none found |
+| NANI | ai-translation | black | 2026-10-16 | none found |
+| BOSS Console | ai-agent | black | 2026-10-16 | none found |
+| Dottr | legal-tech | orange | 2026-10-16 | LegalDesk |
+| SignWith | legal-tech | orange | 2026-10-16 | eSignly |
+| FinderGit | dev-tools | black | 2026-10-16 | none found |
+| Holm | home-dashboard | black | 2026-10-16 | none found |
+| Tetriz | ai-agent | black | 2026-10-16 | none found |
+| DOYT | productivity-app | black | 2026-10-16 | none found |
+| Grablo Spot | ai-surveillance | black | 2026-10-16 | none found |
+| Scalebrowser | ai-agent | black | 2026-10-16 | none found |
+| Maybloc | speech-to-text | orange | 2026-10-16 | Vernacular.ai |
+| Atelier | ai-agent | black | 2026-10-16 | none found |
+| Helicon | dev-tools | black | 2026-10-16 | none found |
+| Mermaid | mac-automation | black | 2026-10-16 | none found |
+| Nudgebox | web-push | orange | 2026-10-16 | MoEngage |
+| Tidy Design | design-tool | black | 2026-10-16 | none found |
+| Neophyte | ai-agent | black | 2026-10-16 | none found |
+| Skisso | design-tools | black | 2026-10-16 | none found |
+| Palomino | ai-agent | black | 2026-10-16 | none found |
+| iKnowMyMac | system-utility | black | 2026-10-16 | none found |
+| Toad | ai-agent | orange | 2026-10-16 | IoTfy |
+| Agent Vault | ai-agent | black | 2026-10-16 | none found |
+| Sparrow | webhook-service | black | 2026-10-16 | none found |
+| Kalesh Judge | dispute-resolution | black | 2026-10-16 | none found |
+| OneDeploy | managed-hosting | black | 2026-10-16 | none found |
+| Grimoire | bioinformatics | black | 2026-10-16 | none found |
+| rStation | ai-agent | black | 2026-10-16 | none found |
+| Software Rendering Engine | graphics-tech | black | 2026-10-16 | none found |
+| Bark | retro-social | black | 2026-10-16 | none found |
