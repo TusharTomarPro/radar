@@ -1995,3 +1995,9 @@
 | rStation | ai-agent | black | 2026-10-16 | none found |
 | Software Rendering Engine | graphics-tech | black | 2026-10-16 | none found |
 | Bark | retro-social | black | 2026-10-16 | none found |
+| Black Forest Labs | generative-ai | black | 2026-10-16 | none found |
+| Stoke Money | fintech | black | 2026-10-16 | none found |
+| PS5LM | ai-inference | black | 2026-10-16 | none found |
+| GifCities | digital-archive | black | 2026-10-16 | none found |
+| dev-null | dev-social | orange | 2026-10-16 | Hashnode |
+| It Matters A Lot | wellness | orange | 2026-10-16 | The Mind Tribe |
