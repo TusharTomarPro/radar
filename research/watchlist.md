@@ -1956,3 +1956,9 @@
 | Proa | web-framework | black | 2026-10-15 | none found |
 | Sill | remote-desktop | orange | 2026-10-16 | Zoho Assist |
 | BeBox | os-emulation | black | 2026-10-16 | none found |
+| Memory Chess | edtech | black | 2026-10-16 | none found |
+| Fish Speech | ai-voice | black | 2026-10-16 | none found |
+| Parallax | ai-agent | black | 2026-10-16 | none found |
+| Pomerado | web-scraping | orange | 2026-10-16 | Scrapeasy |
+| Skylight | digital-calendar | black | 2026-10-16 | none found |
+| RapidCanvas | enterprise-ai | orange | 2026-10-16 | Fractal Analytics |
