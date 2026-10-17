@@ -151,3 +151,30 @@
 - India fit note: The model depends on a strong PC/console gamer base and reliable digital distribution, which are growing in India, but lower console penetration could limit reach compared to markets with higher console adoption.
 - Badge guess: orange
 
+## Esp32sim
+- Source article: [Show HN: Esp32sim – Run ESP32 firmware in the browser](https://github.com/mikroverk/esp32sim) (Hacker News (front page))
+- Category: iot-simulation
+- What it does: Esp32sim is an open‑source tool that emulates ESP32 microcontroller firmware directly in a web browser, allowing developers to test and debug code without physical hardware.
+- Likely revenue model: The project is free and open‑source, likely monetized through donations, sponsorships, or paid consulting/support services.
+- India equivalent: none found
+- India fit note: Adoption depends on reliable high‑speed internet and a developer culture comfortable with browser‑based embedded simulation, which are still emerging in many Indian hardware startups.
+- Badge guess: black
+
+## Xiaomi
+- Source article: [Why Xiaomi phones have so many ads (and how to block them)](https://www.engadget.com/2284023/xiaomi-phone-why-so-many-ads/) (Engadget)
+- Category: ad-supported
+- What it does: Xiaomi embeds promotional content and ads into its Android UI and native apps, allowing the company to subsidize device prices. Users can opt‑out or block many of these ads with settings tweaks or third‑party tools.
+- Likely revenue model: Revenue is generated from ad impressions, clicks and sponsored placements within the phone’s system apps, offsetting hardware costs.
+- India equivalent: none found
+- India fit note: The model relies on users tolerating ads in core system apps and on a relatively open Android ecosystem; Indian consumers are price‑sensitive but may reject intrusive ads, and carriers often bundle ad‑free firmware, limiting scalability.
+- Badge guess: black
+
+## ChargePoint
+- Source article: [These common charging habits could be degrading your EV battery](https://www.engadget.com/2283982/common-changing-habits-degrading-ev-battery/) (Engadget)
+- Category: ev-charging
+- What it does: Operates a global network of electric vehicle charging stations and provides software to optimise charging sessions and battery health.
+- Likely revenue model: Earns revenue through hardware sales, subscription fees for network management software, and per‑kWh usage fees.
+- India equivalent: Tata Power EV Charging
+- India fit note: Successful adoption relies on a dense, reliable charging infrastructure and user habits of regular, moderate charging; India's charging network is still expanding, and many owners lack access to Level 2/fast chargers, which could limit immediate impact.
+- Badge guess: orange
+

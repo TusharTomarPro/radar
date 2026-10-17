@@ -2018,3 +2018,6 @@
 | CrewTower | ai-assistant | black | 2026-10-17 | none found |
 | CryptoEstate | crypto-legacy | black | 2026-10-17 | none found |
 | Double Fine | indie-game | orange | 2026-10-17 | Nodding Heads Games |
+| Esp32sim | iot-simulation | black | 2026-10-17 | none found |
+| Xiaomi | ad-supported | black | 2026-10-17 | none found |
+| ChargePoint | ev-charging | orange | 2026-10-17 | Tata Power EV Charging |
