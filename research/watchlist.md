@@ -2002,3 +2002,13 @@
 | dev-null | dev-social | orange | 2026-10-16 | Hashnode |
 | It Matters A Lot | wellness | orange | 2026-10-16 | The Mind Tribe |
 | Wahlberg Fitness | wellness-gym | orange | 2026-10-17 | Cult.fit |
+| Caldera | knowledge-base | black | 2026-10-17 | none found |
+| NitroStack | devops-platform | black | 2026-10-17 | none found |
+| Craft Agents | ai-agent | orange | 2026-10-17 | Haptik |
+| LooGo | toilet-finder | black | 2026-10-17 | none found |
+| Ultracite | dev-tools | orange | 2026-10-17 | DeepSource |
+| Earnote | note-taking | orange | 2026-10-17 | Zoho Notebook |
+| Emochi | mental-wellness | black | 2026-10-17 | none found |
+| Korinotch | productivity | black | 2026-10-17 | none found |
+| Salience | web-analytics | black | 2026-10-17 | none found |
+| Llmspeed | ai-infra | black | 2026-10-17 | none found |
