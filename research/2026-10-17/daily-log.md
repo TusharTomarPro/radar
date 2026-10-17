@@ -205,3 +205,12 @@
 - India fit note: The product relies on niche novelty demand and internet‑based AI inference, which may have limited commercial appeal in India where such specific sound‑effects services are not common.
 - Badge guess: black
 
+## Things to Do API
+- Source article: [Show HN: Things to Do API](https://thingstodoapi.com/) (Hacker News (front page))
+- Category: event-data
+- What it does: Provides a searchable API of local events such as pop‑ups, one‑off gatherings, concerts, and similar happenings, currently for the San Francisco Bay Area. It aggregates data by tracking influential social accounts and fan‑out scraping to deliver a consolidated events feed.
+- Likely revenue model: Charges developers and businesses a subscription or pay‑per‑call fee for API access and higher‑tier data packages.
+- India equivalent: Eventbrite India
+- India fit note: The model relies on dense social‑media posting and influencer networks, which exist in India but are spread across many regional platforms and languages, requiring additional localization and data‑source integration. Infrastructure for real‑time API delivery is available, but coverage consistency may be harder in tier‑2/3 cities.
+- Badge guess: orange
+
