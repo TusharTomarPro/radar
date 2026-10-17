@@ -2012,3 +2012,9 @@
 | Korinotch | productivity | black | 2026-10-17 | none found |
 | Salience | web-analytics | black | 2026-10-17 | none found |
 | Llmspeed | ai-infra | black | 2026-10-17 | none found |
+| Draper | biz-planning | black | 2026-10-17 | none found |
+| Spiralens | camera-app | black | 2026-10-17 | none found |
+| Parrot | meeting-assistant | black | 2026-10-17 | none found |
+| CrewTower | ai-assistant | black | 2026-10-17 | none found |
+| CryptoEstate | crypto-legacy | black | 2026-10-17 | none found |
+| Double Fine | indie-game | orange | 2026-10-17 | Nodding Heads Games |

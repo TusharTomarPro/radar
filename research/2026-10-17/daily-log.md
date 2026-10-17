@@ -97,3 +97,57 @@
 - India fit note: The service assumes users have access to high‑end GPUs or specialized AI accelerators, which are still scarce and expensive for many Indian startups and developers, and it also relies on a culture of pre‑purchase performance testing that isn’t widespread locally.
 - Badge guess: black
 
+## Draper
+- Source article: [Draper](https://www.producthunt.com/products/draper) (Product Hunt)
+- Category: biz-planning
+- What it does: Offers a step‑by‑step platform that helps founders validate ideas, create business plans, and launch their companies.
+- Likely revenue model: Subscription‑based SaaS with tiered plans (free tier for basic validation, paid tiers for advanced planning tools).
+- India equivalent: none found
+- India fit note: The model assumes widespread use of structured digital planning tools, which may be less common among Indian founders who rely heavily on informal mentorship and government schemes; internet penetration and willingness to pay for SaaS tools could limit adoption.
+- Badge guess: black
+
+## Spiralens
+- Source article: [Spiralens](https://www.producthunt.com/products/spiralens) (Product Hunt)
+- Category: camera-app
+- What it does: Spiralens is a smartphone camera app that overlays the golden ratio grid in real time and guides users on how to move their phone to achieve aesthetically balanced shots. It uses AR cues to suggest direction and distance adjustments for better composition.
+- Likely revenue model: The app likely follows a freemium model, offering basic grid overlays for free and charging a subscription or one‑time fee for premium features such as advanced composition tools, ad‑free experience, and cloud storage.
+- India equivalent: none found
+- India fit note: The concept relies on AR overlays and real‑time processing, which work on most modern Android and iOS devices common in India, but user awareness of golden‑ratio composition may be low, requiring education or marketing to drive adoption.
+- Badge guess: black
+
+## Parrot
+- Source article: [Parrot](https://www.producthunt.com/products/parrot-10) (Product Hunt)
+- Category: meeting-assistant
+- What it does: Parrot is a smart meeting assistant for macOS that provides real‑time transcription, highlights key moments, and generates concise summaries during video calls.
+- Likely revenue model: A subscription‑based SaaS model with a freemium tier and paid plans for advanced AI features and team collaboration.
+- India equivalent: none found
+- India fit note: The product relies heavily on macOS adoption and high‑quality, low‑latency internet connections, both of which are less prevalent in Indian corporate environments where Windows and mobile platforms dominate.
+- Badge guess: black
+
+## CrewTower
+- Source article: [CrewTower Mod for Claude Code](https://www.producthunt.com/products/crew-tower) (Product Hunt)
+- Category: ai-assistant
+- What it does: Provides a MacBook notch‑integrated interface to converse with Claude Code, allowing developers to query and generate code without leaving the desktop.
+- Likely revenue model: Offers a subscription tier for premium features or charges per‑seat for enterprise teams.
+- India equivalent: none found
+- India fit note: The product depends on MacBook hardware with a notch and macOS integration, which have low adoption in India, limiting its immediate market relevance.
+- Badge guess: black
+
+## CryptoEstate
+- Source article: [Don’t Let a Crypto Inheritance Get Stuck on the Blockchain](https://www.wired.com/story/crypto-inheritance-how-to/) (Wired)
+- Category: crypto-legacy
+- What it does: Provides a secure vault and smart‑contract based platform that lets crypto owners store private keys and designate heirs, automating asset transfer when death is verified.
+- Likely revenue model: Charges a monthly/annual subscription for vault access plus a small fee on each successful inheritance execution.
+- India equivalent: none found
+- India fit note: The model relies on clear legal recognition of digital assets and a robust KYC/ probate framework, which are still evolving in India, and on widespread use of secure hardware wallets that many Indian users lack.
+- Badge guess: black
+
+## Double Fine
+- Source article: [Double Fine's first post-Xbox title, first-person Soulslikes and other new indie games worth checking out](https://www.engadget.com/2289293/double-fine-first-post-xbox-title-first-person-soulslikes-and-other-new-indie-games/) (Engadget)
+- Category: indie-game
+- What it does: Develops and publishes indie video games, recently announced its first title after moving away from exclusive Xbox publishing.
+- Likely revenue model: Sells the game through digital storefronts (Steam, Epic, console stores) with possible DLC or early‑access monetisation.
+- India equivalent: Nodding Heads Games
+- India fit note: The model depends on a strong PC/console gamer base and reliable digital distribution, which are growing in India, but lower console penetration could limit reach compared to markets with higher console adoption.
+- Badge guess: orange
+
