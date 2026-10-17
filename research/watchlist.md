@@ -2021,3 +2021,6 @@
 | Esp32sim | iot-simulation | black | 2026-10-17 | none found |
 | Xiaomi | ad-supported | black | 2026-10-17 | none found |
 | ChargePoint | ev-charging | orange | 2026-10-17 | Tata Power EV Charging |
+| tsc-ts | dev-tools | black | 2026-10-17 | none found |
+| Pele | dev-tools | black | 2026-10-17 | none found |
+| Duck Pond | audio-synth | black | 2026-10-17 | none found |

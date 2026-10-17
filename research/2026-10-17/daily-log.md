@@ -178,3 +178,30 @@
 - India fit note: Successful adoption relies on a dense, reliable charging infrastructure and user habits of regular, moderate charging; India's charging network is still expanding, and many owners lack access to Level 2/fast chargers, which could limit immediate impact.
 - Badge guess: orange
 
+## tsc-ts
+- Source article: [tsc-ts: TypeScript written in TypeScript](https://github.com/vercel-labs/tsc-ts) (Hacker News (front page))
+- Category: dev-tools
+- What it does: tsc-ts is a TypeScript compiler written in TypeScript, allowing the compiler to be self‑hosted and more easily extended by the community.
+- Likely revenue model: It is an open‑source project funded by Vercel Labs as part of their developer tooling ecosystem, with no direct monetisation.
+- India equivalent: none found
+- India fit note: Success depends on a mature TypeScript adoption and open‑source contribution culture, which exist in India, but the niche of a self‑hosted compiler may see limited commercial demand.
+- Badge guess: black
+
+## Pele
+- Source article: [Pele – Mermaid diagrams as themeable SVG](https://pele.run/) (Hacker News (front page))
+- Category: dev-tools
+- What it does: Pele converts Mermaid diagram definitions into themeable, customizable SVG assets that can be embedded in documentation, websites, or applications.
+- Likely revenue model: Offers a freemium model with a free open‑source core and paid plans for hosted rendering, API access, and advanced theming features.
+- India equivalent: none found
+- India fit note: The product relies on developers using Mermaid syntax and needing SVG theming, which is common in Indian tech firms, but awareness of such a niche tool may be low; the required web infrastructure is readily available.
+- Badge guess: black
+
+## Duck Pond
+- Source article: [Show HN: High-quality duck audio synthesizer](https://celphase.github.io/duck-pond/) (Hacker News (front page))
+- Category: audio-synth
+- What it does: An online tool that generates high‑quality, realistic duck quacks and other duck‑related sounds using AI synthesis. Users can customize pitch, duration, and other parameters.
+- Likely revenue model: Probably a freemium model where basic sound generation is free and a paid API or subscription unlocks bulk downloads, higher fidelity, or commercial licensing.
+- India equivalent: none found
+- India fit note: The product relies on niche novelty demand and internet‑based AI inference, which may have limited commercial appeal in India where such specific sound‑effects services are not common.
+- Badge guess: black
+
