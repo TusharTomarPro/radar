@@ -196,3 +196,30 @@
 - India fit note: The product relies on a community of developers accustomed to modal editors like Vim/Helix, which is niche in India, and assumes widespread high‑speed internet for downloading updates, which may limit rapid adoption.
 - Badge guess: black
 
+## Together Computer
+- Source article: [Hybrid Reasoning Agents: LLM agents that think in latent space, act through text](https://arxiv.org/abs/2610.18861) (Hacker News (front page))
+- Category: ai-agent
+- What it does: HybridAgent provides LLM-powered agents that perform reasoning in latent (vector) space and execute actions via natural language, blending neural and symbolic reasoning capabilities.
+- Likely revenue model: Offers a freemium/open‑source core with paid API access, enterprise licensing, and cloud compute billing for high‑throughput usage.
+- India equivalent: none found
+- India fit note: The model relies on large‑scale compute and access to cutting‑edge foundation models, which may be less accessible or more expensive in India, and adoption may be limited by slower cloud infrastructure in some regions.
+- Badge guess: black
+
+## Ranet3
+- Source article: [Show HN: Ranet3 – High performance policy routed IPsec mesh SD-WAN](https://ranet3.com/) (Hacker News (front page))
+- Category: sd-wan
+- What it does: Ranet3 is a high‑performance, policy‑routed IPsec mesh SD‑WAN that creates secure, routable public‑IP connections between devices over the internet.
+- Likely revenue model: Probably a subscription or licensing model for enterprise deployments, with optional paid support and management services.
+- India equivalent: Tata Communications
+- India fit note: India has widespread broadband and 4G/5G coverage, but dynamic IP allocation and ISP policies may limit consistent public IP routing, requiring additional NAT traversal solutions.
+- Badge guess: orange
+
+## Inscryption
+- Source article: [After five years, Inscryption is finally coming to mobile](https://www.engadget.com/2289805/after-five-years-inscryption-is-finally-coming-to-mobile/) (Engadget)
+- Category: mobile-gaming
+- What it does: Inscryption is a puzzle‑horror deck‑building game that has been ported to iOS and Android, letting players experience its narrative and mechanics on mobile devices.
+- Likely revenue model: The game is sold as a one‑time purchase on app stores, possibly with optional in‑app purchases for cosmetic items or expansions.
+- India equivalent: none found
+- India fit note: India has strong smartphone penetration and a large mobile‑gaming audience, so the platform is viable, but the niche indie horror‑deck‑building genre may have limited mass appeal compared to more casual titles.
+- Badge guess: black
+

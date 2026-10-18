@@ -2047,3 +2047,6 @@
 | Zelda Timeline Visualizer | gaming-visualization | black | 2026-10-18 | none found |
 | PalmOS Lemmings | retro-gaming | black | 2026-10-18 | none found |
 | Mitos | code-editor | black | 2026-10-18 | none found |
+| Together Computer | ai-agent | black | 2026-10-18 | none found |
+| Ranet3 | sd-wan | orange | 2026-10-18 | Tata Communications |
+| Inscryption | mobile-gaming | black | 2026-10-18 | none found |
