@@ -2025,3 +2025,18 @@
 | Pele | dev-tools | black | 2026-10-17 | none found |
 | Duck Pond | audio-synth | black | 2026-10-17 | none found |
 | Things to Do API | event-data | orange | 2026-10-17 | Eventbrite India |
+| Latch | digital-wellness | black | 2026-10-18 | none found |
+| Openbroca | voice-ai | black | 2026-10-18 | none found |
+| Krea | ai-image | black | 2026-10-18 | none found |
+| PasteKit | dev-tools | black | 2026-10-18 | none found |
+| shim-cli | dev-tools | black | 2026-10-18 | none found |
+| SpeechFast | speech-to-text | orange | 2026-10-18 | Reverie |
+| MeetPaw | productivity | orange | 2026-10-18 | Zoho Meeting |
+| Tomo | ai-education | black | 2026-10-18 | none found |
+| Tower | developer-tools | black | 2026-10-18 | none found |
+| Inbox Zero | email-client | black | 2026-10-18 | none found |
+| MyLens | ai-presentation | black | 2026-10-18 | none found |
+| Gravity Notes | ai-note | orange | 2026-10-18 | Zoho Notebook |
+| Popcraft | generative-ai | orange | 2026-10-18 | InVideo |
+| Sphinx | dev-tools | black | 2026-10-18 | none found |
+| LPViz | math-visualization | black | 2026-10-18 | none found |
