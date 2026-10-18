@@ -2042,3 +2042,6 @@
 | LPViz | math-visualization | black | 2026-10-18 | none found |
 | Open MicroManipulator | precision-hardware | orange | 2026-10-18 | Mikro Instruments |
 | Teal | dev-tools | black | 2026-10-18 | none found |
+| Humanlayer | human-in-the-loop | black | 2026-10-18 | none found |
+| RepRap Micron | desktop-3d-printer | orange | 2026-10-18 | Objectify |
+| Zelda Timeline Visualizer | gaming-visualization | black | 2026-10-18 | none found |

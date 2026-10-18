@@ -151,3 +151,30 @@
 - India fit note: Adoption relies on a niche Lua developer community and a culture that values static typing for scripting languages, which is limited in India compared to more mainstream languages like JavaScript or Python.
 - Badge guess: black
 
+## Humanlayer
+- Source article: [Someone Behind the Software](https://karrisaarinen.com/posts/someone-behind-the-software/) (Hacker News (front page))
+- Category: human-in-the-loop
+- What it does: Provides an API that routes ambiguous or complex tasks to on‑demand human operators, letting developers embed real‑time human assistance into their software products. It acts as a safety net for AI‑driven workflows that need manual judgment.
+- Likely revenue model: Charges customers per‑task or via a tiered subscription based on the volume of human‑handled requests.
+- India equivalent: none found
+- India fit note: The model relies on a large, low‑cost, highly skilled remote workforce and fast internet connectivity; India has the talent pool but the pay‑per‑task pricing and latency expectations may need adjustment for local wage standards and network reliability.
+- Badge guess: black
+
+## RepRap Micron
+- Source article: [RepRapMicron](https://github.com/VikOlliver/RepRapMicron/wiki) (Hacker News (front page))
+- Category: desktop-3d-printer
+- What it does: An open‑source, low‑cost desktop 3D printer that delivers micron‑level resolution for hobbyists and small‑scale prototyping.
+- Likely revenue model: Sells printer kits, assembled units, and consumables such as filaments and upgrade parts.
+- India equivalent: Objectify
+- India fit note: The concept relies on a reliable electricity supply and a local ecosystem for filament and spare parts, which are still emerging in many Indian regions, but growing demand in education and prototyping makes it viable.
+- Badge guess: orange
+
+## Zelda Timeline Visualizer
+- Source article: [Show HN: The Zelda timeline to catch up before the Ocarina of Time remake](https://legendofhyrule.com/) (Hacker News (front page))
+- Category: gaming-visualization
+- What it does: Creates an interactive visual timeline of the Zelda series storyline, mapping branching narratives across games.
+- Likely revenue model: Probably free with optional donations or ad revenue, as it appears to be a hobby project.
+- India equivalent: none found
+- India fit note: The tool relies only on web access and fan interest, which exist in India, but it doesn't depend on any unique infrastructure or behavior absent there.
+- Badge guess: black
+
