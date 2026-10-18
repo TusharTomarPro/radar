@@ -2045,3 +2045,5 @@
 | Humanlayer | human-in-the-loop | black | 2026-10-18 | none found |
 | RepRap Micron | desktop-3d-printer | orange | 2026-10-18 | Objectify |
 | Zelda Timeline Visualizer | gaming-visualization | black | 2026-10-18 | none found |
+| PalmOS Lemmings | retro-gaming | black | 2026-10-18 | none found |
+| Mitos | code-editor | black | 2026-10-18 | none found |

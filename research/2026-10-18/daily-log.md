@@ -178,3 +178,21 @@
 - India fit note: The tool relies only on web access and fan interest, which exist in India, but it doesn't depend on any unique infrastructure or behavior absent there.
 - Badge guess: black
 
+## PalmOS Lemmings
+- Source article: [PalmOS Lemmings by Aaron Ardiri](https://github.com/ardiri/palmos-lemmings) (Hacker News (front page))
+- Category: retro-gaming
+- What it does: Ports the classic Lemmings game to run on legacy PalmOS handheld devices.
+- Likely revenue model: Open‑source project with no direct revenue; may rely on donations or sponsorships.
+- India equivalent: none found
+- India fit note: The product targets obsolete PalmOS hardware, which is virtually absent in India, and requires a niche community of retro‑device enthusiasts.
+- Badge guess: black
+
+## Mitos
+- Source article: [Mitos editor is a fork of Helix](https://mitos.computer/) (Hacker News (front page))
+- Category: code-editor
+- What it does: Mitos is a modern, modal text editor that forks the Helix codebase, offering a fast, keyboard‑centric editing experience for developers.
+- Likely revenue model: Free open‑source software funded through donations, sponsorships, or paid support services.
+- India equivalent: none found
+- India fit note: The product relies on a community of developers accustomed to modal editors like Vim/Helix, which is niche in India, and assumes widespread high‑speed internet for downloading updates, which may limit rapid adoption.
+- Badge guess: black
+
