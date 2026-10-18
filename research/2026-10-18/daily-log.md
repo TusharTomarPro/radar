@@ -133,3 +133,21 @@
 - India fit note: The tool depends on modern browsers and reliable internet, both available in India, but its niche focus on LP visualization may limit adoption without targeted educational outreach.
 - Badge guess: black
 
+## Open MicroManipulator
+- Source article: [Open MicroManipulator – A sub-micrometer 3D motion control plattform](https://github.com/0x23/MicroManipulatorStepper) (Hacker News (front page))
+- Category: precision-hardware
+- What it does: An open‑source platform that provides sub‑micrometer 3D motion control using stepper motors for micro‑manipulation and microscopy applications.
+- Likely revenue model: Selling ready‑made kits, custom hardware builds, and possibly licensing the design to research labs and OEMs.
+- India equivalent: Mikro Instruments
+- India fit note: The product relies on ultra‑precise manufacturing and clean‑room handling, which exist in Indian research institutes but are limited to niche labs, so market adoption may be slower.
+- Badge guess: orange
+
+## Teal
+- Source article: [Teal – A statically-typed dialect of Lua](https://teal-language.org/) (Hacker News (front page))
+- Category: dev-tools
+- What it does: Teal is a statically-typed dialect of the Lua programming language that compiles to pure Lua code, adding optional type annotations and compile-time checks.
+- Likely revenue model: It is an open‑source project likely funded through donations, sponsorships, and possibly paid consulting or support services.
+- India equivalent: none found
+- India fit note: Adoption relies on a niche Lua developer community and a culture that values static typing for scripting languages, which is limited in India compared to more mainstream languages like JavaScript or Python.
+- Badge guess: black
+

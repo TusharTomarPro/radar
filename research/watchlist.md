@@ -2040,3 +2040,5 @@
 | Popcraft | generative-ai | orange | 2026-10-18 | InVideo |
 | Sphinx | dev-tools | black | 2026-10-18 | none found |
 | LPViz | math-visualization | black | 2026-10-18 | none found |
+| Open MicroManipulator | precision-hardware | orange | 2026-10-18 | Mikro Instruments |
+| Teal | dev-tools | black | 2026-10-18 | none found |
