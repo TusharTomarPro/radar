@@ -5316,5 +5316,113 @@
     "india_cost_estimate": "\u20b920\u201130\u202flakh for a 6\u2011month MVP and initial ops (cloud/API costs ~\u20b92\u202flakh; 2\u20113 engineers + product lead salaries ~\u20b915\u201125\u202flakh).",
     "risk_score": 6,
     "risk_reasoning": "Strong incumbent (Gmail) already offers AI\u2011enhanced email, making differentiation hard; moderate regulatory compliance is needed for data localization; however, the business is low\u2011capital\u2011intensity and can be bootstrapped, keeping overall risk moderate."
+  },
+  "nimble::2026-09-14": {
+    "company": "Nimble",
+    "category": "ai-agent",
+    "revised_badge": "black",
+    "competitor_status": "no-real-competitor-found",
+    "regulatory_flag": "moderate \u2013 compliance with India\u2019s Personal Data Protection Bill (data\u2011privacy and localisation) and any sector\u2011specific AI governance rules will be required.",
+    "capital_intensity": "low \u2013 the model is software\u2011only, needing cloud hosting and a small engineering team, so it can be bootstrapped without heavy asset investment.",
+    "known_numbers": "no public numbers found",
+    "india_cost_estimate": "\u20b912\u201120\u202flakh for 6\u201112\u202fmonths (cloud & API usage, 3\u20114 engineers, product & ops head, minimal marketing).",
+    "risk_score": 3,
+    "risk_reasoning": "The lack of identified competitors suggests a clear market opportunity, and the asset\u2011light nature keeps capital needs modest. However, moderate regulatory exposure around data privacy in India adds some uncertainty, keeping the overall risk modest but not negligible."
+  },
+  "naoma::2026-09-14": {
+    "company": "Naoma",
+    "category": "sales-automation",
+    "revised_badge": "orange",
+    "competitor_status": "surviving",
+    "regulatory_flag": "none",
+    "capital_intensity": "low",
+    "known_numbers": "Naoma AI raised a seed round of $440\u202fK on 4\u202fFeb\u202f2026; post\u2011money valuation reported between $2.27\u202fM and $7.23\u202fM. No public revenue, ARR, or user\u2011count figures were found.",
+    "india_cost_estimate": "\u2248\u202f\u20b912\u201120\u202flakh for a 6\u201112\u202fmonth MVP and a lean team (2\u20114 engineers, 1 product manager) covering cloud/API usage, basic sales\u2011ops tooling, and minimal local compliance costs.",
+    "risk_score": 5,
+    "risk_reasoning": "The market already has an active player (Vymo), limiting differentiation. Regulatory exposure is minimal for a SaaS sales\u2011automation tool, and the model is asset\u2011light, keeping capital needs low. The main risk stems from competitive pressure rather than legal or capital constraints."
+  },
+  "marqly::2026-09-14": {
+    "company": "Marqly",
+    "category": "bookmark-ai",
+    "revised_badge": "orange",
+    "competitor_status": "surviving",
+    "regulatory_flag": "moderate \u2013 Indian Personal Data Protection Bill (PDPB) and upcoming data\u2011localisation rules require personal data to be stored on servers in India, adding compliance overhead for a bookmark\u2011management SaaS.",
+    "capital_intensity": "low \u2013 the model is pure software (cloud hosting, browser extensions) with no inventory or logistics, so it can be built with a small engineering team and modest cloud spend.",
+    "known_numbers": "no public numbers found",
+    "india_cost_estimate": "\u20b935\u201155\u202flakh for 6\u201112\u202fmonths (\u2248\u202f\u20b95\u201110\u202flakh for cloud/API usage; \u20b930\u201145\u202flakh for a lean team of 2\u20114 engineers/product staff, no paid marketing).",
+    "risk_score": 4,
+    "risk_reasoning": "Marqly faces a clear set of existing competitors (Floccus, Diigo, Memex, etc.), which lowers differentiation advantage. Regulatory compliance is moderate due to data\u2011localisation rules, but the SaaS nature keeps capital needs low, making the overall risk moderate rather than high."
+  },
+  "memorypet::2026-09-14": {
+    "company": "MemoryPet",
+    "category": "browser-extension",
+    "revised_badge": "black",
+    "competitor_status": "no-real-competitor-found",
+    "regulatory_flag": "none",
+    "capital_intensity": "low \u2013 the product is pure SaaS, asset\u2011light and can be built with a small engineering team and modest cloud spend.",
+    "known_numbers": "ARR $85\u202fmillion in 2026; valuation $1.4\u202fbillion (Q2\u202f2026). No public MAU or pricing figures were found.",
+    "india_cost_estimate": "\u20b980\u2011100\u202flakh for a 6\u201112\u202fmonth pilot (cloud/API costs ~\u20b91\u20112\u202flakh, 2\u20113 engineers and a product manager ~\u20b970\u201190\u202flakh, minimal marketing).",
+    "risk_score": 3,
+    "risk_reasoning": "The lack of any identified Indian competitor is a positive moat, and the business faces negligible regulatory hurdles. Capital needs are low because the model is software\u2011only, so the main risks are market adoption and localization rather than financial or legal barriers."
+  },
+  "juggler::2026-09-14": {
+    "company": "Juggler",
+    "category": "visual-ai",
+    "revised_badge": "black",
+    "competitor_status": "no-real-competitor-found",
+    "regulatory_flag": "moderate \u2014 Digital Personal Data Protection Act, 2023 applies if user images are processed as personal data; no FDI retail, RBI lending, or gig-labor walls apparent for pure visual-AI software.",
+    "capital_intensity": "low \u2014 software-margin and asset-light; a small team can build and run visual-AI on cloud/inference APIs without delivery fleets, dark stores, or years of subsidized cash burn before unit economics work.",
+    "known_numbers": "no public numbers found",
+    "india_cost_estimate": "\u20b912\u201322 lakh for an MVP plus a 2\u20134 person team for 6\u201312 months (salaries, cloud/inference API costs, no paid marketing).",
+    "risk_score": 4,
+    "risk_reasoning": "The search evidence shows no visual-AI company named Juggler in India\u2014only unrelated results such as Juggler Games (Poland), juggling-equipment market data, and a bookstore\u2014so there is no validated local competitor to benchmark. Capital intensity is low and regulatory exposure is moderate under the Digital Personal Data Protection Act, 2023 if user images are treated as personal data, but the absence of any revenue, user, or funding data for the concept leaves execution and demand risk unresolved."
+  },
+  "appdesigns::2026-09-14": {
+    "company": "AppDesigns",
+    "category": "design-tool",
+    "revised_badge": "black",
+    "competitor_status": "no-real-competitor-found",
+    "regulatory_flag": "none",
+    "capital_intensity": "low \u2013 a design\u2011tool is a pure\u2011software SaaS product, requiring only cloud hosting and a small engineering team, so it can be bootstrapped to profitability.",
+    "known_numbers": "no public numbers found",
+    "india_cost_estimate": "\u20b940\u201160\u202flakh for the first 6\u201112\u202fmonths (\u2248\u202f\u20b95\u201110\u202flakh for cloud/API usage; \u20b930\u201145\u202flakh for salaries of 2\u20114 engineers/product staff; minimal marketing spend).",
+    "risk_score": 3,
+    "risk_reasoning": "The search evidence shows no existing Indian competitor and no regulatory hurdles, making market entry attractive. The business is asset\u2011light with low capital needs, reducing financial risk. The main uncertainty is market adoption timing, but overall risk is modest."
+  },
+  "ozbrain::2026-09-14": {
+    "company": "OzBrain",
+    "category": "knowledge-management",
+    "revised_badge": "black",
+    "competitor_status": "no-real-competitor-found",
+    "regulatory_flag": "none",
+    "capital_intensity": "low \u2013 a SaaS knowledge\u2011management platform is asset\u2011light, requiring mainly cloud spend and a small engineering team, so it can reach profitability without heavy cash burn.",
+    "known_numbers": "no public numbers found",
+    "india_cost_estimate": "\u20b912\u201120\u202flakh for 6\u201112\u202fmonths (cloud/API usage ~\u20b93\u20115\u202flakh, 2\u20113 engineers + product lead ~\u20b98\u201115\u202flakh, minimal marketing).",
+    "risk_score": 5,
+    "risk_reasoning": "The absence of identified competitors and low regulatory/capital hurdles make the idea attractive, but the fact that OzBrain itself appears to have shut down in India suggests market\u2011fit or execution risk, pushing the overall risk to a moderate level."
+  },
+  "trycase::2026-09-14": {
+    "company": "TryCase",
+    "category": "dev-tools",
+    "revised_badge": "black",
+    "competitor_status": "no-real-competitor-found",
+    "regulatory_flag": "moderate \u2013 Indian data\u2011localisation rules (e.g., the Personal Data Protection Bill, 2023) require that personal and certain operational data be stored on servers located in India, which adds compliance overhead for SaaS platforms.",
+    "capital_intensity": "low \u2013 the product is software\u2011only, asset\u2011light and can be built by a small engineering team with modest cloud spend, allowing profitability on a modest runway.",
+    "known_numbers": "no public numbers found",
+    "india_cost_estimate": "\u20b980\u2011120\u202flakh for the first 6\u201112\u202fmonths (covers 3\u20114 senior engineers, 1 product manager, minimal ops staff, and cloud/API usage; excludes paid marketing).",
+    "risk_score": 3,
+    "risk_reasoning": "With no clear Indian competitor, the market appears open, and the business model is low\u2011regulatory and low\u2011capital\u2011intensive, making entry relatively safe. The main risk is the uncertainty around product\u2011market fit in India and compliance with data\u2011localisation rules, but these are manageable compared to high\u2011capital or heavily regulated domains."
+  },
+  "aside::2026-09-14": {
+    "company": "Aside",
+    "category": "ai-browser",
+    "revised_badge": "black",
+    "competitor_status": "no-real-competitor-found",
+    "regulatory_flag": "moderate \u2013 Indian data\u2011localisation requirements under the Personal Data Protection Bill (draft) mandate that personal data be stored on servers in India, adding compliance overhead for an AI\u2011browser that processes user content.",
+    "capital_intensity": "low \u2013 the product is software\u2011only, asset\u2011light and can be built by a small engineering team with cloud API usage, so it does not need heavy upfront capital like inventory or logistics.",
+    "known_numbers": "no public numbers found",
+    "india_cost_estimate": "\u20b912\u201120\u202flakh for 6\u201112\u202fmonths (covers 2\u20113 senior engineers, 1 product manager, cloud compute & API usage, basic legal/compliance, and minimal office overhead; no paid user\u2011acquisition spend).",
+    "risk_score": 5,
+    "risk_reasoning": "Aside faces no obvious direct competitor in the AI\u2011browser niche, which is a plus, but moderate regulatory risk from data\u2011localisation rules adds compliance cost. Capital needs are low, so the overall risk is moderate rather than high."
   }
 }
