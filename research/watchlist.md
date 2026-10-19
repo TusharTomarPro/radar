@@ -2053,3 +2053,30 @@
 | Superlite | ai-agent | black | 2026-10-19 | none found |
 | Starcraft: Ashfall | gaming | orange | 2026-10-19 | Nazara Games |
 | Pkg | dev-tools | black | 2026-10-19 | none found |
+| Own 1 | personal-ai | black | 2026-10-19 | none found |
+| CrawlForge | ai-agent | black | 2026-10-19 | none found |
+| Beam.win | remote-desktop | orange | 2026-10-19 | Zoho Assist |
+| Quello | ai-assistant | black | 2026-10-19 | none found |
+| Starkomand | ai-agent | black | 2026-10-19 | none found |
+| Croft | data-pipelines | black | 2026-10-19 | none found |
+| Triwarden | password-manager | orange | 2026-10-19 | Zoho Vault |
+| DoOne | productivity | black | 2026-10-19 | none found |
+| Lancetta | ai-agent | black | 2026-10-19 | none found |
+| Switch Lab | keyboard-tech | black | 2026-10-19 | none found |
+| Buddylist | ai-agent | black | 2026-10-19 | none found |
+| Lookout | slack-integration | black | 2026-10-19 | none found |
+| WalkAI TalkAI | ai-coding | black | 2026-10-19 | none found |
+| ReadyWhen | ai-assistant | orange | 2026-10-19 | Haptik |
+| Gleap | support-automation | orange | 2026-10-19 | Freshdesk |
+| face2social | social-search | black | 2026-10-19 | none found |
+| Lazy AWS | cloud-management | black | 2026-10-19 | none found |
+| AutoChart.eu | music-tech | black | 2026-10-19 | none found |
+| Umbra Mail | email-ui | black | 2026-10-19 | none found |
+| Beam | ai-agent | black | 2026-10-19 | none found |
+| Framefields | dev-tools | black | 2026-10-19 | none found |
+| Planet-X | memorial-tech | black | 2026-10-19 | none found |
+| Point and Yap | voice-assistant | black | 2026-10-19 | none found |
+| CoolDock | desktop-enhancement | black | 2026-10-19 | none found |
+| So/Facet | lab-grown jewelry | orange | 2026-10-19 | GIVA |
+| Sahi | fintech | orange | 2026-10-19 | Cube Wealth |
+| StayVista | vacation-rentals | orange | 2026-10-19 | OYO Vacation Homes |
