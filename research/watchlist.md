@@ -2050,3 +2050,6 @@
 | Together Computer | ai-agent | black | 2026-10-18 | none found |
 | Ranet3 | sd-wan | orange | 2026-10-18 | Tata Communications |
 | Inscryption | mobile-gaming | black | 2026-10-18 | none found |
+| Superlite | ai-agent | black | 2026-10-19 | none found |
+| Starcraft: Ashfall | gaming | orange | 2026-10-19 | Nazara Games |
+| Pkg | dev-tools | black | 2026-10-19 | none found |
