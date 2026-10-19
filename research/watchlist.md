@@ -2080,3 +2080,10 @@
 | So/Facet | lab-grown jewelry | orange | 2026-10-19 | GIVA |
 | Sahi | fintech | orange | 2026-10-19 | Cube Wealth |
 | StayVista | vacation-rentals | orange | 2026-10-19 | OYO Vacation Homes |
+| Tolan | ai-companion | orange | 2026-10-19 | Wysa |
+| TVAI | ai-agent | black | 2026-10-19 | none found |
+| Phonics Reader | edtech | orange | 2026-10-19 | BYJU'S Early Learning |
+| Mac.apk | android-runtime | black | 2026-10-19 | none found |
+| Laminar | ai-observability | black | 2026-10-19 | none found |
+| Hunar | recruitment-tech | black | 2026-10-19 | none found |
+| Mobavenue | ad-tech | black | 2026-10-19 | none found |

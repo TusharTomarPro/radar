@@ -268,3 +268,66 @@
 - India fit note: The model relies on a robust tourism ecosystem, high internet penetration for bookings, and consumer willingness to book resort rooms individually—factors that are growing but still uneven across Indian tier‑2 and tier‑3 cities.
 - Badge guess: orange
 
+## Tolan
+- Source article: [Tolan snags $30M for its AI companion that helps users navigate life](https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/) (TechCrunch)
+- Category: ai-companion
+- What it does: Tolan is an AI‑powered companion app that helps users make everyday decisions, set goals, and manage personal challenges through conversational interactions.
+- Likely revenue model: A freemium model that charges a subscription for premium features such as deeper personalization, advanced analytics, and ad‑free experience.
+- India equivalent: Wysa
+- India fit note: The app relies on high smartphone penetration and constant internet access, which are largely available in urban India, but cultural attitudes toward mental‑health chatbots and data‑privacy concerns could affect adoption.
+- Badge guess: orange
+
+## TVAI
+- Source article: [People are using AI to make their smart TVs dumb again](https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/) (TechCrunch)
+- Category: ai-agent
+- What it does: Offers an AI-powered agent that strips away bloatware, blocks ads, and simplifies the user interface on smart TVs, effectively turning them into minimalist ‘dumb’ TVs.
+- Likely revenue model: Charges a monthly or annual subscription for the AI agent service, with optional one‑time setup fees.
+- India equivalent: none found
+- India fit note: Indian households rely heavily on set‑top boxes and OTT apps rather than native smart‑TV platforms, and broadband speeds can be inconsistent, which may limit the appeal of an AI‑driven TV‑cleaning service.
+- Badge guess: black
+
+## Phonics Reader
+- Source article: [Show HN: Open-source early-reading reader with phonics help](https://github.com/finereli/yarareads) (Hacker News (front page))
+- Category: edtech
+- What it does: An open‑source web app that lets young children click on words to hear phoneme pronunciations and read stories independently, with optional LLM integration to import custom books.
+- Likely revenue model: Free to use with optional paid premium story packs, subscriptions for additional content, or donations for the open‑source project.
+- India equivalent: BYJU'S Early Learning
+- India fit note: The model relies on widespread broadband or mobile data and personal devices for each child, plus familiarity with self‑directed digital learning, which may be limited in lower‑income or rural Indian households.
+- Badge guess: orange
+
+## Mac.apk
+- Source article: [Android apps running native on macOS](https://github.com/kksimp/Mac.apk) (Hacker News (front page))
+- Category: android-runtime
+- What it does: Provides a compatibility layer that lets Android APKs execute natively on macOS, bypassing traditional emulators.
+- Likely revenue model: Open‑source project likely funded through donations, sponsorships, or paid enterprise support.
+- India equivalent: none found
+- India fit note: The solution depends on macOS hardware and developer tooling that are less common in India, and it targets a niche of macOS users rather than mass consumer behavior.
+- Badge guess: black
+
+## Laminar
+- Source article: [Launch HN: Laminar (YC S24) – Open-source observability for AI agents](https://news.ycombinator.com/item?id=50154029) (Hacker News (front page))
+- Category: ai-observability
+- What it does: Laminar provides an open‑source platform that analyzes AI agent execution traces, using its flow‑1 model to automatically detect errors and surface insights as structured signals. It clusters similar issues and lets teams iterate on fixes before redeploying agents.
+- Likely revenue model: They offer a managed cloud service (SaaS) on top of the open‑source software and charge customers for hosted usage and support.
+- India equivalent: none found
+- India fit note: The product assumes widespread production deployment of LLM‑driven agents and cheap, scalable compute for running RL‑fine‑tuned models, which are still limited in many Indian enterprises. Additionally, the developer culture around detailed trace instrumentation is less mature, potentially slowing adoption.
+- Badge guess: black
+
+## Hunar
+- Source article: [Hunar Raises ₹40 Cr To Scale Agentic AI For Frontline Hiring](https://inc42.com/buzz/hunar-raises-%e2%82%b940-cr-to-scale-agentic-ai-for-frontline-hiring/) (Inc42)
+- Category: recruitment-tech
+- What it does: Hunar offers an agentic AI platform that automates sourcing, screening, and onboarding of frontline workers across multiple cities, reducing coordination overhead for employers.
+- Likely revenue model: Charges enterprises a subscription or per‑hire fee for access to its AI‑driven hiring workflow and analytics.
+- India equivalent: none found
+- India fit note: The model relies on high smartphone penetration and reliable internet among both recruiters and frontline candidates, as well as digital payment and verification infrastructure that is still uneven in many Indian tier‑2 and tier‑3 cities.
+- Badge guess: black
+
+## Mobavenue
+- Source article: [Mobavenue’s Tejas Rathod On The Shift From Ad Optimisation To AI Decisioning](https://inc42.com/features/mobavenues-tejas-rathod-on-the-shift-from-ad-optimisation-to-ai-decisioning/) (Inc42)
+- Category: ad-tech
+- What it does: Mobavenue offers an AI‑driven decisioning platform that moves beyond simple click‑through metrics to predict downstream outcomes like KYC completion for fintech customer acquisition.
+- Likely revenue model: It likely charges fintech clients a SaaS subscription plus performance‑based fees tied to successful conversions or KYC completions.
+- India equivalent: none found
+- India fit note: The model relies on granular user‑level data and a mature digital advertising ecosystem; while India has strong mobile penetration and fintech growth, data privacy norms and fragmented ad networks could slow adoption.
+- Badge guess: black
+
