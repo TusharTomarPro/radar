@@ -2087,3 +2087,5 @@
 | Laminar | ai-observability | black | 2026-10-19 | none found |
 | Hunar | recruitment-tech | black | 2026-10-19 | none found |
 | Mobavenue | ad-tech | black | 2026-10-19 | none found |
+| Miles | auto-telematics | orange | 2026-10-20 | LocoNav |
+| Agentic Monitoring | ai-ops | black | 2026-10-20 | none found |
