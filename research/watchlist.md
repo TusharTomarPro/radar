@@ -2122,3 +2122,8 @@
 | Hunar.AI | industrial-ai | black | 2026-10-20 | none found |
 | CNAP | caller-id | black | 2026-10-20 | none found |
 | AI Materials Discovery | semiconductor-ai | black | 2026-10-20 | none found |
+| Electric Plant | agritech | black | 2026-10-20 | none found |
+| IKEA | furniture-tech | orange | 2026-10-20 | Pepperfry |
+| Jev Cards | ai-gaming | black | 2026-10-20 | none found |
+| Penmentor | ai-education | black | 2026-10-20 | none found |
+| PhoneShield | travel-accessories | orange | 2026-10-20 | MobiSafe |

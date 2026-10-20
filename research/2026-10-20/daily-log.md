@@ -313,3 +313,48 @@
 - India fit note: The model relies on massive AI compute infrastructure and close ties to advanced semiconductor fabs, both of which are limited in India, making replication challenging without significant ecosystem upgrades.
 - Badge guess: black
 
+## Electric Plant
+- Source article: [Plants can speak using electricity, so this startup built an AI model to decipher their language](https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/) (TechCrunch)
+- Category: agritech
+- What it does: Electric Plant uses AI to translate the minute electrical signals that travel through plant stems into human‑readable language, effectively ‘listening’ to what plants are communicating.
+- Likely revenue model: It likely sells a subscription or licensing platform to commercial growers, research labs, and agritech firms that need real‑time plant health insights.
+- India equivalent: none found
+- India fit note: The model relies on specialized bio‑electrical sensors and continuous data connectivity, which are not yet common on Indian farms; high upfront hardware costs and limited IoT infrastructure could hinder rapid adoption.
+- Badge guess: black
+
+## IKEA
+- Source article: [IKEA – 3D Guide](https://sael.net/flatpack/) (Hacker News (front page))
+- Category: furniture-tech
+- What it does: Provides a 3D/AR guide that lets shoppers visualize IKEA furniture in their own space before buying.
+- Likely revenue model: Earns revenue by selling the furniture itself, with the 3D guide acting as a conversion‑optimizing tool.
+- India equivalent: Pepperfry
+- India fit note: AR visualization works in India where smartphone penetration is high, but the flat‑pack assembly culture and logistics for large items may limit adoption compared to markets where IKEA is entrenched.
+- Badge guess: orange
+
+## Jev Cards
+- Source article: [Show HN: Jev Cards, Can you beat a vision model at a picture quiz?](https://jevcards.com) (Hacker News (front page))
+- Category: ai-gaming
+- What it does: An online quiz game that shows a picture and a question, then lets a vision model (Jev) answer in real time while users can compete against it or friends.
+- Likely revenue model: Free to play with open‑source code, likely monetized through premium card packs, sponsorships or ads.
+- India equivalent: none found
+- India fit note: The game relies on low‑latency cloud inference and high‑speed internet, which may limit adoption in regions with slower connectivity; it also assumes users are comfortable with AI‑driven gameplay.
+- Badge guess: black
+
+## Penmentor
+- Source article: [Show HN: Penmentor – Claude marks up your handwritten math like a teacher](https://github.com/AbdullahAlhariri/penmentor) (Hacker News (front page))
+- Category: ai-education
+- What it does: Penmentor lets users snap a photo of handwritten math problems and uses Anthropic's Claude to annotate, correct, and explain the work as a teacher would.
+- Likely revenue model: A freemium model with a limited free tier and paid subscription for higher usage or premium feedback features.
+- India equivalent: none found
+- India fit note: The service relies on high‑quality smartphone cameras, stable broadband, and willingness to trust AI grading, which may limit adoption in rural or low‑connectivity areas of India.
+- Badge guess: black
+
+## PhoneShield
+- Source article: [Don't put your phone in the TSA bin — do this instead](https://www.engadget.com/2288969/why-shouldnt-put-phone-tsa-bin/) (Engadget)
+- Category: travel-accessories
+- What it does: PhoneShield sells a thin, X‑ray‑transparent pouch that lets travelers leave their phones inside the bag while it passes through TSA scanners, eliminating the need to place the device in the bin.
+- Likely revenue model: Direct‑to‑consumer sales of the reusable pouch through its website and travel‑gear retailers.
+- India equivalent: MobiSafe
+- India fit note: The concept relies on widespread adoption of X‑ray‑transparent materials and traveler willingness to purchase a dedicated pouch; Indian airports already use similar screening trays, so the product could work, but price sensitivity may limit uptake.
+- Badge guess: orange
+
