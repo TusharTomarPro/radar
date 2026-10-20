@@ -2089,3 +2089,30 @@
 | Mobavenue | ad-tech | black | 2026-10-19 | none found |
 | Miles | auto-telematics | orange | 2026-10-20 | LocoNav |
 | Agentic Monitoring | ai-ops | black | 2026-10-20 | none found |
+| RunInfra | ai-infra | black | 2026-10-20 | none found |
+| xtty | dev-tools | black | 2026-10-20 | none found |
+| Stella | wellness-ai | orange | 2026-10-20 | Wysa |
+| snyvi | productivity | orange | 2026-10-20 | Zoho Projects |
+| yggy | knowledge-graph | black | 2026-10-20 | none found |
+| Rovalty | influencer-marketing | orange | 2026-10-20 | Plixxo |
+| The New Beings | ai-entertainment | black | 2026-10-20 | none found |
+| Praex | ai-coding | black | 2026-10-20 | none found |
+| Exa AI | ai-search | black | 2026-10-20 | none found |
+| Reception | support-chat | orange | 2026-10-20 | Freshchat (Freshworks) |
+| Panza | digital-vault | black | 2026-10-20 | none found |
+| Capitol Alpha Machine | civic-tech | black | 2026-10-20 | none found |
+| Sorcerer | ai-agent | black | 2026-10-20 | none found |
+| Stage | product-management | black | 2026-10-20 | none found |
+| Inflight | design-feedback | black | 2026-10-20 | none found |
+| Composio | ai-agent | black | 2026-10-20 | none found |
+| Lugh Xtudio | ai-video | orange | 2026-10-20 | InVideo |
+| Kling | ai-video | orange | 2026-10-20 | InVideo |
+| ToDo.is | ai-agent | black | 2026-10-20 | none found |
+| Glance for Mac | desktop-enhancement | black | 2026-10-20 | none found |
+| call4me | ai-telephony | orange | 2026-10-20 | Exotel |
+| Portlivo | dev-tools | black | 2026-10-20 | none found |
+| Death Plan Switch | dead-man-switch | black | 2026-10-20 | none found |
+| AdFreeTV | ad-blocker | orange | 2026-10-20 | JioTV Premium |
+| doubleAI | ai-compiler | black | 2026-10-20 | none found |
+| Dolphin AI | ai-media | black | 2026-10-20 | none found |
+| FaceSurv | health-tech | orange | 2026-10-20 | Niramai |
