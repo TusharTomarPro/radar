@@ -358,3 +358,12 @@
 - India fit note: The concept relies on widespread adoption of X‑ray‑transparent materials and traveler willingness to purchase a dedicated pouch; Indian airports already use similar screening trays, so the product could work, but price sensitivity may limit uptake.
 - Badge guess: orange
 
+## Censys
+- Source article: [The Internet goes on high alert after discovery of 8 compromised TLS certs](https://arstechnica.com/security/2026/10/the-internet-goes-on-high-alert-after-discovery-of-8-compromised-tls-certs/) (Ars Technica)
+- Category: cybersecurity
+- What it does: Censys continuously scans the public internet to discover and catalog TLS certificates, flagging compromised or mis‑issued certificates for remediation.
+- Likely revenue model: Enterprise subscription SaaS that charges organizations for access to real‑time certificate monitoring and alerting dashboards.
+- India equivalent: none found
+- India fit note: Effective TLS‑monitoring relies on widespread adoption of automated certificate management and a mature ecosystem of security operations centers, which are still emerging in many Indian enterprises.
+- Badge guess: black
+
