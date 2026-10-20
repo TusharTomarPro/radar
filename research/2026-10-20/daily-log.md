@@ -259,3 +259,57 @@
 - India fit note: The model relies on high‑resolution facial imaging and acceptance of AI‑driven prognostic scores, which may face regulatory and data‑privacy hurdles in India, but similar AI‑based cancer screening firms already operate there.
 - Badge guess: orange
 
+## Hazel
+- Source article: [Hazel (YC W24) Is Hiring](https://www.ycombinator.com/companies/hazel-2/jobs/PpNKYBS-full-stack-engineer-ts-sci) (Hacker News (front page))
+- Category: unknown
+- What it does: The article provides only a hiring announcement and does not describe the product or service.
+- Likely revenue model: Not disclosed in the available information.
+- India equivalent: none found
+- India fit note: Without details on the product or target market, it is impossible to assess whether it relies on behavior or infrastructure that may be lacking in India.
+- Badge guess: black
+
+## Human Chess Bot
+- Source article: [Spending 10 months building the most human-like chess bot](https://mbuffett.com/posts/most-human-chess-bot) (Hacker News (front page))
+- Category: gaming-ai
+- What it does: A chess engine engineered to generate moves that mimic human playing styles rather than pure engine optimality, creating a more relatable opponent.
+- Likely revenue model: Provides a paid API or licensing model for platforms that want a human‑like opponent or training tool.
+- India equivalent: Chessify
+- India fit note: India has a large, internet‑savvy chess community and sufficient cloud/computing infrastructure, so a human‑like chess bot could be adopted without major behavioral or tech barriers.
+- Badge guess: orange
+
+## Hatch
+- Source article: [Hatch Sleep Clock Review: A Contactless Sleep Tracker (2026)](https://www.wired.com/review/review-hatch-sleep-clock/) (Wired)
+- Category: sleep-tech
+- What it does: The Hatch Sleep Clock is a bedside device that uses contactless sensors (radar/sonar) to monitor sleep stages, breathing and movement, syncing the data to a companion app for insights and alarms.
+- Likely revenue model: Revenue is generated primarily from one‑time hardware sales, with an optional subscription for advanced analytics and personalized coaching.
+- India equivalent: none found
+- India fit note: Adoption may be limited by Indian consumers' preference for low‑cost wearables and limited awareness of contactless sleep tech; reliable broadband and consistent power supply are also needed for seamless data syncing.
+- Badge guess: black
+
+## Hunar.AI
+- Source article: [Hunar.AI raises Rs 40 Cr in Series A funding round led by Blume Ventures](https://yourstory.com/2026/10/hunarai-raises-rs-40-crore-in-series-a-led-by-blume-ventures) (YourStory)
+- Category: industrial-ai
+- What it does: Builds specialized artificial intelligence solutions for frontline‑intensive industries, helping companies automate and augment worker tasks.
+- Likely revenue model: Enterprise SaaS/licensing model where companies pay subscription or usage fees for access to the AI platform and tools.
+- India equivalent: none found
+- India fit note: Success depends on high digital adoption among frontline workers, reliable connectivity, and large labeled datasets, which can be limited in many Indian sectors.
+- Badge guess: black
+
+## CNAP
+- Source article: [CNAP Explained: A scam prevention tool or a caller ID system. What is it?](https://www.business-standard.com/technology/tech-news/india-cnap-caller-name-display-system-explained-copy-slug-126102000486_1.html) (Business Standard Tech)
+- Category: caller-id
+- What it does: CNAP (Caller Name Presentation) displays the registered name of the caller on incoming calls, allowing users to see who is calling before answering. It works by matching the incoming number with the name stored in the telecom operator’s database.
+- Likely revenue model: Telecom operators may bundle CNAP with premium plans or charge a small subscription fee for access to the service.
+- India equivalent: none found
+- India fit note: The service relies on a unified, regulator‑mandated database of subscriber names and widespread carrier support, infrastructure that is currently being rolled out in India and may face adoption delays in regions with low smartphone penetration.
+- Badge guess: black
+
+## AI Materials Discovery
+- Source article: [Meet Akash Ramdas and Advaith Sridhar: AI startup founders who raised $9 million to discover new semiconductor materials](https://www.livemint.com/companies/people/meet-akash-ramdas-and-advaith-sridhar-ai-startup-founders-who-raised-9-million-to-discover-new-semiconductor-materials-11792488119594.html) (LiveMint Companies)
+- Category: semiconductor-ai
+- What it does: Uses swarms of AI agents to accelerate the discovery of new semiconductor materials that can mitigate heat issues in AI chips. The platform predicts and validates material properties faster than traditional lab methods.
+- Likely revenue model: Licensing discovered material IP and charging royalties or development fees to chip manufacturers and fab partners.
+- India equivalent: none found
+- India fit note: The model relies on massive AI compute infrastructure and close ties to advanced semiconductor fabs, both of which are limited in India, making replication challenging without significant ecosystem upgrades.
+- Badge guess: black
+

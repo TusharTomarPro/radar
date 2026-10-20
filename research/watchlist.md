@@ -2116,3 +2116,9 @@
 | doubleAI | ai-compiler | black | 2026-10-20 | none found |
 | Dolphin AI | ai-media | black | 2026-10-20 | none found |
 | FaceSurv | health-tech | orange | 2026-10-20 | Niramai |
+| Hazel | unknown | black | 2026-10-20 | none found |
+| Human Chess Bot | gaming-ai | orange | 2026-10-20 | Chessify |
+| Hatch | sleep-tech | black | 2026-10-20 | none found |
+| Hunar.AI | industrial-ai | black | 2026-10-20 | none found |
+| CNAP | caller-id | black | 2026-10-20 | none found |
+| AI Materials Discovery | semiconductor-ai | black | 2026-10-20 | none found |
