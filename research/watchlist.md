@@ -2128,3 +2128,4 @@
 | Penmentor | ai-education | black | 2026-10-20 | none found |
 | PhoneShield | travel-accessories | orange | 2026-10-20 | MobiSafe |
 | Censys | cybersecurity | black | 2026-10-20 | none found |
+| Permit | civic-tech | black | 2026-10-21 | none found |
