@@ -2129,3 +2129,37 @@
 | PhoneShield | travel-accessories | orange | 2026-10-20 | MobiSafe |
 | Censys | cybersecurity | black | 2026-10-20 | none found |
 | Permit | civic-tech | black | 2026-10-21 | none found |
+| UseIt Studio | ai-design | black | 2026-10-21 | none found |
+| Band | ai-devtools | black | 2026-10-21 | none found |
+| PrivOS | collaboration | black | 2026-10-21 | none found |
+| iglass | developer-tools | black | 2026-10-21 | none found |
+| Flagsmith | feature-flagging | black | 2026-10-21 | none found |
+| Mouse-1 | ai-agent | black | 2026-10-21 | none found |
+| Ilha | ai-devtools | black | 2026-10-21 | none found |
+| Agent Pets | ai-agent | black | 2026-10-21 | none found |
+| Fini | ai-support | orange | 2026-10-21 | Freshworks |
+| AskDoozy | ai-assistant | orange | 2026-10-21 | Kore.ai |
+| Animatica | 3d-animation | black | 2026-10-21 | none found |
+| Nimbalyst Wiki | ai-agent | black | 2026-10-21 | none found |
+| Koi | productivity | black | 2026-10-21 | none found |
+| The Brains | knowledge-platform | black | 2026-10-21 | none found |
+| Yarite | contact-management | black | 2026-10-21 | none found |
+| LearnExcel | edtech | orange | 2026-10-21 | EduPristine |
+| Burrow | virtualization | black | 2026-10-21 | none found |
+| Hotly | creator-tools | black | 2026-10-21 | none found |
+| NativeShip | integration-platform | orange | 2026-10-21 | Zoho Flow |
+| Lea | construction-tech | black | 2026-10-21 | none found |
+| Needle | ai-agent | orange | 2026-10-21 | LeadSquared |
+| hibi | note-taking | black | 2026-10-21 | none found |
+| Flyweel | adtech | black | 2026-10-21 | none found |
+| TwinMind | speech-to-text | black | 2026-10-21 | none found |
+| Tend | ai-assistant | black | 2026-10-21 | none found |
+| Querri | knowledge-management | orange | 2026-10-21 | Zoho Wiki |
+| Triage | dev-tools | black | 2026-10-21 | none found |
+| Woven Video | ai-video | black | 2026-10-21 | none found |
+| BZFlag Online | browser-gaming | black | 2026-10-21 | none found |
+| NetWasm | wasm-compiler | black | 2026-10-21 | none found |
+| Vectorial | behavioral-ai | black | 2026-10-21 | none found |
+| Onto | travel-tech | black | 2026-10-21 | none found |
+| Neo San | waste-tech | black | 2026-10-21 | none found |
+| Polygons | kitchen-tools | black | 2026-10-21 | none found |
