@@ -5664,5 +5664,113 @@
     "india_cost_estimate": "\u20b930\u201150\u202flakh for 6\u201112\u202fmonths (cloud compute & storage ~\u20b98\u201112\u202flakh, 2\u20113 senior engineers + 1 product manager ~\u20b920\u201135\u202flakh, basic legal/compliance ~\u20b92\u20113\u202flakh).",
     "risk_score": 3,
     "risk_reasoning": "With no confirmed local competitor, the market appears open, and the business model is asset\u2011light, keeping capital needs low. However, moderate regulatory risk around voice\u2011data privacy and the need to comply with upcoming data\u2011localisation rules adds some uncertainty, pushing the risk score slightly above the lowest tier."
+  },
+  "dario::2026-09-14": {
+    "company": "Dario",
+    "category": "ai-assistant",
+    "revised_badge": "black",
+    "competitor_status": "dead",
+    "regulatory_flag": "moderate \u2013 must comply with India\u2019s Personal Data Protection Bill (data\u2011localisation for health data) and the Telemedicine Practice Guidelines/clinical\u2011advice regulations for health\u2011tech platforms.",
+    "capital_intensity": "low \u2013 Dario is a SaaS/AI\u2011layer business with no physical inventory or delivery fleet, so it can be built asset\u2011light and reach profitability on modest capital.",
+    "known_numbers": "Revenue Q1 (Mar\u20112026) $5.6\u202fM; Revenue Q1 (Mar\u20112025) $6.8\u202fM; Revenue Q4 (Dec\u20112025) $5.2\u202fM. No public valuation or user\u2011count figures found.",
+    "india_cost_estimate": "\u20b980\u2011120\u202flakh for a 6\u201112\u202fmonth pilot (cloud & API fees ~\u20b94\u20116\u202flakh/month, 3\u20114 core engineers & product staff ~\u20b910\u201112\u202flakh/month, compliance & misc ~\u20b92\u20113\u202flakh/month).",
+    "risk_score": 4,
+    "risk_reasoning": "The primary competitor (Niki.ai) is defunct, removing direct market pressure. Regulatory exposure is moderate due to health\u2011data and tele\u2011medicine rules, but the business is asset\u2011light, keeping capital needs low. These factors combine to give a moderate risk profile, making the opportunity worth exploring but with careful compliance planning."
+  },
+  "fcbnerd::2026-09-15": {
+    "company": "fcbnerd",
+    "category": "music-tech",
+    "revised_badge": "black",
+    "competitor_status": "dead",
+    "regulatory_flag": "moderate \u2013 Indian Copyright Act 1957 (music licensing) and IPRS/Phonographic Performance Ltd. requirements impose licensing costs and compliance obligations.",
+    "capital_intensity": "low \u2013 the model is software\u2011only, asset\u2011light, and can be built with a small engineering team and cloud services without heavy discounting or inventory.",
+    "known_numbers": "no public numbers found",
+    "india_cost_estimate": "\u20b912\u201120\u202flakh for 6\u201112\u202fmonths (covers 2\u20113 engineers, product manager, cloud & API fees, basic legal/licensing costs, and minimal office overhead).",
+    "risk_score": 6,
+    "risk_reasoning": "The startup previously failed (closed 2016) indicating product\u2011market fit challenges, and music\u2011licensing compliance adds moderate regulatory friction. However, the capital requirement is low, and no direct competitors exist yet, giving a modest but not negligible risk profile."
+  },
+  "dbtcharts::2026-09-15": {
+    "company": "dbtCharts",
+    "category": "ai-analytics",
+    "revised_badge": "orange",
+    "competitor_status": "surviving",
+    "regulatory_flag": "moderate \u2013 Indian data\u2011localisation rules under the Personal Data Protection Bill (2023) require personal data to be stored in India, which adds compliance overhead for an analytics SaaS.",
+    "capital_intensity": "low \u2013 dbtCharts is a pure\u2011software SaaS product, so costs are mainly cloud hosting and a small engineering team; it can reach profitability without heavy upfront capital.",
+    "known_numbers": "no public numbers found",
+    "india_cost_estimate": "\u20b912\u201120\u202flakh for the first 6\u201112\u202fmonths (\u2248 \u20b95\u20118\u202flakh for cloud/API usage, \u20b97\u201112\u202flakh for a lean team of 2\u20113 engineers + product lead, minimal marketing spend).",
+    "risk_score": 6,
+    "risk_reasoning": "Zoho Analytics is an established, low\u2011cost competitor, limiting market upside. Regulatory compliance is only moderate (data\u2011localisation), and the business model is low\u2011capital, but gaining traction against a well\u2011funded incumbent will require strong differentiation, placing the overall risk at a mid\u2011range level."
+  },
+  "agentverse::2026-09-15": {
+    "company": "Agentverse",
+    "category": "ai-agent",
+    "revised_badge": "orange",
+    "competitor_status": "surviving",
+    "regulatory_flag": "moderate - Indian data\u2011localisation and emerging Personal Data Protection Bill requirements (IT Act Section 43A) apply to AI SaaS handling user data.",
+    "capital_intensity": "medium - requires a small AI/ML engineering team and cloud compute; no heavy physical assets but talent and compute costs are non\u2011trivial.",
+    "known_numbers": "total funding $2.7\u202fM (as per Tracxn); no public revenue, valuation, or user\u2011count figures found for Agentverse.",
+    "india_cost_estimate": "\u20b935\u201145\u202flakh for a 6\u201112\u202fmonth pilot: ~\u20b920\u201130\u202flakh for a 3\u20114\u2011person engineering/product team (salaries, overhead) + \u20b94\u20116\u202flakh for cloud/API usage and basic infra.",
+    "risk_score": 5,
+    "risk_reasoning": "The market already has active Indian AI\u2011agent platforms (Toolplate.ai, Skill Depot, Neurall, Agent.ai), so competition is real (orange badge). Regulatory exposure is moderate due to data\u2011localisation rules, but not a licensing blocker. Capital needs are medium, making the venture feasible but not low\u2011risk; combined these factors yield a mid\u2011range risk score."
+  },
+  "grimo-ai::2026-09-15": {
+    "company": "Grimo AI",
+    "category": "ai-assistant",
+    "revised_badge": "black",
+    "competitor_status": "no-real-competitor-found",
+    "regulatory_flag": "moderate \u2013 India\u2019s Personal Data Protection Bill (and related data\u2011localisation rules) require personal data of Indian users to be stored within the country, adding compliance overhead for an AI\u2011assistant handling user calendars and contacts.",
+    "capital_intensity": "low \u2013 the product is software\u2011only (cloud APIs, NLP models) and can be built by a small engineering team without heavy asset purchases, allowing profitability on modest capital.",
+    "known_numbers": "no public numbers found",
+    "india_cost_estimate": "\u20b935\u201150\u202flakh for the first 6\u201112\u202fmonths (\u2248\u202f\u20b95\u201110\u202flakh for cloud/API usage, \u20b930\u201140\u202flakh for salaries of 3\u20114 engineers/product staff, minimal marketing spend).",
+    "risk_score": 5,
+    "risk_reasoning": "The absence of a documented competitor suggests a market opportunity, but the lack of any disclosed traction or financials for Grimo AI creates uncertainty. Moderate regulatory compliance for data localisation adds some overhead, while the low capital intensity keeps the financial barrier modest, resulting in a mid\u2011range risk rating."
+  },
+  "buddy::2026-09-15": {
+    "company": "Buddy",
+    "category": "ai-agent",
+    "revised_badge": "black",
+    "competitor_status": "no-real-competitor-found",
+    "regulatory_flag": "moderate \u2013 must comply with India\u2019s data\u2011localisation requirements under the Personal Data Protection Bill (once enacted) and any forthcoming AI\u2011governance rules; no specific licensing needed for a pure SaaS AI\u2011agent.",
+    "capital_intensity": "low \u2013 the model is software\u2011only, requiring cloud compute and a small engineering team; unit economics can be positive without heavy discounting or asset\u2011heavy operations.",
+    "known_numbers": "no public numbers found",
+    "india_cost_estimate": "\u20b912\u201120\u202flakh (\u2248\u202f$1.5\u20112.5\u202fk) for 6\u201112\u202fmonths covering 2\u20113 engineers, cloud/API usage, and basic legal/compliance overhead; excludes any paid user\u2011acquisition spend.",
+    "risk_score": 3,
+    "risk_reasoning": "The market shows no direct Indian competitor, which is a strength, but moderate regulatory exposure (data localisation and future AI rules) adds some uncertainty. Capital needs are low, making the venture bootstrappable, so overall risk is modest."
+  },
+  "father::2026-09-15": {
+    "company": "Father",
+    "category": "web-monitoring",
+    "revised_badge": "orange",
+    "competitor_status": "surviving",
+    "regulatory_flag": "none",
+    "capital_intensity": "low \u2014 a software-only monitoring service is asset-light and can use modest cloud infrastructure without dark stores, delivery fleets, or other heavy subsidies.",
+    "known_numbers": "The failure listing reports that Father started in 2014, closed in 2016, employed 50\u2013100 people, and raised less than US$1M. No public revenue, valuation, registered-user count, or pricing figures for Father were found.",
+    "india_cost_estimate": "Approximately \u20b925\u201360 lakh for 6\u201312 months, assuming a 2\u20133 person team with no paid marketing: about \u20b918\u201345 lakh in loaded salaries, \u20b94\u201310 lakh for cloud, API, proxy, and website-checking infrastructure, and \u20b93\u20136 lakh for setup, compliance, and administration.",
+    "risk_score": 6,
+    "risk_reasoning": "Site24x7 remains a surviving monitoring product following its 2020 acquisition by Kaseya, with no evidence of an imminent shutdown. More importantly, the searched Father reportedly closed in 2016 because of lack of product-market fit, while no revenue, user, or pricing validation was found. Low capital requirements and the absence of a major Indian regulatory wall make a focused rebuild feasible, but replicating a generic monitoring product would carry substantial differentiation risk."
+  },
+  "is-team::2026-09-15": {
+    "company": "is.team",
+    "category": "ai-agent",
+    "revised_badge": "black",
+    "competitor_status": "no-real-competitor-found",
+    "regulatory_flag": "moderate \u2013 India\u2019s Data Protection and Personal Data Protection (DPDP) Act 2023 requires localisation of critical personal data and the upcoming AI Governance framework may impose usage reporting and safety audits.",
+    "capital_intensity": "medium \u2013 the model is software\u2011centric and asset\u2011light but relies on paid LLM APIs and a small engineering team, leading to moderate cash burn before unit economics can be proven.",
+    "known_numbers": "no public numbers found",
+    "india_cost_estimate": "\u20b915\u201125\u202flakh for an MVP and a 2\u20114\u2011person team for the first 6\u201112\u202fmonths (cloud/LLM API usage, salaries, basic infra, no paid marketing).",
+    "risk_score": 5,
+    "risk_reasoning": "The lack of identified competitors is a positive signal, but moderate regulatory exposure around data localisation and emerging AI rules adds uncertainty. Capital needs are modest but ongoing API costs and talent expenses mean the venture must achieve traction quickly to stay viable, placing the overall risk at a mid\u2011range level."
+  },
+  "siift::2026-09-15": {
+    "company": "siift",
+    "category": "ai-analytics",
+    "revised_badge": "orange",
+    "competitor_status": "surviving",
+    "regulatory_flag": "moderate \u2013 India\u2019s Personal Data Protection Bill (PDPB) mandates data localisation for critical personal data and imposes compliance obligations on analytics platforms handling such data.",
+    "capital_intensity": "low \u2013 the model is SaaS\u2011only, requiring cloud compute and a small engineering/sales team; no heavy inventory, logistics or physical assets.",
+    "known_numbers": "no public numbers found",
+    "india_cost_estimate": "\u20b950\u201180\u202flakh for the first 6\u201112\u202fmonths (cloud & API usage ~\u20b95\u201110\u202flakh; 2\u20113 senior engineers + product manager ~\u20b945\u201170\u202flakh in salaries).",
+    "risk_score": 5,
+    "risk_reasoning": "A direct competitor (Absolutdata) is still active, which raises market\u2011entry pressure, but the regulatory environment is only moderately restrictive for enterprise analytics. Capital needs are low, keeping the financial risk modest, resulting in a mid\u2011range risk score."
   }
 }
