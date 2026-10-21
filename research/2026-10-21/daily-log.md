@@ -394,3 +394,39 @@
 - India fit note: The model relies on widespread trust in end‑to‑end encryption and users’ willingness to pay for privacy‑focused AI, which may be limited in India where free services dominate and data‑privacy awareness is still growing.
 - Badge guess: black
 
+## Recursive
+- Source article: [Recursive launches Flint, a laptop coding model it says was largely built by AI](https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/) (TechCrunch)
+- Category: ai-coding
+- What it does: Recursive released Flint, a free, laptop‑sized large language model specialized for code generation, built largely through its own AI‑driven model‑creation pipeline.
+- Likely revenue model: The company will likely monetize via enterprise licensing, paid API access for larger or customized models, and consulting services around AI model development.
+- India equivalent: none found
+- India fit note: Flint assumes widespread access to relatively powerful laptops and a developer community comfortable with self‑hosted AI models, which may be limited in many Indian regions due to hardware cost and bandwidth constraints.
+- Badge guess: black
+
+## Blacksmith
+- Source article: [Blacksmith hits unicorn valuation after Sequoia leads Series C](https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c/) (TechCrunch)
+- Category: ai-devtools
+- What it does: Provides a platform that lets companies build, test, and debug AI code more effectively, streamlining the development of generative AI applications.
+- Likely revenue model: Enterprise SaaS subscription with tiered pricing and possible usage‑based add‑ons.
+- India equivalent: none found
+- India fit note: The product assumes widespread adoption of AI‑first development practices and access to high‑performance compute, which are still emerging in many Indian enterprises, potentially limiting immediate uptake.
+- Badge guess: black
+
+## Alza
+- Source article: [New York’s first microdrama film festival searches for its audience](https://www.theverge.com/entertainment/1014494/alza-vertical-film-festival-bill-block-salvador-paskowitz-microdramas-verticals) (The Verge)
+- Category: microdrama
+- What it does: Alza is a film festival that showcases ultra‑short, vertical‑format microdrama content, typically under a few minutes per piece. It curates and screens these bite‑size stories for audiences in New York City.
+- Likely revenue model: Revenue likely comes from a mix of ticket sales, entry fees for creators, sponsorships, and possibly licensing or distribution deals for standout microdramas.
+- India equivalent: none found
+- India fit note: The concept relies on audiences being comfortable watching vertical video on large horizontal screens and on a culture of short‑form, mobile‑first storytelling, which is still nascent in Indian festival circuits. Limited demand for vertical content in traditional cinema venues could hinder adoption.
+- Badge guess: black
+
+## Canary Tokens
+- Source article: [Canary Tokens](https://canarytokens.org/) (Hacker News (front page))
+- Category: security-ops
+- What it does: Provides unique, trackable tokens (URLs, documents, API keys, etc.) that trigger an alert when accessed, helping organizations detect credential leaks and unauthorized data access.
+- Likely revenue model: Offers a free open‑source/self‑hosted version and a hosted SaaS tier with premium features and enterprise support on a subscription basis.
+- India equivalent: none found
+- India fit note: The concept relies on widespread use of cloud‑based monitoring and a security‑aware culture; while the technical infrastructure exists in India, many SMBs may lack the awareness or budget to adopt such breach‑detection tools.
+- Badge guess: black
+

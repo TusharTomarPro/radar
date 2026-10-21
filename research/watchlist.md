@@ -2172,3 +2172,7 @@
 | Alter | auth | orange | 2026-10-21 | LoginRadius |
 | Supernatural | vr-fitness | black | 2026-10-21 | none found |
 | Eternal (Dark) | privacy-ai | black | 2026-10-21 | none found |
+| Recursive | ai-coding | black | 2026-10-21 | none found |
+| Blacksmith | ai-devtools | black | 2026-10-21 | none found |
+| Alza | microdrama | black | 2026-10-21 | none found |
+| Canary Tokens | security-ops | black | 2026-10-21 | none found |
