@@ -313,3 +313,84 @@
 - India fit note: Indian kitchens often use larger spoons and traditional measurement units, so consumer willingness to switch to a premium, fold‑flat design may be limited; storage constraints exist but magnetic docking may be less relevant in typical Indian cabinets.
 - Badge guess: black
 
+## Mach9
+- Source article: [Mach9 raises $34M after pivoting to AI CAD software](https://techcrunch.com/2026/10/21/mach9-raises-34m-after-pivoting-to-ai-cad-software/) (TechCrunch)
+- Category: ai-cad
+- What it does: Mach9 offers AI‑powered CAD software that automates drafting, modeling and design optimization for engineers and architects.
+- Likely revenue model: A subscription‑based SaaS model with tiered pricing per user or enterprise seat.
+- India equivalent: none found
+- India fit note: The product relies on high‑performance cloud compute and a workforce accustomed to AI‑augmented design tools; while India has strong engineering talent, widespread adoption may be limited by bandwidth costs and slower uptake of AI‑driven design workflows.
+- Badge guess: black
+
+## Serato
+- Source article: [Now Serato DJ works on your iPhone](https://www.theverge.com/tech/1015319/serato-dj-for-ios) (The Verge)
+- Category: music-tech
+- What it does: Serato DJ brings its professional DJ mixing suite to iPhone and iPad, letting users mix tracks, cue, and control hardware controllers from a mobile device.
+- Likely revenue model: The company likely sells the app via a one‑time purchase or subscription and earns additional revenue from hardware controller sales and premium add‑ons.
+- India equivalent: none found
+- India fit note: The product assumes widespread iPhone usage and access to compatible DJ controllers, which are less common in India; limited high‑end hardware adoption and lower disposable income for pro‑grade gear could hinder rapid uptake.
+- Badge guess: black
+
+## Patch the Planet
+- Source article: [Patch the Planet: global response coordination as agents uncover vulnerabilities](https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/) (Hacker News (front page))
+- Category: global-response
+- What it does: Provides a platform that coordinates worldwide response efforts by deploying autonomous agents to discover, prioritize, and patch vulnerabilities across digital and physical infrastructure.
+- Likely revenue model: Charges organizations subscription fees for access to the coordination platform and offers paid consulting or incident‑response services.
+- India equivalent: none found
+- India fit note: The model relies on seamless cross‑border data sharing, real‑time collaboration, and a network of trusted agents, which may be limited by India's data‑localisation rules and varying levels of digital infrastructure in remote regions.
+- Badge guess: black
+
+## PHP2Shell
+- Source article: [PHP2Shell: AI uncovers critical RCE in PHP](https://www.wiz.io/blog/php2shell-php-rce) (Hacker News (front page))
+- Category: security
+- What it does: PHP2Shell is an AI‑driven tool that automatically scans PHP codebases to discover critical remote code execution (RCE) vulnerabilities. It generates proof‑of‑concept exploits to help developers patch the issues quickly.
+- Likely revenue model: It likely operates on a SaaS subscription model, charging security teams per seat or per number of scans.
+- India equivalent: none found
+- India fit note: The product relies on widespread adoption of AI‑based static analysis and a mature DevSecOps culture, which are still emerging in many Indian firms; additionally, the prevalence of legacy PHP applications may limit immediate uptake.
+- Badge guess: black
+
+## Sumi.css
+- Source article: [Show HN: Sumi.css – CSS Framework](https://github.com/vladocar/Sumi.css) (Hacker News (front page))
+- Category: css-framework
+- What it does: Sumi.css is an open‑source CSS framework that provides utility‑first classes and pre‑styled components to speed up front‑end development.
+- Likely revenue model: The project is free, but the maintainer may earn through sponsorships, paid premium themes, or consulting services.
+- India equivalent: none found
+- India fit note: The framework relies on widespread adoption of modern CSS tooling and a developer community accustomed to utility‑first design, which exists in India, but there is no direct Indian‑origin equivalent offering the same lightweight approach.
+- Badge guess: black
+
+## LayerFS
+- Source article: [LayerFS: The filesystem for AI coding agents](https://layerfs.ai/) (Hacker News (front page))
+- Category: ai-coding
+- What it does: LayerFS offers a virtual filesystem that AI coding agents can read from and write to, enabling them to manage project files, state, and dependencies as they generate code.
+- Likely revenue model: Subscription‑based SaaS pricing for teams and enterprises, possibly with usage‑based tiers for API calls.
+- India equivalent: none found
+- India fit note: Success depends on widespread adoption of AI coding assistants and reliable high‑speed internet in development environments; while India has a large developer base, enterprise concerns around data privacy and cost may slow uptake.
+- Badge guess: black
+
+## Alter
+- Source article: [Launch HN: Alter (YC S25) – Access control for multi-user agents](https://alterauth.com/) (Hacker News (front page))
+- Category: auth
+- What it does: Alter provides a proxy layer that injects per‑user credentials and enforces fine‑grained runtime policies for multi‑user AI or automation agents, recording audit logs for compliance. It lets developers build agents that act on behalf of individual users while keeping downstream systems secure.
+- Likely revenue model: Usage‑based pricing with a free tier up to 10k requests and paid tiers beyond that.
+- India equivalent: LoginRadius
+- India fit note: The product assumes widespread internal use of chat‑based agents (e.g., Slack) and tight integration with SaaS APIs, which are common in large Indian enterprises but may be slower to adopt in smaller firms. Additionally, the compliance‑driven audit logging aligns well with Indian data‑privacy regulations, but requires mature DevSecOps practices that are still emerging in many Indian tech teams.
+- Badge guess: orange
+
+## Supernatural
+- Source article: [Supernatural's VR exercise app has relaunched on Meta VR headsets](https://www.engadget.com/2293056/supernaturals-vr-exercise-app-has-relaunched-on-meta-vr-headsets/) (Engadget)
+- Category: vr-fitness
+- What it does: Supernatural provides guided workout sessions in immersive virtual reality environments, allowing users to exercise through a headset.
+- Likely revenue model: Subscription-based, charging $20 per month or $200 per year for unlimited access to its VR workout library.
+- India equivalent: none found
+- India fit note: The model relies on widespread ownership of high‑end VR headsets and fast broadband, both of which have limited penetration in India, making adoption slower.
+- Badge guess: black
+
+## Eternal (Dark)
+- Source article: [Dark Matter: Eternal’s chatbot will keep user conversations private even from the company — Deepinder Goyal](https://economictimes.indiatimes.com/tech/technology/dark-matter-eternals-chatbot-will-keep-user-conversations-private-even-from-the-company-deepinder-goyal/articleshow/135091934.cms) (Economic Times Tech)
+- Category: privacy-ai
+- What it does: Dark is an AI chatbot that encrypts user conversations end‑to‑end, ensuring that even the company cannot read the content.
+- Likely revenue model: Subscription‑based plans for individuals and enterprises that pay for private, ad‑free AI chat access.
+- India equivalent: none found
+- India fit note: The model relies on widespread trust in end‑to‑end encryption and users’ willingness to pay for privacy‑focused AI, which may be limited in India where free services dominate and data‑privacy awareness is still growing.
+- Badge guess: black
+

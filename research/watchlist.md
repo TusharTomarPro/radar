@@ -2163,3 +2163,12 @@
 | Onto | travel-tech | black | 2026-10-21 | none found |
 | Neo San | waste-tech | black | 2026-10-21 | none found |
 | Polygons | kitchen-tools | black | 2026-10-21 | none found |
+| Mach9 | ai-cad | black | 2026-10-21 | none found |
+| Serato | music-tech | black | 2026-10-21 | none found |
+| Patch the Planet | global-response | black | 2026-10-21 | none found |
+| PHP2Shell | security | black | 2026-10-21 | none found |
+| Sumi.css | css-framework | black | 2026-10-21 | none found |
+| LayerFS | ai-coding | black | 2026-10-21 | none found |
+| Alter | auth | orange | 2026-10-21 | LoginRadius |
+| Supernatural | vr-fitness | black | 2026-10-21 | none found |
+| Eternal (Dark) | privacy-ai | black | 2026-10-21 | none found |
