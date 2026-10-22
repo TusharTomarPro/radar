@@ -295,3 +295,75 @@
 - India fit note: Adoption may be limited by lower awareness of data‑privacy concerns and regulatory hesitancy around encrypted AI services in India, as well as the need for robust local data‑center infrastructure.
 - Badge guess: black
 
+## Nirva
+- Source article: [Nirva raises $33M for a pendant that only listens to you](https://techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you/) (TechCrunch)
+- Category: ambient-ai
+- What it does: Nirva offers a wearable pendant that continuously listens for its owner's voice commands and provides AI-powered assistance while protecting privacy by ignoring other voices.
+- Likely revenue model: Revenue is primarily generated from selling the $249 hardware device, with potential upsell of subscription‑based AI services or premium features.
+- India equivalent: none found
+- India fit note: Success in India would require widespread acceptance of a constantly listening wearable and reliable low‑latency connectivity; privacy concerns and cultural attitudes toward always‑on devices could limit adoption.
+- Badge guess: black
+
+## Coolfly
+- Source article: [Coolfly’s solar-powered Aura Smart Bird Feeder is nearly 50 percent off](https://www.theverge.com/gadgets/1015984/aura-smart-bird-feeder-jbl-charge-6-speaker-deal-sale) (The Verge)
+- Category: iot
+- What it does: The Aura Smart Bird Feeder is a solar‑powered bird feeder that includes an integrated camera and app, letting users watch and identify birds from their phone.
+- Likely revenue model: Revenue comes from selling the hardware unit, with potential upsell of subscription‑based cloud storage or premium app features.
+- India equivalent: none found
+- India fit note: Success depends on a strong bird‑watching hobby, reliable home Wi‑Fi, and users comfortable with smart‑home devices—behaviors that are still niche in many Indian households.
+- Badge guess: black
+
+## pwn.watch
+- Source article: [What's Getting Pwned](https://pwn.watch/) (Hacker News (front page))
+- Category: breach-monitor
+- What it does: Aggregates publicly disclosed data‑breach dumps and monitors them in real time, alerting users when their email addresses, usernames or passwords appear.
+- Likely revenue model: Charges subscription fees for premium monitoring, custom alerts and API access.
+- India equivalent: none found
+- India fit note: The service relies on widespread user awareness of personal credential security and on email/SMS notification infrastructure, which are present in India but adoption is slower; regulatory constraints around data sharing may also affect scaling.
+- Badge guess: black
+
+## Last Museum
+- Source article: [The Last Museum: Semantic search across 5.8M artworks from major museums](https://lastmuseum.com/) (Hacker News (front page))
+- Category: art-tech
+- What it does: Provides AI‑powered semantic search across 5.8 million artworks from major museums, letting users find pieces by concept, style, or visual similarity.
+- Likely revenue model: Charges museums, developers, or cultural platforms subscription or usage fees for API access and premium search features.
+- India equivalent: none found
+- India fit note: The service relies on extensive digitised collections and high‑resolution image data that many Indian museums have not yet made publicly available, and Indian users may have lower familiarity with AI‑driven art discovery tools.
+- Badge guess: black
+
+## ns2jb
+- Source article: [Jailbreaking the Switch 2](https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/) (Hacker News (front page))
+- Category: console-mod
+- What it does: Provides a software exploit that unlocks the Nintendo Switch 2, allowing users to run homebrew, custom firmware, and unsigned code.
+- Likely revenue model: Primarily donation‑based or paid for premium binaries/support, with occasional paid toolkits.
+- India equivalent: none found
+- India fit note: Success depends on a robust aftermarket console modding community and a willingness to bypass DRM, which is limited in India due to lower awareness and stricter enforcement against piracy.
+- Badge guess: black
+
+## Slingshot Insurance
+- Source article: [Exclusive: Slingshot Raises $27M In Seed Funding To Build An Insurer For Those Small Policies Sold At Checkout](https://news.crunchbase.com/fintech-ecommerce/insuretech/startup-slingshot-insurance-seed-funding-genteman/) (Crunchbase News)
+- Category: embedded insurance
+- What it does: Slingshot builds an AI‑native insurer that offers tiny, checkout‑point policies (e.g., for travel, device protection) directly at the point of sale. It provides the underwriting, policy issuance and claims handling as a white‑label service for merchants.
+- Likely revenue model: Charges merchants a per‑policy fee or commission on premiums while also earning underwriting profit on the policies it writes.
+- India equivalent: Acko
+- India fit note: India has a fast‑growing e‑commerce ecosystem and several digital insurers like Acko that already embed micro‑policies at checkout, but widespread AI‑driven underwriting and real‑time integration may still face data‑privacy and regulatory hurdles.
+- Badge guess: orange
+
+## ShopOS
+- Source article: [Binny Bansal-Backed ShopOS Launches AI Creative Platform Sloosh For Individuals](https://inc42.com/buzz/binny-bansal-backed-shopos-launches-ai-creative-platform-sloosh-for-individuals/) (Inc42)
+- Category: generative-ai
+- What it does: Sloosh is a self‑service platform that lets individuals generate images and videos using AI-powered creation tools.
+- Likely revenue model: Subscription‑based SaaS with tiered plans and optional pay‑per‑generation credits.
+- India equivalent: Creaitor.ai
+- India fit note: The model relies on high‑speed internet and widespread familiarity with AI content tools, which are growing but still uneven across tier‑2 and rural India.
+- Badge guess: orange
+
+## TravClan
+- Source article: [TravClan raises $5M from Flipkart, others](https://yourstory.com/2026/10/travclan-raises-5-million-funding-flipkart-others) (YourStory)
+- Category: travel-tech
+- What it does: TravClan is a marketplace that aggregates travel experiences and destination services, linking global travelers with local operators and suppliers. It uses technology and AI to curate and sell trips across key international markets.
+- Likely revenue model: The company likely earns a commission on each booking and may charge subscription or listing fees to travel operators.
+- India equivalent: Thrillophilia
+- India fit note: India has a large online travel market and similar platforms, but success depends on reliable internet connectivity for AI‑driven personalization and on consumers' willingness to book international experiences through a relatively new brand.
+- Badge guess: orange
+

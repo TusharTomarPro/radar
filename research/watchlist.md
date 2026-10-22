@@ -2209,3 +2209,11 @@
 | Harajuku Tokyo Café | themed-dining | orange | 2026-10-22 | Sushi Bay |
 | AI Debt Collections | fintech | black | 2026-10-22 | none found |
 | Eternal | privacy-ai | black | 2026-10-22 | none found |
+| Nirva | ambient-ai | black | 2026-10-22 | none found |
+| Coolfly | iot | black | 2026-10-22 | none found |
+| pwn.watch | breach-monitor | black | 2026-10-22 | none found |
+| Last Museum | art-tech | black | 2026-10-22 | none found |
+| ns2jb | console-mod | black | 2026-10-22 | none found |
+| Slingshot Insurance | embedded insurance | orange | 2026-10-22 | Acko |
+| ShopOS | generative-ai | orange | 2026-10-22 | Creaitor.ai |
+| TravClan | travel-tech | orange | 2026-10-22 | Thrillophilia |
