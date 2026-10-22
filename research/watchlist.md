@@ -2182,3 +2182,30 @@
 | CureBay | healthtech | orange | 2026-10-22 | Practo |
 | Different | ai-martech | orange | 2026-10-22 | MoEngage |
 | Dark.ai | ai-assistant | black | 2026-10-22 | none found |
+| Dadan | ai-video | black | 2026-10-22 | none found |
+| Radaric | ai-curation | orange | 2026-10-22 | Dailyhunt |
+| Doneas | peer-coaching | black | 2026-10-22 | none found |
+| Causo | lead-gen | orange | 2026-10-22 | LeadSquared |
+| heal.dev | devsecops | orange | 2026-10-22 | Appknox |
+| Whiteboard | dev-tools | black | 2026-10-22 | none found |
+| Fastlane | ad-tech | black | 2026-10-22 | none found |
+| Concierge | ai-support | orange | 2026-10-22 | Haptik |
+| CutBay | ai-video | orange | 2026-10-22 | InVideo |
+| DeepCell | productivity | orange | 2026-10-22 | Zoho Projects |
+| Archivist | file-management | black | 2026-10-22 | none found |
+| Resend | shared-inbox | orange | 2026-10-22 | Zoho Desk |
+| Voxelo | ai-3d | black | 2026-10-22 | none found |
+| Playad | ai-marketing | black | 2026-10-22 | none found |
+| Bits | ai-agent | orange | 2026-10-22 | Haptik |
+| CleanSlop | ai-devtools | black | 2026-10-22 | none found |
+| Kalender Sync | calendar-sync | black | 2026-10-22 | none found |
+| Claire Mail | email-client | orange | 2026-10-22 | Zoho Mail |
+| Sponkly | ai-translation | orange | 2026-10-22 | Reverie Language Technologies |
+| Teclo | keyboard-enhancement | black | 2026-10-22 | none found |
+| Globus Software | geo-visualization | black | 2026-10-22 | none found |
+| Minotaur AI | ai-reasoning | black | 2026-10-22 | none found |
+| WorldTUI | ai-agent | black | 2026-10-22 | none found |
+| Greenlight | family-tech | black | 2026-10-22 | none found |
+| Harajuku Tokyo Café | themed-dining | orange | 2026-10-22 | Sushi Bay |
+| AI Debt Collections | fintech | black | 2026-10-22 | none found |
+| Eternal | privacy-ai | black | 2026-10-22 | none found |
