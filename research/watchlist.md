@@ -2176,3 +2176,9 @@
 | Blacksmith | ai-devtools | black | 2026-10-21 | none found |
 | Alza | microdrama | black | 2026-10-21 | none found |
 | Canary Tokens | security-ops | black | 2026-10-21 | none found |
+| Searchtok | ai-search | black | 2026-10-22 | none found |
+| SuperCMO AI | ai-marketing | black | 2026-10-22 | none found |
+| Karta AI | voice-ai | orange | 2026-10-22 | Gnani.ai |
+| CureBay | healthtech | orange | 2026-10-22 | Practo |
+| Different | ai-martech | orange | 2026-10-22 | MoEngage |
+| Dark.ai | ai-assistant | black | 2026-10-22 | none found |
