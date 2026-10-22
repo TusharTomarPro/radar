@@ -367,3 +367,75 @@
 - India fit note: India has a large online travel market and similar platforms, but success depends on reliable internet connectivity for AI‑driven personalization and on consumers' willingness to book international experiences through a relatively new brand.
 - Badge guess: orange
 
+## The Browser Company
+- Source article: [Arc browser sunsets December 22 as The Browser Company doubles down on Dia](https://techcrunch.com/2026/10/22/arc-browser-sunsets-december-22-as-the-browser-company-doubles-down-on-dia/) (TechCrunch)
+- Category: browser
+- What it does: Arc is a desktop web browser that reimagines the browsing experience with a side‑panel UI, integrated productivity tools, and a focus on power‑users. The company is now shifting resources to its AI‑powered design tool, Dia.
+- Likely revenue model: Arc monetizes through a paid “Arc Pro” subscription tier and may later generate revenue from enterprise licensing or premium features in Dia.
+- India equivalent: none found
+- India fit note: Arc relies on a niche, design‑savvy user base, high‑speed broadband, and a willingness to pay for a premium desktop browser—behaviors and infrastructure that are still limited in most Indian consumer segments.
+- Badge guess: black
+
+## Teenage Engineering
+- Source article: [Teenage Engineering launched an instrument amp with a ton of built-in effects](https://www.theverge.com/gadgets/1017022/teenage-engineering-ep-35-instrument-amp) (The Verge)
+- Category: music-tech
+- What it does: The EP-35 is a battery‑powered, multi‑input instrument amp that supports guitars, microphones (with phantom power) and line‑in sources, and includes a suite of built‑in effects and streaming capability.
+- Likely revenue model: Revenue is generated primarily from direct sales of the hardware unit (and possibly accessories) through online and retail channels.
+- India equivalent: Macktronics
+- India fit note: Portable, battery‑operated amps are viable in India, but consistent access to high‑quality phantom‑powered mics and reliable streaming infrastructure may be less common among grassroots musicians.
+- Badge guess: orange
+
+## Hedra
+- Source article: [Hedra is a 3D open world game I wrote from scratch while in highschool](https://github.com/maxilevi/project-hedra/tree/pre-ai) (Hacker News (front page))
+- Category: indie-game
+- What it does: Hedra is an open‑source 3D open‑world game built from scratch, offering players exploration and gameplay in a procedurally generated environment.
+- Likely revenue model: Currently no direct revenue; likely relies on donations or future monetisation through sales or licensing.
+- India equivalent: none found
+- India fit note: The project assumes access to high‑end PCs and a community of hobbyist developers, which may be limited in India where such indie dev ecosystems are smaller and hardware penetration for high‑performance gaming is lower.
+- Badge guess: black
+
+## typeui
+- Source article: [Show HN: UI micro interactions prompts for AI](https://www.typeui.sh/micro-interactions) (Hacker News (front page))
+- Category: ai-design
+- What it does: Provides ready‑made micro‑interaction prompts that designers can drop into AI‑generated UI prototypes, speeding up the creation of interactive components.
+- Likely revenue model: Subscription‑based SaaS with tiered plans for individual designers and enterprise teams.
+- India equivalent: none found
+- India fit note: The product relies on widespread use of AI‑assisted design tools and fast broadband, which are growing in India but still limited among smaller agencies and freelancers, so adoption may be slower outside major metros.
+- Badge guess: black
+
+## Caristo Diagnostics
+- Source article: [AI analysis of CT scans finds 42.9% of patients have coronary inflammation](https://www.biograph.com/newsroom/biograph-completes-first-u.s.-study-with-caristo-diagnostics%E2%80%99-ai-powered-coronary-inflammation-detection-finding-risk-in-over-42-of-asymptomatic-patients) (Hacker News (front page))
+- Category: ai-health
+- What it does: Uses AI to analyze CT scans and detect coronary inflammation, flagging patients at elevated cardiovascular risk.
+- Likely revenue model: Licenses the AI software to hospitals and imaging centers, typically via subscription or per‑scan fees.
+- India equivalent: none found
+- India fit note: The solution depends on widespread availability of high‑resolution CT scanners and seamless integration with radiology workflows, which are limited in many Indian hospitals, and it also requires regulatory clearance for AI‑based diagnostics.
+- Badge guess: black
+
+## Agent Usage Guard
+- Source article: [Show HN: agent-usage-guard – a Claude Code mod to protect your usage window](https://github.com/rbartoli/agent-usage-guard) (Hacker News (front page))
+- Category: ai-agent
+- What it does: A lightweight open‑source mod for Anthropic's Claude that monitors and caps the usage window of Claude‑based agents, preventing accidental over‑consumption of API credits.
+- Likely revenue model: Primarily free/open‑source; the maintainer may rely on donations, sponsorships, or consulting services.
+- India equivalent: none found
+- India fit note: The tool assumes reliable access to Anthropic's Claude API, which can be costly and sometimes latency‑bound in India; adoption also depends on a developer community familiar with Claude‑based agents.
+- Badge guess: black
+
+## Virtual Boy Color Emulator
+- Source article: [This emulator reimagines Nintendo’s Virtual Boy with a full color display](https://arstechnica.com/gaming/2026/10/this-emulator-reimagines-nintendos-virtual-boy-with-a-full-color-display/) (Ars Technica)
+- Category: retro-gaming
+- What it does: It emulates Nintendo's Virtual Boy hardware while replacing the original red‑scale display with a full‑color screen and adds modern features like save states and controller support.
+- Likely revenue model: Revenue likely comes from selling the emulator as a paid app or hardware kit (e.g., a handheld device) and possibly from accessories or a Patreon‑style subscription for ongoing updates.
+- India equivalent: none found
+- India fit note: The product relies on a niche retro‑gaming enthusiast base and on manufacturing small‑batch hardware, which may face higher costs and limited distribution in India; consumer demand for such a specialized emulator is uncertain.
+- Badge guess: black
+
+## Playbill
+- Source article: [A new subscription service promises an evolving collection of 'bold and bizarre' indie games](https://www.engadget.com/2294854/a-new-subscription-service-promises-an-evolving-collection-of-bold-and-bizarre-indie-games/) (Engadget)
+- Category: gaming-subscription
+- What it does: Offers a monthly subscription that gives users access to a rotating library of bold, bizarre indie games, explicitly excluding titles that use generative AI.
+- Likely revenue model: Charges users a recurring monthly fee for unlimited access to the curated indie game catalog.
+- India equivalent: none found
+- India fit note: The service depends on a niche audience willing to pay for curated indie titles, which may be constrained in India by lower disposable income for niche gaming and limited exposure to such indie games.
+- Badge guess: black
+

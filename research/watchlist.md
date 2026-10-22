@@ -2217,3 +2217,11 @@
 | Slingshot Insurance | embedded insurance | orange | 2026-10-22 | Acko |
 | ShopOS | generative-ai | orange | 2026-10-22 | Creaitor.ai |
 | TravClan | travel-tech | orange | 2026-10-22 | Thrillophilia |
+| The Browser Company | browser | black | 2026-10-22 | none found |
+| Teenage Engineering | music-tech | orange | 2026-10-22 | Macktronics |
+| Hedra | indie-game | black | 2026-10-22 | none found |
+| typeui | ai-design | black | 2026-10-22 | none found |
+| Caristo Diagnostics | ai-health | black | 2026-10-22 | none found |
+| Agent Usage Guard | ai-agent | black | 2026-10-22 | none found |
+| Virtual Boy Color Emulator | retro-gaming | black | 2026-10-22 | none found |
+| Playbill | gaming-subscription | black | 2026-10-22 | none found |
