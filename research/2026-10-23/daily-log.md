@@ -340,3 +340,39 @@
 - India fit note: Successful adoption would require widespread modular actuator standards and a mature industrial robotics ecosystem, which are still emerging in many Indian sectors.
 - Badge guess: black
 
+## CVE Tracker
+- Source article: [CVE Tracker](https://cve.0xosprey.com/) (Hacker News (front page))
+- Category: cybersecurity
+- What it does: Provides a searchable, real‑time database of CVE entries with filtering, timeline visualisation and optional alert notifications.
+- Likely revenue model: Monetises through paid API access, enterprise‑grade alert subscriptions or premium dashboard features.
+- India equivalent: none found
+- India fit note: The service relies on continuous internet connectivity and a culture of proactive vulnerability management that is still maturing in many Indian enterprises, which may limit immediate adoption.
+- Badge guess: black
+
+## Corgi
+- Source article: [Show HN: Corgi, a helpful {agent, terminal} multiplexer](https://corgi.computer/) (Hacker News (front page))
+- Category: ai-agent
+- What it does: Corgi is a terminal multiplexer that lets users run and manage multiple AI agents (e.g., Codex, Claude, Pi) from a single interface, showing each agent's activity feed and providing shortcuts, usage tracking and inline media handling.
+- Likely revenue model: Probably a freemium model where the core tool is free/open‑source and advanced features, cloud inference credits or enterprise support are sold via subscription.
+- India equivalent: none found
+- India fit note: The product relies on cheap GPU inference services and a developer culture comfortable with terminal‑centric workflows; while Indian developers have the technical skill, widespread access to low‑cost inference hardware may be limited, affecting adoption.
+- Badge guess: black
+
+## DNS Finger
+- Source article: [DNS: A Replacement for Finger](https://altchan.org/sh/42) (Hacker News (front page))
+- Category: dns-identity
+- What it does: Provides a way to store and retrieve short user profile data via DNS TXT records, acting as a modern replacement for the obsolete Finger protocol.
+- Likely revenue model: Charges for custom domain registration, premium DNS hosting, and API access for developers.
+- India equivalent: none found
+- India fit note: The service relies on widespread DNS TXT record usage and developer adoption, which exist in India but may face low awareness among end‑users and limited integration with popular Indian platforms.
+- Badge guess: black
+
+## caffeinate-plus
+- Source article: [Caffeine-like utility to keep you MacBook awake with its lid closed](https://github.com/clashman/caffeinate-plus) (Hacker News (front page))
+- Category: productivity
+- What it does: A macOS utility that prevents the MacBook from sleeping when the lid is closed, mimicking the built‑in caffeinate command.
+- Likely revenue model: Free open‑source tool, likely monetized via donations or sponsorships.
+- India equivalent: none found
+- India fit note: Requires macOS laptops and the ability to run third‑party background utilities; similar behavior is not common in India’s dominant Windows/Android market, limiting adoption.
+- Badge guess: black
+

@@ -2263,3 +2263,7 @@
 | Total Historian | life-logging | black | 2026-10-23 | none found |
 | Swurf | content-discovery | orange | 2026-10-23 | Dailyhunt |
 | Impossible Machines | robotics | black | 2026-10-23 | none found |
+| CVE Tracker | cybersecurity | black | 2026-10-23 | none found |
+| Corgi | ai-agent | black | 2026-10-23 | none found |
+| DNS Finger | dns-identity | black | 2026-10-23 | none found |
+| caffeinate-plus | productivity | black | 2026-10-23 | none found |
