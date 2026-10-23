@@ -259,3 +259,84 @@
 - India fit note: The model relies on strong logistics and consumer trust in online home‑goods purchases, both of which are well‑established in India, though price sensitivity may require aggressive discounting.
 - Badge guess: orange
 
+## Carta
+- Source article: [Carta and NewView partner, hoping to entice more startups to let employees sell shares early](https://techcrunch.com/2026/10/23/carta-and-newview-partner-hoping-to-entice-more-startups-to-let-employees-sell-shares-early/) (TechCrunch)
+- Category: employee-liquidity
+- What it does: Provides a platform that lets startups run tender offers so employees can sell a portion of their private shares before an IPO or exit.
+- Likely revenue model: Charges a transaction fee or percentage of the proceeds on each secondary share sale, possibly supplemented by subscription fees for the service.
+- India equivalent: Vested
+- India fit note: India's secondary market for private-company shares is still nascent and faces stricter securities regulations, so widespread employee liquidity may be limited by compliance and lower demand.
+- Badge guess: orange
+
+## Daytona
+- Source article: [Agent cloud startup Daytona hits $1B valuation backed by FirstMark and a who’s who of angels](https://techcrunch.com/2026/10/23/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels/) (TechCrunch)
+- Category: ai-agent
+- What it does: Daytona provides a cloud platform that gives each AI agent its own dedicated compute environment, effectively a personal computer for agents.
+- Likely revenue model: Charges customers a subscription or usage‑based fee for compute resources and storage per agent.
+- India equivalent: none found
+- India fit note: The model relies on high‑performance, on‑demand cloud compute and a mature ecosystem of AI agents, which is still nascent in India, and may face adoption hurdles due to limited enterprise AI‑agent deployments.
+- Badge guess: black
+
+## Kimi
+- Source article: [Kimi K3.1 scores 55 on Artificial Analysis, placed on the Pareto line](https://artificialanalysis.ai/models/kimi-k3-1-pro) (Hacker News (front page))
+- Category: ai-model
+- What it does: Kimi K3.1 is a large language model that generates text and answers queries, scoring 55 on the Artificial Analysis benchmark. It is offered via an API for developers and enterprises.
+- Likely revenue model: Charges users per token or through tiered subscription plans for API access.
+- India equivalent: none found
+- India fit note: Success depends on high‑speed internet, cloud compute resources, and a user base comfortable with English‑centric AI assistants, which are less prevalent in many Indian regions.
+- Badge guess: black
+
+## Static HTML Dashboard
+- Source article: [Can we replace a $150k Looker with a bucket of HTML files?](https://david.lequin.dev/blog/bi-software-is-dead/) (Hacker News (front page))
+- Category: business-intelligence
+- What it does: Delivers data visualizations as static HTML files hosted on cloud storage, eliminating the need for costly BI platforms like Looker.
+- Likely revenue model: Offers consulting, custom dashboard templates, and implementation services on a project or subscription basis.
+- India equivalent: none found
+- India fit note: The model relies on reliable cloud storage and data pipelines to generate static files, which Indian firms can adopt but may need to build data engineering capabilities first.
+- Badge guess: black
+
+## Time Nuts
+- Source article: [Time Nuts (2005)](http://leapsecond.com/time-nuts.htm) (Hacker News (front page))
+- Category: time-capsule
+- What it does: Provides a platform for users to schedule messages, emails, or digital content to be delivered at a future date, acting as a personal time capsule.
+- Likely revenue model: Charges users a fee per scheduled delivery or offers a subscription for unlimited future messages.
+- India equivalent: none found
+- India fit note: The service relies on users regularly checking email and valuing delayed digital communication, which may be less prevalent in India where instant messaging dominates and cultural habits favor immediate interaction.
+- Badge guess: black
+
+## Animify
+- Source article: [Animations for System Builders](https://brooker.co.za/blog/2026/10/23/animations.html) (Hacker News (front page))
+- Category: ui-animation
+- What it does: Animify offers a curated library of ready‑to‑use motion assets and an API that lets system builders embed smooth animations into internal tools, dashboards and SaaS products without writing custom code.
+- Likely revenue model: A tiered SaaS subscription where developers pay monthly for API calls, premium animation packs and enterprise support.
+- India equivalent: Animaker
+- India fit note: The model relies on widespread adoption of modern web frameworks and a culture of investing in UI polish for internal tools, which is growing in Indian tech firms but may still be limited to larger enterprises.
+- Badge guess: orange
+
+## Total Historian
+- Source article: [Total Historian](https://www.theideasletter.org/essay/total-historian/) (Hacker News (front page))
+- Category: life-logging
+- What it does: A platform that automatically records and aggregates a user’s digital activities, communications, and media into a searchable personal timeline.
+- Likely revenue model: Subscription‑based SaaS with tiered plans for storage, advanced analytics, and export features.
+- India equivalent: none found
+- India fit note: Success would rely on widespread acceptance of continuous personal data collection and robust cloud storage, which face stricter privacy regulations and lower trust among Indian users.
+- Badge guess: black
+
+## Swurf
+- Source article: [Show HN: Swurf – Swipe through the real web](https://swurf.org/) (Hacker News (front page))
+- Category: content-discovery
+- What it does: Swurf presents a swipe‑based feed of web pages, learning a user’s interests and ensuring each page is shown only once. It aggregates blogs, articles and trending sites into an endless, personalized scrolling experience.
+- Likely revenue model: Likely monetises through native advertising, sponsored content placements, or a premium subscription that removes ads and unlocks advanced personalization features.
+- India equivalent: Dailyhunt
+- India fit note: The swipe‑first UI and reliance on continuous high‑speed mobile data align with Indian users who already consume short‑form news via apps like Dailyhunt, but the appetite for random, uncategorised web browsing may be lower than for curated news feeds.
+- Badge guess: orange
+
+## Impossible Machines
+- Source article: [Show HN: Impossible Machines: declaratively program the physical world](https://www.impossiblemachines.xyz) (Hacker News (front page))
+- Category: robotics
+- What it does: Provides a declarative programming layer for physical devices, letting users specify a desired outcome and automatically generating the actuator actions needed to achieve it.
+- Likely revenue model: Licensing the software platform or offering a SaaS subscription to manufacturers and integrators who need automated workflow generation for robotics and IoT devices.
+- India equivalent: none found
+- India fit note: Successful adoption would require widespread modular actuator standards and a mature industrial robotics ecosystem, which are still emerging in many Indian sectors.
+- Badge guess: black
+

@@ -2254,3 +2254,12 @@
 | ThisAndThat | ai-wiki | black | 2026-10-23 | none found |
 | Firstwork | HR-tech | orange | 2026-10-23 | Talview |
 | Chapter Home | home-commerce | orange | 2026-10-23 | Urban Ladder |
+| Carta | employee-liquidity | orange | 2026-10-23 | Vested |
+| Daytona | ai-agent | black | 2026-10-23 | none found |
+| Kimi | ai-model | black | 2026-10-23 | none found |
+| Static HTML Dashboard | business-intelligence | black | 2026-10-23 | none found |
+| Time Nuts | time-capsule | black | 2026-10-23 | none found |
+| Animify | ui-animation | orange | 2026-10-23 | Animaker |
+| Total Historian | life-logging | black | 2026-10-23 | none found |
+| Swurf | content-discovery | orange | 2026-10-23 | Dailyhunt |
+| Impossible Machines | robotics | black | 2026-10-23 | none found |
