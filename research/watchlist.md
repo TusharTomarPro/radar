@@ -2225,3 +2225,6 @@
 | Agent Usage Guard | ai-agent | black | 2026-10-22 | none found |
 | Virtual Boy Color Emulator | retro-gaming | black | 2026-10-22 | none found |
 | Playbill | gaming-subscription | black | 2026-10-22 | none found |
+| Maps.com | astro-tech | black | 2026-10-23 | none found |
+| Jank | dev-tools | black | 2026-10-23 | none found |
+| Railpass | travel-tech | black | 2026-10-23 | none found |
