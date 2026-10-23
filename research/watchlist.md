@@ -2228,3 +2228,23 @@
 | Maps.com | astro-tech | black | 2026-10-23 | none found |
 | Jank | dev-tools | black | 2026-10-23 | none found |
 | Railpass | travel-tech | black | 2026-10-23 | none found |
+| Plango | ai-detection | black | 2026-10-23 | none found |
+| Peras | ai-productivity | black | 2026-10-23 | none found |
+| Movo AI | ai-video | orange | 2026-10-23 | InVideo |
+| Product Hunt | launch-builder | black | 2026-10-23 | none found |
+| Gerty | ai-assistant | black | 2026-10-23 | none found |
+| Instant Search | ai-search | black | 2026-10-23 | none found |
+| Truffle | music-management | black | 2026-10-23 | none found |
+| Dots | productivity | black | 2026-10-23 | none found |
+| Inyon | ai-agent | black | 2026-10-23 | none found |
+| Termi Protocol | ai-agent | black | 2026-10-23 | none found |
+| Ovren | dev-tools | black | 2026-10-23 | none found |
+| Bloblings | virtual-pet | black | 2026-10-23 | none found |
+| DotMD | ai-agent | black | 2026-10-23 | none found |
+| Context Engine | knowledge-management | black | 2026-10-23 | none found |
+| Monish | ai-agent | black | 2026-10-23 | none found |
+| ShogunAI | ai-assistant | black | 2026-10-23 | none found |
+| Headroom | remote-desktop | black | 2026-10-23 | none found |
+| TVVoiceOS | smart-tv | black | 2026-10-23 | none found |
+| LocalWiki | hyperlocal | black | 2026-10-23 | none found |
+| Upward | faith-dating | orange | 2026-10-23 | Aisle |
