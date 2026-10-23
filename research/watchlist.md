@@ -2248,3 +2248,9 @@
 | TVVoiceOS | smart-tv | black | 2026-10-23 | none found |
 | LocalWiki | hyperlocal | black | 2026-10-23 | none found |
 | Upward | faith-dating | orange | 2026-10-23 | Aisle |
+| Brick | digital-wellness | black | 2026-10-23 | none found |
+| RetroAI | ai-gaming | black | 2026-10-23 | none found |
+| Shitter | privacy-tech | black | 2026-10-23 | none found |
+| ThisAndThat | ai-wiki | black | 2026-10-23 | none found |
+| Firstwork | HR-tech | orange | 2026-10-23 | Talview |
+| Chapter Home | home-commerce | orange | 2026-10-23 | Urban Ladder |
