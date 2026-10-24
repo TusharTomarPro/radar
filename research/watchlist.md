@@ -2282,3 +2282,5 @@
 | ThinkRail | ai-assistant | black | 2026-10-24 | none found |
 | Qubitunes | audio-toy | black | 2026-10-24 | none found |
 | Engadget | tech-media | orange | 2026-10-24 | Gadgets 360 |
+| SpeedCrunch | calculator | black | 2026-10-24 | none found |
+| Bbtree | developer-tools | black | 2026-10-24 | none found |

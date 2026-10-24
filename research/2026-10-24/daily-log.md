@@ -133,3 +133,21 @@
 - India fit note: Indian gamers also use Windows PCs and face similar performance bottlenecks, so the advice is applicable; the only limitation is varying internet speeds for accessing detailed guides.
 - Badge guess: orange
 
+## SpeedCrunch
+- Source article: [SpeedCrunch 1.1](https://www.speedcrunch.org/) (Hacker News (front page))
+- Category: calculator
+- What it does: SpeedCrunch is a free, open‑source scientific calculator for desktop that offers a clean interface and advanced mathematical functions.
+- Likely revenue model: It is offered for free and likely relies on donations, sponsorships, or community contributions rather than direct sales.
+- India equivalent: none found
+- India fit note: The product assumes users have desktop computers and are comfortable with a dedicated scientific calculator app, which may limit adoption in India where mobile calculators dominate.
+- Badge guess: black
+
+## Bbtree
+- Source article: [Bbtree: Fastest Ordered Map](https://bbtree.xiangpeng.systems/post/) (Hacker News (front page))
+- Category: developer-tools
+- What it does: Bbtree is an open‑source library that implements a high‑performance ordered map (key‑value store) using a B‑tree data structure.
+- Likely revenue model: The project is likely free and monetized through sponsorships, consulting, or paid support for enterprise users.
+- India equivalent: none found
+- India fit note: Adoption depends on a mature developer ecosystem and willingness to integrate niche open‑source libraries; no specific infrastructure barrier exists, but market awareness may be limited in India.
+- Badge guess: black
+
