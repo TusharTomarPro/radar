@@ -2281,3 +2281,4 @@
 | sideOS.ai | ai-assistant | black | 2026-10-24 | none found |
 | ThinkRail | ai-assistant | black | 2026-10-24 | none found |
 | Qubitunes | audio-toy | black | 2026-10-24 | none found |
+| Engadget | tech-media | orange | 2026-10-24 | Gadgets 360 |

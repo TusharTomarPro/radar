@@ -124,3 +124,12 @@
 - India fit note: The product relies on a cultural shift toward screen‑free play and on parents valuing audio‑based learning; while such attitudes exist in urban India, widespread adoption may be limited by price sensitivity and limited retail presence for niche educational toys.
 - Badge guess: black
 
+## Engadget
+- Source article: [Which services can you safely disable to improve PC gaming?](https://www.engadget.com/2290638/which-windows-background-services-safely-disable-improve-pc-gaming/) (Engadget)
+- Category: tech-media
+- What it does: Publishes technology news, reviews, and how‑to guides, including tips for optimizing Windows for gaming.
+- Likely revenue model: Earns money primarily through digital advertising and sponsored content.
+- India equivalent: Gadgets 360
+- India fit note: Indian gamers also use Windows PCs and face similar performance bottlenecks, so the advice is applicable; the only limitation is varying internet speeds for accessing detailed guides.
+- Badge guess: orange
+
