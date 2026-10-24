@@ -2269,3 +2269,15 @@
 | caffeinate-plus | productivity | black | 2026-10-23 | none found |
 | rqlite | distributed-db | black | 2026-10-24 | none found |
 | Hotshare | restaurant-investment | orange | 2026-10-24 | Zomato Capital |
+| myPip | ai-game | black | 2026-10-24 | none found |
+| Shedi | dev-tools | black | 2026-10-24 | none found |
+| Many Displays | desktop-management | black | 2026-10-24 | none found |
+| How It Went | travel-media | black | 2026-10-24 | none found |
+| AgentValley | ai-agent | black | 2026-10-24 | none found |
+| 1Password | password-manager | orange | 2026-10-24 | Zoho Vault |
+| zCAD AI | ai-cad | black | 2026-10-24 | none found |
+| Byter | data-usage | black | 2026-10-24 | none found |
+| River Writer | creative-writing | black | 2026-10-24 | none found |
+| sideOS.ai | ai-assistant | black | 2026-10-24 | none found |
+| ThinkRail | ai-assistant | black | 2026-10-24 | none found |
+| Qubitunes | audio-toy | black | 2026-10-24 | none found |
