@@ -2267,3 +2267,5 @@
 | Corgi | ai-agent | black | 2026-10-23 | none found |
 | DNS Finger | dns-identity | black | 2026-10-23 | none found |
 | caffeinate-plus | productivity | black | 2026-10-23 | none found |
+| rqlite | distributed-db | black | 2026-10-24 | none found |
+| Hotshare | restaurant-investment | orange | 2026-10-24 | Zomato Capital |
