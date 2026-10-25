@@ -133,3 +133,57 @@
 - India fit note: India has the technical capacity for digital archives, but the niche interest in medieval European knightly toolbooks may limit user adoption compared to local heritage content.
 - Badge guess: orange
 
+## Zen Browser
+- Source article: [Zen Browser is the Arc replacement I was looking for](https://www.theverge.com/tech/1018275/zen-browser-arc-replacement) (The Verge)
+- Category: ai-browser
+- What it does: Zen Browser is a privacy‑focused, AI‑enhanced web browser that redesigns the browsing experience with a novel interface, positioning itself as a replacement for Arc.
+- Likely revenue model: It likely earns through a subscription tier for premium AI features and possibly enterprise licensing tied to Atlassian's ecosystem.
+- India equivalent: JioBrowser
+- India fit note: Success depends on users adopting a new browsing workflow and having reliable high‑speed internet for AI features, which may be limited in many Indian regions where data costs are high and default browsers dominate.
+- Badge guess: orange
+
+## CRKD
+- Source article: [This Switch 2 sequel accessory was a few millimeters away from being good](https://www.theverge.com/tech/1017508/crkd-nitro-deck-2-nintendo-switch-2-controller-case-hands-on) (The Verge)
+- Category: gaming-peripherals
+- What it does: The Nitro Deck 2 is a slide‑on accessory that replaces the Switch’s Joy‑Con analog sticks with Hall‑effect sensors, eliminating stick drift without opening the controller.
+- Likely revenue model: Sells the hardware accessory at a fixed retail price (about $60) through online and retail channels.
+- India equivalent: none found
+- India fit note: The product relies on a large base of Switch owners and a willingness to purchase premium accessories; while Switch sales exist in India, the higher price point and need for precise fit may limit adoption.
+- Badge guess: black
+
+## Wide Events
+- Source article: [All you need is Wide Events, not "Metrics, Logs and Traces"](https://isburmistrov.substack.com/p/all-you-need-is-wide-events-not-metrics) (Hacker News (front page))
+- Category: observability
+- What it does: Provides an event‑centric observability platform that ingests high‑cardinality, wide‑scope events to replace traditional metrics, logs and traces for debugging and performance analysis.
+- Likely revenue model: Charges a subscription fee based on event volume and feature tier (e.g., per‑million events or per‑seat pricing).
+- India equivalent: none found
+- India fit note: Adoption depends on mature DevOps practices and high‑bandwidth data pipelines, which are still emerging in many Indian firms; data‑privacy concerns may also affect large‑scale event collection.
+- Badge guess: black
+
+## Lynch Lab Skin Cancer CNN
+- Source article: [A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis](https://lynchlab.net/llm-skin-cancer) (Hacker News (front page))
+- Category: health-tech
+- What it does: A 10‑year‑old convolutional neural network analyzes dermoscopic images to diagnose skin cancer, achieving higher accuracy than current large‑language‑model approaches.
+- Likely revenue model: Licensing the diagnostic API or SaaS platform to dermatology clinics, hospitals, and tele‑medicine providers.
+- India equivalent: none found
+- India fit note: Successful deployment requires high‑resolution dermoscopy imaging devices, trained dermatologists to interpret results, and regulatory clearance for AI‑based diagnostics—elements that are still limited in many Indian healthcare settings.
+- Badge guess: black
+
+## GP-64
+- Source article: [Sabre Wulf Remastered](https://gp-64.com/swr/) (Hacker News (front page))
+- Category: gaming
+- What it does: Releases a remastered version of the classic Sabre Wulf video game with updated graphics and modern platform support.
+- Likely revenue model: Sells the game as a paid download on PC/console storefronts.
+- India equivalent: none found
+- India fit note: The product depends on a niche retro‑gaming audience and relatively low console penetration in India, which may limit demand.
+- Badge guess: black
+
+## Mesh Wi‑Fi system
+- Source article: [Even the best mesh Wi-Fi system can be easily improved with a simple cable](https://www.engadget.com/2293493/mesh-wifi-system-improved-with-simple-cable/) (Engadget)
+- Category: home networking
+- What it does: Uses multiple wireless nodes to blanket a home with Wi‑Fi and can boost performance by linking nodes with Ethernet cables.
+- Likely revenue model: Sells hardware (router and satellite nodes) and may offer optional subscription services for advanced management or security.
+- India equivalent: JioFiber Mesh Wi‑Fi
+- India fit note: The improvement relies on Ethernet backhaul, which many Indian apartments lack pre‑installed cabling, and consumers may be reluctant to run new wires, limiting adoption despite growing broadband penetration.
+- Badge guess: orange
+

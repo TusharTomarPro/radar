@@ -2299,3 +2299,9 @@
 | Hyve | parcel-locker | orange | 2026-10-25 | Delhivery Smart Locker |
 | Big Whale | talent-analytics | black | 2026-10-25 | none found |
 | Loeffelholz Codex | digital-heritage | orange | 2026-10-25 | IGNCA Digital Archive |
+| Zen Browser | ai-browser | orange | 2026-10-25 | JioBrowser |
+| CRKD | gaming-peripherals | black | 2026-10-25 | none found |
+| Wide Events | observability | black | 2026-10-25 | none found |
+| Lynch Lab Skin Cancer CNN | health-tech | black | 2026-10-25 | none found |
+| GP-64 | gaming | black | 2026-10-25 | none found |
+| Mesh Wi‑Fi system | home networking | orange | 2026-10-25 | JioFiber Mesh Wi‑Fi |
