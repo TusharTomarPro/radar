@@ -115,3 +115,21 @@
 - India fit note: India has growing e‑commerce volume and some locker deployments, but many deliveries are to apartments or gated societies where porch access is limited, and drivers may not be accustomed to using third‑party lockboxes, which could hinder adoption.
 - Badge guess: orange
 
+## Big Whale
+- Source article: [Show HN: I put employees inside S&P 500 market-cap bubbles](https://bigwhalehunting.com/workforce/) (Hacker News (front page))
+- Category: talent-analytics
+- What it does: Visualizes employees by placing them inside market‑cap bubbles of S&P 500 companies, showing talent concentration and movement across firms.
+- Likely revenue model: Offers subscription‑based access to the data platform for investors, recruiters, and HR teams.
+- India equivalent: none found
+- India fit note: The product relies on detailed employee data from US public companies and a focus on S&P 500 market caps, which may not be readily available or relevant for Indian firms and investors.
+- Badge guess: black
+
+## Loeffelholz Codex
+- Source article: [Tool book of a Nuremberg knight from 1505](https://loeffelholz-codex.org/en/) (Hacker News (front page))
+- Category: digital-heritage
+- What it does: Provides an online, high‑resolution digital edition of a 1505 tool book belonging to a Nuremberg knight, including transcriptions and scholarly commentary.
+- Likely revenue model: Funded through research grants, institutional subscriptions, and optional donations from scholars and cultural heritage enthusiasts.
+- India equivalent: IGNCA Digital Archive
+- India fit note: India has the technical capacity for digital archives, but the niche interest in medieval European knightly toolbooks may limit user adoption compared to local heritage content.
+- Badge guess: orange
+

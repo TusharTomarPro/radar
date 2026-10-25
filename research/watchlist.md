@@ -2297,3 +2297,5 @@
 | Openstatus | incident-management | orange | 2026-10-25 | Freshstatus (Freshworks) |
 | Not Palantir | data-analytics | orange | 2026-10-25 | Zoho Analytics |
 | Hyve | parcel-locker | orange | 2026-10-25 | Delhivery Smart Locker |
+| Big Whale | talent-analytics | black | 2026-10-25 | none found |
+| Loeffelholz Codex | digital-heritage | orange | 2026-10-25 | IGNCA Digital Archive |
