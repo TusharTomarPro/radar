@@ -2284,3 +2284,16 @@
 | Engadget | tech-media | orange | 2026-10-24 | Gadgets 360 |
 | SpeedCrunch | calculator | black | 2026-10-24 | none found |
 | Bbtree | developer-tools | black | 2026-10-24 | none found |
+| MRRaudit | subscription-analytics | orange | 2026-10-25 | Chargebee |
+| Papermark | data-room | black | 2026-10-25 | none found |
+| Yourcast | ai-summarization | black | 2026-10-25 | none found |
+| Clips by Plastic | ad-tech | black | 2026-10-25 | none found |
+| Specsight | product analytics | orange | 2026-10-25 | MoEngage |
+| Llama Windows | ai-agent | black | 2026-10-25 | none found |
+| How It Spread | viral-analytics | black | 2026-10-25 | none found |
+| Pawl | productivity | black | 2026-10-25 | none found |
+| AgentGrid | ai-agent | black | 2026-10-25 | none found |
+| Badgey | digital-badge | black | 2026-10-25 | none found |
+| Openstatus | incident-management | orange | 2026-10-25 | Freshstatus (Freshworks) |
+| Not Palantir | data-analytics | orange | 2026-10-25 | Zoho Analytics |
+| Hyve | parcel-locker | orange | 2026-10-25 | Delhivery Smart Locker |
