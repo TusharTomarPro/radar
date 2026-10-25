@@ -2305,3 +2305,6 @@
 | Lynch Lab Skin Cancer CNN | health-tech | black | 2026-10-25 | none found |
 | GP-64 | gaming | black | 2026-10-25 | none found |
 | Mesh Wi‑Fi system | home networking | orange | 2026-10-25 | JioFiber Mesh Wi‑Fi |
+| Crosscut | design-tools | black | 2026-10-25 | none found |
+| Battles of the Romans | history-tech | black | 2026-10-25 | none found |
+| Google Nest WiFi | home networking | orange | 2026-10-25 | TP-Link |

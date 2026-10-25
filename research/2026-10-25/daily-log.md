@@ -187,3 +187,30 @@
 - India fit note: The improvement relies on Ethernet backhaul, which many Indian apartments lack pre‑installed cabling, and consumers may be reluctant to run new wires, limiting adoption despite growing broadband penetration.
 - Badge guess: orange
 
+## Crosscut
+- Source article: [Crosscut – Drawing Dynamic Models](https://www.inkandswitch.com/crosscut/) (Hacker News (front page))
+- Category: design-tools
+- What it does: Crosscut is a web‑based editor that lets users draw interactive, dynamic models and diagrams that can be updated and explored in real time. It targets designers and product teams who need live, editable visualizations.
+- Likely revenue model: A subscription‑based SaaS model with tiered plans for individuals, teams, and enterprises, possibly offering a freemium tier.
+- India equivalent: none found
+- India fit note: The tool relies on high‑speed broadband and a culture of collaborative design that is strongest in Indian metros and tech hubs; adoption may be slower in regions with limited internet connectivity.
+- Badge guess: black
+
+## Battles of the Romans
+- Source article: [Where the Romans Fought (interactive map)](https://iosiflazaridis.github.io/battles-of-the-romans/) (Hacker News (front page))
+- Category: history-tech
+- What it does: Provides an interactive web map visualizing locations and details of battles fought by the Roman Empire.
+- Likely revenue model: Probably a hobby project with no direct revenue, possibly supported by donations or ads.
+- India equivalent: none found
+- India fit note: The concept relies on niche historical interest and stable broadband access, which may limit widespread adoption in India.
+- Badge guess: black
+
+## Google Nest WiFi
+- Source article: [Your devices could be on the wrong Wi-Fi band, and it's slowing them down](https://www.engadget.com/2294022/devices-could-be-wrong-wifi-band-slowing-them-down/) (Engadget)
+- Category: home networking
+- What it does: Automatically steers each device to the optimal Wi‑Fi band (2.4 GHz, 5 GHz, or 6 GHz) based on signal strength and usage, boosting overall speed and reliability.
+- Likely revenue model: Sells the router hardware outright and may offer a subscription for advanced network management features.
+- India equivalent: TP-Link
+- India fit note: The benefit relies on widespread adoption of dual‑band (or tri‑band) routers and devices that support higher‑frequency bands, which many Indian households still lack, especially in budget segments.
+- Badge guess: orange
+
