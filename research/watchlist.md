@@ -2308,3 +2308,40 @@
 | Crosscut | design-tools | black | 2026-10-25 | none found |
 | Battles of the Romans | history-tech | black | 2026-10-25 | none found |
 | Google Nest WiFi | home networking | orange | 2026-10-25 | TP-Link |
+| Standfast | devops | black | 2026-10-26 | none found |
+| AVP | dev-tools | black | 2026-10-26 | none found |
+| Jobmate AI | ai-recruitment | black | 2026-10-26 | none found |
+| Helio | solar-monitoring | orange | 2026-10-26 | Tata Power Solar |
+| Flipcorder | video-journal | black | 2026-10-26 | none found |
+| n8n Chat UI | no-code AI | orange | 2026-10-26 | Verloop.io |
+| Tabsh | ai-agent | black | 2026-10-26 | none found |
+| CloudKnife | cloud-optimization | black | 2026-10-26 | none found |
+| MiniMax | ai-agent | orange | 2026-10-26 | Haptik |
+| Knock | productivity | black | 2026-10-26 | none found |
+| SurgePix | generative-ai | black | 2026-10-26 | none found |
+| Omerta | devsecops | black | 2026-10-26 | none found |
+| WebYes | accessibility | black | 2026-10-26 | none found |
+| Kiwi | ai-assistant | orange | 2026-10-26 | Haptik |
+| Desigma | design-tool | black | 2026-10-26 | none found |
+| AllModels | ai-models | black | 2026-10-26 | none found |
+| AI Bridge | dev-tools | black | 2026-10-26 | none found |
+| 2G | creative-ai | black | 2026-10-26 | none found |
+| ManyAgents | ai-coding | black | 2026-10-26 | none found |
+| Loqui | speech-to-text | black | 2026-10-26 | none found |
+| VibeiDE | ai-agent | black | 2026-10-26 | none found |
+| Mozy | app-blocker | black | 2026-10-26 | none found |
+| WhoIsCooking | ai-agent | black | 2026-10-26 | none found |
+| Manifold3D | 3d-printing | black | 2026-10-26 | none found |
+| PaperPilot | dev-tools | black | 2026-10-26 | none found |
+| TitleArt | design-tool | black | 2026-10-26 | none found |
+| Copper Stripping Guides | social-commerce | black | 2026-10-26 | none found |
+| Lykyn | indoor-farming | black | 2026-10-26 | none found |
+| Coyotec | ai-radio | black | 2026-10-26 | none found |
+| Yes Madam | home-beauty | orange | 2026-10-26 | Urban Company |
+| Bucketlistt.com | travel-tech | orange | 2026-10-26 | Thrillophilia |
+| Glance | ai-commerce | black | 2026-10-26 | none found |
+| IDEA | disability-entrepreneurship | black | 2026-10-26 | none found |
+| Cradle Of Life | senior-living | orange | 2026-10-26 | Senior Living India |
+| Attero | recycling-tech | orange | 2026-10-26 | RecycleMantra |
+| Murf AI | voice-ai | orange | 2026-10-26 | Vernacular.ai |
+| BioStack | health-data | orange | 2026-10-26 | Practo |
