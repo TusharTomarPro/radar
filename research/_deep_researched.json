@@ -6252,5 +6252,113 @@
     "india_cost_estimate": "\u20b925-35 lakh for an MVP and a small team of 2-3 developers over 6-12 months, covering local cloud hosting and minimal marketing.",
     "risk_score": 7,
     "risk_reasoning": "The search evidence shows a crowded field of surviving, highly funded global competitors like Supabase, Firebase, and AWS Amplify, which already have strong presence in Indian data centers. A localized clone faces intense competition for developer mindshare, requiring medium capital to overcome network effects, though the software-only business model avoids the heavy physical asset burn seen in failed Indian consumer startups."
+  },
+  "phrasevault::2026-09-16": {
+    "company": "PhraseVault",
+    "category": "snippet-manager",
+    "revised_badge": "orange",
+    "competitor_status": "surviving",
+    "regulatory_flag": "none",
+    "capital_intensity": "low",
+    "known_numbers": "no public numbers found",
+    "india_cost_estimate": "\u20b912-20\u202flakh for 6\u201112\u202fmonths (cloud hosting, 2\u20113 engineers, minimal marketing)",
+    "risk_score": 6,
+    "risk_reasoning": "Zoho Notebook is an active, well\u2011funded snippet manager, so competition is real. The business model is software\u2011only, facing no major Indian regulatory hurdles and requiring modest capital. However, PhraseVault itself folded in 2016, suggesting product\u2011market fit challenges that raise the overall risk."
+  },
+  "flat-social::2026-09-16": {
+    "company": "Flat Social",
+    "category": "virtual-office",
+    "revised_badge": "black",
+    "competitor_status": "no-real-competitor-found",
+    "regulatory_flag": "moderate \u2013 India\u2019s Personal Data Protection Bill (and related data\u2011localisation rules) require that personal data of Indian users be stored on servers located in India, adding compliance overhead for a SaaS virtual\u2011office platform.",
+    "capital_intensity": "low \u2013 the product is software\u2011only, asset\u2011light and can be built with a small engineering team and cloud services, allowing profitability on modest capital.",
+    "known_numbers": "no public numbers found",
+    "india_cost_estimate": "\u20b912\u201120\u202flakh for 6\u201112\u202fmonths (covers cloud hosting, 2\u20113 senior engineers, a product manager, and minimal legal/compliance costs; no paid user\u2011acquisition budget).",
+    "risk_score": 4,
+    "risk_reasoning": "With no identified direct competitor, the market gap appears real, but moderate regulatory compliance for data localisation adds some friction. The low capital intensity keeps cash\u2011burn low, resulting in a moderate overall risk profile."
+  },
+  "expand-board::2026-09-16": {
+    "company": "Expand Board",
+    "category": "mind-mapping",
+    "revised_badge": "black",
+    "competitor_status": "no-real-competitor-found",
+    "regulatory_flag": "none",
+    "capital_intensity": "low \u2013 the model is asset\u2011light SaaS, requiring only cloud hosting and a small engineering team, so profitability can be reached without heavy cash burn.",
+    "known_numbers": "no public numbers found",
+    "india_cost_estimate": "\u20b935\u201155\u202flakh for a 6\u201112\u202fmonth pilot (cloud & API costs \u20b95\u20118\u202flakh; 2\u20113 engineers + product lead \u20b930\u201145\u202flakh).",
+    "risk_score": 4,
+    "risk_reasoning": "The search evidence shows no direct Indian mind\u2011mapping competitor, keeping competitive risk low. Regulatory exposure is minimal for a SaaS product, and capital needs are modest, but market adoption uncertainty and the need to build brand awareness keep the overall risk at a moderate level."
+  },
+  "project-feed::2026-09-16": {
+    "company": "Project Feed",
+    "category": "project-management",
+    "revised_badge": "orange",
+    "competitor_status": "surviving",
+    "regulatory_flag": "none",
+    "capital_intensity": "low",
+    "known_numbers": "no public numbers found",
+    "india_cost_estimate": "\u20b912\u201120\u202flakh for 6\u201112\u202fmonths (cloud & API usage ~\u20b93\u20115\u202flakh, 2\u20113 engineers + product lead ~\u20b99\u201115\u202flakh, no paid marketing)",
+    "risk_score": 4,
+    "risk_reasoning": "Zoho Projects is an active, well\u2011funded competitor, but Project Feed operates in a low\u2011regulation SaaS space with minimal capital needs. The lack of public traction data adds uncertainty, yet the asset\u2011light model keeps the venture relatively safe, yielding a moderate risk rating."
+  },
+  "peakhour::2026-09-16": {
+    "company": "PeakHour",
+    "category": "network-monitoring",
+    "revised_badge": "black",
+    "competitor_status": "no-real-competitor-found",
+    "regulatory_flag": "moderate -- Information Technology Act, 2000 and TRAI guidelines",
+    "capital_intensity": "low -- network-monitoring SaaS is typically software-margin and asset-light, requiring only cloud infrastructure and a small engineering team, not heavy subsidized real estate or delivery fleets.",
+    "known_numbers": "no public numbers found",
+    "india_cost_estimate": "\u20b95-12 lakh for an MVP, cloud infrastructure, and a 3-person team over 6 months",
+    "risk_score": 4,
+    "risk_reasoning": "The search evidence found no publicly documented competitors for PeakHour in India (Searches 1-2), and no revenue, valuation, or user metrics (Search 3), suggesting a white space. However, network monitoring in India touches the Information Technology Act, 2000 and TRAI licensing, creating moderate regulatory hurdles. Capital intensity is low because a SaaS-based network collector is asset-light, but regulatory compliance prevents a top score."
+  },
+  "thread::2026-09-16": {
+    "company": "Thread",
+    "category": "ai-journal",
+    "revised_badge": "black",
+    "competitor_status": "no-real-competitor-found",
+    "regulatory_flag": "moderate \u2013 India\u2019s Personal Data Protection Bill (draft) mandates storage of personal data within the country and imposes strict consent and privacy requirements for apps handling sensitive user\u2011generated content.",
+    "capital_intensity": "low \u2013 the product is software\u2011only, relying on third\u2011party LLM APIs and modest cloud hosting; unit economics can be positive with a small, lean team.",
+    "known_numbers": "no public numbers found",
+    "india_cost_estimate": "\u20b980\u2011120\u202flakh for the first 6\u201112\u202fmonths (cloud/API usage ~\u20b930\u201150\u202flakh, 3\u20114 core staff salaries ~\u20b940\u201160\u202flakh, minimal marketing spend).",
+    "risk_score": 4,
+    "risk_reasoning": "The lack of a clear local competitor is a positive, but moderate regulatory risk around data privacy and the need to comply with upcoming data\u2011localisation rules adds uncertainty. Capital requirements are low, making the venture financially feasible, but the market is still nascent, so user acquisition could be slower than expected."
+  },
+  "toki-ai::2026-09-16": {
+    "company": "Toki AI",
+    "category": "ai-assistant",
+    "revised_badge": "orange",
+    "competitor_status": "surviving",
+    "regulatory_flag": "moderate \u2013 Indian Personal Data Protection (PDP) Bill mandates data localisation for personal data and RBI guidelines apply if loyalty points are convertible to cash payments.",
+    "capital_intensity": "low \u2013 the model is a SaaS\u2011only platform with no physical inventory, delivery fleet or real\u2011estate, so it can be built with a small engineering team and modest cloud spend.",
+    "known_numbers": "no public numbers found",
+    "india_cost_estimate": "\u20b912\u201120\u202flakh for 6\u201112\u202fmonths (cloud & API usage ~\u20b93\u20115\u202flakh, 2\u20113 engineers + product lead ~\u20b97\u201112\u202flakh, basic legal & compliance ~\u20b92\u202flakh).",
+    "risk_score": 4,
+    "risk_reasoning": "Toki AI faces clear competition from established loyalty platforms like Capillary Technologies, which lowers the upside. Regulatory exposure is moderate due to data\u2011localisation and potential fintech rules, but the SaaS model is low\u2011capital and can be launched cheaply, keeping overall risk moderate."
+  },
+  "cat-me::2026-09-16": {
+    "company": "Cat Me",
+    "category": "photo-filter",
+    "revised_badge": "orange",
+    "competitor_status": "surviving",
+    "regulatory_flag": "none",
+    "capital_intensity": "low",
+    "known_numbers": "no public numbers found",
+    "india_cost_estimate": "\u20b935\u201155\u202flakh for 6\u201112\u202fmonths (cloud/API fees ~\u20b95\u201110\u202flakh; 2\u20113 engineers + product lead ~\u20b930\u201145\u202flakh).",
+    "risk_score": 5,
+    "risk_reasoning": "Moj is still operating, so competition is real (orange badge). Photo\u2011filter apps face minimal regulatory hurdles in India, and the model is asset\u2011light, keeping capital needs low. However, Cat Me has no disclosed traction or funding, making market validation uncertain, which pushes the risk to a moderate level."
+  },
+  "convo::2026-09-16": {
+    "company": "Convo",
+    "category": "sales-ai",
+    "revised_badge": "orange",
+    "competitor_status": "surviving",
+    "regulatory_flag": "moderate \u2013 Indian data\u2011localisation requirements under the Personal Data Protection Bill (PDPA) may require storing user and conversation data on servers in India.",
+    "capital_intensity": "medium \u2013 SaaS AI needs compute resources and specialist talent but no heavy physical assets; unit\u2011economics can become positive with modest runway.",
+    "known_numbers": "no public numbers found",
+    "india_cost_estimate": "\u20b970\u2011100\u202flakh for a 6\u201112\u202fmonth pilot (\u2248\u20b950\u201170\u202flakh for a 4\u2011person engineering/sales team, \u20b95\u201110\u202flakh for cloud/API compute, plus minimal office & admin costs).",
+    "risk_score": 6,
+    "risk_reasoning": "Convo faces an established competitor (Vymo) that is still active, creating market pressure. The main regulatory hurdle is data localisation, which is manageable but adds compliance cost. Capital needs are moderate, but the lack of disclosed traction makes forecasting difficult, leading to a mid\u2011range risk rating."
   }
 }

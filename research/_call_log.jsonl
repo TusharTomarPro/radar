@@ -20070,3 +20070,37 @@
 {"ts": "2026-10-26 03:07:58", "provider": "groq", "model": "openai/gpt-oss-20b", "tier": "filter", "ok": true, "note": ""}
 {"ts": "2026-10-26 03:08:03", "provider": "groq", "model": "openai/gpt-oss-20b", "tier": "filter", "ok": true, "note": ""}
 {"ts": "2026-10-26 03:08:08", "provider": "groq", "model": "openai/gpt-oss-20b", "tier": "filter", "ok": true, "note": ""}
+{"ts": "2026-10-26 07:08:55", "provider": "gemini", "model": null, "tier": "extract", "ok": false, "note": "gemini rate limited"}
+{"ts": "2026-10-26 07:08:55", "provider": "mistral", "model": "mistral-small-latest", "tier": "extract", "ok": false, "note": "mistral rate limited"}
+{"ts": "2026-10-26 07:08:57", "provider": "groq", "model": "openai/gpt-oss-120b", "tier": "extract", "ok": true, "note": ""}
+{"ts": "2026-10-26 07:09:07", "provider": "gemini", "model": null, "tier": "extract", "ok": false, "note": "gemini rate limited"}
+{"ts": "2026-10-26 07:09:08", "provider": "mistral", "model": "mistral-small-latest", "tier": "extract", "ok": false, "note": "mistral rate limited"}
+{"ts": "2026-10-26 07:09:09", "provider": "groq", "model": "openai/gpt-oss-120b", "tier": "extract", "ok": true, "note": ""}
+{"ts": "2026-10-26 07:09:20", "provider": "gemini", "model": null, "tier": "extract", "ok": false, "note": "gemini rate limited"}
+{"ts": "2026-10-26 07:09:21", "provider": "mistral", "model": "mistral-small-latest", "tier": "extract", "ok": false, "note": "mistral rate limited"}
+{"ts": "2026-10-26 07:09:22", "provider": "groq", "model": "openai/gpt-oss-120b", "tier": "extract", "ok": true, "note": ""}
+{"ts": "2026-10-26 07:09:33", "provider": "gemini", "model": null, "tier": "extract", "ok": false, "note": "gemini rate limited"}
+{"ts": "2026-10-26 07:09:34", "provider": "mistral", "model": "mistral-small-latest", "tier": "extract", "ok": false, "note": "mistral rate limited"}
+{"ts": "2026-10-26 07:09:35", "provider": "groq", "model": "openai/gpt-oss-120b", "tier": "extract", "ok": true, "note": ""}
+{"ts": "2026-10-26 07:09:46", "provider": "gemini", "model": null, "tier": "extract", "ok": false, "note": "gemini rate limited"}
+{"ts": "2026-10-26 07:09:46", "provider": "mistral", "model": "mistral-small-latest", "tier": "extract", "ok": false, "note": "mistral rate limited"}
+{"ts": "2026-10-26 07:09:46", "provider": "groq", "model": "openai/gpt-oss-120b", "tier": "extract", "ok": false, "note": "groq rate limited"}
+{"ts": "2026-10-26 07:09:46", "provider": "nvidia", "model": "deepseek-ai/deepseek-v4-pro-0813", "tier": "extract", "ok": false, "note": "nvidia HTTP 410"}
+{"ts": "2026-10-26 07:11:02", "provider": "openrouter", "model": "openrouter/free", "tier": "extract", "ok": true, "note": ""}
+{"ts": "2026-10-26 07:11:13", "provider": "gemini", "model": null, "tier": "extract", "ok": false, "note": "gemini rate limited"}
+{"ts": "2026-10-26 07:11:13", "provider": "mistral", "model": "mistral-small-latest", "tier": "extract", "ok": false, "note": "mistral rate limited"}
+{"ts": "2026-10-26 07:11:15", "provider": "groq", "model": "openai/gpt-oss-120b", "tier": "extract", "ok": true, "note": ""}
+{"ts": "2026-10-26 07:11:26", "provider": "gemini", "model": null, "tier": "extract", "ok": false, "note": "gemini rate limited"}
+{"ts": "2026-10-26 07:11:27", "provider": "mistral", "model": "mistral-small-latest", "tier": "extract", "ok": false, "note": "mistral rate limited"}
+{"ts": "2026-10-26 07:11:28", "provider": "groq", "model": "openai/gpt-oss-120b", "tier": "extract", "ok": true, "note": ""}
+{"ts": "2026-10-26 07:11:39", "provider": "gemini", "model": null, "tier": "extract", "ok": false, "note": "gemini rate limited"}
+{"ts": "2026-10-26 07:11:39", "provider": "mistral", "model": "mistral-small-latest", "tier": "extract", "ok": false, "note": "mistral rate limited"}
+{"ts": "2026-10-26 07:11:41", "provider": "groq", "model": "openai/gpt-oss-120b", "tier": "extract", "ok": true, "note": ""}
+{"ts": "2026-10-26 07:11:51", "provider": "gemini", "model": null, "tier": "extract", "ok": false, "note": "gemini rate limited"}
+{"ts": "2026-10-26 07:11:51", "provider": "mistral", "model": "mistral-small-latest", "tier": "extract", "ok": false, "note": "mistral rate limited"}
+{"ts": "2026-10-26 07:11:53", "provider": "groq", "model": "openai/gpt-oss-120b", "tier": "extract", "ok": true, "note": ""}
+{"ts": "2026-10-26 07:12:03", "provider": "gemini", "model": null, "tier": "extract", "ok": false, "note": "gemini rate limited"}
+{"ts": "2026-10-26 07:12:03", "provider": "mistral", "model": "mistral-small-latest", "tier": "extract", "ok": false, "note": "mistral rate limited"}
+{"ts": "2026-10-26 07:12:03", "provider": "groq", "model": "openai/gpt-oss-120b", "tier": "extract", "ok": false, "note": "groq rate limited"}
+{"ts": "2026-10-26 07:12:04", "provider": "nvidia", "model": "deepseek-ai/deepseek-v4-pro-0813", "tier": "extract", "ok": false, "note": "nvidia HTTP 410"}
+{"ts": "2026-10-26 07:12:10", "provider": "openrouter", "model": "openrouter/free", "tier": "extract", "ok": true, "note": ""}
