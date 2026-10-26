@@ -2345,3 +2345,10 @@
 | Attero | recycling-tech | orange | 2026-10-26 | RecycleMantra |
 | Murf AI | voice-ai | orange | 2026-10-26 | Vernacular.ai |
 | BioStack | health-data | orange | 2026-10-26 | Practo |
+| Matiks | ai-gaming | black | 2026-10-26 | none found |
+| 404 Media | tech-support | black | 2026-10-26 | none found |
+| Nietzschian Debugger | developer-tools | black | 2026-10-26 | none found |
+| Entire | ai-agent | black | 2026-10-26 | none found |
+| Raschka Reasoning Course | ai-education | orange | 2026-10-26 | Simplilearn |
+| Partyline | mesh-voice | black | 2026-10-26 | none found |
+| ReplyAll | d2c apparel | orange | 2026-10-26 | Naked |

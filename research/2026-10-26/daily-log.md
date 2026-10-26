@@ -331,3 +331,66 @@
 - India fit note: Successful rollout relies on standardized electronic health record (EHR) interoperability and data‑sharing agreements, which are still nascent in many Indian hospitals, potentially slowing adoption.
 - Badge guess: orange
 
+## Matiks
+- Source article: [Matiks raises $10M to expand its math and puzzle gaming platform](https://techcrunch.com/2026/10/26/matiks-raises-10m-to-expand-its-math-and-puzzle-gaming-platform/) (TechCrunch)
+- Category: ai-gaming
+- What it does: Matiks provides a platform where users can create and share math‑based and puzzle games powered by generative AI, allowing rapid game development without coding.
+- Likely revenue model: A freemium model with paid subscriptions for advanced AI features and a revenue‑share on in‑app purchases or premium game assets.
+- India equivalent: none found
+- India fit note: The platform depends on high‑speed internet and widespread familiarity with AI‑generated content creation, which are still uneven across India, especially in tier‑2/3 regions.
+- Badge guess: black
+
+## 404 Media
+- Source article: [ChatGPT Keeps Telling People 404 Media Can Solve Their Tech Support Problems](https://www.404media.co/chatgpt-keeps-telling-people-404-media-can-solve-their-tech-support-problems/) (Hacker News (front page))
+- Category: tech-support
+- What it does: Offers on-demand technical support for consumers, handling issues that AI assistants like ChatGPT can’t resolve, typically via remote assistance.
+- Likely revenue model: Charges users a subscription fee or per‑incident payment for each support request.
+- India equivalent: none found
+- India fit note: The model relies on users being comfortable paying for remote tech help and having reliable broadband, which may be limited in tier‑2/3 Indian markets; price sensitivity could also hinder adoption.
+- Badge guess: black
+
+## Nietzschian Debugger
+- Source article: [Nietzschian Debugger](https://github.com/DilawarShafiq/nietzschian-debugger) (Hacker News (front page))
+- Category: developer-tools
+- What it does: An open‑source debugger that injects Nietzsche‑style philosophical prompts or quotes during a debugging session to make debugging more reflective.
+- Likely revenue model: Open‑source; likely funded through donations, sponsorships, or consulting services.
+- India equivalent: none found
+- India fit note: The tool only needs a standard development environment, so it can run in India, but its niche philosophical angle may limit adoption among Indian developers.
+- Badge guess: black
+
+## Entire
+- Source article: [The Git Forge for Agent-Human Collaboration](https://entire.com/blog/the-git-forge-for-agent-human-collaboration) (Hacker News (front page))
+- Category: ai-agent
+- What it does: Provides a git‑style platform that lets developers version, branch, and merge AI agents and their prompts, enabling seamless collaboration between humans and autonomous agents.
+- Likely revenue model: Enterprise SaaS subscription, priced per seat or per active agent usage.
+- India equivalent: none found
+- India fit note: The product assumes a mature culture of version‑control workflows and widespread enterprise adoption of autonomous AI agents, which are still nascent in many Indian firms, especially outside the large tech hubs.
+- Badge guess: black
+
+## Raschka Reasoning Course
+- Source article: [Sebastian Raschka's from-scratch video course on building reasoning models](https://magazine.sebastianraschka.com/p/building-reasoning-models) (Hacker News (front page))
+- Category: ai-education
+- What it does: Offers a video-based course that teaches how to build reasoning models from scratch using Python and modern ML techniques.
+- Likely revenue model: Charges learners a one-time fee or subscription for access to the course content.
+- India equivalent: Simplilearn
+- India fit note: The model assumes reliable high‑speed internet and a base level of Python proficiency, which are common in Indian urban centers but less prevalent in rural areas, potentially limiting reach.
+- Badge guess: orange
+
+## Partyline
+- Source article: [Partyline: A group voice application for Reticulum, built on LXST](https://github.com/RFnexus/partyline) (Hacker News (front page))
+- Category: mesh-voice
+- What it does: Partyline is an open‑source group voice chat application that runs on the Reticulum mesh networking protocol, allowing users to talk in real time without internet or cellular coverage.
+- Likely revenue model: It is likely funded through donations, sponsorships, or paid support services rather than direct product sales.
+- India equivalent: none found
+- India fit note: The service relies on a decentralized radio‑based mesh network (Reticulum) and specialized hardware that are not widely deployed in India, so adoption would require building new infrastructure and community awareness.
+- Badge guess: black
+
+## ReplyAll
+- Source article: [D2C apparel brand ReplyAll raises Rs 9.7 Cr in pre-Series A round](https://entrackr.com/snippets/d2c-apparel-brand-replyall-raises-rs-97-cr-in-pre-series-a-round-12754832) (Entrackr)
+- Category: d2c apparel
+- What it does: A direct‑to‑consumer brand that sells performance‑focused everyday clothing using proprietary fabrics like Temperform™ and Flexknit™.
+- Likely revenue model: Revenue comes from selling its own branded apparel directly to customers online (and limited retail) on a per‑item basis.
+- India equivalent: Naked
+- India fit note: Success relies on consumer willingness to pay premium for tech‑fabric clothing and on a supply chain that can produce specialized materials, both of which are emerging but still limited in India.
+- Badge guess: orange
+
