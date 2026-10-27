@@ -232,3 +232,75 @@
 - India fit note: Success hinges on regular health data input and adoption of wearables, which are still uneven across Indian demographics, and on consumers' willingness to pay for proactive health services rather than reactive care.
 - Badge guess: orange
 
+## Arctic Fox Technologies
+- Source article: [The Super Mouse puts a touchscreen macro pad under your hand](https://www.theverge.com/tech/1019484/super-mouse-touchscreen-shortcuts-macros-kickstarter) (The Verge)
+- Category: input-device
+- What it does: The Super Mouse replaces a traditional mouse with a compact touchscreen macro pad beneath the hand, allowing customizable shortcuts and acting as a trackpad and other desk peripherals.
+- Likely revenue model: Sells the hardware directly to consumers through its website and retail partners, likely at a premium price point.
+- India equivalent: none found
+- India fit note: The concept relies on users adopting a touchscreen‑based macro surface and tolerating a boxy ergonomic design, which may face resistance in price‑sensitive Indian markets and require robust driver support for diverse PC setups.
+- Badge guess: black
+
+## Survival LLM (by Brangus)
+- Source article: [Survival LLM: AI assistant and emergency library that runs on your own computer](https://www.brangus.io/survival-llm) (Hacker News (front page))
+- Category: edge-ai
+- What it does: Survival LLM is a locally‑run AI assistant that bundles an emergency knowledge library, allowing users to query a large language model without any internet connection.
+- Likely revenue model: Sells a one‑time license or subscription for the desktop software, with optional paid updates and premium plugins.
+- India equivalent: none found
+- India fit note: The product assumes users have a reasonably powerful PC (CPU/GPU) and are comfortable installing and maintaining local AI software, which may be a barrier in many Indian households that rely on low‑spec devices and cloud‑based services.
+- Badge guess: black
+
+## Ghostty
+- Source article: [Ghostty 1.4.0](https://ghostty.org/docs/install/release-notes/1-4-0) (Hacker News (front page))
+- Category: dev-tools
+- What it does: Ghostty is a GPU‑accelerated, cross‑platform terminal emulator that offers fast rendering and a modern UI for developers.
+- Likely revenue model: It is likely funded through donations, sponsorships, or paid support/enterprise licensing rather than direct sales.
+- India equivalent: none found
+- India fit note: The product is software‑only and runs on standard Linux/macOS environments, so it does not depend on any unique behavior or infrastructure unavailable in India.
+- Badge guess: black
+
+## Axiom Math
+- Source article: [Classification of Finite Simple Groups Formalized in Lean](https://cfsg.axiommath.ai/) (Hacker News (front page))
+- Category: formal-verification
+- What it does: Provides a fully formalized, machine‑checked proof of the Classification of Finite Simple Groups using the Lean theorem prover. The library can be reused for further mathematical research and verified software development.
+- Likely revenue model: Offers enterprise licensing, consulting, and support for formal verification projects, plus paid access to premium tooling and training services.
+- India equivalent: none found
+- India fit note: The product relies on a niche community of expert theorem‑provers and assumes widespread adoption of Lean in research and industry, which is currently limited in India. Additionally, the high‑skill talent pool and corporate demand for formal verification are still emerging.
+- Badge guess: black
+
+## Everblog
+- Source article: [Best Skylight Calendar Alternative on Sale: Save $100 on Everblog HomeCal (2026)](https://www.wired.com/story/everblog-homecal-deal-october-2026/) (Wired)
+- Category: home-management
+- What it does: Everblog HomeCal is a digital calendar device that doubles as a photo frame and includes built‑in meal‑planning tools.
+- Likely revenue model: Revenue likely comes from a one‑time hardware sale, with optional subscription tiers for advanced planning features.
+- India equivalent: none found
+- India fit note: The product assumes widespread broadband connectivity and a habit of using dedicated kitchen‑planning hardware, which are less common in many Indian households that rely on smartphones for similar tasks.
+- Badge guess: black
+
+## Nokia AI
+- Source article: [This old Nokia phone got an AI Upgrade it was never designed for](https://www.engadget.com/2295625/old-nokia-phone-ai-upgrade-never-designed-for/) (Engadget)
+- Category: ai-phone
+- What it does: Provides a software overlay that adds AI voice assistant and chatbot functionality to legacy Nokia feature phones, turning them into smart devices.
+- Likely revenue model: Charges a one‑time fee for the firmware upgrade and/or a subscription for ongoing AI cloud services.
+- India equivalent: JioPhone
+- India fit note: India has a massive feature‑phone user base and JioPhone already demonstrates that AI assistants can run on low‑cost hardware, though widespread adoption depends on affordable data plans and reliable 4G/5G coverage.
+- Badge guess: orange
+
+## InSilico
+- Source article: [Swiss AI drug trial startup receives funding from Spotify-backer Creandum](https://economictimes.indiatimes.com/tech/artificial-intelligence/swiss-ai-drug-trial-startup-receives-funding-from-spotify-backer-creandum/articleshow/135238709.cms) (Economic Times Tech)
+- Category: ai-pharma
+- What it does: Uses an AI foundation model trained on about two million human RNA readouts to run 12‑week virtual drug trials, aiming to replace in‑vitro and animal testing.
+- Likely revenue model: Licenses the simulation platform or charges per trial run to pharmaceutical and biotech companies.
+- India equivalent: none found
+- India fit note: The model relies on massive human RNA datasets and high‑performance computing infrastructure that are not widely available in India, and Indian pharma may be slower to adopt virtual trials over established animal testing practices.
+- Badge guess: black
+
+## Kachra Cafe
+- Source article: [Inside India's first Kachra Cafe, where Bhopal residents exchange household waste for food, drinks and other essentials](https://www.livemint.com/companies/news/inside-indias-first-kachra-cafe-where-bhopal-residents-exchange-household-waste-for-food-drinks-and-everyday-essentia-11793120947002.html) (LiveMint Companies)
+- Category: circular-economy
+- What it does: Operates a cafe where residents trade household recyclable waste for food, drinks and essential items, while diverting waste to recycling streams.
+- Likely revenue model: Earns revenue by selling collected recyclable material to recyclers and receiving municipal subsidies or sponsorships for the social program.
+- India equivalent: Kachra Bazaar (Delhi)
+- India fit note: The model relies on a strong community habit of separating waste and on municipal partnerships, which may be limited in regions lacking organized waste collection infrastructure.
+- Badge guess: orange
+

@@ -2378,3 +2378,11 @@
 | Maasi | childcare | orange | 2026-10-27 | Urban Company |
 | Mochatrade | fintech | orange | 2026-10-27 | Vested |
 | Cent | healthtech | orange | 2026-10-27 | HealthifyMe |
+| Arctic Fox Technologies | input-device | black | 2026-10-27 | none found |
+| Survival LLM (by Brangus) | edge-ai | black | 2026-10-27 | none found |
+| Ghostty | dev-tools | black | 2026-10-27 | none found |
+| Axiom Math | formal-verification | black | 2026-10-27 | none found |
+| Everblog | home-management | black | 2026-10-27 | none found |
+| Nokia AI | ai-phone | orange | 2026-10-27 | JioPhone |
+| InSilico | ai-pharma | black | 2026-10-27 | none found |
+| Kachra Cafe | circular-economy | orange | 2026-10-27 | Kachra Bazaar (Delhi) |
