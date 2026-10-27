@@ -2352,3 +2352,4 @@
 | Raschka Reasoning Course | ai-education | orange | 2026-10-26 | Simplilearn |
 | Partyline | mesh-voice | black | 2026-10-26 | none found |
 | ReplyAll | d2c apparel | orange | 2026-10-26 | Naked |
+| CorridorKey | devsecops | orange | 2026-10-27 | ManageEngine Password Manager Pro (Zoho) |
