@@ -2353,3 +2353,20 @@
 | Partyline | mesh-voice | black | 2026-10-26 | none found |
 | ReplyAll | d2c apparel | orange | 2026-10-26 | Naked |
 | CorridorKey | devsecops | orange | 2026-10-27 | ManageEngine Password Manager Pro (Zoho) |
+| SavorApp AI | productivity | black | 2026-10-27 | none found |
+| Nuvio | fintech | orange | 2026-10-27 | Zoho Books |
+| Notra | ai-seo | black | 2026-10-27 | none found |
+| Spacesheep | ai-documents | black | 2026-10-27 | none found |
+| NINX | creative-ai | black | 2026-10-27 | none found |
+| NuPlay | ai-platform | black | 2026-10-27 | none found |
+| Revix AI | dev-tools | black | 2026-10-27 | none found |
+| Orbit | digital-wellness | black | 2026-10-27 | none found |
+| fswitcher | productivity | black | 2026-10-27 | none found |
+| Coachare | coaching-platform | orange | 2026-10-27 | Coacharya |
+| Off Grid AI | edge-ai | black | 2026-10-27 | none found |
+| OpenRadView | medical-imaging | black | 2026-10-27 | none found |
+| TheySaid | user-feedback | orange | 2026-10-27 | VWO |
+| PulseDev | ai-devtools | black | 2026-10-27 | none found |
+| Paddock | ai-agent | black | 2026-10-27 | none found |
+| winevdm | emulation | black | 2026-10-27 | none found |
+| Live2.ai | social-commerce | orange | 2026-10-27 | Meesho |
