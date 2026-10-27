@@ -160,3 +160,75 @@
 - India fit note: Social commerce thrives on widespread WhatsApp/Instagram usage and a robust digital payments ecosystem, both of which exist in India, but success depends on consumer trust in AI‑curated recommendations and the ability of small sellers to integrate with the platform’s tech stack.
 - Badge guess: orange
 
+## AirFly
+- Source article: [AirFly’s wireless headphone dongle adds a screen to guide you through the pairing process](https://www.theverge.com/tech/1018679/twelve-south-airfly-view-screen-display-wireless-headphone-earbuds-airplane-adapter) (The Verge)
+- Category: bluetooth-adapter
+- What it does: AirFly View is a dongle that adds a tiny screen to guide users step‑by‑step through pairing wireless headphones with devices that lack native Bluetooth support.
+- Likely revenue model: Sells the dongle as a one‑time hardware purchase through online and retail channels.
+- India equivalent: none found
+- India fit note: The product assumes users have devices without Bluetooth and are willing to buy an extra accessory; while Bluetooth adapters exist in India, the added screen is novel and may face price‑sensitivity in a market that prefers low‑cost solutions.
+- Badge guess: black
+
+## ContextGem
+- Source article: [ContextGem 1.0](https://www.producthunt.com/products/contextgem) (Product Hunt)
+- Category: document-ai
+- What it does: ContextGem combines decision models with large language models to automatically extract structured data from unstructured documents.
+- Likely revenue model: Subscription‑based SaaS pricing, possibly tiered by number of documents processed or API calls.
+- India equivalent: Docsumo
+- India fit note: The model relies on high‑quality digital documents and stable broadband for API calls; while large Indian enterprises have such infrastructure, many SMBs still use paper‑based workflows, which could limit immediate adoption.
+- Badge guess: orange
+
+## AI Media Labs
+- Source article: [AI Agents Are Media’s New Favorite Audience](https://www.wired.com/story/ai-agents-are-medias-new-favorite-audience/) (Wired)
+- Category: ai-content
+- What it does: Produces news and media articles formatted specifically for AI agents to ingest and cite in responses, allowing publishers to monetize content through machine consumption.
+- Likely revenue model: Licenses the AI‑optimized content to AI platforms on a subscription or per‑query basis.
+- India equivalent: none found
+- India fit note: The model depends on AI agents becoming a primary source of information for users, which is still limited in India, and on publishers re‑engineering content for machine readability—a shift that may face cultural, regulatory, and infrastructure challenges.
+- Badge guess: black
+
+## Sovereign Baby
+- Source article: [How to Hide Your Baby From the Government](https://www.wired.com/story/the-rise-of-sovereign-babies/) (Wired)
+- Category: legal-tech
+- What it does: Offers online courses and consulting that claim to help expectant families avoid government birth registration and related legal obligations.
+- Likely revenue model: Charges fees for video courses, webinars, and one‑on‑one coaching subscriptions.
+- India equivalent: none found
+- India fit note: The model relies on a community that believes it can evade mandatory birth registration, which is strictly enforced in India and culturally less accepted, making adoption unlikely.
+- Badge guess: black
+
+## dubdub
+- Source article: [Trivia and puzzle app dubdub raises seed funding led by 3one4 Capital, Antler and Stellaris](https://entrackr.com/snippets/trivia-and-puzzle-app-dubdub-raises-seed-funding-led-by-3one4-capital-antler-and-stellaris-12758123) (Entrackr)
+- Category: trivia-app
+- What it does: A swipe‑based mobile app that delivers bite‑sized trivia questions, mini‑games and puzzles across many categories, personalising the feed with AI. Users can challenge friends and compare scores.
+- Likely revenue model: Ad‑supported freemium model with optional in‑app purchases or premium subscriptions for extra content and an ad‑free experience.
+- India equivalent: Loco
+- India fit note: India has strong mobile usage and a love for cricket and Bollywood, so the content mix fits well, but success depends on users adopting a swipe‑based quiz format versus dominant short‑video apps and on reliable data connectivity for AI personalization.
+- Badge guess: orange
+
+## Maasi
+- Source article: [Child-care startup Maasi raises Rs 6 Cr in pre-seed round](https://entrackr.com/snippets/child-care-startup-maasi-raises-rs-6-cr-in-pre-seed-round-12757624) (Entrackr)
+- Category: childcare
+- What it does: Trains, pays and connects vetted caregivers to families in Bengaluru, offering on-demand nannies and monthly subscription childcare services at home.
+- Likely revenue model: Earns a commission on hourly nanny fees and subscription plans paid by parents.
+- India equivalent: Urban Company
+- India fit note: The model relies on urban parents willing to pay for vetted, on-demand in-home care and on a pool of trained caregivers, which exists in metros but may be harder to replicate in smaller towns lacking such workforce and digital adoption.
+- Badge guess: orange
+
+## Mochatrade
+- Source article: [Mochatrade Raises $5.5 Mn To Build A US Stock Trading Platform For Indian Traders](https://inc42.com/buzz/mochatrade-raises-5-5-mn-to-build-a-us-stock-trading-platform-for-indian-traders/) (Inc42)
+- Category: fintech
+- What it does: Mochatrade offers a platform that lets Indian traders buy and sell tokenized US stocks, effectively providing fractional exposure to US equities.
+- Likely revenue model: It likely earns money through transaction fees, a spread on token prices, and possibly subscription or custody fees.
+- India equivalent: Vested
+- India fit note: The model relies on Indian investors being comfortable with tokenized assets and on a seamless INR‑to‑USD conversion pipeline, which faces regulatory scrutiny from RBI and limits on crypto‑related token issuance.
+- Badge guess: orange
+
+## Cent
+- Source article: [Cent Raises $15 Mn To Scale AI-Led Preventive Healthcare Platform](https://inc42.com/buzz/cent-raises-15-mn-to-scale-ai-led-preventive-healthcare-platform/) (Inc42)
+- Category: healthtech
+- What it does: Cent provides an AI‑driven preventive healthcare platform that continuously analyses user health data to flag risks early and recommends personalized lifestyle and medical actions.
+- Likely revenue model: Subscription‑based model for individuals and corporate wellness packages, possibly supplemented by paid health assessments or B2B licensing.
+- India equivalent: HealthifyMe
+- India fit note: Success hinges on regular health data input and adoption of wearables, which are still uneven across Indian demographics, and on consumers' willingness to pay for proactive health services rather than reactive care.
+- Badge guess: orange
+

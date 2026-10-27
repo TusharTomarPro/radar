@@ -2370,3 +2370,11 @@
 | Paddock | ai-agent | black | 2026-10-27 | none found |
 | winevdm | emulation | black | 2026-10-27 | none found |
 | Live2.ai | social-commerce | orange | 2026-10-27 | Meesho |
+| AirFly | bluetooth-adapter | black | 2026-10-27 | none found |
+| ContextGem | document-ai | orange | 2026-10-27 | Docsumo |
+| AI Media Labs | ai-content | black | 2026-10-27 | none found |
+| Sovereign Baby | legal-tech | black | 2026-10-27 | none found |
+| dubdub | trivia-app | orange | 2026-10-27 | Loco |
+| Maasi | childcare | orange | 2026-10-27 | Urban Company |
+| Mochatrade | fintech | orange | 2026-10-27 | Vested |
+| Cent | healthtech | orange | 2026-10-27 | HealthifyMe |
