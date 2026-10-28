@@ -6480,5 +6480,101 @@
     "india_cost_estimate": "\u20b935\u201155\u202flakh for the first 6\u201112\u202fmonths (cloud/API usage \u20b95\u201110\u202flakh + salaries for 2\u20113 engineers and a product lead \u20b930\u201145\u202flakh; no paid marketing assumed).",
     "risk_score": 5,
     "risk_reasoning": "The market already has surviving players such as Tijori and OnFinance AI, reducing the uniqueness of Stale AI Tracker (orange badge). Regulatory exposure is moderate due to data\u2011privacy rules, but the business is low\u2011capital\u2011intensity and can be bootstrapped, keeping financial risk manageable. Combined, these factors place the overall risk at a mid\u2011range score."
+  },
+  "impactgate::2026-09-16": {
+    "company": "ImpactGate",
+    "category": "model-management",
+    "revised_badge": "orange",
+    "competitor_status": "surviving",
+    "regulatory_flag": "none",
+    "capital_intensity": "low",
+    "known_numbers": "no public numbers found",
+    "india_cost_estimate": "\u20b912-25 lakh for a 6\u201112 month MVP (cloud hosting, 2\u20114 engineers, basic UI/UX, minimal marketing)",
+    "risk_score": 6,
+    "risk_reasoning": "ImpactGate previously shut down (2016) due to lack of product\u2011market fit, indicating a fundamental demand challenge. The Indian market already has several active community\u2011management SaaS players (Vantaca, ADDA, NoBrokerHood, BelleVie), raising competitive pressure. However, regulatory exposure is minimal and the model is low\u2011capital (pure SaaS), keeping the financial risk modest, resulting in a moderate overall risk."
+  },
+  "dextrus::2026-09-16": {
+    "company": "Dextrus",
+    "category": "flex-office",
+    "revised_badge": "orange",
+    "competitor_status": "surviving",
+    "regulatory_flag": "none",
+    "capital_intensity": "high",
+    "known_numbers": "no public numbers found",
+    "india_cost_estimate": "\u20b92\u20113\u202fcrore (\u2248\u202f\u20b920\u201130\u202fmillion) for the first 6\u201112\u202fmonths \u2013 covering lease & fit\u2011out of 2\u20113 modest co\u2011working spaces in Tier\u20111 cities, basic furniture, utilities, a small ops team (3\u20115 people), and cloud/software stack.",
+    "risk_score": 7,
+    "risk_reasoning": "Awfis is an active, well\u2011funded player, so Dextrus would face strong incumbent competition. Flex\u2011office is capital\u2011intensive, requiring real\u2011estate leases and fit\u2011outs, which inflates cash burn. With no disclosed revenue, valuation, or user metrics for Dextrus, the business model appears unproven, pushing the overall risk to a high\u2011moderate level."
+  },
+  "yaa-creations::2026-09-16": {
+    "company": "Yaa Creations",
+    "category": "artisan-ecommerce",
+    "revised_badge": "orange",
+    "competitor_status": "surviving",
+    "regulatory_flag": "moderate \u2013 Indian FDI policy for multi\u2011brand retail (requires 51% local sourcing) and GST compliance apply to an artisan\u2011ecommerce marketplace.",
+    "capital_intensity": "low \u2013 the model is primarily software\u2011driven and can outsource logistics, so it can be built with a small tech/ops team and modest runway.",
+    "known_numbers": "no public numbers found",
+    "india_cost_estimate": "\u20b912\u201120\u202flakh for 6\u201112\u202fmonths (cloud & API fees ~\u20b93\u20115\u202flakh, 2\u20113 engineers + product lead ~\u20b96\u201110\u202flakh, basic legal/GST registration ~\u20b91\u20112\u202flakh).",
+    "risk_score": 5,
+    "risk_reasoning": "Jaypore, a well\u2011funded artisan e\u2011commerce platform, is still operating after its 2026 acquisition, indicating a real competitor. Regulatory exposure is moderate due to FDI and local\u2011sourcing rules, but there are no sector\u2011specific licences needed. Capital requirements are low, making the venture financially feasible, so overall risk is moderate."
+  },
+  "zeroclick::2026-09-16": {
+    "company": "ZeroClick",
+    "category": "ai-commerce",
+    "revised_badge": "black",
+    "competitor_status": "no-real-competitor-found",
+    "regulatory_flag": "none",
+    "capital_intensity": "medium \u2013 the model is asset\u2011light but requires sustained cloud/AI compute spend and a small engineering team, not the heavy discount\u2011or\u2011fleet subsidies seen in logistics\u2011heavy e\u2011commerce.",
+    "known_numbers": "no public numbers found",
+    "india_cost_estimate": "\u20b980\u2011120\u202flakh for a 6\u201112\u202fmonth pilot (cloud/AI inference \u20b930\u201160\u202flakh, 3\u20114 senior engineers & product staff \u20b948\u201160\u202flakh).",
+    "risk_score": 3,
+    "risk_reasoning": "The market shows a clear behavioral shift toward zero\u2011click results, giving a first\u2011mover advantage, while there are no evident Indian regulatory barriers. Capital needs are moderate and can be funded without massive burn, but the lack of existing competitors also means the business model is unproven, keeping risk modest rather than low."
+  },
+  "qorl::2026-09-16": {
+    "company": "Qorl",
+    "category": "ai-db",
+    "revised_badge": "black",
+    "competitor_status": "no-real-competitor-found",
+    "regulatory_flag": "moderate \u2013 Indian data\u2011localisation rules (e.g., the Personal Data Protection Bill\u2019s requirement that critical personal data be stored in India) will require a locally\u2011hosted deployment and possibly a data\u2011fiduciary registration.",
+    "capital_intensity": "low \u2013 the product is software\u2011only, requiring cloud compute and a small engineering team; unit economics can be positive without heavy upfront asset investment.",
+    "known_numbers": "no public numbers found",
+    "india_cost_estimate": "\u20b912\u201125\u202flakh for 6\u201112\u202fmonths (covers 2\u20113 senior engineers, cloud/AI\u2011API usage, basic legal/compliance, and minimal office overhead).",
+    "risk_score": 4,
+    "risk_reasoning": "The lack of identified local competitors suggests an early\u2011stage opportunity, but moderate regulatory compliance for data localisation adds some friction. Capital needs are modest, keeping financial risk low. Overall the venture is plausible but still carries uncertainty around market adoption and compliance execution."
+  },
+  "montana-etrb::2026-09-16": {
+    "company": "Montana ETRB",
+    "category": "biotech-regulatory",
+    "revised_badge": "black",
+    "competitor_status": "no-real-competitor-found",
+    "regulatory_flag": "high",
+    "capital_intensity": "medium",
+    "known_numbers": "No public numbers found",
+    "india_cost_estimate": "\u20b915-25 lakh for a scaled-down India version focusing on a regulatory compliance review or advisory model with a small team of 3-4 and minimal tech infrastructure.",
+    "risk_score": 8,
+    "risk_reasoning": "Montana ETRB's model depends on a U.S.-specific regulatory pathway that does not exist in India, posing a high regulatory barrier. With no identified competitors and no public financial or user metrics, replicating or localizing this biotech regulatory service model in India would likely require extensive legal and regulatory groundwork, increasing both capital needs and uncertainty. The absence of a clear product-market fit or demand signal further elevates the risk."
+  },
+  "pitchfly::2026-09-16": {
+    "company": "PitchFly",
+    "category": "ai-creative",
+    "revised_badge": "black",
+    "competitor_status": "no-real-competitor-found",
+    "regulatory_flag": "none",
+    "capital_intensity": "low",
+    "known_numbers": "no public numbers found",
+    "india_cost_estimate": "\u20b912\u201120\u202flakh for 6\u201112\u202fmonths (covers 2\u20113 engineers, cloud/API usage, basic SaaS tooling, and minimal operational overhead; no paid marketing budget assumed).",
+    "risk_score": 4,
+    "risk_reasoning": "The search evidence shows no existing competitors and no disclosed financials, indicating an untapped niche but also uncertainty about market fit. Regulatory exposure is minimal for a SaaS pitch\u2011deck generator, and the capital requirement is low, keeping execution risk modest. The primary risk is product\u2011market fit and user adoption in a market where AI\u2011assisted creativity is still nascent."
+  },
+  "webpixie::2026-09-16": {
+    "company": "Webpixie",
+    "category": "ai-indexing",
+    "revised_badge": "black",
+    "competitor_status": "dead",
+    "regulatory_flag": "moderate \u2013 Indian data\u2011privacy and content\u2011moderation rules (e.g., IT\u202fAct\u202f2000, upcoming Personal Data Protection Bill) apply to any AI\u2011driven indexing of user\u2011generated content, but there are no sector\u2011specific licensing hurdles.",
+    "capital_intensity": "medium \u2013 building an AI\u2011indexing engine requires cloud compute and specialist talent, but it is largely asset\u2011light and can be bootstrapped with modest spend.",
+    "known_numbers": "no public numbers found",
+    "india_cost_estimate": "\u20b912\u201125\u202flakh for 6\u201112\u202fmonths (cloud/AI API usage, 2\u20113 engineers, basic infra, no paid marketing).",
+    "risk_score": 7,
+    "risk_reasoning": "Webpixie shut down in 2016 for lack of product\u2011market fit, indicating a high likelihood of repeat failure. While regulatory exposure is only moderate, the need for AI compute and talent makes the venture medium\u2011capital intensive, and there are no proven competitors or market traction to offset the risk."
   }
 }
