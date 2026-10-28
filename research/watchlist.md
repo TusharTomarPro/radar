@@ -2386,3 +2386,5 @@
 | Nokia AI | ai-phone | orange | 2026-10-27 | JioPhone |
 | InSilico | ai-pharma | black | 2026-10-27 | none found |
 | Kachra Cafe | circular-economy | orange | 2026-10-27 | Kachra Bazaar (Delhi) |
+| Lexifina | legal-tech | black | 2026-10-28 | none found |
+| Moxnox | operating-system | black | 2026-10-28 | none found |
