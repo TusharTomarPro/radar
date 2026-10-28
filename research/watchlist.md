@@ -2388,3 +2388,34 @@
 | Kachra Cafe | circular-economy | orange | 2026-10-27 | Kachra Bazaar (Delhi) |
 | Lexifina | legal-tech | black | 2026-10-28 | none found |
 | Moxnox | operating-system | black | 2026-10-28 | none found |
+| OpenLLM | LLMops | black | 2026-10-28 | none found |
+| BotGauge | ai-agent | black | 2026-10-28 | none found |
+| Zro | ai-security | orange | 2026-10-28 | Safe Security |
+| Tulu | marketing-automation | orange | 2026-10-28 | MoEngage |
+| Mudroom | ai-devtools | black | 2026-10-28 | none found |
+| Open For Sales | sales-automation | orange | 2026-10-28 | Writesonic |
+| Trigger.dev | ai-agent | orange | 2026-10-28 | Kissflow |
+| Genie 4 | ai-worldbuilder | black | 2026-10-28 | none found |
+| Dedica | ai-agent | black | 2026-10-28 | none found |
+| Congress Trades | fintech | black | 2026-10-28 | none found |
+| App Store Screenshots | ai-design | black | 2026-10-28 | none found |
+| Tonko | fintech-education | black | 2026-10-28 | none found |
+| Bytemail | email-client | orange | 2026-10-28 | Zoho Mail |
+| Yardlet | ai-agent | black | 2026-10-28 | none found |
+| AirPosture | wellness-tech | black | 2026-10-28 | none found |
+| Our Silly Games | game-dev | black | 2026-10-28 | none found |
+| RageLayer | web-testing | orange | 2026-10-28 | BlazeMeter |
+| NotiKeep | mobile-utility | black | 2026-10-28 | none found |
+| Throxy | sales-automation | black | 2026-10-28 | none found |
+| Zest | ai-dev | black | 2026-10-28 | none found |
+| Licenseal | license-compliance | black | 2026-10-28 | none found |
+| Trellis | dev-tools | black | 2026-10-28 | none found |
+| Boltbar | ai-assistant | black | 2026-10-28 | none found |
+| Dotverse | social-platform | black | 2026-10-28 | none found |
+| Jokes for the ZX81 | retro-gaming | black | 2026-10-28 | none found |
+| CrisisAI | emergency-tech | black | 2026-10-28 | none found |
+| Amazon Kindle | e-reader | black | 2026-10-28 | none found |
+| Vama | spiritual-tech | orange | 2026-10-28 | PoojaGuru |
+| Moms Home | quick-commerce | orange | 2026-10-28 | FirstCry |
+| FoodAI | food-innovation | black | 2026-10-28 | none found |
+| GomatiRoots | food-tech | black | 2026-10-28 | none found |
