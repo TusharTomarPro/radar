@@ -295,3 +295,75 @@
 - India fit note: The model relies on scaling traditional home‑cooking, which may face challenges in consistent quality control and supply chain logistics in India’s fragmented food processing sector.
 - Badge guess: black
 
+## MediSense
+- Source article: [You can see every red flag in Theranos 2.0](https://www.theverge.com/column/1020859/optimizer-theranos-haemanthus-you-can-see-everything) (The Verge)
+- Category: health-tech
+- What it does: MediSense offers a handheld device that claims to run a full panel of blood tests from a single finger‑prick sample in minutes, promising cheap, point‑of‑care diagnostics.
+- Likely revenue model: It likely makes money by selling the proprietary testing cartridges and a subscription for data analytics and cloud reporting to clinics and insurers.
+- India equivalent: SigTuple
+- India fit note: India has a growing market for AI‑driven diagnostics, but widespread adoption of a consumer‑facing blood‑testing device may be hampered by regulatory hurdles, limited trust in at‑home lab results, and uneven internet connectivity in rural areas.
+- Badge guess: orange
+
+## SlideBySide
+- Source article: [Show HN: SlideBySide – Present slides without sharing your screen](https://slidebyside.com/) (Hacker News (front page))
+- Category: presentation-tool
+- What it does: SlideBySide lets multiple users present slides together without sharing their screen, giving everyone real‑time control over the same slide deck.
+- Likely revenue model: It likely charges teams a subscription fee per user or seat for collaborative presentation features.
+- India equivalent: none found
+- India fit note: The tool requires reliable internet bandwidth for synchronized slide viewing, which can be limited in parts of India, and it introduces a collaborative workflow not yet widely adopted locally.
+- Badge guess: black
+
+## Converge
+- Source article: [Converge (YC S23) Is Hiring a Founding Platform Engineer](https://www.runconverge.com/careers/founding-platform-engineer) (Hacker News (front page))
+- Category: workflow-automation
+- What it does: Converge provides a low‑code platform that lets businesses stitch together SaaS tools and internal systems into unified, automated workflows. It abstracts APIs and data pipelines so non‑engineers can build integrations quickly.
+- Likely revenue model: A tiered subscription SaaS model with usage‑based pricing for higher‑volume integrations.
+- India equivalent: none found
+- India fit note: The product assumes widespread SaaS adoption and a culture of building internal integrations, which is still emerging among Indian SMEs; larger enterprises are more likely to adopt such a platform.
+- Badge guess: black
+
+## Cursor
+- Source article: [The Agent SDK](https://cursor.com/blog/agent-sdk) (Hacker News (front page))
+- Category: ai-agent
+- What it does: Cursor's Agent SDK lets developers create autonomous AI agents that can write, run, and debug code, browse the web, and interact with APIs on behalf of users.
+- Likely revenue model: A subscription or usage‑based SaaS model where developers pay for access to the SDK, API calls, and premium hosting of their agents.
+- India equivalent: none found
+- India fit note: The product relies on high‑speed cloud compute, low‑latency internet access, and a developer culture accustomed to AI‑augmented coding, which are still emerging in many Indian regions.
+- Badge guess: black
+
+## Numeracle
+- Source article: [Exclusive: Numeracle Raises $28M To Keep Legitimate Business Calls From Spam Label](https://news.crunchbase.com/venture/numeracle-raise-edison-ai-spam-communications-johnson/) (Crunchbase News)
+- Category: call-verification
+- What it does: Numeracle verifies businesses and links their identities to the phone numbers they use, ensuring calls are recognized as legitimate and not flagged as spam by carriers. It provides a verification layer that carriers can use to authenticate inbound business calls.
+- Likely revenue model: Charges businesses a subscription or per‑verification fee for access to its identity‑linking API and reporting dashboard.
+- India equivalent: Truecaller
+- India fit note: India's telecom ecosystem lacks widespread adoption of STIR/SHAKEN‑style caller authentication, and carrier‑level spam labeling is less standardized, which could limit the immediate impact of such a service. However, strong consumer use of caller‑ID apps like Truecaller shows demand for verified business calls.
+- Badge guess: orange
+
+## Holiday Tribe
+- Source article: [Exclusive: Holiday Tribe In Talks To Raise ₹50 Cr From RPSG Capital Ventures, Others](https://inc42.com/buzz/holiday-tribe-in-talks-to-raise-%e2%82%b950-cr-from-rpsg-capital-ventures-others/) (Inc42)
+- Category: travel-tech
+- What it does: Holiday Tribe is a traveltech platform that curates and sells pre‑designed holiday packages for groups, allowing users to book trips with shared itineraries and split costs. It leverages data‑driven recommendations to match travelers with experiences that fit their interests and budgets.
+- Likely revenue model: The company likely earns a commission on each booked package and may charge a small service fee for payment processing and group coordination.
+- India equivalent: TravelTriangle
+- India fit note: The model relies on widespread internet penetration and digital payment adoption, both strong in India, but success hinges on a cultural shift toward group‑booking and shared‑cost travel, which is still emerging compared to individual bookings.
+- Badge guess: orange
+
+## Pocket FM
+- Source article: [Sherpa and the future of AI-powered storytelling at Pocket FM](https://economictimes.indiatimes.com/tech/technology/sherpa-and-the-future-of-ai-powered-storytelling-at-pocket-fm/articleshow/135262232.cms) (Economic Times Tech)
+- Category: ai-storytelling
+- What it does: Pocket FM offers Sherpa, an AI‑powered writing partner that helps creators outline, flesh out characters and manage long‑form audio storylines while keeping creative control with the writer.
+- Likely revenue model: A hybrid model of subscription fees for writers plus revenue sharing or advertising on the published audio stories.
+- India equivalent: Kuku FM
+- India fit note: India has a massive mobile‑first audio consumption base, but widespread adoption of AI‑assisted writing tools among regional language creators may be slower due to limited awareness and language‑specific model support.
+- Badge guess: orange
+
+## Bonkers Corner
+- Source article: [From President Murmu’s ADC to streetwear: Major Rishabh Sambyal teams up with Bonkers Corner](https://www.livemint.com/companies/people/from-president-murmu-s-adc-to-streetwear-major-rishabh-sambyal-teams-up-with-bonkers-corner-11793194877549.html) (LiveMint Companies)
+- Category: streetwear
+- What it does: Launches a limited-edition clothing line of hoodies, jackets and shirts co-designed by retired Major Rishabh Sambyal.
+- Likely revenue model: Earns revenue by selling the collection directly to consumers through its e‑commerce site and partner retail stores, likely at premium pricing.
+- India equivalent: none found
+- India fit note: The concept relies on a niche celebrity appeal and premium streetwear culture that exists in India, but the specific military‑to‑fashion crossover may not have strong resonance with Indian consumers.
+- Badge guess: black
+

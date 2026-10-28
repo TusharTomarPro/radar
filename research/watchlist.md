@@ -2419,3 +2419,11 @@
 | Moms Home | quick-commerce | orange | 2026-10-28 | FirstCry |
 | FoodAI | food-innovation | black | 2026-10-28 | none found |
 | GomatiRoots | food-tech | black | 2026-10-28 | none found |
+| MediSense | health-tech | orange | 2026-10-28 | SigTuple |
+| SlideBySide | presentation-tool | black | 2026-10-28 | none found |
+| Converge | workflow-automation | black | 2026-10-28 | none found |
+| Cursor | ai-agent | black | 2026-10-28 | none found |
+| Numeracle | call-verification | orange | 2026-10-28 | Truecaller |
+| Holiday Tribe | travel-tech | orange | 2026-10-28 | TravelTriangle |
+| Pocket FM | ai-storytelling | orange | 2026-10-28 | Kuku FM |
+| Bonkers Corner | streetwear | black | 2026-10-28 | none found |
