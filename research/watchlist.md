@@ -2467,3 +2467,7 @@
 | COTRAV BLACK | luxury-experience | orange | 2026-10-29 | Quintessentially India |
 | The Coco Station | beverage | orange | 2026-10-29 | Coco Fresh |
 | California Burrito | fast-casual | orange | 2026-10-29 | Burrito Factory |
+| Sylphide OS | embedded-os | black | 2026-10-29 | none found |
+| ElementaryUI | swift-web | black | 2026-10-29 | none found |
+| tinyworldformer | edge-ai | black | 2026-10-29 | none found |
+| AutoDismiss | productivity-tool | black | 2026-10-29 | none found |

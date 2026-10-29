@@ -358,3 +358,39 @@
 - India fit note: The model relies on urban consumers’ willingness to try foreign cuisines and on a reliable cold‑chain for fresh produce, both of which are present in Tier‑1 Indian metros but less so in smaller towns.
 - Badge guess: orange
 
+## Sylphide OS
+- Source article: [Sylphide OS: a general-purpose OS for microcontroller-based computers](https://projects.freehackers.org/sylphide-os/) (Hacker News (front page))
+- Category: embedded-os
+- What it does: Sylphide OS is an open‑source, general‑purpose operating system designed to run on microcontroller‑based computers, providing multitasking, networking and a POSIX‑like API.
+- Likely revenue model: The project likely relies on a combination of open‑source donations, paid support/consulting services, and licensing for commercial deployments.
+- India equivalent: none found
+- India fit note: Adoption hinges on a mature maker/hobbyist ecosystem and ready availability of low‑cost MCUs; while India’s maker community is growing, the distribution channels and developer familiarity with such niche OSes are still limited.
+- Badge guess: black
+
+## ElementaryUI
+- Source article: [ElementaryUI – Swift, in the Browser](https://elementary.codes) (Hacker News (front page))
+- Category: swift-web
+- What it does: Provides a SwiftUI‑style framework that runs Swift code directly in the browser via WebAssembly, letting developers build web interfaces with Swift.
+- Likely revenue model: Offers a freemium model with paid cloud compilation, enterprise support, and licensing for commercial use.
+- India equivalent: none found
+- India fit note: The product relies on a developer base proficient in Swift and on WebAssembly execution in browsers; Swift usage among Indian developers is limited and the required tooling ecosystem is not yet widespread.
+- Badge guess: black
+
+## tinyworldformer
+- Source article: [A tiny world model running games on a Raspberry Pi Pico 2 W](https://github.com/SheepSeb/tinyworldformer) (Hacker News (front page))
+- Category: edge-ai
+- What it does: Implements a highly compact world‑model transformer that can run simple game simulations directly on a Raspberry Pi Pico 2 W microcontroller.
+- Likely revenue model: Open‑source project that could monetize through consulting, custom integration services, or licensing the model to hardware manufacturers.
+- India equivalent: none found
+- India fit note: Success depends on widespread availability of low‑cost microcontrollers like the Pico 2 W and a strong maker/hobbyist ecosystem, which are still emerging in India, plus limited demand for ultra‑tiny AI models in mainstream consumer products.
+- Badge guess: black
+
+## AutoDismiss
+- Source article: [Show HN: Auto Dismiss Mac OS "Allow <app> to find devices on local networks?"](https://github.com/johncassil/dontallow) (Hacker News (front page))
+- Category: productivity-tool
+- What it does: It automatically closes the macOS "Allow <app> to find devices on local networks" permission popup in a fraction of a second and shows a brief notification that it acted.
+- Likely revenue model: Probably a one‑time purchase or donation‑based model distributed via the Mac App Store or a direct download site.
+- India equivalent: none found
+- India fit note: The app relies on macOS-specific permission dialogs, and macOS has a relatively low market share in India compared to Windows, so a similar local solution would have limited demand.
+- Badge guess: black
+
