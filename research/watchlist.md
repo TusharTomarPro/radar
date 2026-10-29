@@ -2427,3 +2427,4 @@
 | Holiday Tribe | travel-tech | orange | 2026-10-28 | TravelTriangle |
 | Pocket FM | ai-storytelling | orange | 2026-10-28 | Kuku FM |
 | Bonkers Corner | streetwear | black | 2026-10-28 | none found |
+| Readwise | reading-app | black | 2026-10-29 | none found |
