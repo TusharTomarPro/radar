@@ -2450,3 +2450,20 @@
 | Notch Metrics | analytics | orange | 2026-10-29 | MoEngage |
 | Qwenputer | ai-emulation | black | 2026-10-29 | none found |
 | ISLAND Beauty | skincare | orange | 2026-10-29 | Mamaearth |
+| Dream | construction-ai | black | 2026-10-29 | none found |
+| SuperMe | ai-expert | black | 2026-10-29 | none found |
+| Withings Sync (open-source) | health-tech | orange | 2026-10-29 | HealthifyMe |
+| Digital Candle (by Kevin Bates) | smart-home | black | 2026-10-29 | none found |
+| TopAgent | event-tech | black | 2026-10-29 | none found |
+| 16colo.rs | art-archive | black | 2026-10-29 | none found |
+| SkyPilot | gpu-scheduling | black | 2026-10-29 | none found |
+| LLM Voice | voice-ai | orange | 2026-10-29 | Uniphore |
+| Keplearn | symbolic-regression | black | 2026-10-29 | none found |
+| Focusmate | virtual-coworking | black | 2026-10-29 | none found |
+| &Truth | devtools | black | 2026-10-29 | none found |
+| Death Clock | health-tech | black | 2026-10-29 | none found |
+| ThermoWorks | smart-kitchen | black | 2026-10-29 | none found |
+| Venttup | manufacturing-platform | black | 2026-10-29 | none found |
+| COTRAV BLACK | luxury-experience | orange | 2026-10-29 | Quintessentially India |
+| The Coco Station | beverage | orange | 2026-10-29 | Coco Fresh |
+| California Burrito | fast-casual | orange | 2026-10-29 | Burrito Factory |
