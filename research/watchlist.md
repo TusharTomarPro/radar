@@ -2428,3 +2428,25 @@
 | Pocket FM | ai-storytelling | orange | 2026-10-28 | Kuku FM |
 | Bonkers Corner | streetwear | black | 2026-10-28 | none found |
 | Readwise | reading-app | black | 2026-10-29 | none found |
+| OutreachGuy | ai-sales | orange | 2026-10-29 | Vymo |
+| AutoShelf | automation | black | 2026-10-29 | none found |
+| Viggle | generative-ai | black | 2026-10-29 | none found |
+| Gologin | cloud-browser | orange | 2026-10-29 | BrowserStack |
+| Reset Alerts | password-management | black | 2026-10-29 | none found |
+| Intrascope | ai-agent | orange | 2026-10-29 | Haptik |
+| Empacer | voice-assistant | orange | 2026-10-29 | Haptik |
+| Smart Jelly | ai-assistant | black | 2026-10-29 | none found |
+| Radar | ai-agent | orange | 2026-10-29 | OpsMx |
+| Arco | dev-tools | black | 2026-10-29 | none found |
+| IFTTT.ai | automation | orange | 2026-10-29 | Zoho Flow |
+| Jimmy | ai-agent | orange | 2026-10-29 | Haptik |
+| ChatInbox | email-management | black | 2026-10-29 | none found |
+| Flatbread | ai-agent | black | 2026-10-29 | none found |
+| AfterLid | remote-monitoring | black | 2026-10-29 | none found |
+| Kin | ai-automation | orange | 2026-10-29 | Kissflow |
+| MAO | ai-agent | black | 2026-10-29 | none found |
+| Recall for Mac | productivity | black | 2026-10-29 | none found |
+| Confetti | no-code hardware | black | 2026-10-29 | none found |
+| Notch Metrics | analytics | orange | 2026-10-29 | MoEngage |
+| Qwenputer | ai-emulation | black | 2026-10-29 | none found |
+| ISLAND Beauty | skincare | orange | 2026-10-29 | Mamaearth |
