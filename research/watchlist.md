@@ -2472,3 +2472,30 @@
 | tinyworldformer | edge-ai | black | 2026-10-29 | none found |
 | AutoDismiss | productivity-tool | black | 2026-10-29 | none found |
 | Herdr | social‑network | black | 2026-10-30 | none found |
+| Norah Studio | music-tech | orange | 2026-10-30 | Gaana |
+| Nocto | macOS-utility | black | 2026-10-30 | none found |
+| Faylee | ai-devtools | black | 2026-10-30 | none found |
+| SparkBots AI | document-intelligence | orange | 2026-10-30 | Docsumo |
+| Cluinn | meeting-assistant | black | 2026-10-30 | none found |
+| StepGrab | screenshot-tool | black | 2026-10-30 | none found |
+| Axonnic | wearable-tech | black | 2026-10-30 | none found |
+| StereoLift Live | vr-desktop | black | 2026-10-30 | none found |
+| SpeakON | voice-automation | orange | 2026-10-30 | Haptik |
+| Vaani | voice-ai | orange | 2026-10-30 | Haptik |
+| Knocket AI | ai-chatbot | orange | 2026-10-30 | Verloop.io |
+| Kestrix | ci-cd | black | 2026-10-30 | none found |
+| Chopstick | productivity | black | 2026-10-30 | none found |
+| FastBrowse | browser-automation | black | 2026-10-30 | none found |
+| XWiki | ai-knowledge | black | 2026-10-30 | none found |
+| iSurge | wearables | orange | 2026-10-30 | GOQii |
+| Sitesolide | self-hosting | black | 2026-10-30 | none found |
+| Ilse | ai-devtools | black | 2026-10-30 | none found |
+| Teable | no-code | orange | 2026-10-30 | Zoho Creator |
+| elect.horse | prediction-market | black | 2026-10-30 | none found |
+| Oh My Hours | digital-wellness | black | 2026-10-30 | none found |
+| Crematorium Heat | waste-heat | black | 2026-10-30 | none found |
+| Traya | haircare | orange | 2026-10-30 | MediHair |
+| Tagbin | construction-ai | black | 2026-10-30 | none found |
+| Indus Appstore | app marketplace | orange | 2026-10-30 | JioStore (Reliance Jio's app marketplace) |
+| ForgeCode | ai-dev | black | 2026-10-30 | none found |
+| LetsGameNow | esports-platform | orange | 2026-10-30 | Nodwin Gaming |
