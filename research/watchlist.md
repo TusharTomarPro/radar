@@ -2471,3 +2471,4 @@
 | ElementaryUI | swift-web | black | 2026-10-29 | none found |
 | tinyworldformer | edge-ai | black | 2026-10-29 | none found |
 | AutoDismiss | productivity-tool | black | 2026-10-29 | none found |
+| Herdr | social‑network | black | 2026-10-30 | none found |
