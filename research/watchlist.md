@@ -2499,3 +2499,10 @@
 | Indus Appstore | app marketplace | orange | 2026-10-30 | JioStore (Reliance Jio's app marketplace) |
 | ForgeCode | ai-dev | black | 2026-10-30 | none found |
 | LetsGameNow | esports-platform | orange | 2026-10-30 | Nodwin Gaming |
+| Spinf-serve | ai-inference | black | 2026-10-30 | none found |
+| Nesformer | ai-gaming | black | 2026-10-30 | none found |
+| Florilegium | latex-tool | black | 2026-10-30 | none found |
+| Forge | code-hosting | black | 2026-10-30 | none found |
+| catcopter | gaming | black | 2026-10-30 | none found |
+| Wakeshift | ai-agent | black | 2026-10-30 | none found |
+| Bright Saver | solar-tech | orange | 2026-10-30 | Tata Power Solar (balcony solar kits) |

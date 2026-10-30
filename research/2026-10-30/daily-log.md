@@ -250,3 +250,66 @@
 - India fit note: The model relies on high broadband/mobile penetration and a youth culture comfortable with online gaming, which is strong in urban India but less reliable in rural areas due to connectivity gaps and limited esports awareness.
 - Badge guess: orange
 
+## Spinf-serve
+- Source article: [Show HN: Spinf-serve – inference server for bulk scoring and decisions](https://github.com/spinfinc/spinf-serve) (Hacker News (front page))
+- Category: ai-inference
+- What it does: Spinf-serve is an inference server that lets developers batch‑score machine‑learning models and make bulk decisions via a simple API. It handles high‑throughput scoring workloads with low latency.
+- Likely revenue model: Open‑source core with paid enterprise support, hosted SaaS, or usage‑based licensing for large‑scale deployments.
+- India equivalent: none found
+- India fit note: The service assumes readily available high‑performance compute (GPU/CPU) and mature data pipelines, which can be costlier and less ubiquitous in many Indian enterprises, potentially limiting adoption without cloud‑based backing.
+- Badge guess: black
+
+## Nesformer
+- Source article: [Show HN: A working Nintendo in ~1GB of Qwen weights](https://github.com/dbreunig/nesformer) (Hacker News (front page))
+- Category: ai-gaming
+- What it does: Leverages a ~1 GB Qwen language model to emulate Nintendo (NES) games, enabling gameplay through AI inference rather than traditional emulators.
+- Likely revenue model: Primarily open‑source; potential revenue could come from SaaS hosting, licensing the model for game developers, or offering premium support.
+- India equivalent: none found
+- India fit note: The approach requires access to GPU‑accelerated inference and familiarity with large language models, which are less common among Indian gamers and developers, and it may face legal hurdles around game ROM distribution.
+- Badge guess: black
+
+## Florilegium
+- Source article: [Florilegium: Procedural Flowers in LaTeX](https://github.com/kevinraymond/florilegium) (Hacker News (front page))
+- Category: latex-tool
+- What it does: A LaTeX package that procedurally generates flower illustrations for inclusion in documents.
+- Likely revenue model: Open‑source library, likely sustained through donations, sponsorships, or consulting services rather than direct sales.
+- India equivalent: none found
+- India fit note: The tool relies on a LaTeX workflow and a niche of users comfortable with code‑based graphics; while LaTeX is used in Indian academia, the specific demand for procedural flower graphics is limited.
+- Badge guess: black
+
+## Forge
+- Source article: [The federated code forge](https://tangled.org/blog/forge/) (Hacker News (front page))
+- Category: code-hosting
+- What it does: Forge is a federated code repository platform that lets developers host, collaborate on, and discover code across a network of interoperable forges, rather than a single centralized service. It uses ActivityPub‑style federation to enable cross‑instance pull requests, issue tracking, and CI integration.
+- Likely revenue model: The team likely monetises through paid enterprise self‑hosted deployments, premium federation features, and optional hosted SaaS plans for teams.
+- India equivalent: none found
+- India fit note: Adoption depends on a developer community comfortable with decentralized services and on reliable, low‑latency internet connectivity for federation traffic; both are still emerging in many Indian regions, which could slow uptake.
+- Badge guess: black
+
+## catcopter
+- Source article: [Show HN: I built a multiplayer game where you're an aerial fighter cat](https://catcopter.com) (Hacker News (front page))
+- Category: gaming
+- What it does: A browser‑based multiplayer game where players pilot a flying cat, battling other players and AI critters in aerial combat.
+- Likely revenue model: Likely relies on ads, optional cosmetic microtransactions, or a freemium model to monetize the free‑to‑play experience.
+- India equivalent: none found
+- India fit note: The game depends on low‑latency web sockets and a culture of casual browser gaming that is less prevalent in India, where mobile‑first gaming dominates.
+- Badge guess: black
+
+## Wakeshift
+- Source article: [Show HN: Sketch Stadium – watch your agent play Pictionary](https://sketch.wakeshift.ai/) (Hacker News (front page))
+- Category: ai-agent
+- What it does: Provides an SDK that lets AI agents receive real‑time push notifications and interact in games like Pictionary by drawing and guessing. It also offers a demo platform (Sketch Stadium) where agents can play together.
+- Likely revenue model: Charges developers a subscription or usage fee for access to the push‑notification SDK and related hosting services.
+- India equivalent: none found
+- India fit note: The product assumes a mature ecosystem of autonomous AI agents and standardized MCP (machine‑control‑plane) integrations, which are still nascent in India. Adoption would require broader AI‑agent deployment and compatible webhook infrastructure.
+- Badge guess: black
+
+## Bright Saver
+- Source article: [I tried plug-in solar and loved it—but there’s a catch](https://www.fastcompany.com/91632331/i-tried-plug-in-solar-and-loved-it-but-theres-a-catch?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss) (Fast Company)
+- Category: solar-tech
+- What it does: Bright Saver sells plug‑in solar kits—small rooftop or balcony panels with an inverter that plug directly into a standard wall outlet and feed excess power back to the grid.
+- Likely revenue model: Revenue comes from direct hardware sales of the kits (single or dual‑panel bundles) and optional membership fees that give discounted pricing.
+- India equivalent: Tata Power Solar (balcony solar kits)
+- India fit note: India’s dense apartment blocks often lack dedicated outdoor outlets and the regulatory framework for small‑scale grid‑connected devices is still evolving, so adoption would require new outlet standards or net‑metering approvals similar to the US UL certification hurdle.
+- Badge guess: orange
+
