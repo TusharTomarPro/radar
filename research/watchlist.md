@@ -2506,3 +2506,6 @@
 | catcopter | gaming | black | 2026-10-30 | none found |
 | Wakeshift | ai-agent | black | 2026-10-30 | none found |
 | Bright Saver | solar-tech | orange | 2026-10-30 | Tata Power Solar (balcony solar kits) |
+| Episodle | trivia | black | 2026-10-31 | none found |
+| Infinite Mac | os-emulation | black | 2026-10-31 | none found |
+| Sketch Stadium | ai-agent | black | 2026-10-31 | none found |
