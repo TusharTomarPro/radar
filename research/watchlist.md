@@ -2533,3 +2533,6 @@
 | Chole Bhature Dubai | street-food | black | 2026-10-31 | none found |
 | Common Desktop Environment (CDE) | desktop-environment | black | 2026-10-31 | none found |
 | HackerTube | video-aggregation | black | 2026-10-31 | none found |
+| Memdoor | ai-agent | black | 2026-10-31 | none found |
+| Distributed Proofreaders | crowd-proofreading | black | 2026-10-31 | none found |
+| Gradify | career-tech | orange | 2026-10-31 | Internshala |

@@ -241,3 +241,30 @@
 - India fit note: The service depends on a highly active English‑speaking Hacker News community and on mining comment data, both of which have limited penetration in India, making adoption challenging.
 - Badge guess: black
 
+## Memdoor
+- Source article: [Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard](https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve) (Hacker News (front page))
+- Category: ai-agent
+- What it does: Memdoor orchestrates a team of five Qwen 3.8‑27B language models to collaboratively solve coding problems, outperforming single‑model baselines on the LiveCodeBench Hard benchmark.
+- Likely revenue model: Provides a SaaS API or licensing model where developers pay per request or subscription to access the multi‑model solving service.
+- India equivalent: none found
+- India fit note: The approach relies on access to large GPU clusters and the Qwen model weights, which are less readily available in India, and it assumes a market of developers willing to pay for high‑performance code generation.
+- Badge guess: black
+
+## Distributed Proofreaders
+- Source article: [Distributed Proofreaders](https://www.pgdp.net/c/) (Hacker News (front page))
+- Category: crowd-proofreading
+- What it does: Provides a web platform where volunteers proofread and format scanned public‑domain texts, turning them into clean e‑books for Project Gutenberg.
+- Likely revenue model: Operates as a non‑profit, funded primarily through donations, grants, and occasional sponsorships.
+- India equivalent: none found
+- India fit note: The model depends on a large, English‑speaking volunteer base and a culture of unpaid digital‑humanities work, which is less established in India; additionally, the need for high‑quality OCR and internet access may limit scalability.
+- Badge guess: black
+
+## Gradify
+- Source article: [Surviving "The Graduate"](https://www.newyorker.com/culture/the-weekend-essay/dustin-hoffman-on-surviving-the-graduate) (Hacker News (front page))
+- Category: career-tech
+- What it does: Provides a platform that curates job listings, interview prep resources, and salary negotiation tools specifically for recent college graduates.
+- Likely revenue model: Charges a monthly subscription for premium access and takes a placement fee from employers for successful hires.
+- India equivalent: Internshala
+- India fit note: The model relies on a robust campus recruitment pipeline and a culture of paid internships, both of which are present in India, though salary negotiation norms differ.
+- Badge guess: orange
+
