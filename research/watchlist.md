@@ -2509,3 +2509,25 @@
 | Episodle | trivia | black | 2026-10-31 | none found |
 | Infinite Mac | os-emulation | black | 2026-10-31 | none found |
 | Sketch Stadium | ai-agent | black | 2026-10-31 | none found |
+| Pluto Door | ai-agent | black | 2026-10-31 | none found |
+| BaseTab AI | ai-productivity | black | 2026-10-31 | none found |
+| LumaFold | beauty-tech | black | 2026-10-31 | none found |
+| CubbyPad | desktop-utility | black | 2026-10-31 | none found |
+| Coding Wrapped | dev-analytics | black | 2026-10-31 | none found |
+| WinnerAdSpy | ad-tech | black | 2026-10-31 | none found |
+| telemetry.dev | ai-observability | black | 2026-10-31 | none found |
+| SpaceO | ai-agent | black | 2026-10-31 | none found |
+| Agnos | ai-privacy | black | 2026-10-31 | none found |
+| Backenly | ai-infrastructure | black | 2026-10-31 | none found |
+| Secret Key | password-manager | orange | 2026-10-31 | Zoho Vault |
+| SKI | voice-coding | black | 2026-10-31 | none found |
+| Hemmed | productivity | black | 2026-10-31 | none found |
+| AC Bridge | ai-assist | black | 2026-10-31 | none found |
+| Seqora | dev-tools | orange | 2026-10-31 | NocoDB |
+| Mo | productivity | orange | 2026-10-31 | Automate.io |
+| AwaitIO | dev-tools | black | 2026-10-31 | none found |
+| Godwit | ai-email | black | 2026-10-31 | none found |
+| Prospero | dev-tools | black | 2026-10-31 | none found |
+| Maison Lineti | whisky-tech | orange | 2026-10-31 | Amrut Distilleries |
+| Docterz | clinic-software | orange | 2026-10-31 | Practo |
+| Chole Bhature Dubai | street-food | black | 2026-10-31 | none found |
