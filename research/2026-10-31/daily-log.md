@@ -223,3 +223,21 @@
 - India fit note: The model relies on tourists and expatriates with high disposable income and a culture of queuing for premium street food, which may not translate to price‑sensitive Indian consumers. It also leverages the chef’s Michelin brand, a prestige factor less common in India’s street‑food segment.
 - Badge guess: black
 
+## Common Desktop Environment (CDE)
+- Source article: [Common Desktop Environment available now as open-source](https://sourceforge.net/projects/cdesktopenv/) (Hacker News (front page))
+- Category: desktop-environment
+- What it does: CDE provides a graphical desktop environment for Unix and Unix‑like operating systems, delivering a consistent UI, window manager, and suite of productivity tools.
+- Likely revenue model: The project is open‑source and likely relies on community contributions, donations, or paid support services rather than direct product sales.
+- India equivalent: none found
+- India fit note: CDE targets legacy Unix workstations and enterprise environments that are uncommon in India, and its adoption would require niche technical expertise and infrastructure not widely present.
+- Badge guess: black
+
+## HackerTube
+- Source article: [HackerTube: YouTube built from videos recommended by HN](https://karpathy.bearblog.dev/hacker-tube/) (Hacker News (front page))
+- Category: video-aggregation
+- What it does: HackerTube curates a YouTube‑style interface of videos that are recommended within Hacker News comments, pulling thousands of videos linked from HN discussions since 2007.
+- Likely revenue model: Probably a non‑commercial project that relies on donations or minimal ad revenue, if any.
+- India equivalent: none found
+- India fit note: The service depends on a highly active English‑speaking Hacker News community and on mining comment data, both of which have limited penetration in India, making adoption challenging.
+- Badge guess: black
+

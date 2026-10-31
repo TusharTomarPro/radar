@@ -2531,3 +2531,5 @@
 | Maison Lineti | whisky-tech | orange | 2026-10-31 | Amrut Distilleries |
 | Docterz | clinic-software | orange | 2026-10-31 | Practo |
 | Chole Bhature Dubai | street-food | black | 2026-10-31 | none found |
+| Common Desktop Environment (CDE) | desktop-environment | black | 2026-10-31 | none found |
+| HackerTube | video-aggregation | black | 2026-10-31 | none found |
