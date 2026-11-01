@@ -178,3 +178,66 @@
 - India fit note: The app relies on high iPhone adoption and willingness to pay a premium for niche color grading, both of which are limited in India where Android dominates and price sensitivity is higher.
 - Badge guess: black
 
+## Fluent
+- Source article: [Fluent 2](https://www.producthunt.com/products/fluent-ai-writing-assistant-for-macos) (Product Hunt)
+- Category: ai-writing
+- What it does: Fluent provides an AI-powered writing assistant that runs locally on macOS, acting as a teammate to help draft, edit, and improve text without sending data to the cloud.
+- Likely revenue model: A subscription model (monthly or annual) for premium features and higher usage limits.
+- India equivalent: Peppertype.ai
+- India fit note: The product relies on a sizable macOS user base and local compute resources, which are less common in India where Windows and mobile devices dominate; adoption may be limited to niche professional segments.
+- Badge guess: orange
+
+## HackerBooks
+- Source article: [Show HN: HackerBooks – HackerTube, but for books mentioned on HN](https://hackerbooks.org) (Hacker News (front page))
+- Category: book-discovery
+- What it does: Aggregates books that have been mentioned in Hacker News comments, linking each title back to the relevant discussion threads. The dataset (≈16.5k books) is publicly downloadable.
+- Likely revenue model: Probably no direct revenue yet; could monetize later via ads, premium API access, or data licensing.
+- India equivalent: none found
+- India fit note: The service relies on the Hacker News community and its culture of discussing technical books, which is less prevalent in India, and on a niche data pipeline that may not have a local user base.
+- Badge guess: black
+
+## Novellas
+- Source article: [Novellas with Groff](https://movq.de/blog/postings/2026-10-31/0/POSTING-en.html) (Hacker News (front page))
+- Category: writing-tools
+- What it does: Novellas provides a web‑based editor that leverages the Groff typesetting engine to let authors draft, format, and export novella‑length manuscripts as print‑ready PDFs.
+- Likely revenue model: It likely charges a monthly or annual subscription for access to the editor and premium export features, with optional pay‑per‑export fees.
+- India equivalent: Pratilipi
+- India fit note: The service assumes users are comfortable with command‑line‑style formatting (Groff) and have reliable broadband for large PDF downloads, which may limit adoption among Indian writers who prefer more GUI‑centric tools.
+- Badge guess: orange
+
+## OmniDiff
+- Source article: [Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust](https://github.com/ivankovic/omnidiff) (Hacker News (front page))
+- Category: dev-tools
+- What it does: OmniDiff is an open‑source, content‑aware Git difftool written in Rust that can compare code, configs, images, PDFs, archives, fonts and more, delivering results in under 100 ms for large files.
+- Likely revenue model: Revenue likely comes from paid support, enterprise licensing, or sponsorships/donations rather than direct sales, given its AGPLv3 license.
+- India equivalent: none found
+- India fit note: The tool relies on standard Git workflows and developer familiarity with diff utilities, which are common in India, but adoption may be limited by the niche demand for a Rust‑based, ultra‑fast diff engine.
+- Badge guess: black
+
+## Bidirectional EV Charger
+- Source article: [Bidirectional charging during grid outages](https://www.jefftk.com/p/bidirectional-charging-during-grid-outages) (Hacker News (front page))
+- Category: energy-tech
+- What it does: Enables electric vehicles to supply power back to a home or grid during outages via bidirectional charging.
+- Likely revenue model: Sells hardware and software integration packages to homeowners and utilities, possibly with a subscription for grid services.
+- India equivalent: none found
+- India fit note: Requires widespread EV adoption, compatible vehicle inverters, and grid interconnection standards that are still limited in India.
+- Badge guess: black
+
+## F-Stop Leak Game
+- Source article: [All the leaks for the Portal prequel F-Stop have been compiled into a playable game](https://www.engadget.com/2303446/all-the-leaks-for-the-portal-prequel-f-stop-have-been-compiled-into-a-playable-game/) (Engadget)
+- Category: gaming
+- What it does: Compiles leaked assets from the unreleased Portal prequel F-Stop into a playable prototype that fans can download and try.
+- Likely revenue model: Free to play, likely supported only by donations or ad revenue rather than a formal business model.
+- India equivalent: none found
+- India fit note: The concept relies on a niche community of modders and a tolerance for fan‑made, potentially infringing content, which exists in India but may face stricter IP enforcement; otherwise the required PC gaming infrastructure is present.
+- Badge guess: black
+
+## CCleaner
+- Source article: [You might be neglecting the one thing that keeps your PC healthy](https://www.engadget.com/2300290/desktop-pc-neglecting-cleaning-computer-health/) (Engadget)
+- Category: pc-utility
+- What it does: CCleaner cleans junk files, fixes registry errors, and optimizes system performance on Windows PCs.
+- Likely revenue model: Offers a freemium model with paid Pro subscriptions for advanced cleaning and optimization features.
+- India equivalent: none found
+- India fit note: The tool depends on regular PC maintenance habits and reliable internet connectivity for updates, which are common in urban India but may see slower adoption in price‑sensitive segments.
+- Badge guess: black
+

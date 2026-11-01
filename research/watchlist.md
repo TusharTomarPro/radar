@@ -2556,3 +2556,10 @@
 | Termy | ai-coding | black | 2026-11-01 | none found |
 | Yuzu Sync | file-sync | black | 2026-11-01 | none found |
 | Chromagraph | photo-editing | black | 2026-11-01 | none found |
+| Fluent | ai-writing | orange | 2026-11-01 | Peppertype.ai |
+| HackerBooks | book-discovery | black | 2026-11-01 | none found |
+| Novellas | writing-tools | orange | 2026-11-01 | Pratilipi |
+| OmniDiff | dev-tools | black | 2026-11-01 | none found |
+| Bidirectional EV Charger | energy-tech | black | 2026-11-01 | none found |
+| F-Stop Leak Game | gaming | black | 2026-11-01 | none found |
+| CCleaner | pc-utility | black | 2026-11-01 | none found |
