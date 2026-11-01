@@ -2536,3 +2536,5 @@
 | Memdoor | ai-agent | black | 2026-10-31 | none found |
 | Distributed Proofreaders | crowd-proofreading | black | 2026-10-31 | none found |
 | Gradify | career-tech | orange | 2026-10-31 | Internshala |
+| BBRouter | hardware-simulation | orange | 2026-11-01 | CircuitVerse |
+| Altoids Project | DIY hardware | black | 2026-11-01 | none found |
