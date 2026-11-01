@@ -2538,3 +2538,21 @@
 | Gradify | career-tech | orange | 2026-10-31 | Internshala |
 | BBRouter | hardware-simulation | orange | 2026-11-01 | CircuitVerse |
 | Altoids Project | DIY hardware | black | 2026-11-01 | none found |
+| Usage for Claude | ai-productivity | black | 2026-11-01 | none found |
+| Hamdori | virtual-pet | black | 2026-11-01 | none found |
+| Modelpeers | ai-discovery | black | 2026-11-01 | none found |
+| Click | ai-agent | black | 2026-11-01 | none found |
+| AgentMash | ai-coding | black | 2026-11-01 | none found |
+| Riverside Agents | video-ai | black | 2026-11-01 | none found |
+| ClawsGO Science | lab-automation | black | 2026-11-01 | none found |
+| Screen Studio | video-editing | orange | 2026-11-01 | Veed.io |
+| Ideogram | ai-image | black | 2026-11-01 | none found |
+| Chorin | historical-sim | black | 2026-11-01 | none found |
+| Raah.dev | analytics | orange | 2026-11-01 | Zoho Analytics |
+| Magpie | visual-bookmarking | black | 2026-11-01 | none found |
+| Embage | ai-agent | orange | 2026-11-01 | Yellow.ai |
+| BeeBranch | git-client | black | 2026-11-01 | none found |
+| ernd | fintech | orange | 2026-11-01 | RazorpayX |
+| Termy | ai-coding | black | 2026-11-01 | none found |
+| Yuzu Sync | file-sync | black | 2026-11-01 | none found |
+| Chromagraph | photo-editing | black | 2026-11-01 | none found |
