@@ -2563,3 +2563,29 @@
 | Bidirectional EV Charger | energy-tech | black | 2026-11-01 | none found |
 | F-Stop Leak Game | gaming | black | 2026-11-01 | none found |
 | CCleaner | pc-utility | black | 2026-11-01 | none found |
+| Help | helpdesk | orange | 2026-11-02 | Freshdesk |
+| Looper | ai-agent | orange | 2026-11-02 | Kore.ai |
+| Hyperresearch | ai-agent | black | 2026-11-02 | none found |
+| Display | ai-agent | black | 2026-11-02 | none found |
+| Hera | ai-creative | black | 2026-11-02 | none found |
+| redu.cloud | ai-agent | orange | 2026-11-02 | AutomationEdge |
+| CuriousLM | private-ai | black | 2026-11-02 | none found |
+| Xmind | mind-mapping | black | 2026-11-02 | none found |
+| diff-tour | dev-tools | black | 2026-11-02 | none found |
+| Beacon | ai-agent | black | 2026-11-02 | none found |
+| Greta.sh | seo-automation | black | 2026-11-02 | none found |
+| Agent Inbox | customer-support | orange | 2026-11-02 | Freshdesk (Freshworks) |
+| Clayzo | ai-agent | orange | 2026-11-02 | Animaker |
+| UnleashX | ai-agent | orange | 2026-11-02 | Haptik |
+| Linkly AI Clipper | ai-agent | black | 2026-11-02 | none found |
+| Widgeteer | no-code | orange | 2026-11-02 | Appy Pie |
+| Cedric | ai-agent | black | 2026-11-02 | none found |
+| Friday Work | ai-assistant | black | 2026-11-02 | none found |
+| syscall.sh | dev-tools | black | 2026-11-02 | none found |
+| Wikihack | content-aggregator | black | 2026-11-02 | none found |
+| OccupySaaS | saas-management | black | 2026-11-02 | none found |
+| GridPulse | energy-tech | black | 2026-11-02 | none found |
+| OBSESS | fitness-marketplace | orange | 2026-11-02 | Fitternity |
+| Two Point O | clean-finance | orange | 2026-11-02 | Oorjan |
+| WOI India | venture-studio | orange | 2026-11-02 | Axilor Ventures |
+| Agentic AI | ai-agent | orange | 2026-11-02 | Haptik |
