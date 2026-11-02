@@ -2589,3 +2589,9 @@
 | Two Point O | clean-finance | orange | 2026-11-02 | Oorjan |
 | WOI India | venture-studio | orange | 2026-11-02 | Axilor Ventures |
 | Agentic AI | ai-agent | orange | 2026-11-02 | Haptik |
+| SOML | config-language | black | 2026-11-02 | none found |
+| Skill Video Studio | ai-video | black | 2026-11-02 | none found |
+| Momentic | ai-qa | orange | 2026-11-02 | TestSigma |
+| Warsaw Vibe Voxel | geo-visualization | black | 2026-11-02 | none found |
+| Inkplate | e-paper | black | 2026-11-02 | none found |
+| Clinics On Cloud | health-tech | black | 2026-11-02 | none found |

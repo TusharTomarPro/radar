@@ -232,3 +232,57 @@
 - India fit note: Success hinges on widespread high‑speed internet and user comfort with AI agents handling personal data, which are still emerging in many Indian markets.
 - Badge guess: orange
 
+## SOML
+- Source article: [SOML – A Config Format for Humans](https://github.com/soml-lang/soml) (Hacker News (front page))
+- Category: config-language
+- What it does: SOML is a human‑readable configuration file format designed as a simpler alternative to JSON/YAML. It aims to be easy to write, edit, and parse by both developers and non‑technical users.
+- Likely revenue model: The project is open‑source and likely monetises through donations, sponsorships, or paid consulting/support for enterprise adopters.
+- India equivalent: none found
+- India fit note: Adoption depends on a developer community that values a new config syntax; Indian startups already use established formats like JSON, YAML, and TOML, so switching to SOML would require convincing teams of its benefits.
+- Badge guess: black
+
+## Skill Video Studio
+- Source article: [Skill to Create Product Videos](https://github.com/aaitor/skill-video-studio) (Hacker News (front page))
+- Category: ai-video
+- What it does: An open‑source tool that lets users quickly generate product demo videos by stitching together assets, voice‑overs and AI‑generated visuals.
+- Likely revenue model: Offers a freemium SaaS platform with paid plans for higher resolution exports, branding removal and API access.
+- India equivalent: none found
+- India fit note: The service relies on high‑speed cloud rendering and AI models that may be less accessible in regions with limited bandwidth or data‑center proximity, which could hinder adoption in India.
+- Badge guess: black
+
+## Momentic
+- Source article: [Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app](https://momentic.ai/) (Hacker News (front page))
+- Category: ai-qa
+- What it does: Momentic provides autonomous QA agents that plan, explore, and bug‑bash user flows across web, iOS, Android and desktop apps, surfacing real bugs without manual test scripts.
+- Likely revenue model: A SaaS subscription with usage‑based pricing (pay‑per‑bug or compute credits) plus tiered plans that include higher infrastructure capacity and optional top‑ups.
+- India equivalent: TestSigma
+- India fit note: The model relies on high‑speed cloud compute, parallel browser farms, and easy exposure of private sites via tunnels—capabilities that exist in Indian tech firms but may be limited by bandwidth costs and stricter data‑privacy regulations for on‑prem apps.
+- Badge guess: orange
+
+## Warsaw Vibe Voxel
+- Source article: [Show HN: Warsaw in voxels – An interactive 3D map of the city centre](https://p.migdal.pl/warsaw-vibe-voxel/) (Hacker News (front page))
+- Category: geo-visualization
+- What it does: Provides an interactive 3D voxel‑based map of central Warsaw, allowing users to change date, time, weather and even control pedestrians.
+- Likely revenue model: Open‑source project likely funded through donations, sponsorships, or paid consulting for custom city visualizations.
+- India equivalent: none found
+- India fit note: The product depends on high‑resolution LiDAR, detailed municipal tree databases and fast broadband for loading large 3D assets—resources that are scarce or unevenly available in many Indian cities.
+- Badge guess: black
+
+## Inkplate
+- Source article: [This $48 e-paper display can be whatever you want it to be](https://arstechnica.com/gadgets/2026/11/this-48-e-paper-display-can-be-whatever-you-want-it-to-be/) (Ars Technica)
+- Category: e-paper
+- What it does: A low‑cost, programmable e‑paper display that can pull content from Inkplate’s cloud services or a self‑hosted server, letting users create custom static or dynamic screens.
+- Likely revenue model: Sells the hardware units directly to makers and developers, with optional paid cloud hosting or premium APIs.
+- India equivalent: none found
+- India fit note: The product relies on stable Wi‑Fi, Arduino/ESP32 development skills and a niche maker community, which exist in India but are less widespread; sourcing e‑paper panels locally may be a challenge.
+- Badge guess: black
+
+## Clinics On Cloud
+- Source article: [Clinics On Cloud Bags ₹120 Cr To Take Its Health ATMs Global](https://inc42.com/buzz/clinics-on-cloud-bags-%e2%82%b9120-cr-to-take-its-health-atms-global/) (Inc42)
+- Category: health-tech
+- What it does: Provides networked ‘Health ATMs’ – self‑service kiosks that perform basic diagnostics and upload results to a cloud platform for doctors and patients. The kiosks are deployed in pharmacies, malls and corporate campuses.
+- Likely revenue model: Sells or leases the kiosk hardware and charges a per‑test fee or subscription to clinics/partners for data analytics and tele‑consultation services.
+- India equivalent: none found
+- India fit note: Success depends on widespread acceptance of unattended diagnostic kiosks, reliable broadband at kiosk locations, and regulatory clearance for medical devices – factors that are still uneven across Indian tier‑2/3 cities.
+- Badge guess: black
+
