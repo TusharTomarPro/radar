@@ -2595,3 +2595,10 @@
 | Warsaw Vibe Voxel | geo-visualization | black | 2026-11-02 | none found |
 | Inkplate | e-paper | black | 2026-11-02 | none found |
 | Clinics On Cloud | health-tech | black | 2026-11-02 | none found |
+| Kyiv Drone Intercept | defense-tech | orange | 2026-11-03 | Bharat Electronics Limited (BEL) |
+| Trajectory | no-code AI | black | 2026-11-03 | none found |
+| VimPracticeGame | edtech | black | 2026-11-03 | none found |
+| Rustable | dev-tools | black | 2026-11-03 | none found |
+| Hacker Times | news-aggregator | black | 2026-11-03 | none found |
+| DiscImageStudio | media-software | black | 2026-11-03 | none found |
+| PowerUp Money | wealthtech | orange | 2026-11-03 | Groww |
