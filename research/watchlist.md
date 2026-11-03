@@ -2602,3 +2602,43 @@
 | Hacker Times | news-aggregator | black | 2026-11-03 | none found |
 | DiscImageStudio | media-software | black | 2026-11-03 | none found |
 | PowerUp Money | wealthtech | orange | 2026-11-03 | Groww |
+| Also | micromobility | orange | 2026-11-03 | Ather Energy |
+| SUN AI | ai-audio | black | 2026-11-03 | none found |
+| Beamfy | assistive-tech | black | 2026-11-03 | none found |
+| Remote Gaze | remote-desktop | orange | 2026-11-03 | Zoho Assist |
+| Peji | ai-assistant | black | 2026-11-03 | none found |
+| Testera | api-testing | black | 2026-11-03 | none found |
+| Calendarly | productivity | black | 2026-11-03 | none found |
+| Infino AI | data-platform | black | 2026-11-03 | none found |
+| HoldTalk | voice-typing | black | 2026-11-03 | none found |
+| Scrawl | visual-ai | black | 2026-11-03 | none found |
+| LidCommit | dev-tools | black | 2026-11-03 | none found |
+| Teamily AI | ai-messaging | orange | 2026-11-03 | Haptik |
+| One Roof | ai-agent | orange | 2026-11-03 | Gupshup |
+| Kwant | ai-agent | black | 2026-11-03 | none found |
+| MachineMail | ai-agent | black | 2026-11-03 | none found |
+| Flockbay | game-dev | black | 2026-11-03 | none found |
+| Videco | ai-marketing | orange | 2026-11-03 | VideoKen |
+| AgentKit | ai-agent | orange | 2026-11-03 | Verloop.io |
+| PowerShips | gaming | black | 2026-11-03 | none found |
+| Nexupira | ai-assistant | black | 2026-11-03 | none found |
+| IQ | ai-dashboard | black | 2026-11-03 | none found |
+| BRCKS | construction-tech | black | 2026-11-03 | none found |
+| EaseIn Health | digital-health | orange | 2026-11-03 | HealthifyMe |
+| VinSage | auto-tech | black | 2026-11-03 | none found |
+| Hookdeck | webhook testing | black | 2026-11-03 | none found |
+| Magical Core | ai-tool | black | 2026-11-03 | none found |
+| Wavefunction | ai-agent | black | 2026-11-03 | none found |
+| Synter Canvas | ad-tech | orange | 2026-11-03 | AdCreative.ai |
+| Prism | hardware-design | black | 2026-11-03 | none found |
+| Testifly | ai-qa | orange | 2026-11-03 | Qyrus |
+| Beaquaro | social-syndication | orange | 2026-11-03 | Zoho Social |
+| asklog | ai-agent | black | 2026-11-03 | none found |
+| nana | dev-tools | black | 2026-11-03 | none found |
+| Akema | data-analytics | black | 2026-11-03 | none found |
+| Sava Trust | legal-tech | orange | 2026-11-03 | Vakilsearch |
+| Hitwicket | mobile-gaming | orange | 2026-11-03 | Nazara Technologies |
+| UdhaarSaathi | digital-lending | orange | 2026-11-03 | Capital Float |
+| FestiveBox | sustainable-gifting | black | 2026-11-03 | none found |
+| Bliss | healthy-snacks | orange | 2026-11-03 | The Whole Truth |
+| Lipstick King AI Tokens | ai-token | black | 2026-11-03 | none found |
