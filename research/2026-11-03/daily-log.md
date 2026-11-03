@@ -421,3 +421,84 @@
 - India fit note: The model relies on high consumer awareness of AI token concepts and seamless digital payment integration, which are still emerging in India; limited local AI service ecosystems may also hinder adoption.
 - Badge guess: black
 
+## Stringman
+- Source article: [Stringman, an $800 open-source room scale gripper robot](https://neufangled.com/) (Hacker News (front page))
+- Category: robotics
+- What it does: Stringman is an open‑source, $800 room‑scale robot equipped with a gripper that can pick up and manipulate objects, aimed at hobbyists, makers and researchers.
+- Likely revenue model: They likely sell hardware kits, optional accessories and paid support or custom assembly services.
+- India equivalent: Robocraze
+- India fit note: Success depends on a maker culture, access to 3D‑printing or CNC parts, stable power supply and sufficient indoor space—resources that are growing but still uneven across Indian cities.
+- Badge guess: orange
+
+## HackerChurn
+- Source article: [Show HN: HackerChurn – which SaaS tools HN wants to cancel](https://hissingkitty.com/hacker-churn) (Hacker News (front page))
+- Category: subscription-management
+- What it does: Aggregates the SaaS tools that Hacker News users are subscribed to, shows churn trends, and provides quick ways to cancel unwanted services.
+- Likely revenue model: Offers a freemium model where basic tracking is free and advanced features or direct cancellation services are paid, possibly earning affiliate commissions from SaaS providers.
+- India equivalent: none found
+- India fit note: The service relies on a community‑driven culture of publicly sharing subscription data and on easy integration with a wide range of international SaaS billing APIs, which are less common among Indian consumers who tend to use fewer individual SaaS subscriptions and rely more on enterprise‑provided tools.
+- Badge guess: black
+
+## Tiny Basic for Arduino
+- Source article: [Tiny Basic for Arduino](https://dilshan.github.io/tiny-basic/) (Hacker News (front page))
+- Category: embedded-dev
+- What it does: Implements a Tiny BASIC interpreter that runs on Arduino boards, letting users write and execute BASIC programs directly on the microcontroller.
+- Likely revenue model: Open‑source project that is free to use, likely funded through donations, sponsorships or related consulting services.
+- India equivalent: none found
+- India fit note: The product assumes users have access to Arduino hardware and a community familiar with hobbyist programming; while Arduino kits are available in India, the niche of on‑device BASIC interpreters is not common, limiting immediate adoption.
+- Badge guess: black
+
+## Namespace
+- Source article: [Mac at Any Scale](https://namespace.so/blog/mac-at-any-scale) (Hacker News (front page))
+- Category: cloud-mac
+- What it does: Provides on-demand, scalable macOS virtual machines for developers and CI/CD pipelines, allowing users to run macOS workloads at any size.
+- Likely revenue model: Pay‑as‑you‑go pricing based on VM‑hour usage, with optional subscription tiers for reserved capacity and enterprise support.
+- India equivalent: none found
+- India fit note: The service relies on Apple‑certified hardware and strict macOS licensing, which limits local data‑center deployment in India and raises cost and import‑tax barriers, making widespread adoption challenging.
+- Badge guess: black
+
+## Jivx
+- Source article: [Practice speaking Japanese with real YouTube videos, graded line by line](https://jivx.com/yt) (Hacker News (front page))
+- Category: language-learning
+- What it does: Provides a platform to practice speaking Japanese using real YouTube videos, offering line‑by‑line transcripts and automated grading of pronunciation.
+- Likely revenue model: Subscription‑based SaaS with a freemium tier that unlocks full video library and advanced grading features.
+- India equivalent: none found
+- India fit note: Success depends on high‑speed internet for streaming video and accurate speech‑recognition for Japanese, which may be less common among Indian users; also the niche demand for Japanese language practice is smaller in India.
+- Badge guess: black
+
+## SSD Enclosure
+- Source article: [Don't throw away your laptop's old SSDs — do this instead](https://www.engadget.com/2300270/dont-throw-away-your-laptop-old-ssd-do-this-instead/) (Engadget)
+- Category: storage-accessories
+- What it does: Provides a simple enclosure that turns an internal SSD into a plug‑and‑play external USB storage device.
+- Likely revenue model: Sells the enclosure hardware (often as a one‑time purchase) possibly bundled with cables or software tools.
+- India equivalent: iBall
+- India fit note: The model relies on widespread USB‑C/USB‑A ports and a DIY mindset that is common among Indian PC enthusiasts, so it should work well in India.
+- Badge guess: orange
+
+## CamDetect
+- Source article: [How to use your phone to find hidden cameras](https://www.engadget.com/2300439/how-to-use-phone-find-hidden-cameras/) (Engadget)
+- Category: privacy-tech
+- What it does: A mobile app that uses the phone’s magnetic sensor, infrared camera, and audio analysis to locate hidden surveillance cameras in a room. Users can scan an area and receive alerts if a camera is detected.
+- Likely revenue model: Freemium model – free basic scans with a paid subscription or one‑time purchase for advanced detection modes and ad‑free experience.
+- India equivalent: none found
+- India fit note: The solution relies on smartphone sensors (magnetometer, IR) that are common in high‑end phones, but many Indian consumers use lower‑spec devices lacking these sensors, limiting effectiveness. Additionally, cultural awareness of hidden‑camera threats varies, affecting adoption.
+- Badge guess: black
+
+## Peak Design
+- Source article: [Peak Design launches premium charging accessories to complement its bags and tripods](https://www.engadget.com/2305009/peak-design-premium-chargers-batteries-cables-accessories/) (Engadget)
+- Category: photo-accessories
+- What it does: Offers premium smartphone chargers, cables, and battery packs designed to complement its camera bags and tripods.
+- Likely revenue model: Sells high‑margin hardware directly to consumers through its website and retail partners.
+- India equivalent: Portronics
+- India fit note: The product relies on a niche market of professional photographers and premium‑price consumers; while charging infrastructure exists, price sensitivity in India may limit mass adoption.
+- Badge guess: orange
+
+## Soket Labs
+- Source article: [Soket Labs & ZenteiQ Launch Indigenous AI Models](https://inc42.com/buzz/soket-labs-zenteiq-launch-indigenous-ai-models/) (Inc42)
+- Category: generative-ai
+- What it does: Develops and offers indigenous large language models for businesses and developers, focusing on Indian languages and data.
+- Likely revenue model: Charges API usage fees and enterprise subscription licenses for access to its LLMs.
+- India equivalent: none found
+- India fit note: Success depends on high‑performance compute infrastructure and enterprise willingness to adopt locally‑trained models, which may be limited by cloud costs and data privacy concerns in India.
+- Badge guess: black
+

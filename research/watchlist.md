@@ -2642,3 +2642,12 @@
 | FestiveBox | sustainable-gifting | black | 2026-11-03 | none found |
 | Bliss | healthy-snacks | orange | 2026-11-03 | The Whole Truth |
 | Lipstick King AI Tokens | ai-token | black | 2026-11-03 | none found |
+| Stringman | robotics | orange | 2026-11-03 | Robocraze |
+| HackerChurn | subscription-management | black | 2026-11-03 | none found |
+| Tiny Basic for Arduino | embedded-dev | black | 2026-11-03 | none found |
+| Namespace | cloud-mac | black | 2026-11-03 | none found |
+| Jivx | language-learning | black | 2026-11-03 | none found |
+| SSD Enclosure | storage-accessories | orange | 2026-11-03 | iBall |
+| CamDetect | privacy-tech | black | 2026-11-03 | none found |
+| Peak Design | photo-accessories | orange | 2026-11-03 | Portronics |
+| Soket Labs | generative-ai | black | 2026-11-03 | none found |
