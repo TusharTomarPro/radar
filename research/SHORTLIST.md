@@ -1,7 +1,7 @@
 # Top 20 Shortlist
-_Generated 2026-11-03 08:47 UTC -- auto-updated after every deep-research pass._
+_Generated 2026-11-04 08:16 UTC -- auto-updated after every deep-research pass._
 
-Ranked by risk score (lower = more promising) out of 620 companies deep-researched so far, 2581 tracked total.
+Ranked by risk score (lower = more promising) out of 630 companies deep-researched so far, 2631 tracked total.
 
 ---
 
@@ -113,7 +113,25 @@ Ranked by risk score (lower = more promising) out of 620 companies deep-research
 
 ---
 
-## 7. Tweet.app -- LOW RISK (3/10)
+## 7. RepoRoad -- LOW RISK (2/10)
+
+**Category:** code-visualization  
+**Badge:** black  
+**Competitor status:** no-real-competitor-found  
+**Regulatory:** none  
+**Capital intensity:** low — pure software, browser-extension distribution, zero inventory or regulated services; can reach profitability on modest capital.  
+**Known numbers:** 300K+ Chrome extension users cited in search snippet; no public revenue, valuation, or funding figures found for RepoRoad.  
+**India cost estimate:** ₹8-15 lakh for an MVP (2-3 devs for 4-6 months, cloud/API costs, Chrome Web Store fees) — no paid marketing needed initially.  
+
+**AI reasoning:** Search evidence confirms no direct Indian competitors in code-visualization, zero regulatory barriers for a GitHub repo visualizer, and a low-capital browser-extension model with 300K+ existing plugin users proving demand. The main risk is whether the novelty sustains engagement long enough to monetize, but the downside is bounded by the low build cost.
+
+**Your notes:** _(none added yet -- click through from the dashboard to add your take)_
+
+[Full research file](companies/reporoad/2026-09-18-research.md) -- [Add notes](companies/reporoad/your-notes.md)
+
+---
+
+## 8. Tweet.app -- LOW RISK (3/10)
 
 **Category:** microblogging  
 **Badge:** black  
@@ -131,7 +149,7 @@ Ranked by risk score (lower = more promising) out of 620 companies deep-research
 
 ---
 
-## 8. Snitch -- LOW RISK (3/10)
+## 9. Snitch -- LOW RISK (3/10)
 
 **Category:** hr-tech  
 **Badge:** black  
@@ -149,7 +167,7 @@ Ranked by risk score (lower = more promising) out of 620 companies deep-research
 
 ---
 
-## 9. Sidebranch -- LOW RISK (3/10)
+## 10. Sidebranch -- LOW RISK (3/10)
 
 **Category:** dev-tools  
 **Badge:** black  
@@ -167,7 +185,7 @@ Ranked by risk score (lower = more promising) out of 620 companies deep-research
 
 ---
 
-## 10. cmmnts -- LOW RISK (3/10)
+## 11. cmmnts -- LOW RISK (3/10)
 
 **Category:** comment-platform  
 **Badge:** black  
@@ -185,7 +203,7 @@ Ranked by risk score (lower = more promising) out of 620 companies deep-research
 
 ---
 
-## 11. Grove -- LOW RISK (3/10)
+## 12. Grove -- LOW RISK (3/10)
 
 **Category:** developer-tools  
 **Badge:** black  
@@ -203,7 +221,7 @@ Ranked by risk score (lower = more promising) out of 620 companies deep-research
 
 ---
 
-## 12. Thaw -- LOW RISK (3/10)
+## 13. Thaw -- LOW RISK (3/10)
 
 **Category:** productivity  
 **Badge:** black  
@@ -221,7 +239,7 @@ Ranked by risk score (lower = more promising) out of 620 companies deep-research
 
 ---
 
-## 13. Roadie -- LOW RISK (3/10)
+## 14. Roadie -- LOW RISK (3/10)
 
 **Category:** audio-utility  
 **Badge:** black  
@@ -239,7 +257,7 @@ Ranked by risk score (lower = more promising) out of 620 companies deep-research
 
 ---
 
-## 14. BrickForgerAI -- LOW RISK (3/10)
+## 15. BrickForgerAI -- LOW RISK (3/10)
 
 **Category:** generative-ai  
 **Badge:** black  
@@ -257,7 +275,7 @@ Ranked by risk score (lower = more promising) out of 620 companies deep-research
 
 ---
 
-## 15. at8pm -- LOW RISK (3/10)
+## 16. at8pm -- LOW RISK (3/10)
 
 **Category:** journaling  
 **Badge:** black  
@@ -275,7 +293,7 @@ Ranked by risk score (lower = more promising) out of 620 companies deep-research
 
 ---
 
-## 16. Ponytail -- LOW RISK (3/10)
+## 17. Ponytail -- LOW RISK (3/10)
 
 **Category:** low-code  
 **Badge:** black  
@@ -293,7 +311,7 @@ Ranked by risk score (lower = more promising) out of 620 companies deep-research
 
 ---
 
-## 17. Userlens -- LOW RISK (3/10)
+## 18. Userlens -- LOW RISK (3/10)
 
 **Category:** ai-agent  
 **Badge:** black  
@@ -311,7 +329,7 @@ Ranked by risk score (lower = more promising) out of 620 companies deep-research
 
 ---
 
-## 18. Remote Work as a Worm -- LOW RISK (3/10)
+## 19. Remote Work as a Worm -- LOW RISK (3/10)
 
 **Category:** indie-game  
 **Badge:** black  
@@ -329,7 +347,7 @@ Ranked by risk score (lower = more promising) out of 620 companies deep-research
 
 ---
 
-## 19. Niyo -- LOW RISK (3/10)
+## 20. Niyo -- LOW RISK (3/10)
 
 **Category:** travel-fintech  
 **Badge:** black  
@@ -344,23 +362,5 @@ Ranked by risk score (lower = more promising) out of 620 companies deep-research
 **Your notes:** _(none added yet -- click through from the dashboard to add your take)_
 
 [Full research file](companies/niyo/2026-09-05-research.md) -- [Add notes](companies/niyo/your-notes.md)
-
----
-
-## 20. Entrackr -- LOW RISK (3/10)
-
-**Category:** media-analytics  
-**Badge:** black  
-**Competitor status:** no-real-competitor-found  
-**Regulatory:** moderate – Indian Personal Data Protection Bill (PDPB) and data‑localisation rules require user‑level data to be stored and processed within India, adding compliance overhead.  
-**Capital intensity:** low – Entrackr is a SaaS‑only product with no physical inventory or delivery fleet, so it can be built asset‑light and reach profitability on modest capital.  
-**Known numbers:** $1.5 B valuation (2026) and projected 10 million monthly active users (2026). No public revenue or funding figures were found.  
-**India cost estimate:** ₹80‑120 lakh for the first 6‑12 months (cloud & API usage ~₹10‑15 lakh, 3‑4 engineers @ ₹15‑20 lakh each, product manager @ ₹20 lakh, minimal ops & legal ~₹10 lakh).  
-
-**AI reasoning:** The market shows no direct competitor, which is a strength, and the business is asset‑light, keeping capital needs low. The main concern is moderate regulatory risk around data localisation under the PDPB, but overall the entry barriers are modest, leading to a relatively low risk rating.
-
-**Your notes:** _(none added yet -- click through from the dashboard to add your take)_
-
-[Full research file](companies/entrackr/2026-09-05-research.md) -- [Add notes](companies/entrackr/your-notes.md)
 
 ---
