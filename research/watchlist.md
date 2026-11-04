@@ -2652,3 +2652,37 @@
 | Peak Design | photo-accessories | orange | 2026-11-03 | Portronics |
 | Soket Labs | generative-ai | black | 2026-11-03 | none found |
 | Kairos | fraud-tech | orange | 2026-11-04 | Razorpay Radar |
+| kosa8 | ai-security | black | 2026-11-04 | none found |
+| Country Filter for X | social-media | black | 2026-11-04 | none found |
+| Eyecon | video-tech | black | 2026-11-04 | none found |
+| Rungle | fitness-content | black | 2026-11-04 | none found |
+| Render | cloud-compute | black | 2026-11-04 | none found |
+| Hira | career-tech | black | 2026-11-04 | none found |
+| KREV AI | ecommerce-ai | black | 2026-11-04 | none found |
+| Orphex | martech | orange | 2026-11-04 | Zoho MarketingHub |
+| Mellow Kids | parenting-tech | orange | 2026-11-04 | Moms360 |
+| Chorus Weather | weather-tech | orange | 2026-11-04 | Skymet Weather |
+| Sendu | file-sharing | black | 2026-11-04 | none found |
+| QualityLayer | ai-devtools | black | 2026-11-04 | none found |
+| TellPip | ai-assistant | orange | 2026-11-04 | Vymo |
+| fileForensics | AI-security | black | 2026-11-04 | none found |
+| Prelulu | roleplay-platform | black | 2026-11-04 | none found |
+| Wanaka Studio | ai-game | black | 2026-11-04 | none found |
+| Resum | conversation-api | orange | 2026-11-04 | Gupshup |
+| LiveReacting | ai-streaming | black | 2026-11-04 | none found |
+| OpenMail | ai-agent | black | 2026-11-04 | none found |
+| Deployed Yet? | devops | black | 2026-11-04 | none found |
+| Datashake | ai-assistant | black | 2026-11-04 | none found |
+| Dessn | design-tool | orange | 2026-11-04 | Zoho Creator |
+| OpusClip | ai-video | orange | 2026-11-04 | InVideo |
+| CardPointers | fintech | orange | 2026-11-04 | CashKaro |
+| Freeport Markets | crypto-analytics | black | 2026-11-04 | none found |
+| Hashference | distributed-compute | black | 2026-11-04 | none found |
+| PasteGuard | privacy-tech | black | 2026-11-04 | none found |
+| Sonari | music-tech | black | 2026-11-04 | none found |
+| TrackEdge | ai-assistant | black | 2026-11-04 | none found |
+| Virelo | media-streaming | orange | 2026-11-04 | VdoCipher |
+| Kitty | dev-tools | black | 2026-11-04 | none found |
+| ArrowQuery | data-ops | black | 2026-11-04 | none found |
+| OneStack | fintech-infra | orange | 2026-11-04 | TransBnk |
+| The Plan Beyond | family-finance | black | 2026-11-04 | none found |
