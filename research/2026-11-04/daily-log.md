@@ -313,3 +313,93 @@
 - India fit note: Success depends on high digital literacy across multiple generations and a cultural shift toward openly sharing personal financial information within families, which is still limited in many Indian households.
 - Badge guess: black
 
+## benchfmt.rs
+- Source article: [Benchfmt.rs: Bringing Go's benchmarking and benchstat workflow to Rust](https://www.bwplotka.dev/2026/rust-microbenchmarks-benchstat/) (Hacker News (front page))
+- Category: dev-tools
+- What it does: Provides a Rust library and CLI that replicates Go's benchfmt and benchstat workflow for benchmarking Rust code, enabling easy collection, formatting, and statistical analysis of microbenchmarks.
+- Likely revenue model: Open‑source project funded through sponsorships, paid support contracts, or consulting services.
+- India equivalent: none found
+- India fit note: Success depends on widespread Rust adoption and a culture of rigorous microbenchmarking in Indian engineering teams, which is still niche, and on CI/CD pipelines that support Rust tooling.
+- Badge guess: black
+
+## Kino
+- Source article: [Launch HN: Kino AI (YC S23) – AI media manager and video editor](https://news.ycombinator.com/item?id=50368804) (Hacker News (front page))
+- Category: ai-video
+- What it does: Kino provides a collaborative, code‑first video editing platform where humans and AI agents can edit, add motion graphics, and review footage together in real time.
+- Likely revenue model: Subscription per editor (e.g., $25 per month for the Pro tier) with additional charges for higher AI tool usage.
+- India equivalent: none found
+- India fit note: The service assumes high‑speed broadband for uploading massive ProRes/BRAW files and a developer‑centric workflow, which may be challenging for many Indian creators who lack such connectivity and coding expertise. Adoption may also be limited by data‑privacy concerns around cloud‑based AI agents.
+- Badge guess: black
+
+## Moonshot AI
+- Source article: [Kimi K3.1 Pro model weights are out](https://huggingface.co/moonshotai/Kimi-K3.1-Pro) (Hacker News (front page))
+- Category: large-language-model
+- What it does: Moonshot AI released the Kimi K3.1 Pro, a high‑capacity LLM for text generation, chat, and code assistance. The model weights are publicly available for developers to fine‑tune or run inference.
+- Likely revenue model: They likely monetize via paid API access, enterprise licensing, and premium support for the model.
+- India equivalent: none found
+- India fit note: India has emerging LLM startups but limited large‑scale, high‑parameter models comparable to Kimi; adoption depends on robust cloud compute and data‑center bandwidth that are still maturing in many regions.
+- Badge guess: black
+
+## PC Price Grader
+- Source article: [Show HN: I built a tool that prices a prebuilt PC part by part](https://pcdealcheck.com/) (Hacker News (front page))
+- Category: pc-pricing
+- What it does: The tool lets users paste a pre‑built PC listing and returns a value grade, component‑level price estimates and a shareable report, using AI to read the listing and a daily‑updated pricing engine for scoring.
+- Likely revenue model: Likely a freemium model where basic valuations are free and advanced reports or API access are sold via subscription or per‑report fees.
+- India equivalent: none found
+- India fit note: The service relies on granular, up‑to‑date component price data and a strong resale market for pre‑built PCs, which are less standardized in India and may lack the same data feeds, limiting immediate adoption.
+- Badge guess: black
+
+## Evergreen
+- Source article: [Evergreen: A Provably Safe Systems Language](https://evergreenlang.net) (Hacker News (front page))
+- Category: systems-language
+- What it does: Evergreen is a low‑level programming language that provides provably safe memory and concurrency guarantees through formal verification. It targets systems software where bugs can be catastrophic.
+- Likely revenue model: Open‑source core with paid enterprise support, verification consulting, and licensing for proprietary extensions.
+- India equivalent: none found
+- India fit note: Adoption relies on a deep pool of formal methods expertise and tooling integration with existing C/C++ ecosystems, which are still limited in India. Without strong academic‑industry collaboration, uptake may be slow.
+- Badge guess: black
+
+## Mocktastic
+- Source article: [Mocktastic: A Meshtastic Node on Arduino](https://github.com/Vapmuz/Mocktastic) (Hacker News (front page))
+- Category: mesh-iot
+- What it does: Implements the Meshtastic mesh networking protocol on Arduino hardware, providing low‑power, off‑grid communication between devices.
+- Likely revenue model: Primarily open‑source; any revenue would likely come from selling Arduino‑compatible hardware kits or licensing the firmware.
+- India equivalent: none found
+- India fit note: The product depends on a hobbyist ecosystem and easy access to LoRa radio modules; while hardware is available in India, the community size and regulatory clearance for LoRa frequencies could limit rapid adoption.
+- Badge guess: black
+
+## EbikeCompliance
+- Source article: [New Jersey’s New Ebike Law Is Causing Chaos](https://www.wired.com/story/new-jerseys-new-ebike-law-is-causing-chaos/) (Wired)
+- Category: mobility compliance
+- What it does: Provides a digital platform that streamlines the process of obtaining the required New Jersey ebike license and mandatory insurance in a single transaction.
+- Likely revenue model: Charges a transaction fee or subscription for each completed license and insurance package.
+- India equivalent: none found
+- India fit note: India does not require a separate license or mandatory insurance for electric bikes, so the core value proposition would not translate without a regulatory change.
+- Badge guess: black
+
+## Frammer AI
+- Source article: [Frammer AI partners with Collective Newsroom to power BBC News video in India](https://yourstory.com/2026/11/frammer-ai-partners-collective-newsroom-bbc-video-india) (YourStory)
+- Category: ai-media
+- What it does: Frammer AI provides AI‑driven video workflow automation, including automatic repurposing and editing of news footage for broadcasters.
+- Likely revenue model: It likely sells a SaaS subscription or usage‑based licensing model to media organisations and newsrooms.
+- India equivalent: InVideo
+- India fit note: The solution relies on AI models and high‑speed internet for rapid video processing, which are available in Indian newsrooms, but widespread adoption may be limited by existing legacy workflows and budget constraints.
+- Badge guess: orange
+
+## Sarva Suvidhaen
+- Source article: [Sarva Suvidhaen: Bihar Startup Is Using AI and IoT to Make Indian Railways Smarter](https://yourstory.com/2026/10/sarva-suvidhaen-startup) (YourStory)
+- Category: rail-tech
+- What it does: Deploys AI algorithms and IoT sensors across railway assets to monitor equipment health, predict failures, and optimise train scheduling for higher operational efficiency.
+- Likely revenue model: Sells a subscription‑based SaaS platform and hardware‑as‑a‑service to Indian Railways and allied logistics firms, possibly with performance‑based fees.
+- India equivalent: none found
+- India fit note: The model relies on extensive sensor networks and reliable broadband connectivity on tracks, which are still unevenly deployed in many remote Indian routes, and requires close coordination with a highly regulated, bureaucratic railway system.
+- Badge guess: black
+
+## Cert-In
+- Source article: [Cert-In calls for AI security audits, six-hour incident reporting by firms](https://www.business-standard.com/technology/artificial-intelligence/cert-in-calls-for-ai-security-audits-six-hour-incident-reporting-by-firms-126110401936_1.html) (Business Standard Tech)
+- Category: ai-security
+- What it does: Issues mandatory guidelines for enterprise AI security audits, incident reporting within six hours, continuous monitoring and log retention.
+- Likely revenue model: Funded by the Indian government as a regulatory body, not a profit‑making enterprise.
+- India equivalent: none found
+- India fit note: Implementation relies on existing regulatory infrastructure and enterprise compliance culture, which may be less mature in many Indian firms, especially SMEs.
+- Badge guess: black
+

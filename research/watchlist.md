@@ -2686,3 +2686,13 @@
 | ArrowQuery | data-ops | black | 2026-11-04 | none found |
 | OneStack | fintech-infra | orange | 2026-11-04 | TransBnk |
 | The Plan Beyond | family-finance | black | 2026-11-04 | none found |
+| benchfmt.rs | dev-tools | black | 2026-11-04 | none found |
+| Kino | ai-video | black | 2026-11-04 | none found |
+| Moonshot AI | large-language-model | black | 2026-11-04 | none found |
+| PC Price Grader | pc-pricing | black | 2026-11-04 | none found |
+| Evergreen | systems-language | black | 2026-11-04 | none found |
+| Mocktastic | mesh-iot | black | 2026-11-04 | none found |
+| EbikeCompliance | mobility compliance | black | 2026-11-04 | none found |
+| Frammer AI | ai-media | orange | 2026-11-04 | InVideo |
+| Sarva Suvidhaen | rail-tech | black | 2026-11-04 | none found |
+| Cert-In | ai-security | black | 2026-11-04 | none found |
