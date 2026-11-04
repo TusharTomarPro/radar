@@ -2651,3 +2651,4 @@
 | CamDetect | privacy-tech | black | 2026-11-03 | none found |
 | Peak Design | photo-accessories | orange | 2026-11-03 | Portronics |
 | Soket Labs | generative-ai | black | 2026-11-03 | none found |
+| Kairos | fraud-tech | orange | 2026-11-04 | Razorpay Radar |
