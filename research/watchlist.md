@@ -2700,3 +2700,42 @@
 | Butter | phone-grip | orange | 2026-11-05 | MobiGrip |
 | Gauge | ai-devtools | black | 2026-11-05 | none found |
 | WCMulti | retro-gaming | black | 2026-11-05 | none found |
+| Anthropic | ai-finance | black | 2026-11-05 | none found |
+| Living Brain | ai-infra | black | 2026-11-05 | none found |
+| Seamcult | prompt-tool | black | 2026-11-05 | none found |
+| Glasshand | ai-agent | black | 2026-11-05 | none found |
+| Stitch.ai | ai-assistant | black | 2026-11-05 | none found |
+| SafetyClip | clipboard-manager | black | 2026-11-05 | none found |
+| SnapTiles | creative-tools | orange | 2026-11-05 | PlayShifu |
+| CC Auto Review | ai-code | black | 2026-11-05 | none found |
+| Easy-Peasy.AI | ai-agent | black | 2026-11-05 | none found |
+| DearCameo | memorial-tech | orange | 2026-11-05 | Memento |
+| Maritime | ai-infrastructure | black | 2026-11-05 | none found |
+| Bridge | video-conferencing | orange | 2026-11-05 | Zoom |
+| Zerg | dev-tools | black | 2026-11-05 | none found |
+| Clocknext | billing-platform | orange | 2026-11-05 | Zoho Subscriptions |
+| Backlane | ai-marketplace | orange | 2026-11-05 | Unicommerce |
+| TextKit | sms-api | orange | 2026-11-05 | MSG91 |
+| ChatNest | ai-productivity | black | 2026-11-05 | none found |
+| FounderMail | email-hosting | orange | 2026-11-05 | Zoho Mail |
+| Wingmen | sales-automation | orange | 2026-11-05 | LeadSquared |
+| Scrollsnacks | video-tool | orange | 2026-11-05 | Veed.io |
+| Keel | dev-tools | black | 2026-11-05 | none found |
+| MCPCore | no-code | black | 2026-11-05 | none found |
+| Pinku | ai-chatbot | black | 2026-11-05 | none found |
+| Paws | pet-social | black | 2026-11-05 | none found |
+| Vibeconferencing | ai-assistant | black | 2026-11-05 | none found |
+| Rerun | ai-management | black | 2026-11-05 | none found |
+| Tao Browser | enterprise-browser | black | 2026-11-05 | none found |
+| Okapi | ai-devops | black | 2026-11-05 | none found |
+| Nock | desktop-utility | black | 2026-11-05 | none found |
+| Rainbrand | branding | black | 2026-11-05 | none found |
+| Cosyra | remote-management | orange | 2026-11-05 | Zoho Assist |
+| Stroq | ai-devtools | black | 2026-11-05 | none found |
+| Nordstjernen | minimal-browser | black | 2026-11-05 | none found |
+| Potential Sciences | ai-drugdiscovery | black | 2026-11-05 | none found |
+| Wild Dolphin Project | marine-ai | black | 2026-11-05 | none found |
+| Siggy | mental-health | orange | 2026-11-05 | YourDOST |
+| Sarvam Prism | decision-ai | orange | 2026-11-05 | Fractal Analytics |
+| Zoho | restaurant-pos | orange | 2026-11-05 | Posist |
+| Bariflo | wastewater-tech | orange | 2026-11-05 | Swaniti |
