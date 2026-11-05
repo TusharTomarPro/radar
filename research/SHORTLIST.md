@@ -1,7 +1,7 @@
 # Top 20 Shortlist
-_Generated 2026-11-04 08:16 UTC -- auto-updated after every deep-research pass._
+_Generated 2026-11-05 08:42 UTC -- auto-updated after every deep-research pass._
 
-Ranked by risk score (lower = more promising) out of 630 companies deep-researched so far, 2631 tracked total.
+Ranked by risk score (lower = more promising) out of 640 companies deep-researched so far, 2679 tracked total.
 
 ---
 
