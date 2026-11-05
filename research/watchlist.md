@@ -2696,3 +2696,7 @@
 | Frammer AI | ai-media | orange | 2026-11-04 | InVideo |
 | Sarva Suvidhaen | rail-tech | black | 2026-11-04 | none found |
 | Cert-In | ai-security | black | 2026-11-04 | none found |
+| Conductor | ai-agent | black | 2026-11-05 | none found |
+| Butter | phone-grip | orange | 2026-11-05 | MobiGrip |
+| Gauge | ai-devtools | black | 2026-11-05 | none found |
+| WCMulti | retro-gaming | black | 2026-11-05 | none found |
