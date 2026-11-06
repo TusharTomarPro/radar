@@ -2743,3 +2743,51 @@
 | Inkling | home-robot | black | 2026-11-06 | none found |
 | Hackintosh Reborn | ai-os | black | 2026-11-06 | none found |
 | WebbOptics | space-tech | black | 2026-11-06 | none found |
+| PostMyPace | fitness-content | black | 2026-11-06 | none found |
+| Chalk | edtech | orange | 2026-11-06 | Unacademy |
+| crystl | ai-devtools | black | 2026-11-06 | none found |
+| Koltrix | email-automation | orange | 2026-11-06 | Zoho Mail |
+| Mmory | voice-memo | black | 2026-11-06 | none found |
+| Thunderduck | data-warehouse | orange | 2026-11-06 | DataStack |
+| LiveShortly | ai-devtools | black | 2026-11-06 | none found |
+| Datastripes | data-visualization | black | 2026-11-06 | none found |
+| Cloptima | llm-ops | black | 2026-11-06 | none found |
+| Openroster | open-source | black | 2026-11-06 | none found |
+| Translucent AI | hardware-devops | black | 2026-11-06 | none found |
+| EdgeBar | mac-utility | black | 2026-11-06 | none found |
+| Native Tasks for Obsidian | task-manager | black | 2026-11-06 | none found |
+| Rankfender | seo-tech | orange | 2026-11-06 | RankWatch |
+| Pressure | ai-agent | black | 2026-11-06 | none found |
+| refern | design-tools | black | 2026-11-06 | none found |
+| pwned.coffee | security | black | 2026-11-06 | none found |
+| Kivo | voice-assistant | black | 2026-11-06 | none found |
+| Meshia | ai-research | black | 2026-11-06 | none found |
+| SafeGrd | data-backup | black | 2026-11-06 | none found |
+| Earth Stats | data-visualization | black | 2026-11-06 | none found |
+| Codiclens | ai-assistant | black | 2026-11-06 | none found |
+| Moatly | product-intelligence | black | 2026-11-06 | none found |
+| Letterpress-1 | growth-automation | black | 2026-11-06 | none found |
+| OrgSync | knowledge-management | black | 2026-11-06 | none found |
+| Wisp | ai-assistant | black | 2026-11-06 | none found |
+| Shipnoted | dev-tools | orange | 2026-11-06 | Zoho Sprints |
+| Plainmail | email-hosting | orange | 2026-11-06 | Zoho Mail |
+| SupplyzPro | ai-erp | orange | 2026-11-06 | Ramco Systems |
+| Axel | ai-agent | black | 2026-11-06 | none found |
+| Chronos DB | vector-db | black | 2026-11-06 | none found |
+| Mechvibes | keyboard-audio | black | 2026-11-06 | none found |
+| AgentTM | ai-devtools | black | 2026-11-06 | none found |
+| Alysis | ai-agent | black | 2026-11-06 | none found |
+| Pauta | conversation-archive | black | 2026-11-06 | none found |
+| Wonder | ai-agent | black | 2026-11-06 | none found |
+| BuildFerry | beta-distribution | black | 2026-11-06 | none found |
+| MacDupl | app-management | black | 2026-11-06 | none found |
+| Enhanced for Todoist | productivity-tool | black | 2026-11-06 | none found |
+| OpenVisio | ai-dev | black | 2026-11-06 | none found |
+| Kodivo | edtech | orange | 2026-11-06 | Coding Ninjas |
+| Tobira AI | ai-agent | black | 2026-11-06 | none found |
+| Textwhisk | productivity | black | 2026-11-06 | none found |
+| Royak | ai-agent | black | 2026-11-06 | none found |
+| Living Maps | geo-data | orange | 2026-11-06 | MapmyIndia |
+| World Strike | multiplayer-game | black | 2026-11-06 | none found |
+| pwn.college | cybersecurity-education | black | 2026-11-06 | none found |
+| Sankalp | startup-accelerator | orange | 2026-11-06 | Axilor Ventures |
