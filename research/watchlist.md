@@ -2739,3 +2739,7 @@
 | Sarvam Prism | decision-ai | orange | 2026-11-05 | Fractal Analytics |
 | Zoho | restaurant-pos | orange | 2026-11-05 | Posist |
 | Bariflo | wastewater-tech | orange | 2026-11-05 | Swaniti |
+| Letterboxd | film-social | orange | 2026-11-06 | Moviebuff |
+| Inkling | home-robot | black | 2026-11-06 | none found |
+| Hackintosh Reborn | ai-os | black | 2026-11-06 | none found |
+| WebbOptics | space-tech | black | 2026-11-06 | none found |
