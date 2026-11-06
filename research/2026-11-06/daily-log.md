@@ -466,3 +466,120 @@
 - India fit note: The model relies on a robust mentorship network and ready access to seed capital, which exist in India but are uneven across regions; cultural acceptance of equity‑for‑services is growing but still limited outside major hubs.
 - Badge guess: orange
 
+## Physicl
+- Source article: [Physicl raises $10M to make the digital world real enough for robots](https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/) (TechCrunch)
+- Category: robotics
+- What it does: Physicl provides a pipeline that bridges the simulation-to-reality gap for robots, turning digital models into real-world deployable behaviors using an e‑commerce‑style workflow.
+- Likely revenue model: They likely charge robot developers and manufacturers subscription or usage fees for access to their simulation platform and data pipelines.
+- India equivalent: none found
+- India fit note: The solution relies on extensive high‑fidelity simulation infrastructure, large cloud compute resources, and a mature robotics ecosystem, which are still emerging in India and may limit immediate adoption.
+- Badge guess: black
+
+## Cursor Craft
+- Source article: [Cursor Craft](https://www.producthunt.com/products/cursor-craft) (Product Hunt)
+- Category: design-tools
+- What it does: Cursor Craft offers a library of custom mouse cursors that macOS users can install to personalize their desktop experience.
+- Likely revenue model: It likely uses a freemium model, offering free basic cursors and selling premium cursor packs or a subscription for unlimited access.
+- India equivalent: none found
+- India fit note: The product relies on a sizable macOS user base and a cultural appetite for desktop personalization, both of which are limited in India where Windows dominates and macOS adoption is low.
+- Badge guess: black
+
+## Releasebeam
+- Source article: [Releasebeam](https://www.producthunt.com/products/releasebeam) (Product Hunt)
+- Category: devops
+- What it does: Releasebeam provides a platform for developers to automate, coordinate, and monitor software releases across environments. It streamlines CI/CD pipelines, rollbacks, and release visibility.
+- Likely revenue model: Subscription‑based SaaS pricing tiered by number of users, deployments, or features.
+- India equivalent: none found
+- India fit note: Successful adoption requires a mature DevOps culture, consistent CI/CD tooling, and reliable cloud infrastructure, which are still emerging in many Indian startups and mid‑size firms.
+- Badge guess: black
+
+## Vakilat
+- Source article: [Vakilat](https://www.producthunt.com/products/vakilat) (Product Hunt)
+- Category: legal-tech
+- What it does: Vakilat offers an AI‑powered legal research platform tailored for Indian lawyers, promising answers with zero hallucinations.
+- Likely revenue model: Subscription‑based SaaS licensing to law firms or individual lawyers, possibly with tiered plans based on query volume.
+- India equivalent: none found
+- India fit note: Success depends on widespread adoption of AI tools by Indian lawyers and the availability of a comprehensive, up‑to‑date Indian legal corpus, which are still emerging.
+- Badge guess: black
+
+## AudioCentral
+- Source article: [AudioCentral](https://www.producthunt.com/products/audiocentral) (Product Hunt)
+- Category: audio-management
+- What it does: AudioCentral adds a menu‑bar control on macOS that lets users adjust volume and switch audio output/input per individual application.
+- Likely revenue model: It likely follows a freemium or one‑time purchase model via the Mac App Store or direct licensing.
+- India equivalent: none found
+- India fit note: The product relies on widespread macOS usage and familiarity with menu‑bar utilities, both of which are limited in India where Windows dominates the desktop market.
+- Badge guess: black
+
+## TraceX
+- Source article: [TraceX](https://www.producthunt.com/products/tracex) (Product Hunt)
+- Category: ai-ops
+- What it does: TraceX uses generative AI to analyze logs, metrics, and traces, automatically diagnosing production incidents and suggesting remediation steps. It acts as a virtual engineer that helps dev and ops teams resolve issues faster.
+- Likely revenue model: Subscription‑based SaaS pricing tiered by number of monitored services or volume of data processed.
+- India equivalent: none found
+- India fit note: The product relies on mature CI/CD pipelines, extensive telemetry collection, and a culture of rapid incident response, which are still emerging in many Indian enterprises, especially SMEs.
+- Badge guess: black
+
+## Wonder Dev View
+- Source article: [Wonder Dev View](https://www.producthunt.com/products/wonder-dev-view) (Product Hunt)
+- Category: ai-coding
+- What it does: Provides a platform where developers can launch multiple Claude Code and Codex agents in parallel to generate, test, and refactor code snippets simultaneously.
+- Likely revenue model: Subscription‑based SaaS with tiered pricing based on the number of concurrent agents or API usage.
+- India equivalent: none found
+- India fit note: The product relies on high‑speed internet and access to expensive Anthropic and OpenAI APIs, which may limit adoption in India where bandwidth and API costs are higher for many developers.
+- Badge guess: black
+
+## Size-It-Up
+- Source article: [Size-It-Up (Game)](https://magnitudle.com/size-it-up) (Hacker News (front page))
+- Category: casual-game
+- What it does: Size-It-Up is a web‑based game that challenges players to guess the physical dimensions of everyday objects or scenes, scoring points based on accuracy.
+- Likely revenue model: The game likely monetises through display ads and optional in‑app purchases for hints or cosmetic upgrades.
+- India equivalent: none found
+- India fit note: The game relies on high‑speed mobile data and a habit of short, ad‑supported gaming sessions, which are common in India, but limited broadband penetration in rural areas could affect reach.
+- Badge guess: black
+
+## Flawless
+- Source article: [Flawless UI-UX Skill 1.0.0](https://github.com/smokeeaasd/flawless-ui-ux/releases/tag/v1.0.0) (Hacker News (front page))
+- Category: ai-design
+- What it does: Flawless offers an AI‑powered skill that automatically generates UI/UX mockups and design assets from textual prompts. It aims to streamline the early design phase for developers and product teams.
+- Likely revenue model: A subscription‑based SaaS model with tiered plans for individuals, teams, and enterprises, possibly supplemented by a paid API for integration.
+- India equivalent: none found
+- India fit note: The product relies on high‑speed internet and a design‑savvy user base that trusts AI‑generated visuals, which may be slower to adopt in India where manual design workflows and cost‑sensitivity dominate.
+- Badge guess: black
+
+## Devvm
+- Source article: [Devvm.dev: One VM for every project](https://devvm.dev/) (Hacker News (front page))
+- Category: devops
+- What it does: Provides on-demand, isolated virtual machines tailored for each software development project, with pre‑installed tooling and instant spin‑up.
+- Likely revenue model: Charges developers or teams a subscription or usage‑based fee per VM instance (e.g., per hour or per seat).
+- India equivalent: none found
+- India fit note: The model relies on consistently high‑speed internet and low‑latency cloud connectivity, which can be spotty in many Indian regions, and price sensitivity may limit adoption without localized pricing.
+- Badge guess: black
+
+## AegisKernel
+- Source article: [Show HN: AegisKernel – Zero-trust POSIX runtime for AI agents in <0.016ms](https://adikshatriyag-crypto.github.io/aegis-kernel/) (Hacker News (front page))
+- Category: ai-infrastructure
+- What it does: AegisKernel is a zero‑trust POSIX runtime that lets AI agents execute code in under 0.016 ms, providing a secure, ultra‑low‑latency sandbox for model orchestration.
+- Likely revenue model: Probably a freemium/open‑source core with paid enterprise licenses, support, and managed‑service offerings for large AI platforms.
+- India equivalent: none found
+- India fit note: The product relies on ultra‑low‑latency hardware and a mature zero‑trust security stack that are not yet common in Indian data‑center ecosystems, limiting immediate adoption.
+- Badge guess: black
+
+## PyLings
+- Source article: [PyLings: Solve Exercises and Learn Python](https://github.com/thesayfulla/pylings) (Hacker News (front page))
+- Category: edtech
+- What it does: Provides an interactive web app where users solve Python exercises and receive instant feedback to learn the language.
+- Likely revenue model: Operates a freemium model with paid premium problem sets, certifications, or enterprise licensing for schools and companies.
+- India equivalent: Guvi
+- India fit note: The service depends on reliable broadband and a self‑directed learning mindset, which are expanding in India but may be constrained in lower‑tier cities with limited connectivity.
+- Badge guess: orange
+
+## BunnyCDN
+- Source article: [Scriptable GeoDNS: Leaving AWS for Bunny](https://vincent.bernat.ch/en/blog/2026-bunny-geodns) (Hacker News (front page))
+- Category: cdn
+- What it does: Bunny offers a scriptable GeoDNS service that routes DNS queries to the nearest edge location based on the requester’s IP, providing a low‑cost alternative to AWS Route 53 for global traffic routing.
+- Likely revenue model: Subscription‑based CDN plans with tiered bandwidth pricing and optional add‑ons for advanced DNS features.
+- India equivalent: Reliance Jio
+- India fit note: India has a growing CDN ecosystem, but scriptable GeoDNS requires widespread edge presence and ISP peering that are still maturing; adoption may be slower outside major metros.
+- Badge guess: orange
+

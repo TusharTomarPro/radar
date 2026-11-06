@@ -2791,3 +2791,16 @@
 | World Strike | multiplayer-game | black | 2026-11-06 | none found |
 | pwn.college | cybersecurity-education | black | 2026-11-06 | none found |
 | Sankalp | startup-accelerator | orange | 2026-11-06 | Axilor Ventures |
+| Physicl | robotics | black | 2026-11-06 | none found |
+| Cursor Craft | design-tools | black | 2026-11-06 | none found |
+| Releasebeam | devops | black | 2026-11-06 | none found |
+| Vakilat | legal-tech | black | 2026-11-06 | none found |
+| AudioCentral | audio-management | black | 2026-11-06 | none found |
+| TraceX | ai-ops | black | 2026-11-06 | none found |
+| Wonder Dev View | ai-coding | black | 2026-11-06 | none found |
+| Size-It-Up | casual-game | black | 2026-11-06 | none found |
+| Flawless | ai-design | black | 2026-11-06 | none found |
+| Devvm | devops | black | 2026-11-06 | none found |
+| AegisKernel | ai-infrastructure | black | 2026-11-06 | none found |
+| PyLings | edtech | orange | 2026-11-06 | Guvi |
+| BunnyCDN | cdn | orange | 2026-11-06 | Reliance Jio |
