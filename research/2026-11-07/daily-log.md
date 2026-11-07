@@ -241,3 +241,57 @@
 - India fit note: The solution relies on stable high‑speed Wi‑Fi and NDI support, which may be less reliable in many Indian households and small venues, limiting adoption.
 - Badge guess: black
 
+## Where Were We
+- Source article: [Show HN: Where Were We](https://wherewerewe.app/) (Hacker News (front page))
+- Category: photo-gaming
+- What it does: Turns uploaded vacation photos into a location‑guessing game that can be shared with friends.
+- Likely revenue model: Likely a freemium model with ads or paid premium features for custom game options.
+- India equivalent: none found
+- India fit note: The service depends on users having GPS‑enabled photos and being comfortable sharing personal images; while smartphone penetration is high in India, privacy concerns and limited appetite for niche web‑based games could hinder adoption.
+- Badge guess: black
+
+## Coldframe
+- Source article: [Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller](https://github.com/hedgerow-dev/coldframe) (Hacker News (front page))
+- Category: iot-security
+- What it does: Coldframe is a honeypot that emulates supermarket refrigeration controllers (Danfoss AK‑SM 800A and Dixell XWEB) to attract and record attacker activity. It mimics real device fingerprints and logs exploit attempts.
+- Likely revenue model: Likely monetized through subscription‑based threat‑intelligence feeds or managed honeypot services for enterprises and security teams.
+- India equivalent: none found
+- India fit note: The product relies on publicly exposed industrial IoT devices and a culture of scanning Shodan; many Indian deployments are behind firewalls or VPNs, limiting the attack surface needed for a honeypot to be effective.
+- Badge guess: black
+
+## MaxxBench
+- Source article: [MaxxBench – "Nice DeepSWE score. But is it true?"](https://maxxbench.unlap.ai/research/why-maxxbench/) (Hacker News (front page))
+- Category: ai-analytics
+- What it does: Provides AI‑driven benchmarking scores (DeepSWE) that evaluate software engineering productivity and code quality across teams and projects.
+- Likely revenue model: Enterprise SaaS subscription with tiered pricing based on number of users and analysis volume.
+- India equivalent: none found
+- India fit note: Success depends on widespread adoption of AI‑based code analytics and mature DevOps pipelines, which are still emerging in many Indian firms, especially SMEs.
+- Badge guess: black
+
+## HyperFlow
+- Source article: [Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8](https://github.com/Video-Rebirth/hyperflow-h3-flash) (Hacker News (front page))
+- Category: generative AI
+- What it does: It compresses a 31‑billion‑parameter video‑plus‑audio diffusion model to 14 B parameters using INT8 quantization and a 6‑step pipeline, enabling faster and cheaper video generation.
+- Likely revenue model: Monetization is likely through a cloud API, enterprise licensing, or custom integration services for the compressed model.
+- India equivalent: none found
+- India fit note: The solution depends on high‑end GPUs, low‑latency networking, and large‑scale cloud infrastructure, which are less prevalent among Indian startups and developers, limiting immediate adoption.
+- Badge guess: black
+
+## Apple (iPod)
+- Source article: [Your old iPod could be a sleeper flash drive](https://www.engadget.com/2306204/old-ipod-sleeper-flash-drive/) (Engadget)
+- Category: consumer-electronics
+- What it does: Provides a method to repurpose legacy iPods as USB flash drives for storing and transferring files.
+- Likely revenue model: Revenue would come from third‑party adapters, software tools, or refurbishment services that enable the flash‑drive functionality.
+- India equivalent: none found
+- India fit note: The concept relies on users having a supply of old iPods and compatible USB adapters, which are scarce in India where iPod penetration is low; thus adoption may be limited.
+- Badge guess: black
+
+## TechPowerUp
+- Source article: [How a bottleneck calculator for your GPU and CPU works](https://www.engadget.com/2306571/how-bottleneck-calculator-works-gpu-cpu/) (Engadget)
+- Category: pc-builder
+- What it does: Provides an online calculator where users input their CPU and GPU models to estimate whether one component will bottleneck the other, helping plan compatible builds or upgrades.
+- Likely revenue model: Free tool monetized through advertising and affiliate links to component retailers.
+- India equivalent: none found
+- India fit note: The tool assumes widespread access to detailed hardware specs and a market of DIY PC builders, which is growing but still niche in India; limited local affiliate partnerships may reduce its effectiveness there.
+- Badge guess: black
+

@@ -2831,3 +2831,9 @@
 | NFSU2.xyz | browser-gaming | black | 2026-11-07 | none found |
 | Google Maps | navigation | black | 2026-11-07 | none found |
 | Streamlabs | live-streaming | black | 2026-11-07 | none found |
+| Where Were We | photo-gaming | black | 2026-11-07 | none found |
+| Coldframe | iot-security | black | 2026-11-07 | none found |
+| MaxxBench | ai-analytics | black | 2026-11-07 | none found |
+| HyperFlow | generative AI | black | 2026-11-07 | none found |
+| Apple (iPod) | consumer-electronics | black | 2026-11-07 | none found |
+| TechPowerUp | pc-builder | black | 2026-11-07 | none found |
