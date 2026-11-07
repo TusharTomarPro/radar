@@ -2827,3 +2827,7 @@
 | Asahi Linux | linux-port | black | 2026-11-07 | none found |
 | VibeCode AI Builder | no-code AI | orange | 2026-11-07 | Builder.ai |
 | USDA AI Crop Data Checker | agri-tech | orange | 2026-11-07 | CropIn |
+| UploadYourRAM | decentralized-compute | black | 2026-11-07 | none found |
+| NFSU2.xyz | browser-gaming | black | 2026-11-07 | none found |
+| Google Maps | navigation | black | 2026-11-07 | none found |
+| Streamlabs | live-streaming | black | 2026-11-07 | none found |

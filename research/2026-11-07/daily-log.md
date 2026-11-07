@@ -205,3 +205,39 @@
 - India fit note: Success would require a unified, digitized crop reporting system and farmer participation, which are still emerging in India.
 - Badge guess: orange
 
+## UploadYourRAM
+- Source article: [Upload Your RAM](https://uploadyourram.org) (Hacker News (front page))
+- Category: decentralized-compute
+- What it does: A marketplace that lets users rent out their idle RAM to developers and AI workloads, turning spare memory into a cloud resource. It aggregates distributed memory to provide low‑latency, high‑throughput compute for demanding applications.
+- Likely revenue model: The platform takes a commission on each RAM rental transaction and may charge subscription fees for premium monitoring and SLA guarantees.
+- India equivalent: none found
+- India fit note: The model relies on widespread high‑speed broadband and a culture of monetising idle hardware, which are still emerging in many Indian households and small businesses. Latency‑sensitive workloads may also be limited by India's internet backbone quality.
+- Badge guess: black
+
+## NFSU2.xyz
+- Source article: [Need for Speed Underground 2 online in the browser](https://nfsu2.xyz/) (Hacker News (front page))
+- Category: browser-gaming
+- What it does: Provides a web‑based version of Need for Speed Underground 2 that runs directly in a browser via emulation/streaming, eliminating the need for a local install.
+- Likely revenue model: Free access supported by advertisements, with a possible premium ad‑free or higher‑performance subscription tier.
+- India equivalent: none found
+- India fit note: The service relies on stable, high‑speed broadband and modern browsers with WebGL/asm.js support, which are unevenly available across India, especially on mobile‑first users, and may face copyright/licensing hurdles.
+- Badge guess: black
+
+## Google Maps
+- Source article: [This GPS navigation app should be the go-to for older drivers](https://www.engadget.com/2305919/gps-navigation-app-go-to-older-drivers-google-maps/) (Engadget)
+- Category: navigation
+- What it does: Offers a simplified turn‑by‑turn navigation mode with larger icons and minimal visual clutter to help older drivers feel more confident on unfamiliar roads.
+- Likely revenue model: Free to users, monetized through Google’s ad platform and data integration across its ecosystem.
+- India equivalent: none found
+- India fit note: Indian seniors may benefit from a simpler UI, but challenges like inconsistent road signage, heavy traffic, and variable internet connectivity could limit adoption.
+- Badge guess: black
+
+## Streamlabs
+- Source article: [How to use your old tablet to build a live streaming setup](https://www.engadget.com/2304970/how-to-build-live-streaming-setup-with-old-tablet/) (Engadget)
+- Category: live-streaming
+- What it does: Provides a mobile app that lets you repurpose an old tablet as a camera, encoder, and control hub for live broadcasts.
+- Likely revenue model: Freemium model – free core app with optional paid subscriptions and in‑app purchases for premium features and branding tools.
+- India equivalent: none found
+- India fit note: The solution relies on stable high‑speed Wi‑Fi and NDI support, which may be less reliable in many Indian households and small venues, limiting adoption.
+- Badge guess: black
+
