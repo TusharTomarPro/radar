@@ -2806,3 +2806,24 @@
 | BunnyCDN | cdn | orange | 2026-11-06 | Reliance Jio |
 | LDraw Mecha | ai-agent | black | 2026-11-07 | none found |
 | halfnarp | event-tech | orange | 2026-11-07 | Eventshala |
+| Sendoff | email-automation | orange | 2026-11-07 | Zoho Campaigns |
+| Deal Pilot | sales-automation | black | 2026-11-07 | none found |
+| Switchy | dev-tools | black | 2026-11-07 | none found |
+| The Writer's Quarter | writing-software | black | 2026-11-07 | none found |
+| Kayet | text-editor | black | 2026-11-07 | none found |
+| Duly | productivity | black | 2026-11-07 | none found |
+| PacerTrip | sports-travel | black | 2026-11-07 | none found |
+| Quest | ai-coach | orange | 2026-11-07 | Wysa |
+| Dino Kids | edtech | orange | 2026-11-07 | BYJU'S Early Learn |
+| Sequence Tool | ai-audio-editing | black | 2026-11-07 | none found |
+| LiveReview | code-review | orange | 2026-11-07 | DeepSource |
+| ClarifierAI | ai-writing | orange | 2026-11-07 | Writesonic |
+| Standflow | wellness-tech | black | 2026-11-07 | none found |
+| Fleeep | notes-app | orange | 2026-11-07 | Zoho Notebook |
+| Seam | macOS-tool | black | 2026-11-07 | none found |
+| Rex | productivity | orange | 2026-11-07 | Zoho One |
+| Capnot | demo-software | black | 2026-11-07 | none found |
+| Bong | search-tool | black | 2026-11-07 | none found |
+| Asahi Linux | linux-port | black | 2026-11-07 | none found |
+| VibeCode AI Builder | no-code AI | orange | 2026-11-07 | Builder.ai |
+| USDA AI Crop Data Checker | agri-tech | orange | 2026-11-07 | CropIn |
