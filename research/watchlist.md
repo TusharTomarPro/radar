@@ -2804,3 +2804,5 @@
 | AegisKernel | ai-infrastructure | black | 2026-11-06 | none found |
 | PyLings | edtech | orange | 2026-11-06 | Guvi |
 | BunnyCDN | cdn | orange | 2026-11-06 | Reliance Jio |
+| LDraw Mecha | ai-agent | black | 2026-11-07 | none found |
+| halfnarp | event-tech | orange | 2026-11-07 | Eventshala |
