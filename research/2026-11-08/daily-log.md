@@ -196,3 +196,21 @@
 - India fit note: Success relies on urban consumers willing to pay a premium for authentic European vegetarian cuisine and on a reliable supply chain for specialty ingredients, which may be limited outside major metros.
 - Badge guess: black
 
+## Packet Hound
+- Source article: [A Little Snitch for Windows](https://packethound.app/) (Hacker News (front page))
+- Category: network-security
+- What it does: Packet Hound monitors outbound network connections on Windows and alerts users when an application tries to contact an external server, letting them block or allow the traffic. It provides a visual map of active connections and per‑app controls.
+- Likely revenue model: The product likely follows a freemium model with a free basic version and a paid subscription or one‑time license for advanced features and enterprise management.
+- India equivalent: none found
+- India fit note: The tool relies on user awareness of privacy and the willingness to install additional security software, which is less common among typical Indian consumers. However, the required Windows infrastructure and network visibility are readily available.
+- Badge guess: black
+
+## Fitbit
+- Source article: [You can attach your Fitbit Air to almost any old-school watch](https://www.engadget.com/2307854/how-to-attach-fitbit-air-to-old-school-watch/) (Engadget)
+- Category: wearables
+- What it does: The Fitbit Air is a screen‑less fitness tracker that can be clipped onto the strap of any traditional analog watch, turning it into a smart‑trackable accessory. It monitors activity, heart rate, and sleep while relying on the watch’s existing design.
+- Likely revenue model: Revenue comes primarily from one‑time hardware sales of the Fitbit Air, supplemented by optional subscription services for advanced health insights.
+- India equivalent: none found
+- India fit note: The concept relies on a sizable market of analog watch owners willing to modify their straps, which is less common in India where consumers tend to favor integrated smartwatches or low‑cost fitness bands. Additionally, Bluetooth pairing and app ecosystem adoption may be slower in regions with limited data connectivity.
+- Badge guess: black
+

@@ -2859,3 +2859,5 @@
 | ISponsorBlockTV | ad-skipping | black | 2026-11-08 | none found |
 | Wandrd | photo-accessories | black | 2026-11-08 | none found |
 | Lume & Lime | restaurant | black | 2026-11-08 | none found |
+| Packet Hound | network-security | black | 2026-11-08 | none found |
+| Fitbit | wearables | black | 2026-11-08 | none found |
