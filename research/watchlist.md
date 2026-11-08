@@ -2838,3 +2838,24 @@
 | Apple (iPod) | consumer-electronics | black | 2026-11-07 | none found |
 | TechPowerUp | pc-builder | black | 2026-11-07 | none found |
 | ZapFast | messaging client | black | 2026-11-08 | none found |
+| Agent Clan | ai-agent | black | 2026-11-08 | none found |
+| NotchIsland | macOS-utility | black | 2026-11-08 | none found |
+| Textly | productivity | black | 2026-11-08 | none found |
+| NoMac | ai-agent | black | 2026-11-08 | none found |
+| Frameboy | geo-visualization | orange | 2026-11-08 | MapmyIndia |
+| Memorias | ai-writing | black | 2026-11-08 | none found |
+| Zigzag | browser | black | 2026-11-08 | none found |
+| AXL | gtm-copilot | black | 2026-11-08 | none found |
+| Sage2 | meeting-automation | black | 2026-11-08 | none found |
+| Inkling 2 Small | generative-ai | black | 2026-11-08 | none found |
+| Archie | productivity | black | 2026-11-08 | none found |
+| Tilde | file-manager | black | 2026-11-08 | none found |
+| NotchX | macOS-utility | black | 2026-11-08 | none found |
+| Keypause | mac-utility | black | 2026-11-08 | none found |
+| Person of Interest | sales-intelligence | orange | 2026-11-08 | KYC-Chain |
+| Llama-modchip | ai-inference | black | 2026-11-08 | none found |
+| Lorekit | ai-agent | black | 2026-11-08 | none found |
+| WaveDudeNext | physics-simulation | black | 2026-11-08 | none found |
+| ISponsorBlockTV | ad-skipping | black | 2026-11-08 | none found |
+| Wandrd | photo-accessories | black | 2026-11-08 | none found |
+| Lume & Lime | restaurant | black | 2026-11-08 | none found |
