@@ -2837,3 +2837,4 @@
 | HyperFlow | generative AI | black | 2026-11-07 | none found |
 | Apple (iPod) | consumer-electronics | black | 2026-11-07 | none found |
 | TechPowerUp | pc-builder | black | 2026-11-07 | none found |
+| ZapFast | messaging client | black | 2026-11-08 | none found |
