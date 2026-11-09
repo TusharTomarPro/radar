@@ -224,3 +224,84 @@ Building a hemp ecosystem in Uttarakhand](https://yourstory.com/2026/11/angel-on
 - India fit note: Success hinges on clear regulatory approval for hemp cultivation and consumer acceptance of hemp‑derived products, both of which are still evolving in India; additionally, farmers need training and infrastructure for large‑scale hemp farming.
 - Badge guess: orange
 
+## Meta
+- Source article: [Meta releases Muse Ember, a new lightweight model for agent execution](https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/) (TechCrunch)
+- Category: ai-agent
+- What it does: Muse Ember is a lightweight language model designed to run AI agents efficiently, reducing compute costs.
+- Likely revenue model: Charges users per million input tokens processed (pay‑as‑you‑go usage fees).
+- India equivalent: none found
+- India fit note: The model relies on high‑speed cloud compute and token‑based pricing, which may be less accessible or affordable for many Indian developers and enterprises.
+- Badge guess: black
+
+## Drops
+- Source article: [Meet Drops, the new music app bringing back the fun of sharing songs with friends](https://techcrunch.com/2026/11/09/meet-drops-the-new-music-app-bringing-back-the-fun-of-sharing-songs-with-friends/) (TechCrunch)
+- Category: social-music
+- What it does: Drops is a music discovery app where users swipe through 10‑ to 30‑second song snippets, comment on them, and share their finds with friends.
+- Likely revenue model: Revenue likely comes from a mix of in‑app advertising, premium subscriptions for an ad‑free experience, and affiliate commissions on song purchases or streaming redirects.
+- India equivalent: Resso
+- India fit note: India already has music platforms with social features (e.g., Resso, JioSaavn), but licensing for short‑clip sharing can be stricter, and user adoption depends on willingness to engage in micro‑sharing rather than just streaming full tracks.
+- Badge guess: orange
+
+## Automattic Vibe
+- Source article: [Automattic debuts a platform to deploy vibe-coding apps amid a changing internet](https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/) (TechCrunch)
+- Category: no-code
+- What it does: Offers a platform that lets developers and creators quickly build and deploy lightweight, interactive "vibe‑coding" web applications.
+- Likely revenue model: Runs a subscription‑based SaaS model with tiered plans and takes a percentage of revenue from apps sold on its marketplace.
+- India equivalent: Zoho Creator
+- India fit note: The model depends on high‑speed broadband and a large pool of freelance developers, which are more concentrated in major Indian metros; however the low‑code approach matches the needs of SMBs and startups across the country.
+- Badge guess: orange
+
+## CUI
+- Source article: [CUI – Native UI components for C](https://yappologistic.github.io/CUI/) (Hacker News (front page))
+- Category: ui-framework
+- What it does: Provides native UI components for applications written in C, allowing developers to create graphical interfaces directly in the C language.
+- Likely revenue model: Open‑source library with optional paid support, consulting, or enterprise licensing.
+- India equivalent: none found
+- India fit note: The product targets C developers building native desktop apps, a niche segment in India where most UI development is done with web or higher‑level frameworks, and the required low‑level graphics infrastructure is less commonly used.
+- Badge guess: black
+
+## Satellites
+- Source article: [Show HN: Every satellite that passed over any place this week, and its photos](https://www.watched.earth) (Hacker News (front page))
+- Category: geo-imagery
+- What it does: A web app where you enter any location and it shows every satellite that passed overhead in the last 7 days and pulls available Sentinel‑2, Landsat or NASA images for those passes.
+- Likely revenue model: Probably a freemium model offering free basic access with paid tiers for higher‑resolution data, API usage or enterprise licensing.
+- India equivalent: ISRO Bhuvan
+- India fit note: The service relies on high‑speed internet and browser GPU capabilities, which are generally available in urban India, and uses globally available satellite data, so it should work well there.
+- Badge guess: orange
+
+## Y/N
+- Source article: [Y/N (YC S23) is hiring a growth lead to distribute superhuman A.I. storytelling](https://www.ycombinator.com/companies/yn/jobs/TjDn3YZ-founding-growth-marketer) (Hacker News (front page))
+- Category: ai-storytelling
+- What it does: Y/N offers a superhuman AI-powered platform that creates, edits, and optimizes narrative content for brands, creators, and marketers.
+- Likely revenue model: They likely charge a subscription SaaS fee with tiered plans based on usage and feature access.
+- India equivalent: none found
+- India fit note: Success depends on high‑speed internet, willingness of marketers to pay for premium AI content, and cultural acceptance of AI‑generated storytelling, which are still emerging in India.
+- Badge guess: black
+
+## King Arthur Baking
+- Source article: [King Arthur Baking Sourdough Sidekick Review: Rising to the Occasion](https://www.wired.com/review/king-arthur-baking-sourdough-sidekick/) (Wired)
+- Category: food-tech
+- What it does: The Sourdough Sidekick is an automatic starter feeder that maintains and refreshes sourdough starter on a set schedule, reducing manual feeding. It connects via Bluetooth to a mobile app for monitoring and control.
+- Likely revenue model: Revenue is generated primarily through one‑time hardware sales, possibly supplemented by a subscription for premium app features or starter refills.
+- India equivalent: none found
+- India fit note: Home sourdough baking is still niche in India, and reliable, consistent electricity and Wi‑Fi connectivity—required for the device—are not universally available. Consumer willingness to spend on a specialized baking gadget may also be limited.
+- Badge guess: black
+
+## Paper Trail
+- Source article: [Authors Can Defend Against AI Allegations With ‘Paper Trail’ Tools. Is It Enough?](https://www.wired.com/story/authors-can-defend-against-ai-allegations-with-paper-trail-tools/) (Wired)
+- Category: authorship verification
+- What it does: Provides cryptographic timestamps, version histories, and metadata logs that let writers prove a manuscript was created by a human and not AI. The tool generates a verifiable ‘paper trail’ that can be shared with publishers or courts.
+- Likely revenue model: Subscription‑based SaaS licensing for individual authors, writing teams, and publishing houses, with tiered pricing for additional storage and enterprise integrations.
+- India equivalent: none found
+- India fit note: The solution relies on widespread digital signing infrastructure and legal acceptance of cryptographic proof, which are still emerging in India. Adoption may be limited until publishers and courts recognize such digital provenance.
+- Badge guess: black
+
+## Jacob's Tomatoes
+- Source article: [UK boy's tomato-growing hobby turns into booming business, with orders coming from as far away as Australia](https://www.livemint.com/companies/news/uk-boys-tomato-growing-hobby-turns-into-booming-business-with-orders-coming-from-as-far-away-as-australia-11794240788080.html) (LiveMint Companies)
+- Category: urban-farming
+- What it does: He cultivates specialty tomatoes in a home/urban setup and sells them directly to consumers online, shipping across countries.
+- Likely revenue model: Revenue comes from direct sales of fresh tomatoes (often premium or heirloom varieties) via an e‑commerce platform, sometimes with subscription boxes.
+- India equivalent: UrbanKisaan
+- India fit note: The model relies on a cold‑chain logistics network and consumers willing to pay a premium for specialty produce, both of which are emerging but still limited in many Indian cities.
+- Badge guess: orange
+
