@@ -2865,3 +2865,24 @@
 | KetchUp | 3d-modelling | black | 2026-11-09 | none found |
 | Dux | desktop-environment | black | 2026-11-09 | none found |
 | FlipPhone Labs | iot-device | black | 2026-11-09 | none found |
+| Calmly Script | screenwriting | black | 2026-11-09 | none found |
+| ClipsPal | ai-video | orange | 2026-11-09 | InVideo |
+| KIKUmap | ai-productivity | black | 2026-11-09 | none found |
+| ProtoMap | dev-tools | black | 2026-11-09 | none found |
+| Watchflows | ai-automation | black | 2026-11-09 | none found |
+| Skuttr | ai-video | black | 2026-11-09 | none found |
+| Voyager | ai-agent | black | 2026-11-09 | none found |
+| If You Read This | personal-safety | black | 2026-11-09 | none found |
+| Terse | ai-infrastructure | black | 2026-11-09 | none found |
+| Flic Cue | voice-button | black | 2026-11-09 | none found |
+| Dageno | competitive-intelligence | orange | 2026-11-09 | RankWatch |
+| CozyZip | file-compression | black | 2026-11-09 | none found |
+| Panda Video | accessibility tech | orange | 2026-11-09 | Kalam |
+| Cardboard AI | ai-video | orange | 2026-11-09 | InVideo |
+| Egoist AI | data-privacy | black | 2026-11-09 | none found |
+| Pawse.ai | pet-tech | black | 2026-11-09 | none found |
+| Nörth | remote-collab | black | 2026-11-09 | none found |
+| PixelOS | custom-rom | black | 2026-11-09 | none found |
+| Flide | ai-inference | black | 2026-11-09 | none found |
+| BikeNetKit | urban-tech | black | 2026-11-09 | none found |
+| Uttarakhand Hemp | agri-tech | orange | 2026-11-09 | Satlanta |
