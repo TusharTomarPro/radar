@@ -2861,3 +2861,7 @@
 | Lume & Lime | restaurant | black | 2026-11-08 | none found |
 | Packet Hound | network-security | black | 2026-11-08 | none found |
 | Fitbit | wearables | black | 2026-11-08 | none found |
+| Chimera | ai-voice | black | 2026-11-09 | none found |
+| KetchUp | 3d-modelling | black | 2026-11-09 | none found |
+| Dux | desktop-environment | black | 2026-11-09 | none found |
+| FlipPhone Labs | iot-device | black | 2026-11-09 | none found |
