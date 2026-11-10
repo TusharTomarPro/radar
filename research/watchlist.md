@@ -2895,3 +2895,6 @@
 | King Arthur Baking | food-tech | black | 2026-11-09 | none found |
 | Paper Trail | authorship verification | black | 2026-11-09 | none found |
 | Jacob's Tomatoes | urban-farming | orange | 2026-11-09 | UrbanKisaan |
+| Ultorg | low-code | orange | 2026-11-10 | Appsmith |
+| Exact | cross-platform ui | black | 2026-11-10 | none found |
+| Chirag Munjani's experiential travel company | experiential travel | orange | 2026-11-10 | Thrillophilia |
