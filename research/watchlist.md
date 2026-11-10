@@ -2898,3 +2898,55 @@
 | Ultorg | low-code | orange | 2026-11-10 | Appsmith |
 | Exact | cross-platform ui | black | 2026-11-10 | none found |
 | Chirag Munjani's experiential travel company | experiential travel | orange | 2026-11-10 | Thrillophilia |
+| AppuBot | ai-chatbot | black | 2026-11-10 | none found |
+| RunThru | devops | black | 2026-11-10 | none found |
+| Lottie AI | design-ai | orange | 2026-11-10 | Animaker |
+| Seldon | ai-testing | orange | 2026-11-10 | Qyrus |
+| QuotedPart | manufacturing-software | black | 2026-11-10 | none found |
+| Latch.ai | accounting-automation | orange | 2026-11-10 | ClearTax |
+| Tokens by UI Colors | design-tokens | black | 2026-11-10 | none found |
+| Ownkube | ai-devops | black | 2026-11-10 | none found |
+| Operum | ai-product | orange | 2026-11-10 | Zoho Projects |
+| Alsona | sales-automation | orange | 2026-11-10 | Vymo |
+| Maxma | ad-tech | orange | 2026-11-10 | AdPushup |
+| ForAgent | ai-agent | orange | 2026-11-10 | Exotel |
+| Kata Send | cold-email | orange | 2026-11-10 | Mailmodo |
+| ZUS | ai-ide | black | 2026-11-10 | none found |
+| CollaboTokyo | virtual-events | black | 2026-11-10 | none found |
+| gitmanual | developer-tools | black | 2026-11-10 | none found |
+| VeilCC | code-security | orange | 2026-11-10 | AppSealing |
+| Ember | team-chat | black | 2026-11-10 | none found |
+| Rodeo | ai-productivity | orange | 2026-11-10 | Zoho Notebook |
+| FigSchema | visual-db | black | 2026-11-10 | none found |
+| Obsiva | inspection-tech | black | 2026-11-10 | none found |
+| LotusQ | voice-typing | black | 2026-11-10 | none found |
+| Clive | ai-assistant | black | 2026-11-10 | none found |
+| Kumiko | ai-productivity | black | 2026-11-10 | none found |
+| Opal Reader | e-reader | black | 2026-11-10 | none found |
+| TOWeb | website-builder | orange | 2026-11-10 | Zoho Sites |
+| ChromePing | voice-translation | black | 2026-11-10 | none found |
+| Daytwo | no-code | orange | 2026-11-10 | Zoho Sites |
+| OpenVibe | ai-agent | black | 2026-11-10 | none found |
+| Openring | voice-AI | black | 2026-11-10 | none found |
+| Dover | job-marketplace | orange | 2026-11-10 | Cutshort |
+| Coffee | markdown-editor | black | 2026-11-10 | none found |
+| MoreFrame | screen-recording | black | 2026-11-10 | none found |
+| SubscriptionFlow | billing-automation | orange | 2026-11-10 | Razorpay |
+| Levo | ai-cleanup | black | 2026-11-10 | none found |
+| Gesso | ai-design | black | 2026-11-10 | none found |
+| Wipecraft | system-cleaner | black | 2026-11-10 | none found |
+| CloakPane | privacy-browser | black | 2026-11-10 | none found |
+| Quillo | ai-assistant | black | 2026-11-10 | none found |
+| Nadhif | cybersecurity | orange | 2026-11-10 | Quick Heal |
+| Kettle | family-assistant | black | 2026-11-10 | none found |
+| Co-Review | ai-code | black | 2026-11-10 | none found |
+| Willder | integration-platform | orange | 2026-11-10 | Zoho Flow |
+| HitPay | ai-agent | black | 2026-11-10 | none found |
+| Almanzor | ai-assistant | black | 2026-11-10 | none found |
+| NeuraCryption | model-compression | black | 2026-11-10 | none found |
+| FakeDOS | novelty-software | black | 2026-11-10 | none found |
+| Kora | ai-os | black | 2026-11-10 | none found |
+| Landfall IP | legal-tech | black | 2026-11-10 | none found |
+| Bout India | personalized-travel | orange | 2026-11-10 | TravelTriangle |
+| Cogover | ai-agent | black | 2026-11-10 | none found |
+| Bay | ai-security | black | 2026-11-10 | none found |
