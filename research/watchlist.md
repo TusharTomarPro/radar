@@ -2950,3 +2950,6 @@
 | Bout India | personalized-travel | orange | 2026-11-10 | TravelTriangle |
 | Cogover | ai-agent | black | 2026-11-10 | none found |
 | Bay | ai-security | black | 2026-11-10 | none found |
+| Tiny Valencia | geo-visualization | orange | 2026-11-10 | MapmyIndia |
+| Tarball.io | dev-tools | black | 2026-11-10 | none found |
+| Valve | gaming-benchmark | black | 2026-11-10 | none found |

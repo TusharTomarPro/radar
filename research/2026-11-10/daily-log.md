@@ -493,3 +493,30 @@
 - India fit note: Widespread adoption depends on mature AI deployment practices and strong internal governance frameworks, which are still emerging in many Indian enterprises; data‑privacy regulations and limited AI‑ops maturity could slow uptake.
 - Badge guess: black
 
+## Tiny Valencia
+- Source article: [Show HN: Valencia, Spain in Sim City/Isometric View](https://tinyvalencia.com/) (Hacker News (front page))
+- Category: geo-visualization
+- What it does: Offers an interactive, isometric Sim‑City style map of Valencia that lets users pan, zoom and explore streets and landmarks in a 3D‑like view.
+- Likely revenue model: Likely a free‑to‑use hobby project that could earn money through ads, sponsorships, or licensing the underlying mapping engine to other cities.
+- India equivalent: MapmyIndia
+- India fit note: India has extensive GIS data and 3D city models, but consumer demand for a game‑like city explorer is limited; adoption would rely on niche interest among urban planners or gamers.
+- Badge guess: orange
+
+## Tarball.io
+- Source article: [The Hardest Tarball?](https://stoppels.ch/2026/11/07/the-hardest-tarball.html) (Hacker News (front page))
+- Category: dev-tools
+- What it does: Tarball.io offers a cloud‑based service that automatically creates, validates and optimizes tarball packages for software releases, ensuring reproducibility and integrity across environments.
+- Likely revenue model: Enterprise SaaS subscription with tiered pricing based on number of builds and storage used.
+- India equivalent: none found
+- India fit note: The service relies on high‑speed, reliable internet and a developer culture accustomed to Linux‑based packaging; while Indian dev talent exists, limited bandwidth in some regions could slow adoption.
+- Badge guess: black
+
+## Valve
+- Source article: [Steam Deck performance gets a reality check with Valve's new FPS data](https://arstechnica.com/gaming/2026/11/steam-deck-performance-gets-a-reality-check-with-valves-new-fps-data/) (Ars Technica)
+- Category: gaming-benchmark
+- What it does: Valve is releasing detailed FPS performance data for the Steam Deck and plans to launch benchmark tools that can evaluate generic gaming rigs.
+- Likely revenue model: Revenue comes from Steam Deck hardware sales, increased game purchases on Steam, and potentially licensing or premium features of the benchmarking platform.
+- India equivalent: none found
+- India fit note: The service relies on a large base of PC gamers who regularly share performance data; while India has a growing gaming community, limited broadband speeds and lower Steam Deck penetration could hinder rapid adoption.
+- Badge guess: black
+
