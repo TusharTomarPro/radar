@@ -2955,3 +2955,29 @@
 | Valve | gaming-benchmark | black | 2026-11-10 | none found |
 | Hooked | seafood-subscription | orange | 2026-11-11 | FreshToHome |
 | SCSKiller | gaming-utility | black | 2026-11-11 | none found |
+| StableBar | developer-tools | black | 2026-11-11 | none found |
+| Valin | knowledge-management | orange | 2026-11-11 | Zoho Notebook |
+| CALL-E | voice-ai | orange | 2026-11-11 | Knowlarity |
+| Mister Blocks | ai-design | black | 2026-11-11 | none found |
+| Shot.video | video-collaboration | black | 2026-11-11 | none found |
+| Subscriptrack | subscription-management | orange | 2026-11-11 | Walnut |
+| Skillbox | ai-tools | black | 2026-11-11 | none found |
+| nizima | animation-tool | black | 2026-11-11 | none found |
+| RigSpark | ai-tools | black | 2026-11-11 | none found |
+| Mitra | ai-agent | orange | 2026-11-11 | Knowlarity |
+| Relay | ai-agent | black | 2026-11-11 | none found |
+| ScroogeFrog AI | ad-tech | black | 2026-11-11 | none found |
+| Stiro | ai-agent | orange | 2026-11-11 | Gupshup |
+| Xolace | mental-health | orange | 2026-11-11 | YourDOST |
+| Nod | ai-agent | black | 2026-11-11 | none found |
+| Kippy AI | edtech | orange | 2026-11-11 | Hello English |
+| Earlybird | voice-ai | orange | 2026-11-11 | Vernacular.ai |
+| Reddit Reviews | social-listening | black | 2026-11-11 | none found |
+| Padrail | input-device | black | 2026-11-11 | none found |
+| Skipbox | ci-cd | black | 2026-11-11 | none found |
+| Binqo | desktop-widget | black | 2026-11-11 | none found |
+| Physical Relighting | image-editing | black | 2026-11-11 | none found |
+| Ginux | os-virtualization | black | 2026-11-11 | none found |
+| BlackOps2 ARM64 Recompiler | game-porting | black | 2026-11-11 | none found |
+| Palomma | proptech | orange | 2026-11-11 | NoBroker |
+| Holey Saffron | agri-tech | orange | 2026-11-11 | Saffron India |
