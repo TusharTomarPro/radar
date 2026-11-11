@@ -2953,3 +2953,5 @@
 | Tiny Valencia | geo-visualization | orange | 2026-11-10 | MapmyIndia |
 | Tarball.io | dev-tools | black | 2026-11-10 | none found |
 | Valve | gaming-benchmark | black | 2026-11-10 | none found |
+| Hooked | seafood-subscription | orange | 2026-11-11 | FreshToHome |
+| SCSKiller | gaming-utility | black | 2026-11-11 | none found |
