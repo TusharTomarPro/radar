@@ -2981,3 +2981,12 @@
 | BlackOps2 ARM64 Recompiler | game-porting | black | 2026-11-11 | none found |
 | Palomma | proptech | orange | 2026-11-11 | NoBroker |
 | Holey Saffron | agri-tech | orange | 2026-11-11 | Saffron India |
+| Helix | voice-id | orange | 2026-11-11 | Uniphore |
+| Plurai | ai-agent | orange | 2026-11-11 | Haptik |
+| Skulltula Tracker | gaming-assist | black | 2026-11-11 | none found |
+| TinyGPT Visualizer | model-interpretability | black | 2026-11-11 | none found |
+| Termsheet Please | simulation-game | black | 2026-11-11 | none found |
+| AWS Emulator | cloud-devtools | black | 2026-11-11 | none found |
+| Pharo | web-assembly | black | 2026-11-11 | none found |
+| Atuin | dev-tools | black | 2026-11-11 | none found |
+| Radical Numerics | biosecurity | black | 2026-11-11 | none found |

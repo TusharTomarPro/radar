@@ -250,3 +250,84 @@
 - India fit note: The model relies on reliable power, climate‑controlled indoor facilities and a market that values high‑price saffron, which are available in many Indian metros but may be harder to sustain in regions with unstable electricity or limited premium‑spice demand.
 - Badge guess: orange
 
+## Helix
+- Source article: [Siri co-founder backs Helix for its voice ID tech](https://techcrunch.com/2026/11/11/siri-co-founder-backs-helix-for-its-voice-id-tech/) (TechCrunch)
+- Category: voice-id
+- What it does: Helix provides voice‑based identity verification technology that lets platforms authenticate users by analyzing their unique vocal characteristics.
+- Likely revenue model: It likely charges enterprises a usage‑based fee or subscription for access to its API/SDK for each verification or authentication event.
+- India equivalent: Uniphore
+- India fit note: Voice biometrics can work in India given high mobile penetration, but the market must handle multilingual accents and privacy regulations; widespread consumer acceptance may lag behind more familiar OTP methods.
+- Badge guess: orange
+
+## Plurai
+- Source article: [Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads](https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/) (TechCrunch)
+- Category: ai-agent
+- What it does: Plurai provides a platform that applies end‑to‑end training techniques—originally used for self‑driving cars—to improve the reliability and performance of AI agents operating in unpredictable environments.
+- Likely revenue model: Subscription‑based licensing or usage‑based API fees for enterprises and developers who integrate Plurai's optimization stack into their AI agents.
+- India equivalent: Haptik
+- India fit note: The model relies on massive data pipelines and high‑performance compute, which are available in India via cloud providers, but widespread adoption may be limited by the need for sophisticated AI engineering talent and integration with existing Indian conversational AI products.
+- Badge guess: orange
+
+## Skulltula Tracker
+- Source article: [Ocarina of Time is even better if you use a smartphone app](https://www.theverge.com/games/1031321/the-legend-of-zelda-ocarina-of-time-notes-app-gold-skulltula) (The Verge)
+- Category: gaming-assist
+- What it does: A smartphone companion app that overlays an interactive map and step‑by‑step directions to help players locate all 100 Golden Skulltulas in The Legend of Zelda: Ocarina of Time.
+- Likely revenue model: Free download with optional in‑app purchases or a subscription to remove ads and unlock premium features.
+- India equivalent: none found
+- India fit note: The app relies on a sizable retro‑gaming community that still uses N64 consoles or emulators, which is smaller in India, and assumes reliable mobile data for map updates, which may limit adoption.
+- Badge guess: black
+
+## TinyGPT Visualizer
+- Source article: [Tools for exploring the souls of large language models](https://oshea00.github.io/posts/tinygpt-visualizer/) (Hacker News (front page))
+- Category: model-interpretability
+- What it does: An open‑source tool that visualizes the internal activations and attention patterns of large language models, letting users explore how the model processes prompts. It provides interactive graphs and heatmaps to aid debugging and research.
+- Likely revenue model: Free open‑source software, likely monetized through donations, consulting, or paid enterprise support.
+- India equivalent: none found
+- India fit note: The tool relies on access to powerful GPUs and large language model APIs, which are available in India but can be cost‑prohibitive for hobbyists; however, India's growing ML research community could adopt it for academic and enterprise debugging.
+- Badge guess: black
+
+## Termsheet Please
+- Source article: [Show HN: I recreated Papers Please but you're deciding which YC startups to fund](https://termsheetplease.com/) (Hacker News (front page))
+- Category: simulation-game
+- What it does: A web‑based interactive game that mimics the Papers, Please experience, letting players review and decide funding for fictional YC startup applications.
+- Likely revenue model: Probably a freemium model with ads or optional paid features (e.g., extra scenarios or analytics) to monetize the free game.
+- India equivalent: none found
+- India fit note: The game relies on familiarity with the Y Combinator ecosystem, English‑language startup jargon, and a cultural interest in venture‑capital simulation, which may be limited in India. It also needs reliable broadband, which could restrict adoption in lower‑tier regions.
+- Badge guess: black
+
+## AWS Emulator
+- Source article: [AWS Emulator and the engineer's job when agents write the code](https://www.allthingsdistributed.com/2026/11/aws-emulator-and-the-engineers-job-when-agents-write-the-code.html) (Hacker News (front page))
+- Category: cloud-devtools
+- What it does: Provides a local, high‑fidelity emulation of AWS services so AI agents and developers can write, test, and iterate on infrastructure code without incurring cloud costs or latency.
+- Likely revenue model: Charges a subscription fee for premium features, enterprise support, and higher‑scale usage tiers, while offering a free tier for limited local testing.
+- India equivalent: none found
+- India fit note: The model assumes widespread, low‑latency broadband and a developer culture comfortable with running heavyweight local service stacks, which may be limited in many Indian tier‑2/3 regions.
+- Badge guess: black
+
+## Pharo
+- Source article: [Pharo in the Browser with WebAssembly](https://massimo-nocentini.github.io/pharo-vm/world.html) (Hacker News (front page))
+- Category: web-assembly
+- What it does: Runs the Pharo Smalltalk VM in the browser via WebAssembly, enabling Smalltalk applications to execute client‑side without native installation.
+- Likely revenue model: Provides paid support, consulting services, and enterprise licensing for the Pharo WebAssembly runtime.
+- India equivalent: none found
+- India fit note: The solution relies on modern browsers with WebAssembly support and a niche Smalltalk developer community; while browser penetration is high in India, the Smalltalk ecosystem is limited, which may hinder rapid adoption.
+- Badge guess: black
+
+## Atuin
+- Source article: [Atuin Threads: All your agent sessions on every machine](https://blog.atuin.sh/threads-agent-sessions/) (Hacker News (front page))
+- Category: dev-tools
+- What it does: Atuin provides a searchable, synced shell history manager that records every command across all your machines and groups sessions into threads.
+- Likely revenue model: Free open‑source core with a paid cloud sync/subscription tier for premium features and storage.
+- India equivalent: none found
+- India fit note: The service relies on developers using multiple machines and being comfortable storing command history in the cloud; both are common in Indian tech circles, but data‑privacy concerns could affect adoption.
+- Badge guess: black
+
+## Radical Numerics
+- Source article: [A Startup Wants to Fight AI Bioweapons With AI](https://www.wired.com/story/startup-fights-ai-bioweapons-with-ai/) (Wired)
+- Category: biosecurity
+- What it does: Develops an offline AI model that can detect both natural and AI‑engineered pathogens from biological samples. The system operates without internet connectivity, enabling use in isolated or high‑security environments.
+- Likely revenue model: Licensing the detection software and hardware bundles to governments, defense agencies, and biotech labs on a subscription or per‑deployment basis.
+- India equivalent: none found
+- India fit note: Effective deployment requires high‑grade laboratory infrastructure and secure, offline computing environments that are limited to elite research or defense facilities in India, making widespread adoption challenging.
+- Badge guess: black
+
