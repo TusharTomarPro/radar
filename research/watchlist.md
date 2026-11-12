@@ -2990,3 +2990,6 @@
 | Pharo | web-assembly | black | 2026-11-11 | none found |
 | Atuin | dev-tools | black | 2026-11-11 | none found |
 | Radical Numerics | biosecurity | black | 2026-11-11 | none found |
+| LockGitHubActions | devsecops | black | 2026-11-12 | none found |
+| QB MEN | d2c fashion | black | 2026-11-12 | none found |
+| Zupple Labs | blockchain-security | orange | 2026-11-12 | BlockSec |
