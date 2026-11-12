@@ -3026,3 +3026,10 @@
 | Linux Pinball Engine | gaming | black | 2026-11-12 | none found |
 | StreamGuide | media-aggregation | black | 2026-11-12 | none found |
 | Kutlerri.ai | ai-agent | black | 2026-11-12 | none found |
+| Nectar | influencer-marketing | orange | 2026-11-12 | Kofluence |
+| Phota Labs | ai-photo | black | 2026-11-12 | none found |
+| GREP.AI | ai-agent | black | 2026-11-12 | none found |
+| ExcalidrawZ | design-tool | black | 2026-11-12 | none found |
+| SmolMaxxing | edge-ai | black | 2026-11-12 | none found |
+| LibreAGI | oss-ai | black | 2026-11-12 | none found |
+| Saffron Indoor | agri-tech | black | 2026-11-12 | none found |

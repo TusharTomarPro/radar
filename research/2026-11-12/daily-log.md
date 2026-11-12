@@ -322,3 +322,66 @@
 - India fit note: The model relies on highly integrated POS data, standardized menu structures, and a mature culture of data‑driven decision‑making that is still emerging in India's fragmented restaurant ecosystem, which could hinder rapid adoption.
 - Badge guess: black
 
+## Nectar
+- Source article: [Nectar launches an AI agent to automate creator discovery and outreach for brands](https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/) (TechCrunch)
+- Category: influencer-marketing
+- What it does: Nectar's AI agent automates creator discovery, outreach, partnership management, and campaign performance tracking for brands.
+- Likely revenue model: A SaaS subscription for brands, possibly combined with performance‑based fees per campaign.
+- India equivalent: Kofluence
+- India fit note: India has a large influencer ecosystem, but brands may still prefer manual vetting; AI‑driven automated outreach could face trust and data‑privacy concerns, and payment settlement mechanisms differ.
+- Badge guess: orange
+
+## Phota Labs
+- Source article: [Phota Labs uses AI to turn everyday photos into professional-looking shots](https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots/) (TechCrunch)
+- Category: ai-photo
+- What it does: Phota Labs offers an AI-powered service that automatically enhances everyday photos to look professional with minimal user effort.
+- Likely revenue model: Subscription or pay‑per‑use fees for photo enhancement, possibly supplemented by B2B API licensing.
+- India equivalent: none found
+- India fit note: Success depends on reliable high‑speed internet for uploading images and a consumer willingness to pay for automated editing, which may be limited in price‑sensitive segments of India.
+- Badge guess: black
+
+## GREP.AI
+- Source article: [Show HN: AgentRun – open-source, Self-improving Managed Agents](https://github.com/Parcha-ai/agentrun/blob/main/README.md) (Hacker News (front page))
+- Category: ai-agent
+- What it does: Provides an open‑source, managed platform for self‑improving AI agents with web‑grounded workflows, sandboxed environments, thousands of tool integrations, and analytics. Users can self‑host or use the hosted SaaS version and plug in any compatible agent model.
+- Likely revenue model: Subscription‑based SaaS (tiered plans or usage‑based pricing) for the hosted platform, plus enterprise licensing for self‑hosted deployments.
+- India equivalent: none found
+- India fit note: Success depends on widespread developer familiarity with LLM APIs, reliable high‑speed cloud compute, and token‑based pricing models, which are still emerging in India and may face latency or cost constraints.
+- Badge guess: black
+
+## ExcalidrawZ
+- Source article: [ExcalidrawZ: Local Native Excalidraw on macOS/iOS](https://github.com/chocoford/ExcalidrawZ) (Hacker News (front page))
+- Category: design-tool
+- What it does: Provides a native macOS and iOS client for the Excalidraw sketching library, enabling offline, local‑file drawing and editing.
+- Likely revenue model: Open‑source free tool monetized through donations, sponsorships, or a paid “pro” version.
+- India equivalent: none found
+- India fit note: The product relies on a strong macOS/iOS user base and offline local storage, which are less prevalent in India where Android dominates and cloud‑first workflows are more common.
+- Badge guess: black
+
+## SmolMaxxing
+- Source article: [I'm making LLMs work on small and old devices](https://github.com/hyperionaidev/smolmaxxing/) (Hacker News (front page))
+- Category: edge-ai
+- What it does: Provides tools and techniques to run large language models on low‑power, old, or resource‑constrained devices through aggressive quantization and model optimization.
+- Likely revenue model: Open‑source core with paid enterprise support, custom integration services, or licensing for proprietary optimizations.
+- India equivalent: none found
+- India fit note: Running LLMs on legacy hardware requires sufficient on‑device compute and memory, which many Indian consumers lack; plus the ecosystem for edge‑AI deployment is still nascent, limiting immediate adoption.
+- Badge guess: black
+
+## LibreAGI
+- Source article: [Libreagi – Save OSS Models](https://libreagi.com/) (Hacker News (front page))
+- Category: oss-ai
+- What it does: Provides a community‑driven platform to host, curate, and fund open‑source AI models, allowing developers to share and monetize their contributions.
+- Likely revenue model: Earns a commission on donations/funding streams and sells premium enterprise hosting, support, and API access.
+- India equivalent: none found
+- India fit note: The model depends on a mature open‑source AI culture and widespread corporate sponsorship, which are still emerging in India, and on reliable micro‑payment infrastructure that may be less prevalent.
+- Badge guess: black
+
+## Saffron Indoor
+- Source article: [Maharashtra couple earns up to  ₹50 lakh revenue growing saffron without soil in a 400 sq ft room, here's how they did it](https://www.livemint.com/companies/maharashtra-couple-earns-up-to-50-lakh-revenue-growing-saffron-without-soil-in-a-400-sq-ft-room-heres-how-they-did-it-11794500845890.html) (LiveMint Companies)
+- Category: agri-tech
+- What it does: Cultivates premium saffron using soil‑less, indoor vertical farming techniques in a small controlled space. The process yields high‑value saffron threads for sale to retailers and online buyers.
+- Likely revenue model: Direct sales of harvested saffron threads to gourmet food retailers, restaurants, and e‑commerce platforms, possibly supplemented by premium pricing for organic/traceable produce.
+- India equivalent: none found
+- India fit note: The model relies on reliable electricity for climate control, specialized hydroponic setups, and a market that values premium saffron, which may be limited in many Indian regions. High upfront capital and consumer awareness of indoor‑grown saffron could hinder rapid adoption.
+- Badge guess: black
+
