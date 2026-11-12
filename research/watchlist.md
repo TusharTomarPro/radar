@@ -2993,3 +2993,36 @@
 | LockGitHubActions | devsecops | black | 2026-11-12 | none found |
 | QB MEN | d2c fashion | black | 2026-11-12 | none found |
 | Zupple Labs | blockchain-security | orange | 2026-11-12 | BlockSec |
+| L | no-code | black | 2026-11-12 | none found |
+| Omnigraph | graph-db | black | 2026-11-12 | none found |
+| Epsilla | ai-agent | black | 2026-11-12 | none found |
+| Neura | conversational-commerce | orange | 2026-11-12 | Haptik |
+| YouArt | creative-ai | orange | 2026-11-12 | Artify.ai |
+| Infinite Drive | cloud-storage | orange | 2026-11-12 | Zoho WorkDrive |
+| three.dev | ai-testing | black | 2026-11-12 | none found |
+| CanyonOS | ai-agent | orange | 2026-11-12 | Haptik |
+| Insight7 | voice-ai | orange | 2026-11-12 | Exotel |
+| Spacefast | ai-agent | black | 2026-11-12 | none found |
+| Hoy | p2p-messaging | black | 2026-11-12 | none found |
+| Grok | ai-assistant | orange | 2026-11-12 | Haptik |
+| Didit | identity-verification | orange | 2026-11-12 | Karza |
+| Cloudways | cloud-hosting | black | 2026-11-12 | none found |
+| Gnista | ai-agent | black | 2026-11-12 | none found |
+| Yogurt | privacy-platform | black | 2026-11-12 | none found |
+| Crossfade | design-ai | black | 2026-11-12 | none found |
+| Foxpit | ai-coding | black | 2026-11-12 | none found |
+| mang.sh | dev-tools | black | 2026-11-12 | none found |
+| Skysoon | weather-app | orange | 2026-11-12 | Skymet Weather |
+| Klang | meeting-analytics | black | 2026-11-12 | none found |
+| Jot 2.0 | note-taking | orange | 2026-11-12 | Zoho Notebook |
+| Sluice | ai-agent | black | 2026-11-12 | none found |
+| Sendr | ai-gtm | black | 2026-11-12 | none found |
+| Nameshot | productivity | black | 2026-11-12 | none found |
+| LeaseWire | legal-tech | black | 2026-11-12 | none found |
+| Blendra | test-automation | orange | 2026-11-12 | TestSigma |
+| WizardNote | productivity | black | 2026-11-12 | none found |
+| Oxagen | ai-agent | black | 2026-11-12 | none found |
+| Offstage Cloud | cloud-infra | black | 2026-11-12 | none found |
+| Linux Pinball Engine | gaming | black | 2026-11-12 | none found |
+| StreamGuide | media-aggregation | black | 2026-11-12 | none found |
+| Kutlerri.ai | ai-agent | black | 2026-11-12 | none found |
