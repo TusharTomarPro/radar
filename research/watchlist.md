@@ -3037,3 +3037,23 @@
 | Switcher | virtual-number | orange | 2026-11-13 | Knowlarity |
 | Edge0 | edge-ai | black | 2026-11-13 | none found |
 | RealtimeVAD | speech-processing | orange | 2026-11-13 | Vernacular.ai |
+| Trainn | ai-video | black | 2026-11-13 | none found |
+| Templify AI | ai-content | orange | 2026-11-13 | Simplified |
+| Replicate | ai-codegen | black | 2026-11-13 | none found |
+| GAtrends | keyword-alerts | black | 2026-11-13 | none found |
+| qorqbot | ai-agent | orange | 2026-11-13 | Zoho Flow |
+| Hoverine | ui-animation | orange | 2026-11-13 | LottieFiles |
+| Burnstate | dev-tools | black | 2026-11-13 | none found |
+| Paxper | devops | black | 2026-11-13 | none found |
+| Aven | ai-agent | black | 2026-11-13 | none found |
+| Gemini 4 Hydrogen | ai-agent | black | 2026-11-13 | none found |
+| Filament | data-transfer | black | 2026-11-13 | none found |
+| Willo | gaming-assistant | black | 2026-11-13 | none found |
+| Pocket Studio | dev-tools | black | 2026-11-13 | none found |
+| StockRip | fintech | black | 2026-11-13 | none found |
+| Expo | cloud-simulation | black | 2026-11-13 | none found |
+| Ganella | desktop-widget | black | 2026-11-13 | none found |
+| de:volt | circuit-simulator | orange | 2026-11-13 | CircuitVerse |
+| Mansa | ai-media | black | 2026-11-13 | none found |
+| Whoop | fitness-social | orange | 2026-11-13 | Fittr |
+| AI Outsourcer | outsourcing-tech | black | 2026-11-13 | none found |
