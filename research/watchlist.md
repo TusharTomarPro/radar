@@ -3033,3 +3033,7 @@
 | SmolMaxxing | edge-ai | black | 2026-11-12 | none found |
 | LibreAGI | oss-ai | black | 2026-11-12 | none found |
 | Saffron Indoor | agri-tech | black | 2026-11-12 | none found |
+| RickMorty Video Generator | ai-video | black | 2026-11-13 | none found |
+| Switcher | virtual-number | orange | 2026-11-13 | Knowlarity |
+| Edge0 | edge-ai | black | 2026-11-13 | none found |
+| RealtimeVAD | speech-processing | orange | 2026-11-13 | Vernacular.ai |
