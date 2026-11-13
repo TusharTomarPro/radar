@@ -3057,3 +3057,8 @@
 | Mansa | ai-media | black | 2026-11-13 | none found |
 | Whoop | fitness-social | orange | 2026-11-13 | Fittr |
 | AI Outsourcer | outsourcing-tech | black | 2026-11-13 | none found |
+| ElevenLabs | ai-assistant | black | 2026-11-13 | none found |
+| Camp Snap | retro-camera | black | 2026-11-13 | none found |
+| M-Vave | hardware‑design | black | 2026-11-13 | none found |
+| Slate Auto | auto-navigation | orange | 2026-11-13 | MapmyIndia |
+| Atlas Coffee Club | coffee-subscription | orange | 2026-11-13 | Blue Tokai |

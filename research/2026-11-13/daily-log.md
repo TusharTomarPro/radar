@@ -214,3 +214,48 @@
 - India fit note: Success hinges on reliable high‑speed internet, widespread AI tool adoption, and client trust in small, remote teams—factors that are still uneven across many Indian regions.
 - Badge guess: black
 
+## ElevenLabs
+- Source article: [ElevenLabs’ new app combines meeting note-taking and dictation for teams](https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/) (TechCrunch)
+- Category: ai-assistant
+- What it does: ElevenAI is an AI‑powered app that records, transcribes, and summarizes meetings, turning spoken content into searchable notes and action items for teams.
+- Likely revenue model: Enterprise SaaS subscription with per‑user or per‑seat pricing, possibly tiered by feature set.
+- India equivalent: none found
+- India fit note: Success depends on widespread corporate adoption of AI meeting tools, reliable high‑speed internet, and comfort with cloud‑based transcription of potentially sensitive data, which may be slower in Indian enterprises.
+- Badge guess: black
+
+## Camp Snap
+- Source article: [The smallest version of Camp Snap’s retro digital camcorder fits on your keychain](https://www.theverge.com/tech/1033026/camp-snap-retro-digital-video-campcorder-cs-8-micro-keychain) (The Verge)
+- Category: retro-camera
+- What it does: Camp Snap designs screen‑free digital camcorders that record video onto microSD cards, now offering a keychain‑sized CS‑8 Micro for kids and on‑the‑go use.
+- Likely revenue model: Revenue comes from direct sales of the hardware (cameras, accessories, and replacement parts) through its website and retail partners.
+- India equivalent: none found
+- India fit note: The product relies on a niche demand for screen‑free video capture and a willingness to spend on novelty hardware, which may be limited in India where smartphones dominate and price sensitivity is high.
+- Badge guess: black
+
+## M-Vave
+- Source article: [FM-1 Workbench](https://open.m-vave.com/fm1-workbench) (Hacker News (front page))
+- Category: hardware‑design
+- What it does: FM‑1 Workbench is a cloud‑based suite that lets engineers design, simulate, and prototype FM‑radio and other RF circuits without needing physical lab equipment. It provides a visual workbench with component libraries, real‑time simulation, and one‑click PCB export.
+- Likely revenue model: Subscription‑based SaaS with tiered plans for individual engineers, startups, and enterprise teams, plus optional pay‑per‑use simulation credits.
+- India equivalent: none found
+- India fit note: The platform assumes widespread high‑speed internet and easy access to cloud‑based RF simulation resources, which may be limited in many Indian tier‑2/3 engineering labs. Additionally, local regulatory constraints on RF testing could hinder adoption without on‑ground support.
+- Badge guess: black
+
+## Slate Auto
+- Source article: [Screenless GPS: Slate Auto says, "Remember the road atlas"](https://arstechnica.com/culture/2026/11/screenless-gps-slate-auto-says-remember-the-road-atlas/) (Ars Technica)
+- Category: auto-navigation
+- What it does: Slate Auto offers a screenless GPS that presents real-time navigation on a spiral-bound paper map, updating your position without a digital display. The device combines traditional road atlases with modern GPS data.
+- Likely revenue model: They likely sell the physical map device at a premium and may charge a subscription for map data updates or premium routing features.
+- India equivalent: MapmyIndia
+- India fit note: India has extensive GPS coverage, but drivers are accustomed to digital navigation apps; adoption may be limited unless positioned for low-connectivity or niche markets like fleet operators who prefer a non-digital backup.
+- Badge guess: orange
+
+## Atlas Coffee Club
+- Source article: [Atlas Coffee Club’s Black Friday Deals (2026)](https://www.wired.com/story/atlas-coffee-club-black-friday-2026/) (Wired)
+- Category: coffee-subscription
+- What it does: Offers a quarterly subscription delivering three bags of coffee, each sourced from a different country, to consumers' doors.
+- Likely revenue model: Charges a recurring quarterly subscription fee for the curated coffee shipments.
+- India equivalent: Blue Tokai
+- India fit note: Success depends on robust international logistics and a consumer base willing to pay premium prices for foreign coffee, which may be constrained by higher import duties and limited awareness of specialty coffee in India.
+- Badge guess: orange
+
