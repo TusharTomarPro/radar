@@ -3062,3 +3062,9 @@
 | M-Vave | hardware‑design | black | 2026-11-13 | none found |
 | Slate Auto | auto-navigation | orange | 2026-11-13 | MapmyIndia |
 | Atlas Coffee Club | coffee-subscription | orange | 2026-11-13 | Blue Tokai |
+| ggml | ml-inference | black | 2026-11-14 | none found |
+| Grounds.top | flight-tracking | orange | 2026-11-14 | AirSaarthi |
+| Orcas Airband | aviation-tech | black | 2026-11-14 | none found |
+| Autonomous | wealth-tech | orange | 2026-11-14 | Cube Wealth |
+| Novo Nordisk | pharma | black | 2026-11-14 | none found |
+| Recykal | waste-tech | orange | 2026-11-14 | Waste Ventures India |
