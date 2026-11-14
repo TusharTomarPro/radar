@@ -3090,3 +3090,9 @@
 | Google Drive | cloud-storage | orange | 2026-11-14 | Zoho WorkDrive |
 | AIC‑SMUTBI | startup-incubator | orange | 2026-11-14 | T‑Hub |
 | BabyCue | health-tech | black | 2026-11-14 | none found |
+| Brilliant | smart-home | orange | 2026-11-14 | Oakter |
+| Goliath32 | dev-tools | black | 2026-11-14 | none found |
+| KarboosX | decentralized-messaging | black | 2026-11-14 | none found |
+| Agweb | real-estate-tech | black | 2026-11-14 | none found |
+| terminactory | idle-game | black | 2026-11-14 | none found |
+| DPDP Consent Manager | privacy-tech | black | 2026-11-14 | none found |

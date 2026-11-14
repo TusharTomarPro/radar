@@ -250,3 +250,57 @@
 - India fit note: Successful rollout would need a reliable supply chain to remote primary health centres and trained community health workers to collect and run the test, which are unevenly available in many Indian rural areas.
 - Badge guess: black
 
+## Brilliant
+- Source article: [A gadget to make your dumb house smarter](https://www.theverge.com/tech/1033761/home-assistant-tk-tripod-tabletop-installer) (The Verge)
+- Category: smart-home
+- What it does: A plug‑in hub that adds voice control, scheduling and remote access to existing appliances, turning a non‑connected house into a smart one.
+- Likely revenue model: Sells the hardware hub (and optional accessories) and charges a subscription for premium cloud automation features.
+- India equivalent: Oakter
+- India fit note: Success depends on reliable broadband/Wi‑Fi and consumer willingness to adopt voice assistants, which are still growing in India, plus the need for stable power supply for always‑on devices.
+- Badge guess: orange
+
+## Goliath32
+- Source article: [Creating a self booting ZIP archive](https://goliath32.com/blog/ziphead.html) (Hacker News (front page))
+- Category: dev-tools
+- What it does: Provides a technique to build self‑booting ZIP archives that execute code when opened, effectively a lightweight self‑extracting executable.
+- Likely revenue model: Monetises through blog advertising, sponsorships, or paid consulting services around the technique.
+- India equivalent: none found
+- India fit note: The approach relies on Windows execution policies and user willingness to run unknown executables, which may be limited in India due to security awareness and lower prevalence of such custom tooling.
+- Badge guess: black
+
+## KarboosX
+- Source article: [How to Create Your Own Decentralized Messenger Protocol](https://karboosx.net/post/5j7jdDM3/how-to-create-your-own-decentralized-messenger-protocol) (Hacker News (front page))
+- Category: decentralized-messaging
+- What it does: Provides a guide and tooling to build a peer‑to‑peer, blockchain‑backed messenger protocol that operates without central servers.
+- Likely revenue model: Earns revenue through consulting, custom implementation services, and licensing of proprietary protocol components.
+- India equivalent: none found
+- India fit note: Adoption depends on widespread availability of reliable broadband and user willingness to shift from entrenched platforms like WhatsApp; regulatory scrutiny of decentralized crypto‑based services could also hinder uptake.
+- Badge guess: black
+
+## Agweb
+- Source article: [Show HN: Agweb – a browser for agents that stays out of your way](https://github.com/paul-nameless/agweb) (Hacker News (front page))
+- Category: real-estate-tech
+- What it does: Provides a minimalist web browser tailored for real‑estate agents to browse MLS and property listing sites without distractions.
+- Likely revenue model: Likely a subscription or licensing model sold to brokerages for custom integration and premium features.
+- India equivalent: none found
+- India fit note: The product relies on a unified MLS ecosystem and agents' willingness to switch to a niche browser; India's fragmented listing platforms and different agent workflows may limit adoption.
+- Badge guess: black
+
+## terminactory
+- Source article: [Show HN: A terminal-native idle factory game, written in Rust with ratatui](https://gitlab.com/snipedbywifi/terminactory) (Hacker News (front page))
+- Category: idle-game
+- What it does: A terminal-native idle factory simulation that lets users build and manage a virtual factory while waiting for long-running tasks in the command line.
+- Likely revenue model: Open‑source with optional donations or paid premium builds, possibly supported by sponsorships or GitLab Marketplace sales.
+- India equivalent: none found
+- India fit note: The game relies on users spending time in a terminal, which is common among developers in India, but the niche appeal of text‑based idle games may limit mass adoption.
+- Badge guess: black
+
+## DPDP Consent Manager
+- Source article: [DPDP Act Implementation: MeitY Opens Consent Manager Registration Portal](https://inc42.com/buzz/dpdp-act-implementation-meity-opens-consent-manager-registration-portal/) (Inc42)
+- Category: privacy-tech
+- What it does: Offers a SaaS platform that lets Indian businesses capture, store, and audit user consent in line with the Digital Personal Data Protection Act.
+- Likely revenue model: Charges enterprises a recurring subscription fee based on the volume of data subjects and features used.
+- India equivalent: none found
+- India fit note: Success depends on widespread digital onboarding and the willingness of Indian firms to invest in compliance tooling; many SMBs still rely on ad‑hoc spreadsheets and may lack the data‑governance maturity needed for a consent manager.
+- Badge guess: black
+
