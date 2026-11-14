@@ -3068,3 +3068,25 @@
 | Autonomous | wealth-tech | orange | 2026-11-14 | Cube Wealth |
 | Novo Nordisk | pharma | black | 2026-11-14 | none found |
 | Recykal | waste-tech | orange | 2026-11-14 | Waste Ventures India |
+| HiringNow | ai-recruitment | orange | 2026-11-14 | Hirect |
+| Restoration Scope | climate-tech | black | 2026-11-14 | none found |
+| VB Notes | note-taking | orange | 2026-11-14 | Zoho Notebook |
+| Dex | ai-agent | orange | 2026-11-14 | Manthan |
+| Default Tamer | browser-manager | black | 2026-11-14 | none found |
+| Tacie | ai-notetaking | black | 2026-11-14 | none found |
+| CaptureFlow | screen-recorder | black | 2026-11-14 | none found |
+| CodeMesh | ai-coding | black | 2026-11-14 | none found |
+| Thunder | ai-database | black | 2026-11-14 | none found |
+| Kokonut UI | ai-agent | black | 2026-11-14 | none found |
+| ScreenGo | screen-recording | black | 2026-11-14 | none found |
+| FreeFlow Dictation | voice-coding | black | 2026-11-14 | none found |
+| Valutorio | note-taking | orange | 2026-11-14 | Zoho Notebook |
+| Aboard Sign | legal-tech | orange | 2026-11-14 | Zoho Sign |
+| AnyoneHiring.today | job-board | orange | 2026-11-14 | Naukri.com |
+| Map & Go | location-planner | black | 2026-11-14 | none found |
+| Nexus | project-management | orange | 2026-11-14 | Zoho Projects |
+| Antelog | AI-security | black | 2026-11-14 | none found |
+| InRead | newsletter-aggregator | black | 2026-11-14 | none found |
+| Google Drive | cloud-storage | orange | 2026-11-14 | Zoho WorkDrive |
+| AIC‑SMUTBI | startup-incubator | orange | 2026-11-14 | T‑Hub |
+| BabyCue | health-tech | black | 2026-11-14 | none found |
