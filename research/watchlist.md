@@ -3096,3 +3096,20 @@
 | Agweb | real-estate-tech | black | 2026-11-14 | none found |
 | terminactory | idle-game | black | 2026-11-14 | none found |
 | DPDP Consent Manager | privacy-tech | black | 2026-11-14 | none found |
+| Collecto.rs | collection-app | black | 2026-11-15 | none found |
+| Tulvo | productivity | orange | 2026-11-15 | Zoho |
+| Frevana | ai-assistant | black | 2026-11-15 | none found |
+| Spiik | meeting-ai | black | 2026-11-15 | none found |
+| TwoBucket | service-software | orange | 2026-11-15 | Urban Company |
+| Privacyboard | privacy-tech | black | 2026-11-15 | none found |
+| Pixel Office | ai-agent | black | 2026-11-15 | none found |
+| Rakazo | ai-agent | black | 2026-11-15 | none found |
+| Emayler | email-hosting | orange | 2026-11-15 | Zoho Mail |
+| Talyn | ai-devtools | black | 2026-11-15 | none found |
+| Perit Marketplace | data-marketplace | black | 2026-11-15 | none found |
+| HuntMonitor | product-analytics | black | 2026-11-15 | none found |
+| Remindly | productivity | orange | 2026-11-15 | Zoho Notebook |
+| Kiri | container-runtime | black | 2026-11-15 | none found |
+| Gawain | dev-tools | black | 2026-11-15 | none found |
+| Turbo-Browser-MCP | developer-tools | black | 2026-11-15 | none found |
+| Zalto | premium-glassware | orange | 2026-11-15 | Borosil |
