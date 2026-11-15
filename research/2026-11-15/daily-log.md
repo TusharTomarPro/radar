@@ -151,3 +151,30 @@
 - India fit note: India has a growing but still niche premium whiskey culture; price sensitivity and limited distribution for ultra‑premium glassware could hinder adoption. However, existing glass manufacturers like Borosil could pivot to similar high‑end products if demand rises.
 - Badge guess: orange
 
+## Emacs
+- Source article: [Emacs Is My Browser](https://joshblais.com/blog/emacs-as-my-browser/) (Hacker News (front page))
+- Category: developer-tools
+- What it does: Emacs is a highly extensible text editor that can also function as a web browser using its built‑in eww mode. Users can read and navigate web pages without leaving the editor environment.
+- Likely revenue model: Emacs is free and open‑source; revenue, if any, comes from donations, sponsorships, or paid support services.
+- India equivalent: none found
+- India fit note: The concept relies on a niche community of developers comfortable with Emacs and command‑line workflows, which is limited in India compared to mainstream browsers. Infrastructure needs are minimal, but user adoption is constrained by familiarity.
+- Badge guess: black
+
+## db-branch
+- Source article: [Show HN: db-branch – database branches in seconds for AI agents and CI, via ZFS](https://github.com/db-branch/db-branch) (Hacker News (front page))
+- Category: devops
+- What it does: db-branch creates instant, lightweight database branches using ZFS snapshots, enabling AI agents and CI pipelines to test against isolated copies of production data in seconds.
+- Likely revenue model: Open‑source core with paid enterprise support, consulting, or a hosted SaaS offering for managed snapshot orchestration.
+- India equivalent: none found
+- India fit note: The solution relies on ZFS filesystem features and high‑performance storage that are not widely adopted in Indian data‑center setups, and many Indian startups use cloud‑native managed databases that lack native ZFS snapshot capabilities.
+- Badge guess: black
+
+## OAT
+- Source article: [This AI Tamagotchi Turns Everyday Objects Into Needy Virtual Pets](https://www.wired.com/story/this-ai-tamagotchi-oats-turns-everyday-objects-into-needy-virtual-pets/) (Wired)
+- Category: habit-tech
+- What it does: Tiny E Ink devices attach to everyday objects and give them AI‑driven personalities that nudge users toward better habits, like watering plants or exercising.
+- Likely revenue model: Revenue likely comes from selling the hardware devices and a subscription for premium AI personality updates or analytics.
+- India equivalent: none found
+- India fit note: Success depends on users adopting inexpensive e‑ink gadgets and embracing AI‑driven pet‑like nudges, which may be limited by cost sensitivity and lower familiarity with such gamified habit tools in India.
+- Badge guess: black
+

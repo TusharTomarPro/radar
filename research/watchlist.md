@@ -3113,3 +3113,6 @@
 | Gawain | dev-tools | black | 2026-11-15 | none found |
 | Turbo-Browser-MCP | developer-tools | black | 2026-11-15 | none found |
 | Zalto | premium-glassware | orange | 2026-11-15 | Borosil |
+| Emacs | developer-tools | black | 2026-11-15 | none found |
+| db-branch | devops | black | 2026-11-15 | none found |
+| OAT | habit-tech | black | 2026-11-15 | none found |
