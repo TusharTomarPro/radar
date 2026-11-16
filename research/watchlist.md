@@ -3124,3 +3124,36 @@
 | Protomaps | map-tiles | orange | 2026-11-16 | MapmyIndia |
 | Clice | dev-tools | black | 2026-11-16 | none found |
 | SolarDIY | solar-tech | black | 2026-11-16 | none found |
+| LingoMic | meeting-translation | black | 2026-11-16 | none found |
+| Puffin | ai-agent | black | 2026-11-16 | none found |
+| StateWeave | ai-agent | black | 2026-11-16 | none found |
+| Punchcutter | font-generator | black | 2026-11-16 | none found |
+| ChatGPT Wallet | ai-fintech | black | 2026-11-16 | none found |
+| Pine Drama Studio | ai-filmmaking | orange | 2026-11-16 | Veed.io |
+| Blomma | hr-tech | orange | 2026-11-16 | Keka |
+| Boost.space | ai-agent | orange | 2026-11-16 | Gupshup |
+| Zoom Slides | meeting-automation | black | 2026-11-16 | none found |
+| Glifa | ai-editor | black | 2026-11-16 | none found |
+| Degla AI | ai-agent | orange | 2026-11-16 | Kissflow |
+| Papyras | book-summary | black | 2026-11-16 | none found |
+| Findy | desktop-search | black | 2026-11-16 | none found |
+| OffiAI | ai-productivity | orange | 2026-11-16 | Zoho (Zia AI for Zoho Office Suite) |
+| OpenFrame | ai-ops | black | 2026-11-16 | none found |
+| Laurence | e-commerce | orange | 2026-11-16 | Zepo |
+| ByteVoice | ai-coding | black | 2026-11-16 | none found |
+| Trusty CSV | data-tools | black | 2026-11-16 | none found |
+| Flamigo | slide-automation | black | 2026-11-16 | none found |
+| Pharen Hub | ai-workspace | orange | 2026-11-16 | Zoho One |
+| Cal.com | scheduling | orange | 2026-11-16 | Zoho Bookings |
+| Kafkador | devops | black | 2026-11-16 | none found |
+| Newsology | news-aggregator | orange | 2026-11-16 | Inshorts |
+| Docsy | dev-tools | black | 2026-11-16 | none found |
+| Zode | cloud-compute | orange | 2026-11-16 | NxtGen Cloud |
+| Curates | creator-platform | black | 2026-11-16 | none found |
+| Cookie Away | privacy-tech | black | 2026-11-16 | none found |
+| LexiCAD | ai-cad | black | 2026-11-16 | none found |
+| Centralize | sales-tech | orange | 2026-11-16 | Zoho CRM |
+| MIT Center for Bits and Atoms | digital-fabrication | orange | 2026-11-16 | Printo |
+| Parcel | email-client | black | 2026-11-16 | none found |
+| DPDP Compliance Security Services | cybersecurity | orange | 2026-11-16 | Tata Communications |
+| Zelmier | govtech | orange | 2026-11-16 | TenderTiger |
