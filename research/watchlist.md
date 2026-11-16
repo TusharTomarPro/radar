@@ -3157,3 +3157,13 @@
 | Parcel | email-client | black | 2026-11-16 | none found |
 | DPDP Compliance Security Services | cybersecurity | orange | 2026-11-16 | Tata Communications |
 | Zelmier | govtech | orange | 2026-11-16 | TenderTiger |
+| Tone | ai-sales | orange | 2026-11-16 | Vernacular.ai |
+| Solar Shepherd | agrivoltaics | black | 2026-11-16 | none found |
+| Jolt | dev-tool | black | 2026-11-16 | none found |
+| Golden Board | edtech | black | 2026-11-16 | none found |
+| Dreamteam | ai-crm | orange | 2026-11-16 | Vymo |
+| FRND | social-audio | black | 2026-11-16 | none found |
+| Visage Lines | wellness | orange | 2026-11-16 | HealthifyMe |
+| Olyv | fintech | orange | 2026-11-16 | KreditBee |
+| NIT Rourkela | ev-charging | orange | 2026-11-16 | Sun Mobility |
+| ReMemory | semiconductor | black | 2026-11-16 | none found |
