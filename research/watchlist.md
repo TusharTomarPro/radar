@@ -3116,3 +3116,11 @@
 | Emacs | developer-tools | black | 2026-11-15 | none found |
 | db-branch | devops | black | 2026-11-15 | none found |
 | OAT | habit-tech | black | 2026-11-15 | none found |
+| Flaming Hydra | ebook-lending | black | 2026-11-16 | none found |
+| The Last Complication | puzzle-game | black | 2026-11-16 | none found |
+| Dai Studio | flight-sim | black | 2026-11-16 | none found |
+| Appointment Marketplace | home-services | orange | 2026-11-16 | Urban Company |
+| Ductus | font-tech | black | 2026-11-16 | none found |
+| Protomaps | map-tiles | orange | 2026-11-16 | MapmyIndia |
+| Clice | dev-tools | black | 2026-11-16 | none found |
+| SolarDIY | solar-tech | black | 2026-11-16 | none found |
