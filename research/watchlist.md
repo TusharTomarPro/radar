@@ -3167,3 +3167,8 @@
 | Olyv | fintech | orange | 2026-11-16 | KreditBee |
 | NIT Rourkela | ev-charging | orange | 2026-11-16 | Sun Mobility |
 | ReMemory | semiconductor | black | 2026-11-16 | none found |
+| Lend | ai-agent | black | 2026-11-17 | none found |
+| Sutra-OS | ontology-platform | black | 2026-11-17 | none found |
+| OpenCode Browse | ai-code | black | 2026-11-17 | none found |
+| IMEICheck | device-verification | orange | 2026-11-17 | IMEI Check (imei.in) |
+| Handpickd | agri-commerce | orange | 2026-11-17 | Milkbasket |
