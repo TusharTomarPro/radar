@@ -3172,3 +3172,52 @@
 | OpenCode Browse | ai-code | black | 2026-11-17 | none found |
 | IMEICheck | device-verification | orange | 2026-11-17 | IMEI Check (imei.in) |
 | Handpickd | agri-commerce | orange | 2026-11-17 | Milkbasket |
+| Pedestal AI | ai-agent | orange | 2026-11-17 | Locus |
+| Proton | privacy-ai | black | 2026-11-17 | none found |
+| Daydream | ai-agent | orange | 2026-11-17 | Myntra |
+| Voyage Labs | travel-ai | orange | 2026-11-17 | Niki.ai |
+| ClockwiseTV | edtech | orange | 2026-11-17 | BYJU'S |
+| ROOTKey | data-ops | black | 2026-11-17 | none found |
+| Inbox Hero | ai-email | black | 2026-11-17 | none found |
+| DearInside | health-tech | black | 2026-11-17 | none found |
+| GlissTouch | mac-utility | black | 2026-11-17 | none found |
+| Lampa | camera-app | black | 2026-11-17 | none found |
+| WispOS | game-dev | black | 2026-11-17 | none found |
+| TruLata | brand-monitoring | black | 2026-11-17 | none found |
+| EkLine | ai-seo | orange | 2026-11-17 | GrowthStory |
+| Hako | ai-coding | black | 2026-11-17 | none found |
+| Versine | ai-agent | black | 2026-11-17 | none found |
+| Lasso | ai-agent | black | 2026-11-17 | none found |
+| Link.bio | link-in-bio | black | 2026-11-17 | none found |
+| Glass Page | agent-review | orange | 2026-11-17 | Urban Company |
+| Creatify | ad-tech | black | 2026-11-17 | none found |
+| Vinc | film-tech | orange | 2026-11-17 | Veed.io |
+| Retriever | privacy-search | black | 2026-11-17 | none found |
+| RankSpot | seo-automation | orange | 2026-11-17 | RankWatch |
+| TheBold | fundraising-tech | orange | 2026-11-17 | LetsVenture |
+| Ballet | ai-automation | orange | 2026-11-17 | AutomationEdge |
+| Clamor | social-analytics | black | 2026-11-17 | none found |
+| GatherHQ | ai-agent | black | 2026-11-17 | none found |
+| Pinecall | voice-ai | orange | 2026-11-17 | Haptik |
+| Recall.ai | ai-agent | black | 2026-11-17 | none found |
+| infaiw | ai-agent | orange | 2026-11-17 | AutomationEdge |
+| ExtraDock | productivity | black | 2026-11-17 | none found |
+| Superhands | ai-design | black | 2026-11-17 | none found |
+| 3BCAD | cad-software | black | 2026-11-17 | none found |
+| Superlog | devops | black | 2026-11-17 | none found |
+| BASE Studio | product-visualization | orange | 2026-11-17 | Scapic |
+| Trellus | sales-dialer | orange | 2026-11-17 | Exotel |
+| OnlineCompiler.io | code-execution | black | 2026-11-17 | none found |
+| Dialect | iot-platform | orange | 2026-11-17 | IoTfy |
+| Skiss | design-tool | black | 2026-11-17 | none found |
+| Bezzle | design-software | black | 2026-11-17 | none found |
+| pushr | mobile-notifications | orange | 2026-11-17 | Pushy |
+| Appxiom | ai-devtools | black | 2026-11-17 | none found |
+| Ridian | ai-scheduling | black | 2026-11-17 | none found |
+| Seshka | code-assistant | black | 2026-11-17 | none found |
+| Polyroom | ai-collaboration | black | 2026-11-17 | none found |
+| YC Intern Expo | recruitment-tech | orange | 2026-11-17 | Internshala |
+| RunAnywhere | ai-inference | black | 2026-11-17 | none found |
+| Alloy CSS | css-framework | black | 2026-11-17 | none found |
+| RunTA | model-eval | black | 2026-11-17 | none found |
+| HIM | men's grooming | orange | 2026-11-17 | The Man Company |
