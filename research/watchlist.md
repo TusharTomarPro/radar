@@ -3259,3 +3259,16 @@
 | Henfruit | food-tech | orange | 2026-11-18 | Eggoz Nutrition |
 | Sarvam | ai-social | black | 2026-11-18 | none found |
 | HalfPe | discount-marketplace | orange | 2026-11-18 | DealShare |
+| Payhawk | spend-management | orange | 2026-11-18 | Zoho Expense |
+| Unsiloed AI | ai-agent | orange | 2026-11-18 | Docsumo |
+| Humyn Labs | synthetic-data | black | 2026-11-18 | none found |
+| Onehouse | vector-search | black | 2026-11-18 | none found |
+| CrossPoint Reader | ai-reader | black | 2026-11-18 | none found |
+| Voyager Explorer | space-visualization | black | 2026-11-18 | none found |
+| SuperEMeans | data-processing | black | 2026-11-18 | none found |
+| KPMG AI Audit Agent | audit-tech | black | 2026-11-18 | none found |
+| MyMems | ai-simulation | black | 2026-11-18 | none found |
+| Fight for the Future | privacy-tech | black | 2026-11-18 | none found |
+| Botsync | industrial-automation | orange | 2026-11-18 | GreyOrange |
+| Blinkit | quick-commerce | black | 2026-11-18 | none found |
+| KIKA AI | edtech | orange | 2026-11-18 | WhiteHat Jr |

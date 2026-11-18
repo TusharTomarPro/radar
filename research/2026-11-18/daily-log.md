@@ -340,3 +340,120 @@
 - India fit note: The model relies on consumers’ willingness to purchase heavily discounted surplus goods and on AI‑driven inventory matching, which are both present in India, but success would hinge on reliable last‑mile logistics and trust in the authenticity of surplus items.
 - Badge guess: orange
 
+## Payhawk
+- Source article: [Spend management platform Payhawk announces $280M raise, 2B valuation](https://techcrunch.com/2026/11/18/spend-management-platform-payhawk-announces-280m-raise-2b-valuation/) (TechCrunch)
+- Category: spend-management
+- What it does: Payhawk provides an enterprise platform that automates expense tracking, invoice processing, and procurement workflows using AI agents. It consolidates corporate cards, receipts, and purchase orders into a single dashboard for finance teams.
+- Likely revenue model: A subscription‑based SaaS model with tiered pricing per employee or transaction volume, plus possible interchange or processing fee share on corporate card spend.
+- India equivalent: Zoho Expense
+- India fit note: The model relies on widespread corporate card adoption and digital receipt capture, which are growing but still less universal in many Indian SMEs; larger enterprises are more ready for such automation.
+- Badge guess: orange
+
+## Unsiloed AI
+- Source article: [Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents](https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents/) (TechCrunch)
+- Category: ai-agent
+- What it does: Unsiloed AI extracts, structures and normalizes enterprise documents so they can be directly consumed by AI agents for search, analysis and automation.
+- Likely revenue model: A SaaS model charging enterprises per API call or per volume of processed documents, possibly with tiered pricing.
+- India equivalent: Docsumo
+- India fit note: India has a growing need for automated document processing in finance and logistics, and the required cloud infrastructure and enterprise adoption of AI agents are already present, making the model viable.
+- Badge guess: orange
+
+## Humyn Labs
+- Source article: [India’s Humyn Labs raises $47M to feed US robotics companies the data they need](https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/) (TechCrunch)
+- Category: synthetic-data
+- What it does: Humyn Labs builds and sells high‑fidelity synthetic data and simulation environments that robotics companies use to train and test AI models. It aggregates sensor streams, physics simulations, and scenario generation into a data‑as‑a‑service platform.
+- Likely revenue model: It likely charges robotics firms a subscription or usage‑based fee for access to its data APIs and custom dataset generation services.
+- India equivalent: none found
+- India fit note: The model relies on a mature robotics R&D ecosystem and large‑scale data‑center infrastructure that are still nascent in India; limited domestic demand for advanced robot training data could hinder adoption.
+- Badge guess: black
+
+## Onehouse
+- Source article: [Lakegres: Vector search on existing Open/Hudi/Iceberg tables](https://www.onehouse.ai/blog/lakegres-vector-search-on-open-table-formats) (Hacker News (front page))
+- Category: vector-search
+- What it does: Lakegres adds low‑latency vector similarity search to existing Open table formats (Iceberg, Hudi, Delta Lake) so users can run AI‑powered queries directly on their data lake without a separate vector DB.
+- Likely revenue model: SaaS subscription or usage‑based pricing for the Lakegres engine and associated managed lakehouse services.
+- India equivalent: none found
+- India fit note: The solution assumes widespread adoption of open‑format lakehouse tables and sufficient compute for on‑the‑fly embedding generation, which are still emerging in many Indian enterprises, especially outside large tech firms.
+- Badge guess: black
+
+## CrossPoint Reader
+- Source article: [CrossPoint Reader](https://crosspointreader.com) (Hacker News (front page))
+- Category: ai-reader
+- What it does: CrossPoint Reader is a web‑based platform that lets users upload PDFs or web articles and uses AI to generate summaries, highlight key points, and create cross‑document links for faster research.
+- Likely revenue model: A freemium model with a paid tier that unlocks unlimited document uploads, advanced summarisation, team collaboration, and API access.
+- India equivalent: none found
+- India fit note: The product relies on high‑speed broadband and widespread use of cloud‑based AI services, which are still uneven in many Indian regions, and it assumes a research‑oriented user base that may be smaller outside major metros.
+- Badge guess: black
+
+## Voyager Explorer
+- Source article: [Show HN: Take Voyager 1 apart, down to a single memory chip](https://rshekhar.com/voyager/) (Hacker News (front page))
+- Category: space-visualization
+- What it does: An interactive web platform that lets users explore the current status of Voyager 1 and 2, view detailed components like the nuclear battery and memory chip, and watch related visualizations.
+- Likely revenue model: Probably funded through donations, sponsorships, or grants rather than direct sales.
+- India equivalent: none found
+- India fit note: The experience relies on high‑speed internet and a niche audience interested in deep space missions, which may limit adoption in regions with slower connectivity or less public focus on interstellar probes.
+- Badge guess: black
+
+## SuperEMeans
+- Source article: [SuperEMeans: Making e-means 3× faster](https://www.lkuffo.com/superemeans/) (Hacker News (front page))
+- Category: data-processing
+- What it does: Provides a software library/engine that computes statistical means (and related aggregations) up to three times faster than conventional implementations.
+- Likely revenue model: Charges a subscription fee for API access or on‑premise licensing to enterprises that need high‑performance analytics.
+- India equivalent: none found
+- India fit note: The value proposition relies on high‑throughput data pipelines and low‑latency compute environments that are common in large tech firms, but many Indian SMEs may lack the scale to justify a premium performance library.
+- Badge guess: black
+
+## KPMG AI Audit Agent
+- Source article: [AI agents ask better questions than KPMG accountants in audit trial](https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/) (Hacker News (front page))
+- Category: audit-tech
+- What it does: An AI‑driven audit assistant that automatically reviews financial data, generates probing questions and highlights anomalies for human auditors.
+- Likely revenue model: Enterprise SaaS licensing or subscription fees charged to audit firms per audit engagement.
+- India equivalent: none found
+- India fit note: The solution relies on high‑frequency data integration with corporate ERP systems and a culture of detailed audit documentation that is still maturing in many Indian firms, which could slow adoption.
+- Badge guess: black
+
+## MyMems
+- Source article: [Will Wright's next simulation will use AI to mine content from your memories](https://arstechnica.com/gaming/2026/11/will-wrights-next-simulation-will-use-ai-to-mine-content-from-your-memories/) (Ars Technica)
+- Category: ai-simulation
+- What it does: MyMems is a simulation platform that uses AI to mine a user's personal memories and generate in‑game content, turning the simulation inward. It creates personalized experiences based on the user's own life events and recollections.
+- Likely revenue model: The product will likely be sold as a premium app or game with a one‑time purchase or subscription, possibly supplemented by in‑app purchases for extra content packs.
+- India equivalent: none found
+- India fit note: The concept relies heavily on users willingly sharing intimate personal memories and on robust AI infrastructure to process that data, which may face cultural privacy resistance and limited high‑speed compute resources in India.
+- Badge guess: black
+
+## Fight for the Future
+- Source article: [This new scorecard shows whether your favorite retailer is using Flock cameras](https://www.fastcompany.com/91644413/this-new-scorecard-shows-if-your-favorite-retailer-is-using-flock-cameras?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss) (Fast Company)
+- Category: privacy-tech
+- What it does: Runs an online scorecard that lists major retailers' use of automated license‑plate‑reader cameras, aggregating data from questionnaires, news reports, crowdsourced sightings and privacy policies.
+- Likely revenue model: Operates as a nonprofit advocacy group funded by donations, grants and crowdfunding rather than direct product sales.
+- India equivalent: none found
+- India fit note: The approach relies on FOIA‑style requests, strong consumer activism and public disclosure norms that are less established in India, and private retailers there are not subject to the same transparency pressures.
+- Badge guess: black
+
+## Botsync
+- Source article: [Botsync Raises $11 Mn To Connect Robots And Machines On Factory Floors](https://inc42.com/buzz/botsync-raises-11-mn-to-connect-robots-and-machines-on-factory-floors/) (Inc42)
+- Category: industrial-automation
+- What it does: Botsync provides a cloud‑native platform that links robots, machines and sensors on factory floors, enabling real‑time monitoring, orchestration and data analytics.
+- Likely revenue model: It likely charges SaaS subscription fees per robot or per factory, plus usage‑based fees for data processing and integration services.
+- India equivalent: GreyOrange
+- India fit note: The solution relies on high‑speed, low‑latency connectivity and standardized industrial protocols, which are still unevenly deployed across many Indian factories, though large manufacturers are rapidly adopting Industry 4.0 stacks.
+- Badge guess: orange
+
+## Blinkit
+- Source article: [Blinkit Brings GTA 6 To 11 Cities Ahead Of Launch](https://inc42.com/buzz/blinkit-brings-gta-6-to-11-cities-ahead-of-launch/) (Inc42)
+- Category: quick-commerce
+- What it does: Blinkit uses its ultra‑fast delivery network to sell and deliver digital download codes for video games such as GTA 6, getting the code to the customer within minutes of purchase.
+- Likely revenue model: Earns a margin or commission on each game code sold, plus a small delivery fee for the ultra‑fast service.
+- India equivalent: none found
+- India fit note: The concept hinges on a hyper‑fast physical delivery model, which is less necessary for digital goods that can be transferred instantly online; while India has strong mobile internet and digital payments, the logistics advantage may not be a compelling differentiator.
+- Badge guess: black
+
+## KIKA AI
+- Source article: [Hyderabad teen launches KIKA AI platform to help students build with AI](https://www.business-standard.com/technology/artificial-intelligence/hyderabad-teen-launches-kika-ai-platform-to-help-students-build-with-ai-126111801189_1.html) (Business Standard Tech)
+- Category: edtech
+- What it does: KIKA AI is a platform that lets school students create and experiment with AI models and applications, providing guided tutorials and low‑code tools. It aims to democratise AI building skills for K‑12 learners.
+- Likely revenue model: A freemium subscription where basic access is free and premium features, school licences, or enterprise workshops are paid.
+- India equivalent: WhiteHat Jr
+- India fit note: Success depends on reliable broadband and access to modern devices, which can be uneven in many Indian regions; additionally, widespread adoption requires a cultural shift toward early AI education that is still nascent in most schools.
+- Badge guess: orange
+
