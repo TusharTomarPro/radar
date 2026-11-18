@@ -3221,3 +3221,5 @@
 | Alloy CSS | css-framework | black | 2026-11-17 | none found |
 | RunTA | model-eval | black | 2026-11-17 | none found |
 | HIM | men's grooming | orange | 2026-11-17 | The Man Company |
+| Sqwish Labs | ai-platform | orange | 2026-11-18 | Arya.ai |
+| PostHog Decision Models | product-analytics | orange | 2026-11-18 | MoEngage |
