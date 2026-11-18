@@ -1,7 +1,7 @@
 # Top 20 Shortlist
-_Generated 2026-11-17 09:51 UTC -- auto-updated after every deep-research pass._
+_Generated 2026-11-18 09:22 UTC -- auto-updated after every deep-research pass._
 
-Ranked by risk score (lower = more promising) out of 760 companies deep-researched so far, 3149 tracked total.
+Ranked by risk score (lower = more promising) out of 770 companies deep-researched so far, 3198 tracked total.
 
 ---
 
@@ -131,7 +131,25 @@ Ranked by risk score (lower = more promising) out of 760 companies deep-research
 
 ---
 
-## 8. Tweet.app -- LOW RISK (3/10)
+## 8. MillenniumProblems.bio -- LOW RISK (2/10)
+
+**Category:** research-platform  
+**Badge:** black  
+**Competitor status:** no-real-competitor-found  
+**Regulatory:** none  
+**Capital intensity:** low – the model is essentially a SaaS/content platform requiring only cloud hosting and a small engineering/curation team, so it can be bootstrapped.  
+**Known numbers:** no public numbers found  
+**India cost estimate:** ₹10‑15 lakh for 6‑12 months (cloud hosting, domain, basic analytics, and a 2‑3 person team of engineers and a content curator, without paid marketing).  
+
+**AI reasoning:** The search evidence shows no existing Indian competitor and the business is a low‑capital, low‑regulation SaaS offering, which reduces execution risk. The main uncertainties are market adoption and community building, but regulatory and capital barriers are minimal, leading to a low overall risk score.
+
+**Your notes:** _(none added yet -- click through from the dashboard to add your take)_
+
+[Full research file](companies/millenniumproblems-bio/2026-09-20-research.md) -- [Add notes](companies/millenniumproblems-bio/your-notes.md)
+
+---
+
+## 9. Tweet.app -- LOW RISK (3/10)
 
 **Category:** microblogging  
 **Badge:** black  
@@ -149,7 +167,7 @@ Ranked by risk score (lower = more promising) out of 760 companies deep-research
 
 ---
 
-## 9. Snitch -- LOW RISK (3/10)
+## 10. Snitch -- LOW RISK (3/10)
 
 **Category:** hr-tech  
 **Badge:** black  
@@ -167,7 +185,7 @@ Ranked by risk score (lower = more promising) out of 760 companies deep-research
 
 ---
 
-## 10. Sidebranch -- LOW RISK (3/10)
+## 11. Sidebranch -- LOW RISK (3/10)
 
 **Category:** dev-tools  
 **Badge:** black  
@@ -185,7 +203,7 @@ Ranked by risk score (lower = more promising) out of 760 companies deep-research
 
 ---
 
-## 11. cmmnts -- LOW RISK (3/10)
+## 12. cmmnts -- LOW RISK (3/10)
 
 **Category:** comment-platform  
 **Badge:** black  
@@ -203,7 +221,7 @@ Ranked by risk score (lower = more promising) out of 760 companies deep-research
 
 ---
 
-## 12. Grove -- LOW RISK (3/10)
+## 13. Grove -- LOW RISK (3/10)
 
 **Category:** developer-tools  
 **Badge:** black  
@@ -221,7 +239,7 @@ Ranked by risk score (lower = more promising) out of 760 companies deep-research
 
 ---
 
-## 13. Thaw -- LOW RISK (3/10)
+## 14. Thaw -- LOW RISK (3/10)
 
 **Category:** productivity  
 **Badge:** black  
@@ -239,7 +257,7 @@ Ranked by risk score (lower = more promising) out of 760 companies deep-research
 
 ---
 
-## 14. Roadie -- LOW RISK (3/10)
+## 15. Roadie -- LOW RISK (3/10)
 
 **Category:** audio-utility  
 **Badge:** black  
@@ -257,7 +275,7 @@ Ranked by risk score (lower = more promising) out of 760 companies deep-research
 
 ---
 
-## 15. BrickForgerAI -- LOW RISK (3/10)
+## 16. BrickForgerAI -- LOW RISK (3/10)
 
 **Category:** generative-ai  
 **Badge:** black  
@@ -275,7 +293,7 @@ Ranked by risk score (lower = more promising) out of 760 companies deep-research
 
 ---
 
-## 16. at8pm -- LOW RISK (3/10)
+## 17. at8pm -- LOW RISK (3/10)
 
 **Category:** journaling  
 **Badge:** black  
@@ -293,7 +311,7 @@ Ranked by risk score (lower = more promising) out of 760 companies deep-research
 
 ---
 
-## 17. Ponytail -- LOW RISK (3/10)
+## 18. Ponytail -- LOW RISK (3/10)
 
 **Category:** low-code  
 **Badge:** black  
@@ -311,7 +329,7 @@ Ranked by risk score (lower = more promising) out of 760 companies deep-research
 
 ---
 
-## 18. Userlens -- LOW RISK (3/10)
+## 19. Userlens -- LOW RISK (3/10)
 
 **Category:** ai-agent  
 **Badge:** black  
@@ -329,7 +347,7 @@ Ranked by risk score (lower = more promising) out of 760 companies deep-research
 
 ---
 
-## 19. Remote Work as a Worm -- LOW RISK (3/10)
+## 20. Remote Work as a Worm -- LOW RISK (3/10)
 
 **Category:** indie-game  
 **Badge:** black  
@@ -344,23 +362,5 @@ Ranked by risk score (lower = more promising) out of 760 companies deep-research
 **Your notes:** _(none added yet -- click through from the dashboard to add your take)_
 
 [Full research file](companies/remote-work-as-a-worm/2026-09-05-research.md) -- [Add notes](companies/remote-work-as-a-worm/your-notes.md)
-
----
-
-## 20. Niyo -- LOW RISK (3/10)
-
-**Category:** travel-fintech  
-**Badge:** black  
-**Competitor status:** dead  
-**Regulatory:** moderate  
-**Capital intensity:** low  
-**Known numbers:** no public numbers found  
-**India cost estimate:** ₹8-15 lakh for an MVP, cloud/API costs and a small team of 2-4 people for 6-12 months  
-
-**AI reasoning:** Niyo shut down in 2016 due to over‑expansion and financial mismanagement, showing a dead competitor with no current presence. The travel‑fintech model faces moderate regulatory hurdles under RBI’s Payment and Settlement Systems Act and FEMA, but the capital‑intensive nature is low, allowing a lean MVP to be built for roughly ₹8‑15 lakh, keeping overall risk relatively low.
-
-**Your notes:** _(none added yet -- click through from the dashboard to add your take)_
-
-[Full research file](companies/niyo/2026-09-05-research.md) -- [Add notes](companies/niyo/your-notes.md)
 
 ---
