@@ -3223,3 +3223,39 @@
 | HIM | men's grooming | orange | 2026-11-17 | The Man Company |
 | Sqwish Labs | ai-platform | orange | 2026-11-18 | Arya.ai |
 | PostHog Decision Models | product-analytics | orange | 2026-11-18 | MoEngage |
+| Pitch Avatar | HR-tech | black | 2026-11-18 | none found |
+| Happo | visual-testing | black | 2026-11-18 | none found |
+| SaaS Toolkit MCP | sales-automation | orange | 2026-11-18 | LeadSquared |
+| Mermaid Flow | no-code | orange | 2026-11-18 | Kissflow |
+| Orken | fitness-app | orange | 2026-11-18 | Cult.fit |
+| Ody AI | ai-agent | black | 2026-11-18 | none found |
+| AI Canvas | ai-design | black | 2026-11-18 | none found |
+| SoreQen Code | ai-coding | black | 2026-11-18 | none found |
+| Introzy | referral-tech | black | 2026-11-18 | none found |
+| KaDeep AI | dev-tools | black | 2026-11-18 | none found |
+| LinkBit | url-shortener | black | 2026-11-18 | none found |
+| Dusk Bot | ai-chatbot | black | 2026-11-18 | none found |
+| Dippr | ai-agent | black | 2026-11-18 | none found |
+| S.Space | ai-agent | black | 2026-11-18 | none found |
+| Icons | creator-marketplace | orange | 2026-11-18 | Plixxo |
+| Bluedot | ai-assistant | orange | 2026-11-18 | Vernacular.ai |
+| Waldo | ai-agent | black | 2026-11-18 | none found |
+| canfit | ai-devtools | black | 2026-11-18 | none found |
+| OX212 | fintech | black | 2026-11-18 | none found |
+| Review Box | dev-tools | black | 2026-11-18 | none found |
+| LePoly | 3d-asset-management | black | 2026-11-18 | none found |
+| kwatch | devops | black | 2026-11-18 | none found |
+| worldinmotion | ai-agent | black | 2026-11-18 | none found |
+| Confidential Cloud | cloud-security | black | 2026-11-18 | none found |
+| Yetly | location-gaming | black | 2026-11-18 | none found |
+| Afterall Photo | photo-editing | black | 2026-11-18 | none found |
+| Vanira | ai-agent | orange | 2026-11-18 | Haptik |
+| StoicCloud | secure-cloud | black | 2026-11-18 | none found |
+| UI Verify | visual-testing | black | 2026-11-18 | none found |
+| Arcade | ai-video | orange | 2026-11-18 | InVideo |
+| Rithub | dev-tools | black | 2026-11-18 | none found |
+| uRun | ai-agent | orange | 2026-11-18 | Ameyo |
+| Germ DM | encrypted-messaging | black | 2026-11-18 | none found |
+| Henfruit | food-tech | orange | 2026-11-18 | Eggoz Nutrition |
+| Sarvam | ai-social | black | 2026-11-18 | none found |
+| HalfPe | discount-marketplace | orange | 2026-11-18 | DealShare |
