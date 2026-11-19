@@ -3309,3 +3309,11 @@
 | Soket AI | enterprise-ai | orange | 2026-11-19 | Fractal Analytics |
 | Disseqt AI | AI-governance | black | 2026-11-19 | none found |
 | Wald.ai | ai-security | orange | 2026-11-19 | K7 Computing |
+| Everful | b2b marketplace | orange | 2026-11-19 | Udaan |
+| CodeDesign | ai-dev | orange | 2026-11-19 | Builder.ai |
+| Noteshell | ai-assistant | black | 2026-11-19 | none found |
+| Onlook | design-dev | black | 2026-11-19 | none found |
+| Cornhole News | local-news | black | 2026-11-19 | none found |
+| Fanzines | print-design | black | 2026-11-19 | none found |
+| Pebble | ai-wearable | black | 2026-11-19 | none found |
+| Ccigmaa Lifestyles | personal-care | orange | 2026-11-19 | Mamaearth |

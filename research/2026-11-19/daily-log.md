@@ -332,3 +332,75 @@ Grand Theft Auto VI is finally here](https://yourstory.com/2026/11/debate-brews-
 - India fit note: The solution relies on widespread enterprise use of generative AI and integration with existing security stacks, which Indian large enterprises are adopting but may still be in early stages, potentially slowing uptake.
 - Badge guess: orange
 
+## Everful
+- Source article: [Former Alibaba exec’s Everful raises $48.5M to connect retailers with Chinese factories](https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/) (TechCrunch)
+- Category: b2b marketplace
+- What it does: Everful operates a factory‑direct sourcing platform that links retailers with Chinese manufacturers, enabling them to source products overseas without intermediaries.
+- Likely revenue model: It likely earns revenue through transaction fees or commissions on each order and may offer subscription tiers for premium sourcing tools.
+- India equivalent: Udaan
+- India fit note: The model relies on digital B2B matchmaking and cross‑border logistics, which are present in India, but differences in import regulations and payment infrastructure could affect adoption.
+- Badge guess: orange
+
+## CodeDesign
+- Source article: [CodeDesign v3](https://www.producthunt.com/products/codedesign) (Product Hunt)
+- Category: ai-dev
+- What it does: Enables users to create and run websites and business applications through conversational prompts to LLMs like ChatGPT or Claude.
+- Likely revenue model: Subscription‑based SaaS with tiered pricing based on usage, features, and hosting resources.
+- India equivalent: Builder.ai
+- India fit note: The model relies on high‑speed internet and widespread familiarity with AI chat interfaces, which are growing but still uneven across smaller Indian markets.
+- Badge guess: orange
+
+## Noteshell
+- Source article: [Noteshell](https://www.producthunt.com/products/noteshell) (Product Hunt)
+- Category: ai-assistant
+- What it does: Noteshell provides AI‑powered teammates that can create, organize, and automate tasks across your digital workspace, acting like a virtual coworker.
+- Likely revenue model: A subscription‑based SaaS model, charging teams or individuals a monthly fee per user for access to the AI workspace assistant.
+- India equivalent: none found
+- India fit note: Success depends on widespread adoption of AI‑driven workflow automation and seamless integration with cloud SaaS tools, which are still maturing in many Indian enterprises, plus a cultural readiness to trust autonomous AI teammates with sensitive data.
+- Badge guess: black
+
+## Onlook
+- Source article: [Launch HN: Onlook (YC W25) – An open-source developer tool for designers](https://github.com/onlook-dev/onlook/) (Hacker News (front page))
+- Category: design-dev
+- What it does: Onlook is a desktop Electron app that places an infinite canvas over a live codebase, letting designers visually edit UI while the tool uses AI agents to generate code changes and submit them as pull requests.
+- Likely revenue model: They will likely monetize a cloud‑hosted, team‑focused version with subscription fees for collaboration, storage, and managed AI usage.
+- India equivalent: none found
+- India fit note: The product assumes designers are comfortable working directly in code and that development teams have robust git workflows and high‑speed internet for AI calls—practices that are still emerging in many Indian companies, especially smaller studios.
+- Badge guess: black
+
+## Cornhole News
+- Source article: [Show HN: Cornhole News – A Hacker News inspired site for news across the Midwest](https://cornholenews.news) (Hacker News (front page))
+- Category: local-news
+- What it does: Cornhole News is a community‑driven news aggregator that curates and ranks stories relevant to the Midwestern United States using a Hacker News‑style voting and commenting system.
+- Likely revenue model: Revenue likely comes from display advertising and sponsored posts from regional businesses.
+- India equivalent: none found
+- India fit note: The model depends on an active, tech‑savvy community that regularly upvotes and comments, which is present in Indian metros but may be harder to sustain for a purely regional focus; ad revenue also hinges on local advertisers willing to spend on niche platforms.
+- Badge guess: black
+
+## Fanzines
+- Source article: [Making 8-page foldable zines from a single A4 sheet in the browser](https://krthr.co/paper-folds-and-whats-new-in-fanzines-app/) (Hacker News (front page))
+- Category: print-design
+- What it does: A browser‑based tool that lets users design and generate an 8‑page foldable zine from a single A4 sheet, outputting a ready‑to‑print PDF layout.
+- Likely revenue model: Freemium model – basic zine creation is free, with paid premium templates, custom branding, or a subscription for advanced features.
+- India equivalent: none found
+- India fit note: The service relies on users having access to a home or local printer and being comfortable with manual folding, which is less common in many Indian households compared to other markets.
+- Badge guess: black
+
+## Pebble
+- Source article: [Pebble Index 01 AI ring review: When a single feature becomes the product](https://www.engadget.com/2321607/pebble-index-01-ai-ring-review/) (Engadget)
+- Category: ai-wearable
+- What it does: It’s a low‑cost ring that runs an on‑device AI model to perform a single function, such as voice queries or language translation, delivering quick results without needing a phone.
+- Likely revenue model: Sells the hardware directly to consumers at a low price and may offer a subscription for premium AI features or cloud processing.
+- India equivalent: none found
+- India fit note: The product assumes widespread, reliable mobile data for cloud‑based AI and a cultural willingness to wear a tech‑laden ring, which may be limited in many Indian markets, especially outside urban areas.
+- Badge guess: black
+
+## Ccigmaa Lifestyles
+- Source article: [How Dhruv Sayani built Ccigmaa Lifestyles into a five-brand personal care business](https://yourstory.com/2026/11/how-dhruv-sayani-built-ccigmaa-lifestyles-into-a-five-brand-personal-care-business) (YourStory)
+- Category: personal-care
+- What it does: Develops and markets a portfolio of hair and skin care brands tailored to regional variations in water and hair characteristics across India.
+- Likely revenue model: Sells consumer personal‑care products through offline retail, e‑commerce platforms, and possibly subscription boxes, earning revenue from product sales.
+- India equivalent: Mamaearth
+- India fit note: The model relies on detailed regional water chemistry data and customized formulations, which may be harder to scale in India due to fragmented supply chains and limited consumer awareness of water‑based product performance.
+- Badge guess: orange
+
