@@ -3272,3 +3272,9 @@
 | Botsync | industrial-automation | orange | 2026-11-18 | GreyOrange |
 | Blinkit | quick-commerce | black | 2026-11-18 | none found |
 | KIKA AI | edtech | orange | 2026-11-18 | WhiteHat Jr |
+| ADE Index | ai-agent | black | 2026-11-19 | none found |
+| FailTrace | dev-tools | black | 2026-11-19 | none found |
+| UT2004.dev | browser-gaming | black | 2026-11-19 | none found |
+| LLM Reverse | dev-tools | black | 2026-11-19 | none found |
+| DaisyRose-27B | llm | black | 2026-11-19 | none found |
+| Token Factory | ai-inference | black | 2026-11-19 | none found |
