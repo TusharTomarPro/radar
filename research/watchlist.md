@@ -3278,3 +3278,34 @@
 | LLM Reverse | dev-tools | black | 2026-11-19 | none found |
 | DaisyRose-27B | llm | black | 2026-11-19 | none found |
 | Token Factory | ai-inference | black | 2026-11-19 | none found |
+| Teaflask | ai-copilot | black | 2026-11-19 | none found |
+| Every Signal | due-diligence | orange | 2026-11-19 | Tracxn |
+| Cleared | health-tech | black | 2026-11-19 | none found |
+| Impractical | video-creation | orange | 2026-11-19 | Animaker |
+| TestSprite | ai-testing | orange | 2026-11-19 | TestSigma |
+| Manufact | dev-tools | black | 2026-11-19 | none found |
+| OfinTech Desk | fintech | orange | 2026-11-19 | Perfios |
+| Tabstack | privacy-tech | black | 2026-11-19 | none found |
+| Tecla | ai-agent | black | 2026-11-19 | none found |
+| Play That Back | camera-accessory | black | 2026-11-19 | none found |
+| Rezora | ai-voice | orange | 2026-11-19 | Haptik |
+| The Calm Creator Mastermind | mastermind | black | 2026-11-19 | none found |
+| Verse Engine | real-time-3d | black | 2026-11-19 | none found |
+| Spellar | ai-assistant | black | 2026-11-19 | none found |
+| ToolJet | low-code | orange | 2026-11-19 | Zoho Creator |
+| Stripo | email-marketing | orange | 2026-11-19 | Mailmodo |
+| Ableten | travel-tech | orange | 2026-11-19 | TripHobo |
+| Source | sales-tech | orange | 2026-11-19 | LeadSquared |
+| Fieldwork Code | ai-coding | black | 2026-11-19 | none found |
+| Adside | ad-tech | black | 2026-11-19 | none found |
+| Meilisearch | search-as-a-service | black | 2026-11-19 | none found |
+| Room AI | ai-design | orange | 2026-11-19 | Livspace |
+| Nuko | motion-design | orange | 2026-11-19 | Animaker |
+| Wispr Flow | ai-notetaker | black | 2026-11-19 | none found |
+| Mio Click | wellness-gadget | black | 2026-11-19 | none found |
+| Zerodha | blob-storage | black | 2026-11-19 | none found |
+| VitusCare | health-tech | orange | 2026-11-19 | NephroPlus |
+| August AI | healthtech | orange | 2026-11-19 | Mfine |
+| Soket AI | enterprise-ai | orange | 2026-11-19 | Fractal Analytics |
+| Disseqt AI | AI-governance | black | 2026-11-19 | none found |
+| Wald.ai | ai-security | orange | 2026-11-19 | K7 Computing |
