@@ -3368,3 +3368,13 @@
 | BX Foundry | gaming-ai | black | 2026-11-20 | none found |
 | Eazeebox | B2B marketplace | orange | 2026-11-20 | Udaan |
 | Digilocker | govtech | black | 2026-11-20 | none found |
+| Cup of Sugar | goal-planning | black | 2026-11-20 | none found |
+| Greatai Review | code-review | black | 2026-11-20 | none found |
+| Lumyna | cause-marketing | black | 2026-11-20 | none found |
+| Thruddle | event-discovery | orange | 2026-11-20 | Nearbuy |
+| AI Call | ai-telephony | orange | 2026-11-20 | Exotel |
+| Bookella | reading-tracker | black | 2026-11-20 | none found |
+| ChurchTerminal | faith-tech | black | 2026-11-20 | none found |
+| GRH | ai-assistant | black | 2026-11-20 | none found |
+| Peter Roberts Immigration Services | legal-tech | black | 2026-11-20 | none found |
+| Birdfy | smart-feeder | black | 2026-11-20 | none found |

@@ -457,3 +457,93 @@
 - India fit note: Relies on high digital adoption, interoperable data standards and robust government IT infrastructure, which are still uneven across Indian ministries.
 - Badge guess: black
 
+## Cup of Sugar
+- Source article: [Cup of Sugar](https://www.producthunt.com/products/cup-of-sugar-2) (Product Hunt)
+- Category: goal-planning
+- What it does: It lets users share a dream and then breaks that dream down into small, actionable steps to help them achieve it.
+- Likely revenue model: A freemium model with a paid subscription for premium features such as advanced tracking, AI coaching, and integrations.
+- India equivalent: none found
+- India fit note: Success depends on users adopting a habit of regular digital goal‑tracking and on widespread smartphone usage; while growing, these behaviors and infrastructure are not yet universal across India.
+- Badge guess: black
+
+## Greatai Review
+- Source article: [greatai Review](https://www.producthunt.com/products/greatai-review) (Product Hunt)
+- Category: code-review
+- What it does: Provides free AI-powered code reviews supplemented by human reviewers for open‑source projects and nonprofit organizations.
+- Likely revenue model: Offers a freemium model where commercial teams pay for premium features, enterprise integrations, or consulting services.
+- India equivalent: none found
+- India fit note: The service relies on a strong open‑source culture and nonprofit funding that are less prevalent in India, and may face adoption challenges due to limited awareness of AI‑assisted code review among Indian NGOs.
+- Badge guess: black
+
+## Lumyna
+- Source article: [Lumyna Community Challenge](https://www.producthunt.com/products/lumyna-community-challenge) (Product Hunt)
+- Category: cause-marketing
+- What it does: Lumyna Community Challenge lets participants collectively log virtual walking meters and make small pledges that are donated to hunger‑relief initiatives.
+- Likely revenue model: The platform likely takes a small commission on the pledged donations and may offer premium sponsorship or brand partnership packages.
+- India equivalent: none found
+- India fit note: The model relies on widespread smartphone fitness tracking, seamless digital payments, and a culture of micro‑pledges, which are less entrenched in India despite high mobile usage, potentially limiting rapid adoption.
+- Badge guess: black
+
+## Thruddle
+- Source article: [Thruddle](https://www.producthunt.com/products/thruddle) (Product Hunt)
+- Category: event-discovery
+- What it does: Thruddle is a platform that helps users find events happening in UK pubs, such as live music, quizzes, and other social activities.
+- Likely revenue model: Revenue likely comes from premium listings and advertising fees paid by pubs, plus possible affiliate commissions on ticket sales or reservations.
+- India equivalent: Nearbuy
+- India fit note: The concept relies on a strong pub culture and regular live‑event programming, which is less common in India; adapting to restaurants, bars, and co‑working spaces would be needed for traction.
+- Badge guess: orange
+
+## AI Call
+- Source article: [AI Call](https://www.producthunt.com/products/ai-call) (Product Hunt)
+- Category: ai-telephony
+- What it does: An AI service that can answer inbound business calls and place outbound calls on behalf of a company, handling conversations with customers.
+- Likely revenue model: Subscription‑based pricing per user or per call minute, possibly with tiered plans for volume and advanced features.
+- India equivalent: Exotel
+- India fit note: The model relies on robust cloud telephony infrastructure and regulatory acceptance of AI‑generated voice calls, both of which exist in India but face stricter consent and spam‑call regulations that could limit adoption.
+- Badge guess: orange
+
+## Bookella
+- Source article: [Bookella](https://www.producthunt.com/products/bookella) (Product Hunt)
+- Category: reading-tracker
+- What it does: Bookella is a mobile/web app that logs the books you read, lets you set reading goals, and provides statistics to motivate you to read more.
+- Likely revenue model: A freemium model with a paid premium subscription for advanced analytics and goal‑setting features.
+- India equivalent: none found
+- India fit note: Success depends on a strong habit‑forming culture and widespread smartphone usage; while India has growing readership, many readers still prefer physical books and may not adopt a digital tracker without clear incentives.
+- Badge guess: black
+
+## ChurchTerminal
+- Source article: [ChurchTerminal – Christian News Dashboard Inspired by Hacker News](https://churchterminal.com/) (Hacker News (front page))
+- Category: faith-tech
+- What it does: ChurchTerminal is a community‑driven news dashboard that aggregates Christian‑related articles, videos and podcasts, letting users up‑vote and comment similar to Hacker News.
+- Likely revenue model: It likely monetises through a mix of targeted advertising, affiliate links to Christian books/media, and optional premium subscriptions for an ad‑free experience.
+- India equivalent: none found
+- India fit note: The model relies on a sizable, English‑speaking Christian online community that actively curates content; while India has a Christian minority, the habit of voting‑based news aggregation is not widespread, which could limit traction.
+- Badge guess: black
+
+## GRH
+- Source article: [Hurried Announcement: Alessandro Masullo GRH](https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/) (Hacker News (front page))
+- Category: ai-assistant
+- What it does: GRH is an AI‑powered personal assistant that automates scheduling, task prioritisation, and workflow coordination for knowledge workers.
+- Likely revenue model: It likely charges a tiered SaaS subscription (monthly/annual) with enterprise plans for larger teams.
+- India equivalent: none found
+- India fit note: The service assumes widespread high‑speed broadband and a corporate culture that embraces AI‑driven workflow automation, which are still emerging in many Indian SMEs and mid‑size firms.
+- Badge guess: black
+
+## Peter Roberts Immigration Services
+- Source article: [I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA](https://news.ycombinator.com/item?id=50577613) (Hacker News (front page))
+- Category: legal-tech
+- What it does: Provides immigration legal counsel and services tailored to startups and venture‑backed companies.
+- Likely revenue model: Charges clients hourly or on a retainer basis for legal advice and filing services.
+- India equivalent: none found
+- India fit note: India has a large pool of immigration lawyers, but the niche focus on YC‑style startups and venture‑backed firms is less common, and the reliance on U.S. immigration processes may limit direct applicability.
+- Badge guess: black
+
+## Birdfy
+- Source article: [The Birdfy Gifts I’d Buy for Backyard Birders](https://www.wired.com/story/best-birdfy-gifts-2026/) (Wired)
+- Category: smart-feeder
+- What it does: Birdfy designs and sells Wi‑Fi enabled bird feeders and nest boxes that stream live video of birds to a smartphone app, allowing users to watch and identify backyard birds.
+- Likely revenue model: Revenue comes from direct sales of the hardware (feeders, cameras, nest boxes) and optional subscription fees for cloud video storage and premium app features.
+- India equivalent: none found
+- India fit note: Backyard bird feeding is a niche hobby in India and many residential areas lack reliable Wi‑Fi or power outlets near garden spaces, which could limit adoption of connected feeders.
+- Badge guess: black
+
