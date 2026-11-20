@@ -3317,3 +3317,5 @@
 | Fanzines | print-design | black | 2026-11-19 | none found |
 | Pebble | ai-wearable | black | 2026-11-19 | none found |
 | Ccigmaa Lifestyles | personal-care | orange | 2026-11-19 | Mamaearth |
+| IconSwapper | ui-personalization | black | 2026-11-20 | none found |
+| Platypush | local-voice-assistant | black | 2026-11-20 | none found |
