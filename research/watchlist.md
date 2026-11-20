@@ -3319,3 +3319,52 @@
 | Ccigmaa Lifestyles | personal-care | orange | 2026-11-19 | Mamaearth |
 | IconSwapper | ui-personalization | black | 2026-11-20 | none found |
 | Platypush | local-voice-assistant | black | 2026-11-20 | none found |
+| InteraOne | customer-support | orange | 2026-11-20 | Zoho Desk |
+| HelpCard | emergency-tech | black | 2026-11-20 | none found |
+| Veryfi | invoice-automation | orange | 2026-11-20 | Zoho Books |
+| Stormi | ai-assistant | orange | 2026-11-20 | Haptik |
+| Fack’d | fact-checking | black | 2026-11-20 | none found |
+| Zyvolab | ar-visualization | black | 2026-11-20 | none found |
+| Zethos | ai-ops | black | 2026-11-20 | none found |
+| Samiksa | research-platform | black | 2026-11-20 | none found |
+| Badya | ai-language | orange | 2026-11-20 | Hello English (by CultureAlley) |
+| Interview Coach | career-tech | orange | 2026-11-20 | InterviewBit |
+| Volcano | devops | black | 2026-11-20 | none found |
+| Vybe | website-optimization | black | 2026-11-20 | none found |
+| tripps | travel-planning | orange | 2026-11-20 | Tripoto |
+| Saparo | shopping-assistant | orange | 2026-11-20 | CashKaro |
+| Currents | ai-devtools | black | 2026-11-20 | none found |
+| Compass OS | career-tech | black | 2026-11-20 | none found |
+| NetSieve | privacy | black | 2026-11-20 | none found |
+| Rox | health-tech | black | 2026-11-20 | none found |
+| DWaste | recycling-tech | black | 2026-11-20 | none found |
+| tensorViz | ml-devtools | black | 2026-11-20 | none found |
+| Memanto | ai-agent | black | 2026-11-20 | none found |
+| Inkrail | writing-app | black | 2026-11-20 | none found |
+| Dozy | sleep-tech | black | 2026-11-20 | none found |
+| Nexuro AI | ai-chatbot | orange | 2026-11-20 | Gupshup |
+| Kuc-kuc | weather-alert | black | 2026-11-20 | none found |
+| Andromon | android-mirroring | black | 2026-11-20 | none found |
+| aiteam.space | ai-agent | black | 2026-11-20 | none found |
+| Groundwork | dev-tools | black | 2026-11-20 | none found |
+| ThreadLore | fashion-tech | black | 2026-11-20 | none found |
+| Scam Link Check | fraud-detection | black | 2026-11-20 | none found |
+| UndoGuard | ai-agent | black | 2026-11-20 | none found |
+| Tamekoshi | ai-companion | orange | 2026-11-20 | Haptik |
+| Storiara | film-tech | black | 2026-11-20 | none found |
+| tinytldr | ai-agent | black | 2026-11-20 | none found |
+| Salus | govtech | black | 2026-11-20 | none found |
+| FFMPA Kids News | kids-news | black | 2026-11-20 | none found |
+| Same Moon | kids-edtech | orange | 2026-11-20 | StoryWeaver |
+| Baby's Day In | baby-tech | black | 2026-11-20 | none found |
+| PickFit | tool-curation | black | 2026-11-20 | none found |
+| Conversaflex | language-ai | black | 2026-11-20 | none found |
+| Bimdrop | bim-sharing | black | 2026-11-20 | none found |
+| Megumi Planner | agri-tech | black | 2026-11-20 | none found |
+| DMARC Pulse | email-security | black | 2026-11-20 | none found |
+| Tripmojo | travel-tech | orange | 2026-11-20 | MakeMyTrip |
+| Vatsalya Circle | elder-tech | black | 2026-11-20 | none found |
+| DetectGPT | ai-detection | black | 2026-11-20 | none found |
+| BX Foundry | gaming-ai | black | 2026-11-20 | none found |
+| Eazeebox | B2B marketplace | orange | 2026-11-20 | Udaan |
+| Digilocker | govtech | black | 2026-11-20 | none found |
