@@ -3378,3 +3378,11 @@
 | GRH | ai-assistant | black | 2026-11-20 | none found |
 | Peter Roberts Immigration Services | legal-tech | black | 2026-11-20 | none found |
 | Birdfy | smart-feeder | black | 2026-11-20 | none found |
+| EarthSort | recycling-tech | black | 2026-11-21 | none found |
+| MakePixel | pixel-art | black | 2026-11-21 | none found |
+| AI Gateway | ai-platform | black | 2026-11-21 | none found |
+| NINLIVE | music-archive | black | 2026-11-21 | none found |
+| OpenComputer | ai-coding | black | 2026-11-21 | none found |
+| Inkling 2 Mini | edge-ai | black | 2026-11-21 | none found |
+| DreamCoder | ide | black | 2026-11-21 | none found |
+| Winedroid | android-emulation | black | 2026-11-21 | none found |
