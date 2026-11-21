@@ -3407,3 +3407,6 @@
 | Hey Brother House | wellness-community | black | 2026-11-21 | none found |
 | Arcfront | ai-data | orange | 2026-11-21 | iMerit |
 | Minicorn Tracker | startup-analytics | orange | 2026-11-21 | Tracxn |
+| Microdrama AI | ai-entertainment | black | 2026-11-21 | none found |
+| Metal Detector App | sensor-tech | black | 2026-11-21 | none found |
+| Save8 | price-comparison | orange | 2026-11-21 | Buyhatke |

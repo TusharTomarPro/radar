@@ -259,3 +259,30 @@
 - India fit note: The model relies on comprehensive data collection and startup disclosure, which are increasingly available in India but still face gaps in consistency and privacy compliance.
 - Badge guess: orange
 
+## Microdrama AI
+- Source article: [Is selling an AI version of your face to this microdrama startup the future of Hollywood?](https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/) (TechCrunch)
+- Category: ai-entertainment
+- What it does: Creates AI-generated digital replicas of actors' faces that can be inserted into short, scripted video content for brands and creators.
+- Likely revenue model: Charges licensing fees or per‑view royalties to studios, advertisers, and content platforms that use the AI avatars.
+- India equivalent: none found
+- India fit note: The model relies on a strong celebrity‑licensing culture and widespread acceptance of synthetic media, which are still emerging in India; legal clarity around AI‑generated likenesses is also limited.
+- Badge guess: black
+
+## Metal Detector App
+- Source article: [How do those 'metal detector' apps for your phone actually work?](https://www.engadget.com/2318137/how-phone-metal-detector-apps-work/) (Engadget)
+- Category: sensor-tech
+- What it does: Turns a smartphone into a basic metal detector by using its built‑in magnetometer to sense magnetic field disturbances caused by nearby metal objects.
+- Likely revenue model: Typically offered as a free download with ads and an optional paid upgrade to remove ads or unlock extra features.
+- India equivalent: none found
+- India fit note: The app relies on the phone's magnetometer, which is standard on most modern smartphones, so the technology works in India, but its usefulness is limited by the sensor's low range and sensitivity compared to dedicated detectors.
+- Badge guess: black
+
+## Save8
+- Source article: [Exclusive: Bewakoof Cofounder Prabhkiran Singh Launches AI Shopping Assistant Save8](https://inc42.com/buzz/bewakoof-cofounder-prabhkiran-singh-launches-ai-shopping-assistant-save8/) (Inc42)
+- Category: price-comparison
+- What it does: Save8 is an AI‑powered shopping assistant that lets users search for products, compare prices across multiple e‑commerce platforms, and surface the best deals and coupons in a conversational interface.
+- Likely revenue model: Earns affiliate commissions or referral fees from partner retailers when users click through and complete a purchase, and may later add a premium subscription for advanced features.
+- India equivalent: Buyhatke
+- India fit note: India already has a strong culture of price‑comparison sites and high mobile internet penetration, so the core value proposition fits; however, widespread adoption of a chat‑based AI interface may require higher data usage and trust in AI recommendations, which could be a gradual shift.
+- Badge guess: orange
+
