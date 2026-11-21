@@ -3386,3 +3386,24 @@
 | Inkling 2 Mini | edge-ai | black | 2026-11-21 | none found |
 | DreamCoder | ide | black | 2026-11-21 | none found |
 | Winedroid | android-emulation | black | 2026-11-21 | none found |
+| Doddle | video-editing | black | 2026-11-21 | none found |
+| WaitFeed | customer-support | black | 2026-11-21 | none found |
+| gitroots | dev-tools | black | 2026-11-21 | none found |
+| Backspin | music-tech | orange | 2026-11-21 | DJ School India |
+| Shipyard | ai-integration | black | 2026-11-21 | none found |
+| Publicit | ad-tech | orange | 2026-11-21 | InMobi |
+| AI Context Flow | ai-agent | black | 2026-11-21 | none found |
+| Smorza | audio-control | black | 2026-11-21 | none found |
+| Glassmail | email-ai | black | 2026-11-21 | none found |
+| OpenVorld | ai-agent | black | 2026-11-21 | none found |
+| LoudFlow | ai-voice | black | 2026-11-21 | none found |
+| Prompt Puncher | ai-gaming | black | 2026-11-21 | none found |
+| SuperMailbox | email-ai | black | 2026-11-21 | none found |
+| Alter Contacts | ai-crm | orange | 2026-11-21 | Zoho CRM |
+| AnyProfile | privacy-tech | black | 2026-11-21 | none found |
+| Codemany | ci-cd | black | 2026-11-21 | none found |
+| Croon | audio-dubbing | black | 2026-11-21 | none found |
+| ClawDOS | ai-agent | black | 2026-11-21 | none found |
+| Hey Brother House | wellness-community | black | 2026-11-21 | none found |
+| Arcfront | ai-data | orange | 2026-11-21 | iMerit |
+| Minicorn Tracker | startup-analytics | orange | 2026-11-21 | Tracxn |
