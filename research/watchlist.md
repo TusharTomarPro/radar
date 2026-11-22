@@ -3438,3 +3438,6 @@
 | Fast-Anything | dev-tools | black | 2026-11-22 | none found |
 | Stulle | simulation | black | 2026-11-22 | none found |
 | Illumine | edtech | black | 2026-11-22 | none found |
+| Monaural | audio-venue | black | 2026-11-22 | none found |
+| worker755 | ai-game | black | 2026-11-22 | none found |
+| Muru | ai-devops | black | 2026-11-22 | none found |

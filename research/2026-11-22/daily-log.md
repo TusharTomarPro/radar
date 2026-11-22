@@ -250,3 +250,30 @@
 - India fit note: The model relies on widespread digital adoption by childcare providers and parents, as well as a mature regulatory environment for early‑education reporting—both of which are less developed in India, where many centres still use paper‑based processes and cash payments.
 - Badge guess: black
 
+## Monaural
+- Source article: [‘The show is starting soon. Please turn on your headphones.’](https://www.theverge.com/tech/1038879/off-broadway-love-me-auracast) (The Verge)
+- Category: audio-venue
+- What it does: Monaural equips live venues with Bluetooth Auracast transmitters and provides wireless headphones so audiences can listen to performances through personal audio streams. It enables silent or mixed‑audio experiences without traditional speaker setups.
+- Likely revenue model: Charges venues a per‑event or subscription fee for the hardware, software platform, and headphone rentals, often with a usage‑based component.
+- India equivalent: none found
+- India fit note: The model relies on widespread Bluetooth LE Audio support in smartphones and on audiences being comfortable wearing headphones throughout a show, which may be less common in Indian theatres. Additionally, many venues lack the technical infrastructure or budget to install dedicated Auracast transmitters.
+- Badge guess: black
+
+## worker755
+- Source article: [Show HN: I built a game where you are an LLM's subagent](https://github.com/gulivan/worker755) (Hacker News (front page))
+- Category: ai-game
+- What it does: A browser‑based game that puts you in the role of a sub‑agent for a large language model, letting you receive, interpret, and act on the LLM's delegated tasks.
+- Likely revenue model: Probably free/open‑source with optional sponsorships, paid API usage fees, or a premium tier for advanced LLM access.
+- India equivalent: none found
+- India fit note: The game relies on stable, low‑latency access to high‑cost LLM APIs and a user base comfortable with AI‑driven interactive experiences, which may be limited in regions with poor broadband or high API costs.
+- Badge guess: black
+
+## Muru
+- Source article: [Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator](https://simonwillison.net/2026/Nov/21/muru/) (Hacker News (front page))
+- Category: ai-devops
+- What it does: Muru is an AI‑assisted server built in Rust that runs Python applications, automatically optimizing performance and handling concurrency for developers.
+- Likely revenue model: Open‑source core with paid enterprise support, managed hosting, or licensing for advanced AI features.
+- India equivalent: none found
+- India fit note: Success depends on widespread Rust adoption and AI‑driven dev‑ops tooling, which are still niche in many Indian firms; however, the strong Python ecosystem and cloud infrastructure in India could support it if the market matures.
+- Badge guess: black
+
