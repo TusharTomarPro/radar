@@ -3414,3 +3414,27 @@
 | PcapAnalyzer | network-analysis | black | 2026-11-22 | none found |
 | Pandex | legal-tech | black | 2026-11-22 | none found |
 | Remote.it | remote-access | black | 2026-11-22 | none found |
+| Yoroll | interactive-storytelling | black | 2026-11-22 | none found |
+| TeaserKit | ai-video | orange | 2026-11-22 | InVideo |
+| Webless | ai-agent | orange | 2026-11-22 | Yellow.ai |
+| Daymaker | sales-gifting | orange | 2026-11-22 | GiftCart |
+| Creavit Studio | creative-tools | black | 2026-11-22 | none found |
+| Slotify | community-tools | black | 2026-11-22 | none found |
+| Copy Haste | clipboard-manager | black | 2026-11-22 | none found |
+| Raccoon Kids | family-tech | black | 2026-11-22 | none found |
+| MeshLive | bluetooth-mesh | black | 2026-11-22 | none found |
+| DeNotch | ui-tool | black | 2026-11-22 | none found |
+| Wispim | video-tools | black | 2026-11-22 | none found |
+| Leapdeck | productivity | black | 2026-11-22 | none found |
+| Ulika | ai-devtools | black | 2026-11-22 | none found |
+| Mockreel | design-tools | orange | 2026-11-22 | MockUPhone |
+| oovi | desktop-ai | black | 2026-11-22 | none found |
+| Pushback | travel-tech | black | 2026-11-22 | none found |
+| Zapyso | meeting-notes | black | 2026-11-22 | none found |
+| Verge | mobile-utility | black | 2026-11-22 | none found |
+| Rankhog | social-automation | black | 2026-11-22 | none found |
+| 30yr-uptime | ai-health | orange | 2026-11-22 | HealthifyMe |
+| Do It For Them Wallpaper Maker | personalization | black | 2026-11-22 | none found |
+| Fast-Anything | dev-tools | black | 2026-11-22 | none found |
+| Stulle | simulation | black | 2026-11-22 | none found |
+| Illumine | edtech | black | 2026-11-22 | none found |
