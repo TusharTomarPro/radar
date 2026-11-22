@@ -3410,3 +3410,7 @@
 | Microdrama AI | ai-entertainment | black | 2026-11-21 | none found |
 | Metal Detector App | sensor-tech | black | 2026-11-21 | none found |
 | Save8 | price-comparison | orange | 2026-11-21 | Buyhatke |
+| GTAVI | gaming-analytics | black | 2026-11-22 | none found |
+| PcapAnalyzer | network-analysis | black | 2026-11-22 | none found |
+| Pandex | legal-tech | black | 2026-11-22 | none found |
+| Remote.it | remote-access | black | 2026-11-22 | none found |
