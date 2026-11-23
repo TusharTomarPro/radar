@@ -277,3 +277,102 @@
 - India fit note: The model assumes transparent disclosure of family wealth and a cultural acceptance of wealth‑based academic assessment, which are limited in India due to privacy norms and different attitudes toward meritocracy.
 - Badge guess: black
 
+## Ladybird
+- Source article: [Ladybird, the first new browser engine in years, is now available to test](https://www.theverge.com/tech/1040872/ladybird-indie-browser-engine-alpha-testing) (The Verge)
+- Category: browser
+- What it does: Ladybird is an independent web browser that runs on macOS and Linux using a brand‑new, built‑from‑scratch rendering engine.
+- Likely revenue model: It is offered for free and likely relies on donations, sponsorships, or future premium features rather than direct sales.
+- India equivalent: none found
+- India fit note: The product targets macOS and Linux users and depends on a developer‑centric community; India's low macOS penetration and limited appetite for niche browsers may hinder adoption.
+- Badge guess: black
+
+## Kopyo
+- Source article: [Kopyo](https://www.producthunt.com/products/kopyo) (Product Hunt)
+- Category: productivity
+- What it does: Kopyo is a macOS clipboard manager that records every copy action, letting users search, organize, and retrieve past clipboard items.
+- Likely revenue model: A freemium model with a paid subscription or one‑time license for advanced features such as unlimited history, cloud sync, and premium UI themes.
+- India equivalent: none found
+- India fit note: The product relies on a sizable macOS user base and a habit of extensive copy‑paste work, both of which are less common in India where Windows and mobile dominate. Limited Mac penetration and different workflow habits could hinder adoption.
+- Badge guess: black
+
+## FigmaMCP
+- Source article: [FigmaMCP](https://www.producthunt.com/products/figmamcp) (Product Hunt)
+- Category: ai-design
+- What it does: It enables AI models like Claude Code or Codex to edit an open Figma file directly, allowing code‑driven design modifications.
+- Likely revenue model: Subscription‑based SaaS with tiered plans for individuals and teams, possibly with usage‑based add‑ons for AI calls.
+- India equivalent: none found
+- India fit note: The product relies on tight integration with Figma and access to Anthropic/OpenAI APIs, requiring stable high‑speed internet and a design‑savvy user base that may be less prevalent in India’s SMB segment.
+- Badge guess: black
+
+## Branchery
+- Source article: [Branchery](https://www.producthunt.com/products/branchery) (Product Hunt)
+- Category: dev-tools
+- What it does: Branchery is a graphical Git client designed for macOS, offering a visual interface to manage repositories, branches, and commits.
+- Likely revenue model: It likely follows a paid‑license or freemium model, charging users a one‑time fee or subscription for premium features.
+- India equivalent: none found
+- India fit note: The product is macOS‑only, while many Indian developers work on Windows or Linux, limiting its relevance; adoption also depends on the relatively lower market share of Macs in India.
+- Badge guess: black
+
+## Bored.com
+- Source article: [Bored.com: Fun, interesting and cool websites to explore when bored](https://www.bored.com/) (Hacker News (front page))
+- Category: content-discovery
+- What it does: Provides a curated collection of fun, interesting, and quirky websites for users to explore when they are bored.
+- Likely revenue model: Generates revenue through display advertising, affiliate links, and possibly a premium ad‑free subscription.
+- India equivalent: none found
+- India fit note: The model depends on widespread broadband access and a habit of casual web browsing, which exists in urban India, but ad monetization may be weaker due to lower CPM rates and different user behavior.
+- Badge guess: black
+
+## Greptile (Trex)
+- Source article: [How should an LLM see a computer?](https://www.greptile.com/blog/trex-computer-use) (Hacker News (front page))
+- Category: ai-agent
+- What it does: Trex is an LLM‑powered autonomous agent that can see and control a computer, executing commands, browsing the web, and manipulating files to complete user‑defined tasks.
+- Likely revenue model: Subscription‑based SaaS licensing for developers and enterprises that want to embed the agent into their workflows.
+- India equivalent: none found
+- India fit note: The product assumes widespread high‑speed broadband and a culture of using powerful desktop environments for productivity, which are less prevalent in many Indian households and SMEs; data‑privacy regulations may also slow adoption.
+- Badge guess: black
+
+## Kagi Mail
+- Source article: [Kagi Mail (public beta)](https://blog.kagi.com/kagi-mail-public-beta) (Hacker News (front page))
+- Category: privacy-email
+- What it does: Kagi Mail is a subscription‑based email service that emphasizes privacy, ad‑free experience, and AI‑powered features like summarization and search integration.
+- Likely revenue model: Revenue is generated through monthly or annual subscription fees for individual and team plans.
+- India equivalent: Zoho Mail
+- India fit note: The model relies on users willing to pay for a privacy‑first email service, which is less common in India where free, ad‑supported email dominates; however, corporate and enterprise segments that need data sovereignty could adopt it.
+- Badge guess: orange
+
+## NariQ
+- Source article: [NariQ: BF16-level Qwen3.8-27B in a 10 GB file](https://huggingface.co/nari-labs/Qwen3.8-27B-NariQ-GGUF) (Hacker News (front page))
+- Category: model-compression
+- What it does: Provides 3‑bit‑or‑lower quantizations of the Qwen‑3.8‑27B LLM that retain near‑BF16 quality across agentic, math, multilingual and vision tasks.
+- Likely revenue model: Monetises through enterprise licensing, paid support, and custom deployment services for its quantization library and optimized inference pipelines.
+- India equivalent: none found
+- India fit note: The solution relies on high‑end GPUs (e.g., RTX PRO 6000) and a custom llama.cpp fork, which may be less accessible for many Indian startups due to limited GPU hardware availability and higher compute costs.
+- Badge guess: black
+
+## Win4wine
+- Source article: [Win4wine – Run Windows Shell as the Linux Desktop on Wine](https://github.com/mikuta0407/win4wine) (Hacker News (front page))
+- Category: desktop-environment
+- What it does: Win4wine runs the Windows Explorer shell on top of Linux using Wine, effectively turning the Windows UI into the Linux desktop. It lets users interact with Linux applications through a familiar Windows interface.
+- Likely revenue model: The project is open‑source and likely relies on donations, sponsorships, or paid consulting/support services rather than direct product sales.
+- India equivalent: none found
+- India fit note: Adoption depends on a niche community of Linux power users comfortable with Wine and willing to replace their native desktop environment, which is not common in India where most users stick to default Linux GUIs or Windows.
+- Badge guess: black
+
+## Nospeaker
+- Source article: [Nospeaker ─ Make your MacBook's trackpad talk using its haptic motor](https://github.com/os6/nospeaker) (Hacker News (front page))
+- Category: haptic-audio
+- What it does: Nospeaker is a macOS app that turns the MacBook's trackpad haptic motor into a speaker, allowing the device to emit sound through vibrations.
+- Likely revenue model: It likely sells as a one‑time paid app or offers a paid license on the Mac App Store.
+- India equivalent: none found
+- India fit note: The solution relies on MacBook hardware and macOS, which have limited market share in India, and on users being comfortable with using a trackpad as a speaker, making adoption challenging.
+- Badge guess: black
+
+## Brew TV
+- Source article: [Who is Ankur Singla? Meet Brew TV Founder - Firm launched to fix India’s indie film distribution with 80% filmmaker pay](https://www.livemint.com/companies/people/who-is-ankur-singla-meet-brew-tv-founder-firm-launched-to-fix-india-s-indie-film-distribution-with-80-filmmaker-pay-11795453434266.html) (LiveMint Companies)
+- Category: film-distribution
+- What it does: Brew TV offers a hybrid distribution platform for independent Indian films, combining limited theatrical screenings with online streaming and guaranteeing filmmakers up to 80% of the revenue.
+- Likely revenue model: The company likely takes a commission on ticket and streaming sales and may charge a modest platform or service fee to filmmakers.
+- India equivalent: none found
+- India fit note: The model depends on coordinated limited cinema slots and a strong online streaming ecosystem, which may be challenged by scarce screen availability in smaller markets and limited audience willingness to pay for niche indie content in India.
+- Badge guess: black
+

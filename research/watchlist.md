@@ -3472,3 +3472,14 @@
 | LightSprint.ai | ai-dev | orange | 2026-11-23 | Zoho Creator |
 | Far Eye | logistics-tech | orange | 2026-11-23 | Locus |
 | FamilyScore MBA | edtech | black | 2026-11-23 | none found |
+| Ladybird | browser | black | 2026-11-23 | none found |
+| Kopyo | productivity | black | 2026-11-23 | none found |
+| FigmaMCP | ai-design | black | 2026-11-23 | none found |
+| Branchery | dev-tools | black | 2026-11-23 | none found |
+| Bored.com | content-discovery | black | 2026-11-23 | none found |
+| Greptile (Trex) | ai-agent | black | 2026-11-23 | none found |
+| Kagi Mail | privacy-email | orange | 2026-11-23 | Zoho Mail |
+| NariQ | model-compression | black | 2026-11-23 | none found |
+| Win4wine | desktop-environment | black | 2026-11-23 | none found |
+| Nospeaker | haptic-audio | black | 2026-11-23 | none found |
+| Brew TV | film-distribution | black | 2026-11-23 | none found |
