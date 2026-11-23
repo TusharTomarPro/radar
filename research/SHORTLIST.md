@@ -1,7 +1,7 @@
 # Top 20 Shortlist
-_Generated 2026-11-22 08:58 UTC -- auto-updated after every deep-research pass._
+_Generated 2026-11-23 09:56 UTC -- auto-updated after every deep-research pass._
 
-Ranked by risk score (lower = more promising) out of 810 companies deep-researched so far, 3389 tracked total.
+Ranked by risk score (lower = more promising) out of 820 companies deep-researched so far, 3423 tracked total.
 
 ---
 
@@ -149,7 +149,25 @@ Ranked by risk score (lower = more promising) out of 810 companies deep-research
 
 ---
 
-## 9. Tweet.app -- LOW RISK (3/10)
+## 9. Brev -- LOW RISK (2/10)
+
+**Category:** productivity  
+**Badge:** black  
+**Competitor status:** no-real-competitor-found  
+**Regulatory:** none  
+**Capital intensity:** low – Brev is a pure SaaS product with no physical inventory or logistics, so it can be built with a small engineering team and cloud services.  
+**Known numbers:** no public numbers found  
+**India cost estimate:** ₹30‑50 lakh for 6‑12 months (covers cloud/API usage, a core team of 2‑4 engineers, basic sales/ops support, and minimal marketing).  
+
+**AI reasoning:** The search shows no identified competitors, indicating a potential first‑mover advantage. The business faces no notable Indian regulatory hurdles and requires modest capital as a low‑intensity SaaS model, resulting in a low overall risk profile.
+
+**Your notes:** _(none added yet -- click through from the dashboard to add your take)_
+
+[Full research file](companies/brev/2026-09-22-research.md) -- [Add notes](companies/brev/your-notes.md)
+
+---
+
+## 10. Tweet.app -- LOW RISK (3/10)
 
 **Category:** microblogging  
 **Badge:** black  
@@ -167,7 +185,7 @@ Ranked by risk score (lower = more promising) out of 810 companies deep-research
 
 ---
 
-## 10. Snitch -- LOW RISK (3/10)
+## 11. Snitch -- LOW RISK (3/10)
 
 **Category:** hr-tech  
 **Badge:** black  
@@ -185,7 +203,7 @@ Ranked by risk score (lower = more promising) out of 810 companies deep-research
 
 ---
 
-## 11. Sidebranch -- LOW RISK (3/10)
+## 12. Sidebranch -- LOW RISK (3/10)
 
 **Category:** dev-tools  
 **Badge:** black  
@@ -203,7 +221,7 @@ Ranked by risk score (lower = more promising) out of 810 companies deep-research
 
 ---
 
-## 12. cmmnts -- LOW RISK (3/10)
+## 13. cmmnts -- LOW RISK (3/10)
 
 **Category:** comment-platform  
 **Badge:** black  
@@ -221,7 +239,7 @@ Ranked by risk score (lower = more promising) out of 810 companies deep-research
 
 ---
 
-## 13. Grove -- LOW RISK (3/10)
+## 14. Grove -- LOW RISK (3/10)
 
 **Category:** developer-tools  
 **Badge:** black  
@@ -239,7 +257,7 @@ Ranked by risk score (lower = more promising) out of 810 companies deep-research
 
 ---
 
-## 14. Thaw -- LOW RISK (3/10)
+## 15. Thaw -- LOW RISK (3/10)
 
 **Category:** productivity  
 **Badge:** black  
@@ -257,7 +275,7 @@ Ranked by risk score (lower = more promising) out of 810 companies deep-research
 
 ---
 
-## 15. Roadie -- LOW RISK (3/10)
+## 16. Roadie -- LOW RISK (3/10)
 
 **Category:** audio-utility  
 **Badge:** black  
@@ -275,7 +293,7 @@ Ranked by risk score (lower = more promising) out of 810 companies deep-research
 
 ---
 
-## 16. BrickForgerAI -- LOW RISK (3/10)
+## 17. BrickForgerAI -- LOW RISK (3/10)
 
 **Category:** generative-ai  
 **Badge:** black  
@@ -293,7 +311,7 @@ Ranked by risk score (lower = more promising) out of 810 companies deep-research
 
 ---
 
-## 17. at8pm -- LOW RISK (3/10)
+## 18. at8pm -- LOW RISK (3/10)
 
 **Category:** journaling  
 **Badge:** black  
@@ -311,7 +329,7 @@ Ranked by risk score (lower = more promising) out of 810 companies deep-research
 
 ---
 
-## 18. Ponytail -- LOW RISK (3/10)
+## 19. Ponytail -- LOW RISK (3/10)
 
 **Category:** low-code  
 **Badge:** black  
@@ -329,7 +347,7 @@ Ranked by risk score (lower = more promising) out of 810 companies deep-research
 
 ---
 
-## 19. Userlens -- LOW RISK (3/10)
+## 20. Userlens -- LOW RISK (3/10)
 
 **Category:** ai-agent  
 **Badge:** black  
@@ -344,23 +362,5 @@ Ranked by risk score (lower = more promising) out of 810 companies deep-research
 **Your notes:** _(none added yet -- click through from the dashboard to add your take)_
 
 [Full research file](companies/userlens/2026-09-05-research.md) -- [Add notes](companies/userlens/your-notes.md)
-
----
-
-## 20. Remote Work as a Worm -- LOW RISK (3/10)
-
-**Category:** indie-game  
-**Badge:** black  
-**Competitor status:** no-real-competitor-found  
-**Regulatory:** none  
-**Capital intensity:** low – an indie‑game is software‑only, can be built by a small remote team and run on standard cloud services, so profitability can be reached without heavy cash burn.  
-**Known numbers:** no public numbers found  
-**India cost estimate:** ₹35‑45 lakh for 6‑12 months (≈₹20‑25 lakh for a 2‑3‑person dev team, ₹10‑15 lakh for cloud/third‑party APIs, ₹5 lakh for basic legal/compliance and incidental costs).  
-
-**AI reasoning:** The market niche has no direct competitor, regulatory exposure is minimal for a software‑only game, and the capital needed is low, making the venture relatively low‑risk. The main uncertainty is market fit and the temporal nature of the remote‑work hype.
-
-**Your notes:** _(none added yet -- click through from the dashboard to add your take)_
-
-[Full research file](companies/remote-work-as-a-worm/2026-09-05-research.md) -- [Add notes](companies/remote-work-as-a-worm/your-notes.md)
 
 ---
