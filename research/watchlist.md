@@ -3441,3 +3441,10 @@
 | Monaural | audio-venue | black | 2026-11-22 | none found |
 | worker755 | ai-game | black | 2026-11-22 | none found |
 | Muru | ai-devops | black | 2026-11-22 | none found |
+| BFF | friendship-app | black | 2026-11-23 | none found |
+| 0rwx | ai-governance | black | 2026-11-23 | none found |
+| Localcode | ai-coding | black | 2026-11-23 | none found |
+| smallSF | real-time transit | orange | 2026-11-23 | MapmyIndia |
+| Vorssaint | productivity | black | 2026-11-23 | none found |
+| Google Glass | smart-glasses | black | 2026-11-23 | none found |
+| Microsoft | phone-pc integration | black | 2026-11-23 | none found |
