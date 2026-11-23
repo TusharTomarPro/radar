@@ -3448,3 +3448,27 @@
 | Vorssaint | productivity | black | 2026-11-23 | none found |
 | Google Glass | smart-glasses | black | 2026-11-23 | none found |
 | Microsoft | phone-pc integration | black | 2026-11-23 | none found |
+| NatureFunding | grant-tech | black | 2026-11-23 | none found |
+| Chat with Work | ai-assistant | orange | 2026-11-23 | Haptik |
+| Journalistic Tech | journalism-tech | black | 2026-11-23 | none found |
+| Strict | ci-cd | black | 2026-11-23 | none found |
+| Omi Work | no-code | orange | 2026-11-23 | Zoho Creator |
+| Hydrilla | ai-3d | black | 2026-11-23 | none found |
+| Modem | customer-support | orange | 2026-11-23 | Freshdesk |
+| Visitors | real-time analytics | orange | 2026-11-23 | VWO |
+| Ashwa | ai-companion | black | 2026-11-23 | none found |
+| Motionflare | video-creation | orange | 2026-11-23 | Animaker |
+| SuperTranslator | pet-tech | black | 2026-11-23 | none found |
+| LeanTake | screen-recorder | black | 2026-11-23 | none found |
+| Snowly | ski-planning | black | 2026-11-23 | none found |
+| Open Source Solana Wallet | crypto-wallet | orange | 2026-11-23 | ZebPay |
+| Orpheus | ai-aggregator | black | 2026-11-23 | none found |
+| Jot | productivity | black | 2026-11-23 | none found |
+| Mobile Agent Testers | app-testing | black | 2026-11-23 | none found |
+| ExtraBar | mac-utility | black | 2026-11-23 | none found |
+| XNU Linux | os-emulation | black | 2026-11-23 | none found |
+| Spelunkr.tv | video-aggregation | black | 2026-11-23 | none found |
+| Matters.AI | data-security | orange | 2026-11-23 | Safe Security |
+| LightSprint.ai | ai-dev | orange | 2026-11-23 | Zoho Creator |
+| Far Eye | logistics-tech | orange | 2026-11-23 | Locus |
+| FamilyScore MBA | edtech | black | 2026-11-23 | none found |
