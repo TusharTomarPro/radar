@@ -3483,3 +3483,49 @@
 | Win4wine | desktop-environment | black | 2026-11-23 | none found |
 | Nospeaker | haptic-audio | black | 2026-11-23 | none found |
 | Brew TV | film-distribution | black | 2026-11-23 | none found |
+| Prates | ai-writing | black | 2026-11-24 | none found |
+| frwrd.to | link-in-bio | black | 2026-11-24 | none found |
+| SparrowDesk | omnichannel-support | orange | 2026-11-24 | Freshworks (Freshdesk) |
+| Even G2 | smart-glasses | black | 2026-11-24 | none found |
+| distribution.dev | dev-adtech | black | 2026-11-24 | none found |
+| Rotara | workspace-manager | black | 2026-11-24 | none found |
+| Granular.Build | ai-agent | black | 2026-11-24 | none found |
+| Astrolabio | ai-assistant | black | 2026-11-24 | none found |
+| Viktor | ai-coding | black | 2026-11-24 | none found |
+| Ohhai | ai-keyboard | black | 2026-11-24 | none found |
+| K-Stra | geo-marketing | orange | 2026-11-24 | MapmyIndia |
+| Claude Code | ai-coding | black | 2026-11-24 | none found |
+| Finseo | seo-automation | black | 2026-11-24 | none found |
+| Finer Screenshot | design-tools | black | 2026-11-24 | none found |
+| Cullman | voice-ai | orange | 2026-11-24 | Vernacular.ai |
+| Wellbreak | wellness-tech | black | 2026-11-24 | none found |
+| Mystonie | media-tracking | black | 2026-11-24 | none found |
+| Umami Manager | analytics | orange | 2026-11-24 | Zoho Analytics |
+| Astor | ai-investing | black | 2026-11-24 | none found |
+| Tendor | ai-assistant | black | 2026-11-24 | none found |
+| Markup One | ai-agent | black | 2026-11-24 | none found |
+| Adanotch | desktop-ui | black | 2026-11-24 | none found |
+| Hourly Journal | time-tracking | orange | 2026-11-24 | Zoho Projects |
+| Juncts | ai-assistant | black | 2026-11-24 | none found |
+| Context | meeting-productivity | black | 2026-11-24 | none found |
+| HeroUI | ui-kit | black | 2026-11-24 | none found |
+| Scribase | dev-tools | black | 2026-11-24 | none found |
+| Valley | lead-gen | orange | 2026-11-24 | LeadSquared |
+| Drift | digital-wallpaper | black | 2026-11-24 | none found |
+| mindyOne | ai-receptionist | black | 2026-11-24 | none found |
+| InField | ai-translation | black | 2026-11-24 | none found |
+| TouchDeck | productivity | black | 2026-11-24 | none found |
+| Sotto | voice-typing | black | 2026-11-24 | none found |
+| Fleetify | ai-agent | black | 2026-11-24 | none found |
+| doola MCP | legal-tech | orange | 2026-11-24 | Vakilsearch |
+| Almma | privacy-tech | black | 2026-11-24 | none found |
+| Pinned | social-discovery | orange | 2026-11-24 | Nearbuy |
+| Bento Terminal | dev-tools | black | 2026-11-24 | none found |
+| Clam AI | email-ai | black | 2026-11-24 | none found |
+| DeskMagic | ai-assistant | black | 2026-11-24 | none found |
+| LayAuto | desktop-productivity | black | 2026-11-24 | none found |
+| Salvage Yard Drone | drone-mapping | orange | 2026-11-24 | Asteria Aerospace |
+| Mira | smart-tv | orange | 2026-11-24 | Amazon Fire TV Stick |
+| Declare | ai-ui | black | 2026-11-24 | none found |
+| Vegapay | fintech | orange | 2026-11-24 | M2P Fintech |
+| Visage Lines Personal Care | brand-house | orange | 2026-11-24 | The Good Glamm Group |
