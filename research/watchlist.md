@@ -3529,3 +3529,16 @@
 | Declare | ai-ui | black | 2026-11-24 | none found |
 | Vegapay | fintech | orange | 2026-11-24 | M2P Fintech |
 | Visage Lines Personal Care | brand-house | orange | 2026-11-24 | The Good Glamm Group |
+| tday | ai-video | black | 2026-11-24 | none found |
+| Agenda Hero | meeting-management | orange | 2026-11-24 | Zoho Meeting |
+| Protocol | ai-agent | black | 2026-11-24 | none found |
+| Jetty Pro | dev-tools | black | 2026-11-24 | none found |
+| Mason | analytics-db | black | 2026-11-24 | none found |
+| Songe | ml-infrastructure | black | 2026-11-24 | none found |
+| USB‑C Splitter | usb-accessory | orange | 2026-11-24 | iBall |
+| PhoneBox | android-dashboard | black | 2026-11-24 | none found |
+| Ben McKenzie Foundation | prediction-market | black | 2026-11-24 | none found |
+| Foundayo | pharma-tech | black | 2026-11-24 | none found |
+| Lawvek | legal-tech | black | 2026-11-24 | none found |
+| Demi AI | ai-agent | black | 2026-11-24 | none found |
+| LocalCircles | regtech | black | 2026-11-24 | none found |

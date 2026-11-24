@@ -412,3 +412,120 @@
 - India fit note: The model relies on high internet penetration, strong logistics networks and a consumer habit of buying personal‑care products online—conditions that are well‑established in urban India, though tier‑2/3 adoption may lag.
 - Badge guess: orange
 
+## tday
+- Source article: [tday.com](https://www.producthunt.com/products/tday) (Product Hunt)
+- Category: ai-video
+- What it does: tday uses AI to automatically record screen interactions and generate fully editable demo videos, letting users create tutorial‑style demos without manual editing.
+- Likely revenue model: Subscription‑based SaaS with tiered plans for individual creators and teams, possibly offering a freemium tier with paid upgrades for advanced features.
+- India equivalent: none found
+- India fit note: The product relies on stable high‑speed internet and a market accustomed to AI‑driven video creation, which may be limited in many Indian regions, though growing SaaS adoption could drive demand.
+- Badge guess: black
+
+## Agenda Hero
+- Source article: [Agenda Hero Magic Labs](https://www.producthunt.com/products/agenda-hero-magic) (Product Hunt)
+- Category: meeting-management
+- What it does: Agenda Hero lets users generate fully customizable meeting agendas and schedules, offering any layout and style to suit different team needs.
+- Likely revenue model: A subscription‑based SaaS model with tiered plans for individuals, small teams, and enterprises.
+- India equivalent: Zoho Meeting
+- India fit note: The product relies on digital meeting culture and the ability to share styled documents online, both of which are common in Indian enterprises and startups, so adoption barriers are low.
+- Badge guess: orange
+
+## Protocol
+- Source article: [Compiling Web Applications into Verified Operations for AI Agents](https://protocolis.co/paper/) (Hacker News (front page))
+- Category: ai-agent
+- What it does: It compiles web applications into a set of verified, machine‑readable operations that AI agents can invoke safely, enabling reliable web automation.
+- Likely revenue model: SaaS licensing or per‑call API fees to developers and enterprises building AI agents.
+- India equivalent: none found
+- India fit note: The solution depends on a mature ecosystem of AI agents and standardized web‑app compilation, which are still emerging in India, and may require higher developer expertise and consistent web app structures.
+- Badge guess: black
+
+## Jetty Pro
+- Source article: [Jetty Pro](http://hypercritical.co/2026/11/23/jetty-pro) (Hacker News (front page))
+- Category: dev-tools
+- What it does: Jetty Pro is a managed, enterprise‑grade version of the open‑source Jetty Java web server, offering auto‑scaling, performance monitoring, and one‑click deployment for Java applications.
+- Likely revenue model: Subscription‑based SaaS pricing per server instance or traffic tier.
+- India equivalent: none found
+- India fit note: India has a large Java developer community and cloud infrastructure, but the market for a specialized managed Jetty service is niche; adoption may depend on enterprises preferring in‑house hosting or broader PaaS solutions.
+- Badge guess: black
+
+## Mason
+- Source article: [Show HN: Mason – a lightweight Postgres read-replica, built on columnar storage](https://masondata.ai/) (Hacker News (front page))
+- Category: analytics-db
+- What it does: Mason is an open‑source drop‑in replacement for a PostgreSQL read‑replica that leverages DuckDB’s columnar compute engine to speed up ad‑hoc analytical queries while staying PostgreSQL‑compatible.
+- Likely revenue model: Provides a managed hosted service or enterprise support/subscription model around the open‑source core.
+- India equivalent: none found
+- India fit note: The solution relies on developers being comfortable deploying a DuckDB‑based replica and on network bandwidth for syncing read‑replicas; while the technology works in India, the required expertise and the need for low‑latency data pipelines may limit immediate adoption.
+- Badge guess: black
+
+## Songe
+- Source article: [A training engine for your local model, using your idle compute](https://github.com/sous-labs/songe) (Hacker News (front page))
+- Category: ml-infrastructure
+- What it does: Songe is an open‑source training engine that lets you run machine‑learning model training on the idle compute resources of your local machines, orchestrating distributed jobs without needing a cloud cluster.
+- Likely revenue model: They likely monetize via enterprise support contracts, custom integrations, or a paid SaaS layer on top of the open‑source core.
+- India equivalent: none found
+- India fit note: The model relies on users having a pool of idle CPUs/GPUs and stable local networking, which may be limited in many Indian households and small offices where compute resources are scarce or network reliability is lower.
+- Badge guess: black
+
+## USB‑C Splitter
+- Source article: [Splitting USB-C: USB 3 and USB 2 on one port](https://www.frankchiarulli.com/blog/splitting-usb-c/) (Hacker News (front page))
+- Category: usb-accessory
+- What it does: Provides a single USB‑C port that can simultaneously expose separate USB‑3 (SuperSpeed) and USB‑2 data lines through a split cable/adapter.
+- Likely revenue model: Sells the split adapter directly to consumers and OEMs via e‑commerce and B2B channels.
+- India equivalent: iBall
+- India fit note: Indian consumers already use USB‑C smartphones and laptops, and local brands like iBall sell similar adapters, so the required hardware ecosystem and purchasing behavior exist.
+- Badge guess: orange
+
+## PhoneBox
+- Source article: [One terminal command gave my forgotten Android device a desk job](https://arstechnica.com/gadgets/2026/11/one-terminal-command-gave-my-forgotten-android-device-a-desk-job/) (Ars Technica)
+- Category: android-dashboard
+- What it does: PhoneBox is an open‑source dashboard that lets you repurpose an old Android phone as a secondary display or control panel for desktop tasks.
+- Likely revenue model: It is free, likely monetized through donations, sponsorships, or paid support services.
+- India equivalent: none found
+- India fit note: Success depends on users having spare Android devices and comfort with flashing custom software via terminal commands, which may be less common in India, though the hardware is widely available.
+- Badge guess: black
+
+## Ben McKenzie Foundation
+- Source article: [This Hollywood Star Took on Crypto. Now He’s Got a New Target](https://www.wired.com/story/this-hollywood-star-took-on-crypto-now-hes-got-a-new-target/) (Wired)
+- Category: prediction-market
+- What it does: A nonprofit organization aimed at monitoring, researching, and advocating against the misuse of prediction markets, especially those tied to crypto assets. It seeks to educate the public and influence policy to mitigate risks.
+- Likely revenue model: Funded through donations, grants, and possibly sponsorships from institutions concerned with financial stability and consumer protection.
+- India equivalent: none found
+- India fit note: Prediction markets are largely restricted in India and the regulatory framework for crypto‑linked betting is underdeveloped, so the model may face legal and cultural barriers. Additionally, public awareness of such markets is low, limiting impact.
+- Badge guess: black
+
+## Foundayo
+- Source article: [Now There’s a GLP-1 in Chocolate Form](https://www.wired.com/story/now-theres-a-glp-1-in-chocolate-form/) (Wired)
+- Category: pharma-tech
+- What it does: Offers the GLP‑1 weight‑loss drug orforglipron in edible chocolate squares through a telehealth platform.
+- Likely revenue model: Charges customers per chocolate square or via a subscription, billing for the medication and delivery.
+- India equivalent: none found
+- India fit note: The model relies on regulatory approval for GLP‑1 drugs in edible form and a mature telehealth prescription ecosystem, both of which are still limited in India.
+- Badge guess: black
+
+## Lawvek
+- Source article: [Lawvek raises $550K in pre-seed round led by Neon Fund](https://entrackr.com/snippets/lawvek-raises-550k-in-pre-seed-round-led-by-neon-fund-12838009) (Entrackr)
+- Category: legal-tech
+- What it does: Lawvek provides an AI‑driven platform that cross‑checks vendor contracts, invoices, usage and service data to spot overcharges, missed rebates and service‑credit opportunities, then automates claim filing and follow‑up for enterprises.
+- Likely revenue model: A SaaS subscription fee combined with a success‑based commission on the amount recovered for each client.
+- India equivalent: none found
+- India fit note: Indian enterprises have similar vendor‑contract complexities, but many still rely on manual, paper‑based invoicing and fragmented ERP systems, which could slow AI‑driven reconciliation adoption. Additionally, the legal enforcement culture around vendor rebates is less aggressive, potentially limiting demand.
+- Badge guess: black
+
+## Demi AI
+- Source article: [Ex-Sequoia Investor Sudhanshu Mishra Launches Agentic AI Startup Demi AI](https://inc42.com/buzz/ex-sequoia-investor-sudhanshu-mishra-launches-agentic-ai-startup-demi-ai/) (Inc42)
+- Category: ai-agent
+- What it does: Demi AI builds autonomous, task‑oriented AI agents that can execute end‑to‑end workflows for enterprises, integrating with existing SaaS tools and data sources.
+- Likely revenue model: Enterprise SaaS subscription with usage‑based pricing for API calls and custom integration services.
+- India equivalent: none found
+- India fit note: Success relies on mature enterprise data pipelines, high‑speed cloud connectivity, and a culture of delegating critical processes to AI agents—capabilities that are still emerging in many Indian firms, especially SMEs.
+- Badge guess: black
+
+## LocalCircles
+- Source article: [94% of India's most-used online platforms still use dark patterns: LocalCircles](https://yourstory.com/2026/11/94-of-indias-most-used-online-platforms-still-use-dark-patterns-localcircles) (YourStory)
+- Category: regtech
+- What it does: LocalCircles audits and scores online platforms for the presence of dark‑pattern UI/UX tactics, providing compliance reports and recommendations.
+- Likely revenue model: It likely sells subscription‑based SaaS access to its analytics dashboard and consulting services to businesses that need to prove regulatory compliance.
+- India equivalent: none found
+- India fit note: The model relies on widespread consumer‑rights awareness and regulatory enforcement that are still evolving in India; many Indian firms may lack the data‑privacy infrastructure needed for systematic dark‑pattern detection.
+- Badge guess: black
+
