@@ -3542,3 +3542,6 @@
 | Lawvek | legal-tech | black | 2026-11-24 | none found |
 | Demi AI | ai-agent | black | 2026-11-24 | none found |
 | LocalCircles | regtech | black | 2026-11-24 | none found |
+| Maple | ai-privacy | black | 2026-11-25 | none found |
+| DLR Rider | transit-simulation | black | 2026-11-25 | none found |
+| PenGPT | ai-art | black | 2026-11-25 | none found |
