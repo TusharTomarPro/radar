@@ -3545,3 +3545,35 @@
 | Maple | ai-privacy | black | 2026-11-25 | none found |
 | DLR Rider | transit-simulation | black | 2026-11-25 | none found |
 | PenGPT | ai-art | black | 2026-11-25 | none found |
+| Reverse Engineer Anything | music-tech | black | 2026-11-25 | none found |
+| VibeCode | ai-devtools | black | 2026-11-25 | none found |
+| Airbot | ai-agent | black | 2026-11-25 | none found |
+| Koed | ai-agent | black | 2026-11-25 | none found |
+| MyClaw | ai-agent | black | 2026-11-25 | none found |
+| 3way.Social | seo-tech | black | 2026-11-25 | none found |
+| Hai | ai-assistant | black | 2026-11-25 | none found |
+| Hiring Right Now | recruitment | orange | 2026-11-25 | CutShort |
+| Continual-ARC | ai-agent | black | 2026-11-25 | none found |
+| Fompi | privacy-tech | black | 2026-11-25 | none found |
+| CodeRabbit | ai-agent | orange | 2026-11-25 | Qyrus |
+| TruAstra | wellness-tech | black | 2026-11-25 | none found |
+| Qube | ai-agent | black | 2026-11-25 | none found |
+| PartGenie | hardware-ai | black | 2026-11-25 | none found |
+| SteerLatch | ai-integration | black | 2026-11-25 | none found |
+| MemoryWorks | knowledge-management | orange | 2026-11-25 | Zoho (Zoho Wiki/Zoho Knowledge Base) |
+| Blink | fintech | orange | 2026-11-25 | Zerodha |
+| eluna | femtech | orange | 2026-11-25 | Maya |
+| Hold'em | e-commerce | orange | 2026-11-25 | DealShare |
+| File Spot | file-transfer | black | 2026-11-25 | none found |
+| GibHub | dev-tools | black | 2026-11-25 | none found |
+| Tendeck | ai-agent | black | 2026-11-25 | none found |
+| RelayRunner | ci-cd | black | 2026-11-25 | none found |
+| Tray | file-manager | black | 2026-11-25 | none found |
+| Sen Việt | language-tech | orange | 2026-11-25 | Baraha |
+| OpenEight | ai-agent | black | 2026-11-25 | none found |
+| Snag | price-comparison | orange | 2026-11-25 | CashKaro |
+| PeerBand | devops | black | 2026-11-25 | none found |
+| Statefold | ai-agent | black | 2026-11-25 | none found |
+| Frontier AI | ai-research | black | 2026-11-25 | none found |
+| Turbulence AI | aviation-tech | orange | 2026-11-25 | Skymet Weather |
+| OSSO | ortho-health | orange | 2026-11-25 | OrthoOne |
