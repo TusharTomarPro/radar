@@ -3577,3 +3577,5 @@
 | Frontier AI | ai-research | black | 2026-11-25 | none found |
 | Turbulence AI | aviation-tech | orange | 2026-11-25 | Skymet Weather |
 | OSSO | ortho-health | orange | 2026-11-25 | OrthoOne |
+| pw-loudness-eq | audio-software | black | 2026-11-26 | none found |
+| Sarvam Token Factory | ai-inference | black | 2026-11-26 | none found |
