@@ -3617,3 +3617,11 @@
 | Minipg | database | black | 2026-11-26 | none found |
 | XEBO.ai | customer experience | orange | 2026-11-26 | MoEngage |
 | Readability Audit | content-analytics | black | 2026-11-26 | none found |
+| Fuck_data_brokers.py | privacy-tech | black | 2026-11-26 | none found |
+| SimDrop | dev-tools | black | 2026-11-26 | none found |
+| Kagi Watch | change-detection | black | 2026-11-26 | none found |
+| Sidebyside | dev-tools | orange | 2026-11-26 | LambdaTest |
+| Nextcloud | cloud-collaboration | orange | 2026-11-26 | Zoho (Zoho Docs / WorkDrive) |
+| Apple MagSafe Wallet | mobile-accessories | black | 2026-11-26 | none found |
+| Edovia | remote-desktop | orange | 2026-11-26 | Zoho Assist |
+| BharatGen | document-ai | orange | 2026-11-26 | Docsumo |

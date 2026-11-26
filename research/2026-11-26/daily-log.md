@@ -358,3 +358,75 @@
 - India fit note: Improving readability relies on disciplined content creation and editorial workflows, which many Indian firms lack; plus the multilingual web landscape may limit the impact of a single‑language readability tool.
 - Badge guess: black
 
+## Fuck_data_brokers.py
+- Source article: [Show HN: Fuck_data_brokers.py](https://github.com/gary23w/f-ck_data_brokers) (Hacker News (front page))
+- Category: privacy-tech
+- What it does: A script that automates opt‑out requests to data‑broker companies to delete a user's personal information from their databases.
+- Likely revenue model: Open‑source and free to use, with possible monetization through donations or a paid hosted service for bulk or managed opt‑out requests.
+- India equivalent: none found
+- India fit note: The tool relies on the existence of online opt‑out portals and a culture of proactive personal data removal, which are less common in India where data‑broker practices are less visible and regulatory frameworks differ, limiting immediate adoption.
+- Badge guess: black
+
+## SimDrop
+- Source article: [Show HN: SimDrop – Running iOS simulators in the macOS Finder sidebar](https://github.com/rxliuli/sim-drop) (Hacker News (front page))
+- Category: dev-tools
+- What it does: SimDrop adds each running iOS simulator to the macOS Finder sidebar, exposing its Downloads and Photos folders for drag‑and‑drop file access. It also provides a terminal path to the same locations.
+- Likely revenue model: The tool is free and open‑source, so revenue would likely come from donations, sponsorships, or paid support services.
+- India equivalent: none found
+- India fit note: The utility relies on macOS 15+ and the iOS simulator environment, which are primarily used by developers with Apple hardware—a relatively small segment in India. Adoption would be limited to those niche developer teams.
+- Badge guess: black
+
+## Kagi Watch
+- Source article: [Kagi Watch](https://kagi.com/watch) (Hacker News (front page))
+- Category: change-detection
+- What it does: Kagi Watch monitors webpages for any visual or content changes and sends users private, ad‑free notifications when a change is detected.
+- Likely revenue model: It operates on a subscription model, charging users a monthly or annual fee for a set number of watches and alerts.
+- India equivalent: none found
+- India fit note: The service relies on widespread broadband access and a user habit of subscribing to niche SaaS tools, which are still emerging in many Indian consumer segments.
+- Badge guess: black
+
+## Sidebyside
+- Source article: [Show HN: Three Linux VMs in a browser tab, each running a different browser](https://michidk.github.io/sidebyside/) (Hacker News (front page))
+- Category: dev-tools
+- What it does: Runs three isolated Linux virtual machines inside a single browser tab, each VM hosting a different web browser for side‑by‑side testing.
+- Likely revenue model: Offers a freemium SaaS model where basic usage is free and enterprises pay a subscription for higher concurrency, API access, and support.
+- India equivalent: LambdaTest
+- India fit note: The service relies on client‑side WebAssembly/VM performance and stable high‑speed internet, which may be challenging on low‑end devices or slower connections common in many Indian regions.
+- Badge guess: orange
+
+## Nextcloud
+- Source article: [Nextcloud Office Desktop app](https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/) (Hacker News (front page))
+- Category: cloud-collaboration
+- What it does: Nextcloud Office Desktop app lets users edit and collaborate on documents stored in a Nextcloud server directly from their desktop, with real‑time syncing and offline support.
+- Likely revenue model: Revenue comes from enterprise subscriptions, support contracts, and paid premium apps on top of the open‑source core.
+- India equivalent: Zoho (Zoho Docs / WorkDrive)
+- India fit note: The model relies on organizations running their own servers and having reliable broadband; while Indian enterprises are increasingly interested in data‑sovereignty, many still prefer SaaS due to limited IT resources and variable connectivity, which could slow adoption.
+- Badge guess: orange
+
+## Apple MagSafe Wallet
+- Source article: [The Best MagSafe Wallets for Your Everyday Carry (2026)](https://www.wired.com/gallery/best-magsafe-wallets/) (Wired)
+- Category: mobile-accessories
+- What it does: A thin, magnetic wallet that snaps onto the back of an iPhone using MagSafe, holding a few credit cards and IDs.
+- Likely revenue model: Sells the wallet as a one‑time hardware purchase directly to consumers through Apple stores and online channels.
+- India equivalent: none found
+- India fit note: The product relies on Apple's proprietary MagSafe technology, which is not widely adopted in India, and Indian consumers typically prefer lower‑cost, non‑magnetic card holders.
+- Badge guess: black
+
+## Edovia
+- Source article: [The Screens app will let you turn your iPhone Duo into an itty bitty MacBook](https://www.engadget.com/2329115/the-screens-app-will-let-you-turn-your-iphone-duo-into-an-itty-bitty-macbook/) (Engadget)
+- Category: remote-desktop
+- What it does: Screens lets users remotely access their Mac or PC from an iPhone, and its new Laptop Mode turns the iPhone Duo into a tiny laptop with a virtual keyboard and trackpad.
+- Likely revenue model: The app is sold on a subscription basis (monthly or annual) with a free trial period.
+- India equivalent: Zoho Assist
+- India fit note: The service relies on fast, low‑latency internet and a dual‑screen iPhone, both of which are less common in India, so adoption may be limited to power users with premium connectivity and devices.
+- Badge guess: orange
+
+## BharatGen
+- Source article: [BharatGen Launches Patram 1.5 To Target Enterprise Document Processing](https://inc42.com/buzz/bharatgen-launches-patram-1-5-to-target-enterprise-document-processing/) (Inc42)
+- Category: document-ai
+- What it does: Patram 1.5 is a vision‑language model that automates end‑to‑end document processing for banking, financial services and insurance, extracting, classifying and validating data from PDFs, images and scanned forms.
+- Likely revenue model: Enterprise SaaS/AI platform subscription with usage‑based pricing for API calls or per‑document processing volume.
+- India equivalent: Docsumo
+- India fit note: Indian BFSI firms have similar legacy document workflows, but adoption may be slowed by data‑privacy regulations and the need to integrate with entrenched core banking systems; however, the required scanning infrastructure is already widespread.
+- Badge guess: orange
+
