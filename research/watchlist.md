@@ -3579,3 +3579,41 @@
 | OSSO | ortho-health | orange | 2026-11-25 | OrthoOne |
 | pw-loudness-eq | audio-software | black | 2026-11-26 | none found |
 | Sarvam Token Factory | ai-inference | black | 2026-11-26 | none found |
+| ExtraOrbital | ai-infrastructure | black | 2026-11-26 | none found |
+| Transept AI | voice-ai | black | 2026-11-26 | none found |
+| Nookdeck | productivity | black | 2026-11-26 | none found |
+| iwantmy.app | no-code | orange | 2026-11-26 | Zoho Creator |
+| InfraThrone DevOps Park | devops | black | 2026-11-26 | none found |
+| Flurra | ai-video | black | 2026-11-26 | none found |
+| Superframes | ai-video | orange | 2026-11-26 | InVideo |
+| Meboki | writing-assist | black | 2026-11-26 | none found |
+| Pax | ai-agent | black | 2026-11-26 | none found |
+| Chunkify | video-api | orange | 2026-11-26 | VdoCipher |
+| Doodle | ai-assistant | black | 2026-11-26 | none found |
+| Remora | ai-agent | black | 2026-11-26 | none found |
+| ServNook | dev-tools | black | 2026-11-26 | none found |
+| WhipDesk | ai-devtools | black | 2026-11-26 | none found |
+| Mime | ai-transcription | black | 2026-11-26 | none found |
+| Hello Transcribe | speech-to-text | black | 2026-11-26 | none found |
+| Hub | ai-coding | black | 2026-11-26 | none found |
+| Claude-Mem | ai-agent | black | 2026-11-26 | none found |
+| Postmaster of Puppets | email-security | black | 2026-11-26 | none found |
+| FocusHaze | focus-tool | black | 2026-11-26 | none found |
+| DeskFleet | ai-agent | black | 2026-11-26 | none found |
+| SuperLoupe | desktop-search | black | 2026-11-26 | none found |
+| OpenChat | live-chat | orange | 2026-11-26 | Chatwoot |
+| Bifura | ai-agent | black | 2026-11-26 | none found |
+| Ottante | ai-agent | black | 2026-11-26 | none found |
+| Antipode | ai-credits | black | 2026-11-26 | none found |
+| Clary | voice-ai | black | 2026-11-26 | none found |
+| QA.tech | dev-tools | orange | 2026-11-26 | TestSigma |
+| Fairwind | edtech | orange | 2026-11-26 | Klassroom |
+| Ground | synthetic-data | black | 2026-11-26 | none found |
+| MusicProductionAI | ai-music | black | 2026-11-26 | none found |
+| AgentDE | ai-devtools | black | 2026-11-26 | none found |
+| MeetFolks | meeting-assistant | black | 2026-11-26 | none found |
+| Monton | ai-agent | black | 2026-11-26 | none found |
+| Moat | llm-aggregator | black | 2026-11-26 | none found |
+| Minipg | database | black | 2026-11-26 | none found |
+| XEBO.ai | customer experience | orange | 2026-11-26 | MoEngage |
+| Readability Audit | content-analytics | black | 2026-11-26 | none found |

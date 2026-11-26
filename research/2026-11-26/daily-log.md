@@ -16,3 +16,345 @@
 - India fit note: The model relies on open access to Chinese LLMs and a token‑pricing mindset that may clash with India's data‑localisation rules and geopolitical sensitivities, limiting adoption.
 - Badge guess: black
 
+## ExtraOrbital
+- Source article: [ExtraOrbital](https://www.producthunt.com/products/extraorbital-deleted-1365752) (Product Hunt)
+- Category: ai-infrastructure
+- What it does: Provides open‑source style databases, storage buckets, and managed AI API keys that AI agents can use out‑of‑the‑box.
+- Likely revenue model: Charges developers and enterprises a subscription or usage‑based fee for premium data, higher storage limits, and managed AI key provisioning.
+- India equivalent: none found
+- India fit note: The offering depends on a mature ecosystem of autonomous AI agents and cloud storage services, which are still emerging in India, and may encounter hurdles related to data residency, API cost structures, and limited agent adoption.
+- Badge guess: black
+
+## Transept AI
+- Source article: [Transept AI](https://www.producthunt.com/products/transept-ai) (Product Hunt)
+- Category: voice-ai
+- What it does: Transept AI uses generative AI to translate a written book into multiple languages while preserving the author's original voice, and adds a cryptographic watermark to prove authorship.
+- Likely revenue model: Subscription or pay‑per‑minute pricing for voice synthesis and translation credits.
+- India equivalent: none found
+- India fit note: The service relies on high‑quality neural voice cloning and digital watermarking, which require robust broadband and widespread acceptance of AI‑generated audio—both still emerging in India, especially for publishing workflows.
+- Badge guess: black
+
+## Nookdeck
+- Source article: [Nookdeck](https://www.producthunt.com/products/nookdeck) (Product Hunt)
+- Category: productivity
+- What it does: Turns an old smartphone into a customizable macro keypad, similar to an Elgato Stream Deck, for controlling a computer.
+- Likely revenue model: Charges a one‑time fee for the companion app or offers a subscription for advanced button packs and cloud sync.
+- India equivalent: none found
+- India fit note: The concept relies on users having spare smartphones and the ability to connect them via USB or Wi‑Fi to a PC, which is common, but widespread adoption may be limited by awareness and the need for driver support on Indian PCs.
+- Badge guess: black
+
+## iwantmy.app
+- Source article: [iwantmy.app](https://www.producthunt.com/products/iwantmy-app) (Product Hunt)
+- Category: no-code
+- What it does: Lets users describe a mobile app through a chat interface and automatically generates a functional app that can be opened on their phone.
+- Likely revenue model: Charges users a subscription or per‑app fee for generating and hosting the apps.
+- India equivalent: Zoho Creator
+- India fit note: The model relies on widespread smartphone usage and reliable internet, both of which are present in India, but side‑loading generated apps may face distribution hurdles without Play Store approval.
+- Badge guess: orange
+
+## InfraThrone DevOps Park
+- Source article: [InfraThrone DevOps Park](https://www.producthunt.com/products/infrathrone-devops-park) (Product Hunt)
+- Category: devops
+- What it does: Provides live DevOps labs that simulate real production environments, allowing teams to practice fixing outages and improve incident response.
+- Likely revenue model: Subscription‑based SaaS pricing per user or per team, possibly with tiered plans for enterprise features.
+- India equivalent: none found
+- India fit note: The model relies on mature DevOps practices and a culture of proactive incident‑response training, which are still emerging in many Indian firms, especially SMEs.
+- Badge guess: black
+
+## Flurra
+- Source article: [Flurra](https://www.producthunt.com/products/flurra) (Product Hunt)
+- Category: ai-video
+- What it does: Flurra lets users describe video edits in plain language, using Claude or ChatGPT to automatically apply cuts, transitions, captions, and other edits.
+- Likely revenue model: A subscription‑based SaaS model with tiered plans based on minutes of video processed per month, possibly with a pay‑as‑you‑go overage fee.
+- India equivalent: none found
+- India fit note: The service relies on fast broadband for uploading large video files and on widespread familiarity with generative AI chat interfaces, which may be limited in many Indian regions, especially outside major metros.
+- Badge guess: black
+
+## Superframes
+- Source article: [Superframes](https://www.producthunt.com/products/superframes-ai-video-editor) (Product Hunt)
+- Category: ai-video
+- What it does: Superframes lets users give a text brief to an AI director, which then automatically edits raw footage into a polished video according to the instructions.
+- Likely revenue model: Subscription‑based SaaS with tiered plans based on minutes of video processed or number of projects per month.
+- India equivalent: InVideo
+- India fit note: The service relies on fast broadband for uploading large video files and on cloud compute for AI processing, which may be a barrier in regions with limited internet speeds; otherwise the concept fits Indian creators and marketers.
+- Badge guess: orange
+
+## Meboki
+- Source article: [Meboki](https://www.producthunt.com/products/meboki) (Product Hunt)
+- Category: writing-assist
+- What it does: Meboki provides an offline grammar checking engine that can be used inside any Mac application. It is open‑source and runs locally without an internet connection.
+- Likely revenue model: Probably a freemium model with paid premium features or enterprise licensing for advanced language models and support.
+- India equivalent: none found
+- India fit note: The product relies on a sizable Mac user base and willingness to install desktop extensions, both of which are limited in India where Windows and mobile dominate. Offline processing is feasible, but market adoption may be low.
+- Badge guess: black
+
+## Pax
+- Source article: [Pax by Pydantic](https://www.producthunt.com/products/pydantic) (Product Hunt)
+- Category: ai-agent
+- What it does: Pax is an AI‑powered coding assistant that lets developers invoke code generation and manipulation as plug‑in commands within their IDE or workflow. It treats every coding task as a modular plugin that can be called on demand.
+- Likely revenue model: Subscription‑based SaaS with tiered plans (free tier, paid developer/team licenses) and possibly usage‑based add‑ons for enterprise features.
+- India equivalent: none found
+- India fit note: Success depends on widespread high‑speed internet, familiarity with AI‑assisted development tools, and a culture of integrating plug‑in based workflows, which are still emerging in many Indian development teams.
+- Badge guess: black
+
+## Chunkify
+- Source article: [Chunkify](https://www.producthunt.com/products/chunkify) (Product Hunt)
+- Category: video-api
+- What it does: Chunkify offers a developer‑focused API that streams video content and provides chunked video data for integration with AI agents and applications.
+- Likely revenue model: A usage‑based SaaS model where developers pay per streamed minute or per API call, with tiered subscription plans for higher volumes.
+- India equivalent: VdoCipher
+- India fit note: The service relies on high‑quality CDN infrastructure and consistent broadband speeds, which are improving in India but can still be uneven in tier‑2/3 regions; developer adoption of AI‑agent workflows is also nascent.
+- Badge guess: orange
+
+## Doodle
+- Source article: [Doodle](https://www.producthunt.com/products/doodle-5) (Product Hunt)
+- Category: ai-assistant
+- What it does: Doodle is a desktop AI assistant represented by a stick‑figure icon on the taskbar that can answer user questions and perform simple tasks via conversational interaction.
+- Likely revenue model: A freemium model with paid subscriptions for advanced features and enterprise licensing.
+- India equivalent: none found
+- India fit note: The product relies on constant high‑speed internet and user comfort with AI chat on desktop computers, which may be limited in India where mobile usage dominates and privacy concerns are higher.
+- Badge guess: black
+
+## Remora
+- Source article: [Remora](https://www.producthunt.com/products/remora-6) (Product Hunt)
+- Category: ai-agent
+- What it does: Remora provides a long‑term memory layer that lets AI agents retain and retrieve contextual information across multiple interactions, enabling more coherent and personalized experiences.
+- Likely revenue model: Subscription‑based SaaS with tiered pricing and usage‑based API fees for developers and enterprises.
+- India equivalent: none found
+- India fit note: The product relies on widespread adoption of autonomous AI agents and robust cloud infrastructure, which are still emerging in India; developer awareness and integration standards may lag behind.
+- Badge guess: black
+
+## ServNook
+- Source article: [ServNook](https://www.producthunt.com/products/webhut) (Product Hunt)
+- Category: dev-tools
+- What it does: ServNook provides a Windows-based local development stack that ships with PHP 8.5, offering an alternative to XAMPP which is limited to older PHP versions.
+- Likely revenue model: Probably a freemium model with a paid license or subscription for premium features, updates, and support.
+- India equivalent: none found
+- India fit note: The product relies on standard Windows PCs and developer habits of running local servers, which are common in India, so there are no major behavioral or infrastructure barriers.
+- Badge guess: black
+
+## WhipDesk
+- Source article: [WhipDesk](https://www.producthunt.com/products/whipdesk) (Product Hunt)
+- Category: ai-devtools
+- What it does: WhipDesk lets developers monitor, command and receive outputs from AI coding agents (e.g., code generation, debugging) directly from a mobile device.
+- Likely revenue model: A subscription‑based SaaS model with tiered plans for individual developers and teams, possibly offering a free tier with limited usage.
+- India equivalent: none found
+- India fit note: Success depends on widespread high‑speed mobile internet and a developer culture comfortable delegating code generation to AI; limited broadband quality and data‑cost sensitivity in India could slow adoption.
+- Badge guess: black
+
+## Mime
+- Source article: [Mime](https://www.producthunt.com/products/mime) (Product Hunt)
+- Category: ai-transcription
+- What it does: Mime uses computer‑vision to read a user's lip movements via webcam and converts the silent speech into typed text in real time.
+- Likely revenue model: A subscription‑based SaaS model with tiered plans for individual users and enterprise teams.
+- India equivalent: none found
+- India fit note: The product relies on widespread webcam usage, high‑speed internet, and user comfort with camera‑based monitoring, which are less common in many Indian workplaces and homes, potentially limiting adoption.
+- Badge guess: black
+
+## Hello Transcribe
+- Source article: [Hello Transcribe 5](https://www.producthunt.com/products/hello-transcribe) (Product Hunt)
+- Category: speech-to-text
+- What it does: Hello Transcribe provides on‑device audio transcription with automatic speaker labeling, keeping all data private on the user's device.
+- Likely revenue model: A subscription‑based model (monthly or annual) with a free tier and premium features such as higher transcription limits and advanced editing tools.
+- India equivalent: none found
+- India fit note: The product relies on powerful on‑device AI processing, which may be limited on many low‑end smartphones common in India, and it currently supports only a few languages, reducing relevance for the multilingual Indian market.
+- Badge guess: black
+
+## Hub
+- Source article: [Hub](https://www.producthunt.com/products/hub-20) (Product Hunt)
+- Category: ai-coding
+- What it does: Hub batches and optimizes Claude Code or Codex AI coding sessions, allowing developers to run the equivalent of 100 sessions for the cost of about five.
+- Likely revenue model: Subscription or credit‑based pricing where users pay for a bundle of AI coding session credits.
+- India equivalent: none found
+- India fit note: The service depends on fast, reliable internet and affordable access to Claude/Codex APIs, which can be cost‑prohibitive or have latency issues in India, and the developer community's adoption of AI‑assisted coding tools is still emerging.
+- Badge guess: black
+
+## Claude-Mem
+- Source article: [Claude-Mem Cloud Sync](https://www.producthunt.com/products/claude-mem) (Product Hunt)
+- Category: ai-agent
+- What it does: Claude-Mem provides cloud‑based synchronization of memory for Anthropic's Claude AI agents, allowing users to retain context and personalizations across devices.
+- Likely revenue model: Subscription‑based SaaS tiered by storage volume and number of synced agents, with a free tier for limited usage.
+- India equivalent: none found
+- India fit note: The service relies on widespread, low‑latency internet access and on users already adopting Claude, which is less common in India due to regional AI adoption patterns and occasional access restrictions.
+- Badge guess: black
+
+## Postmaster of Puppets
+- Source article: [Postmaster of Puppets](https://www.producthunt.com/products/postmaster-of-puppets) (Product Hunt)
+- Category: email-security
+- What it does: It lets you test whether anyone can send email that appears to come from your domain, helping detect spoofing and misconfigurations in email authentication.
+- Likely revenue model: Subscription SaaS with tiered plans for domain monitoring, alerts, and reporting.
+- India equivalent: none found
+- India fit note: The service relies on DMARC/DKIM adoption and proactive email security practices, which are still maturing among many Indian firms, so uptake may be slower outside large enterprises.
+- Badge guess: black
+
+## FocusHaze
+- Source article: [FocusHaze](https://www.producthunt.com/products/focushaze) (Product Hunt)
+- Category: focus-tool
+- What it does: FocusHaze dims all open windows except the active one, helping users concentrate on a single task without visual distractions.
+- Likely revenue model: Probably a one‑time purchase or freemium model with a paid upgrade for premium features.
+- India equivalent: none found
+- India fit note: The product relies on desktop OS capabilities (Windows/macOS) and a user habit of working in a single-window environment, which exists in India but price sensitivity may limit adoption.
+- Badge guess: black
+
+## DeskFleet
+- Source article: [DeskFleet](https://www.producthunt.com/products/deskfleet) (Product Hunt)
+- Category: ai-agent
+- What it does: DeskFleet lets teams deploy and coordinate AI coding agents on each team member’s workstation, enabling collaborative code generation, testing, and execution across the team’s machines.
+- Likely revenue model: A subscription SaaS model charged per user or per seat, possibly with tiered plans for larger teams.
+- India equivalent: none found
+- India fit note: The product assumes reliable high‑speed internet and uniform workstation environments, which can be inconsistent in many Indian SMEs; data‑privacy concerns around running AI agents on local machines may also hinder adoption.
+- Badge guess: black
+
+## SuperLoupe
+- Source article: [SuperLoupe](https://www.producthunt.com/products/superloupe) (Product Hunt)
+- Category: desktop-search
+- What it does: SuperLoupe lets Mac users search inside any file, document, or content on their computer with a fast, unified interface.
+- Likely revenue model: Probably a one‑time purchase/license or freemium model with a paid upgrade for advanced features.
+- India equivalent: none found
+- India fit note: The product relies on widespread Mac usage and deep OS integration; with low Mac market share and different file‑management habits in India, adoption could be limited.
+- Badge guess: black
+
+## OpenChat
+- Source article: [OpenChat](https://www.producthunt.com/products/openchat-5) (Product Hunt)
+- Category: live-chat
+- What it does: Provides an open‑source live‑chat widget that runs on a user’s own Cloudflare account, enabling real‑time customer conversations without third‑party SaaS hosting.
+- Likely revenue model: Free core product with paid options such as premium integrations, enterprise support, or hosted managed services.
+- India equivalent: Chatwoot
+- India fit note: Self‑hosted chat requires reliable edge compute and DNS routing; Cloudflare Workers are available in India, but adoption may be limited by smaller businesses’ familiarity with serverless deployment.
+- Badge guess: orange
+
+## Bifura
+- Source article: [Bifura](https://www.producthunt.com/products/bifura) (Product Hunt)
+- Category: ai-agent
+- What it does: Bifura visualises a website the way AI agents interpret it, turning pages into structured, LLM‑friendly representations for developers and marketers.
+- Likely revenue model: Subscription‑based SaaS with tiered plans for API calls and advanced analytics features.
+- India equivalent: none found
+- India fit note: Success depends on widespread adoption of LLM‑driven workflows and developers needing AI‑ready site data; while AI interest is growing in India, the specific niche of AI‑agent site visualisation is still nascent.
+- Badge guess: black
+
+## Ottante
+- Source article: [Ottante](https://www.producthunt.com/products/ottante) (Product Hunt)
+- Category: ai-agent
+- What it does: Ottante is a macOS tool that monitors and validates the output of AI agents, letting users review and verify the work those agents perform directly on their Mac.
+- Likely revenue model: A subscription‑based SaaS model with tiered plans (e.g., free tier for limited checks, paid tiers for unlimited monitoring and advanced analytics).
+- India equivalent: none found
+- India fit note: The product assumes widespread use of desktop AI agents on macOS, which is less common in India where many developers rely on cloud‑based tools and Windows/Linux environments, potentially limiting adoption.
+- Badge guess: black
+
+## Antipode
+- Source article: [Antipode](https://www.producthunt.com/products/antipode) (Product Hunt)
+- Category: ai-credits
+- What it does: Antipode provides a platform where users can trade or give away their unused Claude Code API limits to other developers, enabling better utilization of AI credits without violating Anthropic's terms of service.
+- Likely revenue model: The service likely charges a small transaction fee or subscription for premium features such as escrow, verification, and priority matching.
+- India equivalent: none found
+- India fit note: The model relies on widespread access to Anthropic's Claude API and a culture of credit sharing; limited API availability in India and stricter interpretation of ToS could hinder adoption.
+- Badge guess: black
+
+## Clary
+- Source article: [Clary](https://www.producthunt.com/products/clary-2) (Product Hunt)
+- Category: voice-ai
+- What it does: Clary turns incoming messages from apps like WhatsApp into iOS push notifications spoken in the sender's own cloned voice.
+- Likely revenue model: A freemium model with a subscription tier for unlimited voice clones and premium features.
+- India equivalent: none found
+- India fit note: Success depends on high iOS market share and user willingness to share voice data for cloning, both of which are limited in India where Android dominates and privacy concerns are high.
+- Badge guess: black
+
+## QA.tech
+- Source article: [QA.tech MCP](https://www.producthunt.com/products/qa-tech) (Product Hunt)
+- Category: dev-tools
+- What it does: Provides AI‑powered QA agents that automatically verify code changes directly from the developer's IDE.
+- Likely revenue model: Subscription‑based SaaS pricing per developer seat or team license.
+- India equivalent: TestSigma
+- India fit note: The model relies on high‑speed internet and widespread IDE integration, which are available in major Indian tech hubs, but price sensitivity and preference for open‑source tools could affect adoption.
+- Badge guess: orange
+
+## Fairwind
+- Source article: [Fairwind](https://www.producthunt.com/products/fairwind) (Product Hunt)
+- Category: edtech
+- What it does: Fairwind is a platform that lets teachers or coaches verify and endorse users' activity lists, providing trusted validation for extracurricular or learning achievements.
+- Likely revenue model: They likely charge a subscription fee to educators or institutions for access to the verification dashboard, with a possible freemium tier for individual users.
+- India equivalent: Klassroom
+- India fit note: The model depends on teachers regularly using a digital portal to confirm activities, which may be limited in schools with low internet penetration or where teachers are not accustomed to such administrative tools.
+- Badge guess: orange
+
+## Ground
+- Source article: [Ground](https://www.producthunt.com/products/ground-2) (Product Hunt)
+- Category: synthetic-data
+- What it does: Ground generates high‑quality synthetic datasets that can be used for software testing or machine‑learning model training, mimicking the statistical properties of real data without exposing sensitive information.
+- Likely revenue model: A subscription‑based SaaS model with tiered pricing based on data volume, API calls, or feature access.
+- India equivalent: none found
+- India fit note: Adoption may be limited by Indian firms' reliance on real data for compliance and a slower uptake of synthetic data for privacy, though cloud compute needed for generation is readily available.
+- Badge guess: black
+
+## MusicProductionAI
+- Source article: [MusicProductionAI](https://www.producthunt.com/products/musicproductionai) (Product Hunt)
+- Category: ai-music
+- What it does: Generates original music tracks from text prompts or a user‑hummed melody directly in a web browser using generative AI.
+- Likely revenue model: A freemium SaaS model with subscription tiers for higher‑quality exports, longer tracks, and commercial licensing.
+- India equivalent: none found
+- India fit note: The service relies on fast broadband and browser‑based GPU compute, which are uneven across India, and cultural acceptance of AI‑generated music for commercial use is still emerging.
+- Badge guess: black
+
+## AgentDE
+- Source article: [AgentDE](https://www.producthunt.com/products/agentde) (Product Hunt)
+- Category: ai-devtools
+- What it does: AgentDE provides a native macOS window that aggregates multiple AI coding agents, letting developers interact with them side‑by‑side in a single interface.
+- Likely revenue model: A subscription‑based SaaS model with tiered pricing for individual developers and teams.
+- India equivalent: none found
+- India fit note: The product relies on a strong macOS developer base and the habit of using native Mac apps for coding, which is limited in India where many developers work on Windows or Linux machines.
+- Badge guess: black
+
+## MeetFolks
+- Source article: [MeetFolks](https://www.producthunt.com/products/meetfolks) (Product Hunt)
+- Category: meeting-assistant
+- What it does: MeetFolks uses AI to capture audio from in‑person meetings, transcribe the conversation, and generate concise notes and action items.
+- Likely revenue model: Subscription SaaS with tiered pricing per user or per meeting‑minute usage.
+- India equivalent: none found
+- India fit note: The product relies on consistent in‑room audio capture and participants' consent to be recorded, which may be hindered by privacy concerns and varied meeting‑room acoustics in many Indian offices.
+- Badge guess: black
+
+## Monton
+- Source article: [Monton](https://www.producthunt.com/products/monton) (Product Hunt)
+- Category: ai-agent
+- What it does: Monton provides AI‑powered agents that automate routine tasks for marketing and creative agencies, such as reporting, client updates, scheduling, and data entry.
+- Likely revenue model: A subscription‑based SaaS model, charging agencies per seat or per volume of tasks processed.
+- India equivalent: none found
+- India fit note: The product relies on reliable high‑speed internet and agencies’ willingness to trust AI for client‑facing communications, which are growing but still uneven across Indian agencies.
+- Badge guess: black
+
+## Moat
+- Source article: [Moat: Your OpenRouter Replacement](https://commandcode.ai/moat) (Hacker News (front page))
+- Category: llm-aggregator
+- What it does: Moat offers a unified API that routes requests to multiple large language model providers, letting developers switch models and compare performance without changing code.
+- Likely revenue model: Charges developers per token or per request and/or offers tiered subscription plans for higher usage and premium features.
+- India equivalent: none found
+- India fit note: The service relies on high‑speed internet and credit‑card or digital payments for usage‑based billing, which are available in India, but adoption may be limited by the relatively lower penetration of enterprise‑grade LLM usage compared to the US.
+- Badge guess: black
+
+## Minipg
+- Source article: [Minipg: PostgreSQL as a Single Executable](https://progrium.github.io/minipg/) (Hacker News (front page))
+- Category: database
+- What it does: Minipg bundles PostgreSQL into a single executable binary, enabling zero‑config, portable deployment of a full PostgreSQL instance.
+- Likely revenue model: The project is open‑source and likely monetises through paid support, consulting, or an enterprise‑grade offering.
+- India equivalent: none found
+- India fit note: The concept relies on developers' willingness to adopt a single‑binary DB for containerised or edge workloads, which is feasible in India’s growing cloud‑native ecosystem, but widespread adoption may be limited by existing reliance on managed DB services.
+- Badge guess: black
+
+## XEBO.ai
+- Source article: [XEBO.ai Bags $10.5 Mn To Expand Its Customer Experience Platform](https://inc42.com/buzz/xebo-ai-bags-10-5-mn-to-strengthen-ai-solutions-stack/) (Inc42)
+- Category: customer experience
+- What it does: XEBO.ai offers an AI‑driven platform that helps businesses monitor, analyze and improve customer interactions across channels, providing real‑time insights, personalization and automation tools.
+- Likely revenue model: A subscription‑based SaaS model with tiered pricing based on usage, number of seats or volume of interactions.
+- India equivalent: MoEngage
+- India fit note: The platform relies on widespread digital touchpoints and mature data‑analytics capabilities, which are present in India's urban consumer market, but success may require integration with local CRM systems and compliance with Indian data‑localisation rules.
+- Badge guess: orange
+
+## Readability Audit
+- Source article: [India Inc built websites for people. AI bots are struggling to read them](https://www.business-standard.com/technology/artificial-intelligence/india-inc-built-websites-for-people-ai-bots-are-struggling-to-read-them-126112600498_1.html) (Business Standard Tech)
+- Category: content-analytics
+- What it does: Offers AI‑driven audits of brand websites to measure readability and consumption readiness, and provides actionable recommendations to improve user comprehension.
+- Likely revenue model: Charges brands a subscription fee for access to the readability dashboard and optional consulting services.
+- India equivalent: none found
+- India fit note: Improving readability relies on disciplined content creation and editorial workflows, which many Indian firms lack; plus the multilingual web landscape may limit the impact of a single‑language readability tool.
+- Badge guess: black
+
