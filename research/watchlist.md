@@ -3625,3 +3625,8 @@
 | Apple MagSafe Wallet | mobile-accessories | black | 2026-11-26 | none found |
 | Edovia | remote-desktop | orange | 2026-11-26 | Zoho Assist |
 | BharatGen | document-ai | orange | 2026-11-26 | Docsumo |
+| Self-Host AI | devops | black | 2026-11-27 | none found |
+| EmojiPulse | hr-analytics | orange | 2026-11-27 | PeopleHum |
+| BlenderUI | data-visualization | orange | 2026-11-27 | FusionCharts |
+| Learning to Play Vim | developer-education | black | 2026-11-27 | none found |
+| Hala Mobility | ev-mobility | orange | 2026-11-27 | Bounce |
