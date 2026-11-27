@@ -3630,3 +3630,25 @@
 | BlenderUI | data-visualization | orange | 2026-11-27 | FusionCharts |
 | Learning to Play Vim | developer-education | black | 2026-11-27 | none found |
 | Hala Mobility | ev-mobility | orange | 2026-11-27 | Bounce |
+| Google Android DIY Widgets | widget-platform | black | 2026-11-27 | none found |
+| Keychron | gaming-peripherals | black | 2026-11-27 | none found |
+| Remove Silence | audio-editing | black | 2026-11-27 | none found |
+| RightFont | design-tools | black | 2026-11-27 | none found |
+| snibl | ai-assistant | black | 2026-11-27 | none found |
+| gpyou | gpu-marketplace | black | 2026-11-27 | none found |
+| Woomool | ai-creative | orange | 2026-11-27 | Designify |
+| Prosed | ai-publishing | black | 2026-11-27 | none found |
+| Slay | ai-photography | black | 2026-11-27 | none found |
+| Ploid | ai-agent | black | 2026-11-27 | none found |
+| Wizstar | ai-video | orange | 2026-11-27 | InVideo |
+| Spark AI | ai-permitting | black | 2026-11-27 | none found |
+| Form Action Store | no-code | orange | 2026-11-27 | Zoho Forms |
+| Depost AI | ai-marketing | black | 2026-11-27 | none found |
+| Espresso | web-editor | orange | 2026-11-27 | Zoho Sites |
+| Periscope | no-code | orange | 2026-11-27 | Zoho Flow |
+| Contral | ai-coding | black | 2026-11-27 | none found |
+| bouncemarket | prediction-market | black | 2026-11-27 | none found |
+| Construct | ai-agent | black | 2026-11-27 | none found |
+| Repair Café | circular-economy | orange | 2026-11-27 | Repair Café India |
+| M | ai-agent | orange | 2026-11-27 | Haptik |
+| Indē Wild | beauty | orange | 2026-11-27 | Kama Ayurveda |
