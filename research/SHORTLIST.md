@@ -1,7 +1,7 @@
 # Top 20 Shortlist
-_Generated 2026-11-26 10:14 UTC -- auto-updated after every deep-research pass._
+_Generated 2026-11-27 10:16 UTC -- auto-updated after every deep-research pass._
 
-Ranked by risk score (lower = more promising) out of 850 companies deep-researched so far, 3554 tracked total.
+Ranked by risk score (lower = more promising) out of 860 companies deep-researched so far, 3605 tracked total.
 
 ---
 
@@ -167,7 +167,25 @@ Ranked by risk score (lower = more promising) out of 850 companies deep-research
 
 ---
 
-## 10. Tweet.app -- LOW RISK (3/10)
+## 10. Solitaire Alone Together -- LOW RISK (2/10)
+
+**Category:** social-gaming  
+**Badge:** black  
+**Competitor status:** no-real-competitor-found  
+**Regulatory:** none  
+**Capital intensity:** low  
+**Known numbers:** $6MM in-app purchase revenue and 4.6M downloads (AppMagic, July 2026 release); Top Free 100 globally; ~500 concurrent players reported in the blog (Sep 2026).  
+**India cost estimate:** ₹8-15 lakh for an MVP (2-3 developers) and cloud/API costs for the first 6-12 months, with no paid marketing  
+
+**AI reasoning:** The search evidence reveals no direct competitors for Solitaire Alone Together in India (Search 1), a global user and revenue trajectory of $6MM IAP and 4.6M downloads since a July 2026 release (Search 3), and no sector-specific regulatory barriers for a casual skill-based game (regulatory_flag none). Capital intensity is low, requiring only a small developer team and minimal infrastructure (capital_intensity low). These factors combine to keep immediate risk low, though India-specific market adoption remains unproven.
+
+**Your notes:** _(none added yet -- click through from the dashboard to add your take)_
+
+[Full research file](companies/solitaire-alone-together/2026-09-22-research.md) -- [Add notes](companies/solitaire-alone-together/your-notes.md)
+
+---
+
+## 11. Tweet.app -- LOW RISK (3/10)
 
 **Category:** microblogging  
 **Badge:** black  
@@ -185,7 +203,7 @@ Ranked by risk score (lower = more promising) out of 850 companies deep-research
 
 ---
 
-## 11. Snitch -- LOW RISK (3/10)
+## 12. Snitch -- LOW RISK (3/10)
 
 **Category:** hr-tech  
 **Badge:** black  
@@ -203,7 +221,7 @@ Ranked by risk score (lower = more promising) out of 850 companies deep-research
 
 ---
 
-## 12. Sidebranch -- LOW RISK (3/10)
+## 13. Sidebranch -- LOW RISK (3/10)
 
 **Category:** dev-tools  
 **Badge:** black  
@@ -221,7 +239,7 @@ Ranked by risk score (lower = more promising) out of 850 companies deep-research
 
 ---
 
-## 13. cmmnts -- LOW RISK (3/10)
+## 14. cmmnts -- LOW RISK (3/10)
 
 **Category:** comment-platform  
 **Badge:** black  
@@ -239,7 +257,7 @@ Ranked by risk score (lower = more promising) out of 850 companies deep-research
 
 ---
 
-## 14. Grove -- LOW RISK (3/10)
+## 15. Grove -- LOW RISK (3/10)
 
 **Category:** developer-tools  
 **Badge:** black  
@@ -257,7 +275,7 @@ Ranked by risk score (lower = more promising) out of 850 companies deep-research
 
 ---
 
-## 15. Thaw -- LOW RISK (3/10)
+## 16. Thaw -- LOW RISK (3/10)
 
 **Category:** productivity  
 **Badge:** black  
@@ -275,7 +293,7 @@ Ranked by risk score (lower = more promising) out of 850 companies deep-research
 
 ---
 
-## 16. Roadie -- LOW RISK (3/10)
+## 17. Roadie -- LOW RISK (3/10)
 
 **Category:** audio-utility  
 **Badge:** black  
@@ -293,7 +311,7 @@ Ranked by risk score (lower = more promising) out of 850 companies deep-research
 
 ---
 
-## 17. BrickForgerAI -- LOW RISK (3/10)
+## 18. BrickForgerAI -- LOW RISK (3/10)
 
 **Category:** generative-ai  
 **Badge:** black  
@@ -311,7 +329,7 @@ Ranked by risk score (lower = more promising) out of 850 companies deep-research
 
 ---
 
-## 18. at8pm -- LOW RISK (3/10)
+## 19. at8pm -- LOW RISK (3/10)
 
 **Category:** journaling  
 **Badge:** black  
@@ -329,7 +347,7 @@ Ranked by risk score (lower = more promising) out of 850 companies deep-research
 
 ---
 
-## 19. Ponytail -- LOW RISK (3/10)
+## 20. Ponytail -- LOW RISK (3/10)
 
 **Category:** low-code  
 **Badge:** black  
@@ -344,23 +362,5 @@ Ranked by risk score (lower = more promising) out of 850 companies deep-research
 **Your notes:** _(none added yet -- click through from the dashboard to add your take)_
 
 [Full research file](companies/ponytail/2026-09-05-research.md) -- [Add notes](companies/ponytail/your-notes.md)
-
----
-
-## 20. Userlens -- LOW RISK (3/10)
-
-**Category:** ai-agent  
-**Badge:** black  
-**Competitor status:** no-real-competitor-found  
-**Regulatory:** moderate – Indian data‑localisation expectations under the Personal Data Protection Bill (and related rules for cross‑border data transfer) could require Indian‑hosted storage for any customer‑data processed by the agent.  
-**Capital intensity:** low – the model is software‑only, asset‑light and can be built with a small engineering and sales team; profitability can be reached without heavy upfront cash burn.  
-**Known numbers:** Userlens reports $307K ARR (≈₹2.5 cr) as of early 2026, 30 enterprise customers, ~300 customer‑success managers using the product weekly, and 76% weekly usage among those CSMs.  
-**India cost estimate:** ₹40‑55 lakh for a 6‑12 month pilot: cloud/API usage (~₹5‑10 lakh), a core team of 2‑4 engineers + product lead (~₹30‑40 lakh in salaries), and minimal legal/administrative overhead (~₹5 lakh).  
-
-**AI reasoning:** The market appears under‑served (no direct Indian competitor), regulatory exposure is limited to data‑localisation compliance, and the business is capital‑light, making the venture relatively low‑risk. The main uncertainty is adoption speed of AI‑agents in Indian enterprises, but the cost structure remains modest.
-
-**Your notes:** _(none added yet -- click through from the dashboard to add your take)_
-
-[Full research file](companies/userlens/2026-09-05-research.md) -- [Add notes](companies/userlens/your-notes.md)
 
 ---
