@@ -232,3 +232,48 @@
 - India fit note: The concept relies on widespread digital payment data integration, which is strong in India, but the behavioral shift toward voluntarily restricting purchases may be slower in a price‑sensitive market.
 - Badge guess: orange
 
+## SheScore
+- Source article: [This new sports app is designed specifically for women’s sports](https://techcrunch.com/2026/11/28/this-new-sports-app-is-designed-specifically-for-womens-sports/) (TechCrunch)
+- Category: sports-media
+- What it does: SheScore is a mobile app that aggregates news, scores, and video highlights for women's sports, letting fans follow leagues and teams without any real‑money gambling features.
+- Likely revenue model: It likely earns money through advertising, brand sponsorships and a premium ad‑free subscription tier.
+- India equivalent: none found
+- India fit note: The model relies on a growing fan base for women's sports and access to streaming rights, both of which are still limited in India; while mobile internet penetration is high, localized content and partnerships would be needed for traction.
+- Badge guess: black
+
+## Physics Breakthrough Simulator
+- Source article: [Physics Breakthrough Simulator](https://pages.ethanmdavidson.com/ai-physics-breakthrough) (Hacker News (front page))
+- Category: ai-physics
+- What it does: An AI‑driven platform that simulates complex physical systems and predicts experimental outcomes to accelerate scientific discovery.
+- Likely revenue model: Subscription‑based SaaS licensing for research institutions and corporate R&D teams, with tiered pricing for compute usage.
+- India equivalent: none found
+- India fit note: The product relies on cutting‑edge AI models and high‑performance cloud compute, which may be cost‑prohibitive for many Indian labs, and requires a research culture accustomed to AI‑first workflows.
+- Badge guess: black
+
+## Luciole Mono
+- Source article: [Show HN: Luciole Mono – terminal font designed for legibility](https://scriptor-pro.github.io/luciole-mono/) (Hacker News (front page))
+- Category: accessibility
+- What it does: A monospaced terminal font engineered for high legibility, targeting visually impaired users and anyone needing clearer code readability.
+- Likely revenue model: Likely offered as a free open‑source font with optional donations or paid licensing for commercial use.
+- India equivalent: none found
+- India fit note: The product relies only on software distribution and user adoption, which are feasible in India, but widespread use may be limited by low awareness of specialized accessibility fonts among developers.
+- Badge guess: black
+
+## Civet
+- Source article: [Civet: TypeScript superset that favors more types and less typing](https://github.com/DanielXMoore/Civet) (Hacker News (front page))
+- Category: dev-tools
+- What it does: Civet is a TypeScript superset that introduces richer type inference and utilities, letting developers write less boilerplate while retaining strong typing.
+- Likely revenue model: Probably an open‑source core with paid enterprise support, consulting, or premium IDE extensions.
+- India equivalent: none found
+- India fit note: Adoption depends on a mature JavaScript/TypeScript ecosystem and developers comfortable with advanced type systems, which are growing in India but still concentrated in larger tech hubs.
+- Badge guess: black
+
+## Moksh Voyage
+- Source article: [Last Rites, Booked in Advance: India’s New Funeral Business](https://inc42.com/buzz/last-rites-booked-in-advance-indias-new-funeral-business/) (Inc42)
+- Category: funeral-tech
+- What it does: An online platform that lets users pre‑book and customise end‑of‑life services, from funeral arrangements to last rites, allowing families to plan ahead and avoid last‑minute hassles.
+- Likely revenue model: Charges a service fee or commission on each funeral package booked, and may offer subscription‑based premium planning tools.
+- India equivalent: Moksh
+- India fit note: The model relies on digital adoption for sensitive services and a cultural shift toward pre‑planning death, which is still emerging in many Indian regions, especially rural areas where traditional rituals dominate.
+- Badge guess: orange
+

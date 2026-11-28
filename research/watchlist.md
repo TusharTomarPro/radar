@@ -3678,3 +3678,8 @@
 | Unkernel | wasm-os | black | 2026-11-28 | none found |
 | Klarna | bnpl | orange | 2026-11-28 | ZestMoney |
 | NoBuy | personal-finance | orange | 2026-11-28 | Walnut |
+| SheScore | sports-media | black | 2026-11-28 | none found |
+| Physics Breakthrough Simulator | ai-physics | black | 2026-11-28 | none found |
+| Luciole Mono | accessibility | black | 2026-11-28 | none found |
+| Civet | dev-tools | black | 2026-11-28 | none found |
+| Moksh Voyage | funeral-tech | orange | 2026-11-28 | Moksh |
