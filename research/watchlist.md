@@ -3659,3 +3659,22 @@
 | AT&T | retro-emulation | black | 2026-11-28 | none found |
 | Scrapheap | recycling marketplace | orange | 2026-11-28 | ScrapX |
 | DragDropMath | edtech | orange | 2026-11-28 | BYJU'S |
+| NOVA | devops | orange | 2026-11-28 | OpsMx |
+| Bento | dev-education | black | 2026-11-28 | none found |
+| Superrelay | customer-support | orange | 2026-11-28 | Freshdesk (Freshworks) |
+| RetainIQ | customer-retention | orange | 2026-11-28 | CleverTap |
+| RankTheSearch | social-commerce | black | 2026-11-28 | none found |
+| DearDarling | relationship-tech | black | 2026-11-28 | none found |
+| GutCheck | ai-assistant | black | 2026-11-28 | none found |
+| overads.io | ad-tech | orange | 2026-11-28 | AdPushup |
+| airoom | ai-agent | black | 2026-11-28 | none found |
+| GrayPass | security | orange | 2026-11-28 | Signzy |
+| Slopie | travel-tech | black | 2026-11-28 | none found |
+| Tano | language-learning | black | 2026-11-28 | none found |
+| Wender | note-taking | orange | 2026-11-28 | Zoho Notebook |
+| Tallhorn | ai-db | black | 2026-11-28 | none found |
+| Stacktrace | ai-agent | black | 2026-11-28 | none found |
+| OpenCrawl | ai-agent | black | 2026-11-28 | none found |
+| Unkernel | wasm-os | black | 2026-11-28 | none found |
+| Klarna | bnpl | orange | 2026-11-28 | ZestMoney |
+| NoBuy | personal-finance | orange | 2026-11-28 | Walnut |
