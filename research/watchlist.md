@@ -3652,3 +3652,10 @@
 | Repair Café | circular-economy | orange | 2026-11-27 | Repair Café India |
 | M | ai-agent | orange | 2026-11-27 | Haptik |
 | Indē Wild | beauty | orange | 2026-11-27 | Kama Ayurveda |
+| fofr.ai | ai-art | black | 2026-11-28 | none found |
+| Tabernetes | dev-tools | black | 2026-11-28 | none found |
+| 9/UX | desktop-environment | black | 2026-11-28 | none found |
+| SessionGraph | dev-tools | black | 2026-11-28 | none found |
+| AT&T | retro-emulation | black | 2026-11-28 | none found |
+| Scrapheap | recycling marketplace | orange | 2026-11-28 | ScrapX |
+| DragDropMath | edtech | orange | 2026-11-28 | BYJU'S |
